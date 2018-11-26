@@ -1,0 +1,29 @@
+absoluteurl: http://www.ici3d.org
+subdomainurl: http://www.ici3d.org/DAIDD
+baseurl: /DAIDD
+url: http://www.ici3d.org
+title: DAIDD 2018
+longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
+summary: The seventh annual DAIDD clinic  ~  December 16 - 22, 2018  ~  Stellenbosch, South Africa
+year: 2018
+markdown: kramdown
+highlighter: rouge
+includes_dir: ICI3D.github.io/_includes
+layouts_dir: ICI3D.github.io/_layouts
+data_dir: ICI3D.github.io/_data
+collections:
+  team:
+    output: true
+    permalink: /team/:name/
+defaults:
+  - scope:
+      path: ""
+      type: team
+    values:
+      layout: profile
+exclude:
+  - README.md
+  - run.sh
+  - aims.sh
+gems:
+  - jemoji
