@@ -18,7 +18,7 @@ alertmsg: >
 ### Sunday, 16 Dec
 - 12:00 Hotel check-in available for all participants
 - 16:00-16:30 Welcome and introductions
-- 16:30-16:45 What are we doing here? ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) - [Download roadmap](../roadmap/DAIDD2016roadmap.pdf), Slides to be added
+- 16:30-16:45 What are we doing here? ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) - [Download roadmap](../roadmap/DAIDD2016roadmap.pdf)
 - 16:45-17:30 What is Science: models and data (TBD)
 - 17:30-17:45 Working with the DAIDD 2017 Dropbox Folder ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
     - _Make sure your slides are uploaded for tomorrow's morning session!_
