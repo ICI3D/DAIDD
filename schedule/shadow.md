@@ -16,25 +16,24 @@ alertmsg: >
 
 
 ### Sunday, 16 Dec
-- 12:00 Hotel check-in available for all participants
+- 14:00 Check-in available for all participants
 - 16:00-16:30 Welcome and introductions
 - 16:30-16:45 What are we doing here? ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) - [Download roadmap](../roadmap/DAIDD2016roadmap.pdf)
-- 16:45-17:30 What is Science: models and data (TBD)
-- 17:30-17:45 Working with the DAIDD 2017 Dropbox Folder ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
+- 16:45-17:30 What is Science: models and data ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
+- 17:30-17:45 Working with the DAIDD 2018 Dropbox Folder ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
     - _Make sure your slides are uploaded for tomorrow's morning session!_
 - 17:45-18:30 Ice breakers ([Gavin Hitchcock]({{site.subdomainurl}}/team/hitchcock/) and [Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
-- 18:30 Dinner as a group
 
 ### Monday, 17 Dec
 - 8:40-10:30 Research pitches (Moderator: TBD)
 - 10:30-11:00 Morning break
 - 11:00 - 12:30 Simplification for generalization 1: Intuitive aspects of dynamics and introduction to model worlds ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) - Slides to be added
 - 12:30-2:00 Lunch
-- 2:00-2:15 Introduction to [Mont Fleur](http://www.whiteoakwildlife.org/wop)
+- 2:00-2:15 Introduction to [Mont Fleur](https://www.montfleur.co.za/)
 - 2:15-2:45 Overview of research plan development and structure ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
-- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) - [Step-by-step guide](../Materials/researchQuestions)
+- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Step-by-step guide](../Materials/researchQuestions)
 - 3:40-4:00 Afternoon break
-- 4:00-5:45 Dynamical Fever - computer exercise and discussion (TBD)
+- 4:00-5:45 Dynamical Fever - computer exercise and discussion ([Alex Welte]({{site.subdomainurl}}/team/welte/))
 - 5:45-6:00 Dynamical Fever - model description, modeling terminology and taxonomy ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) - [Download](../Materials/modelTaxonomy)
 - 6:00 Welcome reception
 
@@ -61,7 +60,7 @@ alertmsg: >
 - 11:00-11:30 Morning break
 - 11:30-12:30 Modeling in practice: The life cycle of a modeling project, from conception to publication ([John Hargrove]({{site.subdomainurl}}/team/hargrove))
 - 12:30-2:00 Lunch break
-- 2:00-3:45 Impact of contact patterns, consequences of heterogeneity, and modeling options (TBD) - [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks/), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
+- 2:00-3:45 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dusoff) - remote) - [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks/), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 - 3:45-4:15 Afternoon break
 - 4:15-5:15 Small-group session: matching models to questions (All [faculty]({{site.subdomainurl}}/team/)) - Group assignments to be added
 - 5:15-6:00 Work session
@@ -75,7 +74,7 @@ alertmsg: >
     - 10:30 **Group Photo**
 - 11:00-12:30 Group hike
 - 12:30-2:00 Lunch break
-- 2:00-3:30 Models and data: introduction to model fitting  (TBD) - [Slides](../Materials/Bellan-ModelsData-IntrotoModelFitting.pdf)
+- 2:00-3:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Slides](../Materials/Bellan-ModelsData-IntrotoModelFitting.pdf)
 - 3:30-4:00 Afternoon break
 - 4:00-5:00 Model fitting tutorial ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
 - 5:00-6:00 Writing exercise & mentored working session (All [faculty]({{site.subdomainurl}}/team/))
@@ -85,14 +84,14 @@ alertmsg: >
 
 - 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) ([John Hargrove]({{site.subdomainurl}}/team/hargrove))
 - 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000) - [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661)
-- 10:30-11:00 Morning break **Luggage must be packed up and either in Gilman hall, a private car, or left outside your bedroom door for White Oak to load into a shuttle by end of break**
-- 11:00-12:00 Model evaluation and comparison (TBD) - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
-- 12:00-12:30 Simplification for generalization 2: Models and the bigger picture ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
-- 12:30-2:00 Lunch break
-- 2:00-3:30 Mentored working session (All [faculty]({{site.subdomainurl}}/team/)) - Group assignments to be added
+- 10:30-11:00 Morning break
+- 11:00-12:30 Mentored working session (All [faculty]({{site.subdomainurl}}/team/)) - Group assignments to be added
     - _Be sure to submit your **written model description** and **final (digital) model diagram** before your one-on-one meeting_. (See [instructions](../Materials/instructions))
-- 4:00 Depart White Oak :cry:
-- 5:00-6:30 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
+- 12:30-2:00 Lunch break
+- 2:00-3:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dusoff) - remote) - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
+- 3:00-3:30 Simplification for generalization 2: Models and the bigger picture ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
+- 3:30-4:00 Afternoon break
+- 4:00-6:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 
 ### Saturday, 22 Dec
 
