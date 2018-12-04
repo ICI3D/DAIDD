@@ -3,7 +3,7 @@ layout: clinic
 alerttype: warning
 alertmsg: >
   <ul style="font-size:16px">
-    <li><b>This site is under development.</b> Please check back soon.</li>
+    <li><b>This site is under development and will be updated regularly between now and the Clinic.</b> Please check back soon for new updates.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
   </ul>
 ---

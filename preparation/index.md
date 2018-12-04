@@ -1,11 +1,11 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
 tab: Preparation
 subtitle: Instructions for preparation
 ---
 
-You should complete the following steps in preparation for the clinic before you arrive in Jacksonville.
+You should complete the following steps in preparation for the clinic before you arrive for the Clinic.
 
 ### 1. Research Pitch
 
@@ -21,10 +21,9 @@ You should complete the following steps in preparation for the clinic before you
 
 - Bring PDF versions of your slide and more detailed description with you on Sunday afternoon. We will have a session on Sunday evening where you are instructed on how to add these files to the DAIDD Participants Dropbox folder.
 
-
 ### 2. Pre-assigned reading
 
-All of the pre-assigned readings are available in the DAIDD 2017 Dropbox folder.
+All of the pre-assigned readings are available in the DAIDD 2018 Dropbox folder.
 
 #### Required reading
 
@@ -66,8 +65,7 @@ If you plan to bring a laptop to use during the Clinic, please install the follo
 {% highlight r %}
 
 install.packages('devtools') # if not already installed
-require(devtools)
-install_github('ICI3D/ici3d-pkg') # DO NOT DO THIS IF YOU HAVE AN R VERSION BELOW 3.2.5 (unless you update R first)
+devtools::install_github('ICI3D/ici3d-pkg') # DO NOT DO THIS IF YOU HAVE AN R VERSION BELOW 3.2.5 (unless you update R first)
 
 {% endhighlight %}
 </div>
@@ -77,7 +75,7 @@ install_github('ICI3D/ici3d-pkg') # DO NOT DO THIS IF YOU HAVE AN R VERSION BELO
 
 Please let us know if you have trouble installing any of the above software!
 
-> Please note that you will need to have administrative permissions on the laptop you bring to the Clinic.
+> Please note that you will need to have administrative permissions on the laptop you bring to the Clinic. You may need to arrange this through your IT department before departure if you are using an institutional laptop.
 
 ### 4. Introductory tutorials
 
