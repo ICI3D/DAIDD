@@ -57,16 +57,15 @@ alertmsg: >
 
 ### Wednesday, 19 Dec
 
-- 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) ([John Hargrove]({{site.subdomainurl}}/team/hargrove))
-- 9:00-11:00 Stochastic simulation models ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam)) - [Slides](https://www.dropbox.com/s/678dx9io8fqnxyg/Borchering_stochastic_simulation_DAIDD2016.pdf?dl=1) - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R)
-- 11:00-11:30 Morning break
-- 11:30-12:30 Use of models in study design for dynamic systems: Ebola vaccine trial design ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) - [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference:
-  [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
+- 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) - ([John Hargrove]({{site.subdomainurl}}/team/hargrove))
+- 9:00-10:30 Stochastic simulation models ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam)) - [Slides](https://www.dropbox.com/s/678dx9io8fqnxyg/Borchering_stochastic_simulation_DAIDD2016.pdf?dl=1) - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R)
+- 10:30-11:00 Morning break
+- 11:00-12:30 Small-group session: matching models to questions (All [faculty]({{site.subdomainurl}}/team/)) - Group assignments to be added
 - 12:30-2:00 Lunch break
 - 2:00-3:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dusoff) - remote) - [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks/), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 - 3:30-4:00 Afternoon break
-- 4:00-5:00 Small-group session: matching models to questions (All [faculty]({{site.subdomainurl}}/team/)) - Group assignments to be added
-- 5:00-6:00 Work session
+- 4:00-4:30 Work session
+- 4:30-6:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/)) - Groups (to be added)
 - 8:00-9:00 Mid-session feedback ([Gavin Hitchcock]({{site.subdomainurl}}/team/hitchcock/) and [Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
 
 ### Thursday, 20 Dec
@@ -74,11 +73,11 @@ alertmsg: >
 - 8:30-10:00 Group hike
 - 10:10-10:30 Regroup after feedback ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 10:30-11:00 Morning break
-- 11:00-12:30 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/)) - Groups (to be added)
+- 11:00-12:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Slides](../Materials/Bellan-ModelsData-IntrotoModelFitting.pdf)
 - 12:30-2:00 Lunch break
-- 2:00-3:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Slides](../Materials/Bellan-ModelsData-IntrotoModelFitting.pdf)
+- 2:00-3:30 Model fitting tutorial ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
 - 3:30-4:00 Afternoon break
-- 4:00-5:00 Model fitting tutorial ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
+- 4:00-5:00 Exercise: TBD
 - 5:00-6:00 Writing exercise & mentored working session (All [faculty]({{site.subdomainurl}}/team/))
 - 8:00-9:00 Social activity (Game night)
 
@@ -98,15 +97,14 @@ alertmsg: >
 
 ### Saturday, 22 Dec
 
-- 8:00-9:00 Breakfast
+- 8:00-8:50 Breakfast
     - _Be sure to submit your [**final research plan**](../Materials/researchPlans) by 9:00_
-- 9:00-9:45 Discussion of research plans/proposals (Moderator: John)
-- 9:45-10:00 Short break
-    - _Be sure to check out by 10:00_
-- 10:00-10:45 Discussion of research plans/proposals (Moderator: Cari)
-- 10:45-11:00 Short break
-    - ***ADD one-on-one meetings?????? We have until 14:00.***
-- 11:00-12:15 Final feedback session ([Gavin Hitchcock]({{site.subdomainurl}}/team/hitchcock/) and [Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
-- 12:15-12:30 Closing session ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
-- 12:30-13:30 Lunch
+- _Be sure to check out by 9:00_
+- 9:00-10:00 Use of models in study design for dynamic systems: Ebola vaccine trial design ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) - [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
+- 10:00-10:15 Short break
+- 10:15-11:30 Discussion of research plans/proposals (Moderator: John)
+- 11:30-11:45 Short break
+- 11:45-13:00 Final feedback session ([Gavin Hitchcock]({{site.subdomainurl}}/team/hitchcock/) and [Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
+- 13:00-13:15 Closing session ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
+- 13:15-14:00 Lunch
 - 14:00 Departure from Mont Fleur
