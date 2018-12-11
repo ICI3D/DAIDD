@@ -91,7 +91,7 @@ alertmsg: >
     - _Be sure to submit your **written model description** and **final (digital) model diagram** before your one-on-one meeting_. (See [instructions](../Materials/instructions))
 - 12:30-2:00 Lunch break
 - 2:00-3:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dusoff) - remote) - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
-- 3:00-3:30 Simplification for generalization 2: Models and the bigger picture - ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
+- 3:00-3:30 Model-based inference and the bigger picture - ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 3:30-4:00 Afternoon break
 - 4:00-6:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 

@@ -5,7 +5,7 @@ tab: Logistics
 subtitle: Logistical Information
 ---
 
-## White Oak
+## Mont Fleur
 - [Download driving directions](./drivingDirections)
 - [Download airport pick-up schedule](./pickupSchedule) - **To be added**
 - Breakfast is served from 7:30-8:30. Lunch is served from 12:30-13:30. Dinner is served from 19:00-20:00.

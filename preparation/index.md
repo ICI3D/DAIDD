@@ -56,6 +56,7 @@ If you plan to bring a laptop to use during the Clinic, please install the follo
 
 - R - a statistical programming language (download links for [Windows](http://cran.r-project.org/bin/windows/base/), [Linux](http://cran.r-project.org/bin/linux/), and [MacOS](http://cran.r-project.org/bin/macosx/))
 - R Studio - a user interface for R that will be needed for computer exercises ([download link](http://www.rstudio.com/products/rstudio/download/))
+- Dropbox - a cloud-based program for sharing and storing files ([install](https://www.dropbox.com/install))
 - ICI3D R package - a package containing interactive tutorials for use at the Clinic; to install, run the following lines of code from the R or Rstudio command line:
 
 <div class="row">
