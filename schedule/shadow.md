@@ -23,7 +23,7 @@ alertmsg: >
 - 16:45-17:30 What is Science: models and data ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 17:30-17:45 Working with the DAIDD 2018 Dropbox Folder ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
     - _Make sure your slides are uploaded for tomorrow's morning session!_
-- 17:45-18:30 Ice breakers ([Gavin Hitchcock]({{site.subdomainurl}}/team/hitchcock/) and [Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
+- 17:45-18:30 Ice breakers ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/) and [Gavin Hitchcock]({{site.subdomainurl}}/team/hitchcock/))
 
 ### Monday, 17 Dec
 
@@ -66,7 +66,7 @@ alertmsg: >
 - 3:30-4:00 Afternoon break
 - 4:00-4:30 Work session
 - 4:30-6:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/)) - Groups (to be added)
-- 8:00-9:00 Mid-session feedback ([Gavin Hitchcock]({{site.subdomainurl}}/team/hitchcock/) and [Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
+- 8:00-9:00 Mid-session feedback ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/) and [Gavin Hitchcock]({{site.subdomainurl}}/team/hitchcock/))
 
 ### Thursday, 20 Dec
 
@@ -77,7 +77,7 @@ alertmsg: >
 - 12:30-2:00 Lunch break
 - 2:00-3:30 Model fitting tutorial ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
 - 3:30-4:00 Afternoon break
-- 4:00-5:00 Exercise: TBD
+- 4:00-5:00 Exercise: Planning your approach
 - 5:00-6:00 Writing exercise & mentored working session (All [faculty]({{site.subdomainurl}}/team/))
 - 8:00-9:00 Social activity (Game night)
 
@@ -102,9 +102,9 @@ alertmsg: >
 - _Be sure to check out by 9:00_
 - 9:00-10:00 Use of models in study design for dynamic systems: Ebola vaccine trial design ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) - [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
 - 10:00-10:15 Short break
-- 10:15-11:30 Discussion of research plans/proposals (Moderator: John)
+- 10:15-11:30 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 11:30-11:45 Short break
-- 11:45-13:00 Final feedback session ([Gavin Hitchcock]({{site.subdomainurl}}/team/hitchcock/) and [Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
+- 11:45-13:00 Final feedback session ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/) and [Gavin Hitchcock]({{site.subdomainurl}}/team/hitchcock/))
 - 13:00-13:15 Closing session ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 13:15-14:00 Lunch
 - 14:00 Departure from Mont Fleur
