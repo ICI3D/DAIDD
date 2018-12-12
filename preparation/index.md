@@ -23,7 +23,7 @@ You should complete the following steps in preparation for the clinic before you
 
 ### 2. Pre-assigned reading
 
-All of the pre-assigned readings are available in the DAIDD 2018 Dropbox folder.
+All of the pre-assigned readings are available in the DAIDD 2018 Dropbox folder. **Please be sure to complete the [pre-clinic quiz](./readingQuiz) by 17:00 on 14 December.**
 
 #### Required reading
 
@@ -56,7 +56,7 @@ If you plan to bring a laptop to use during the Clinic, please install the follo
 
 - R - a statistical programming language (download links for [Windows](http://cran.r-project.org/bin/windows/base/), [Linux](http://cran.r-project.org/bin/linux/), and [MacOS](http://cran.r-project.org/bin/macosx/))
 - R Studio - a user interface for R that will be needed for computer exercises ([download link](http://www.rstudio.com/products/rstudio/download/))
-- Dropbox - a cloud-based program for sharing and storing files ([install](https://www.dropbox.com/install))
+- Dropbox - a cloud-based program for sharing and storing files ([download](https://www.dropbox.com/install))
 - ICI3D R package - a package containing interactive tutorials for use at the Clinic; to install, run the following lines of code from the R or Rstudio command line:
 
 <div class="row">
