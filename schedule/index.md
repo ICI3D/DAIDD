@@ -25,7 +25,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 16:00-16:30 Welcome and introductions
 - 16:30-16:45 What are we doing here? ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 16:45-17:30 What is Science: models and data ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
-- 17:30-17:45 Working with the DAIDD 2018 Dropbox Folder ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
+- 17:30-17:45 Working with the DAIDD Dropbox Folders ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
     - _Make sure your slides are uploaded for tomorrow's morning session!_
 - 17:45-18:30 Ice breakers ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/) and [Gavin Hitchcock]({{site.subdomainurl}}/team/hitchcock/))
 
@@ -33,7 +33,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 
 - 8:40-10:30 Research pitches (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 10:30-11:00 Morning break
-- 11:00 - 12:30 Simplification for generalization 1: Intuitive aspects of dynamics and introduction to model worlds ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
+- 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 12:30-2:00 Lunch
 - 2:00-2:15 Introduction to [Mont Fleur](https://www.montfleur.co.za/)
 - 2:15-2:45 Overview of research plan development and structure ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))

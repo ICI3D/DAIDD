@@ -7,10 +7,10 @@ subtitle: Faculty Schedule
 alerttype: danger
 alertmsg: >
   <ul>
-  <li>Please update all your presentations to <b>use the new ICI3D slide template</b>.</li>
-  <li><a href="https://github.com/ICI3D/DAIDD/edit/master/scheduleNotes">Click here for access to the DAIDD 2018 Notes GD.</a></li>
-  <li><a href="http://docs.google.com/document/d/1-mWDyOAVIrgIT59dJ4ShrM1rsh8Ik_2f6Pr0_O8FQ2I/edit?usp=sharing_eip&ts=5a2da462">Click here for access to the DAIDDD 2017 Notes GD.</a></li>
-  <li>Note that links on this page do not (necessarily) work!</li>
+    <li>Please update all your presentations to <b>use the ICI3D slide template</b>.</li>
+    <li><a href="https://github.com/ICI3D/DAIDD/edit/master/scheduleNotes">Click here for access to the DAIDD 2018 Notes GD.</a></li>
+    <li><a href="http://docs.google.com/document/d/1-mWDyOAVIrgIT59dJ4ShrM1rsh8Ik_2f6Pr0_O8FQ2I/edit?usp=sharing_eip&ts=5a2da462">Click here for access to the DAIDD 2017 Notes GD.</a></li>
+    <li>Note that links on this page do not (necessarily) work!</li>
   </ul>
 ---
 
@@ -19,30 +19,31 @@ alertmsg: >
 
 - 14:00 Check-in available for all participants
 - 16:00-16:30 Welcome and introductions
-- 16:30-16:45 What are we doing here? ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) - [Download roadmap](../roadmap/DAIDDroadmap.pdf)
+- 16:30-16:45 What are we doing here? ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 16:45-17:30 What is Science: models and data ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
-- 17:30-17:45 Working with the DAIDD 2018 Dropbox Folder ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
+- 17:30-17:45 Working with the DAIDD Dropbox Folders ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
     - _Make sure your slides are uploaded for tomorrow's morning session!_
 - 17:45-18:30 Ice breakers ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/) and [Gavin Hitchcock]({{site.subdomainurl}}/team/hitchcock/))
+    - **Prep for round-robin introductions.**
 
 ### Monday, 17 Dec
 
 - 8:40-10:30 Research pitches (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 10:30-11:00 Morning break
-- 11:00 - 12:30 Simplification for generalization 1: Intuitive aspects of dynamics and introduction to model worlds ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
+- 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 12:30-2:00 Lunch
 - 2:00-2:15 Introduction to [Mont Fleur](https://www.montfleur.co.za/)
 - 2:15-2:45 Overview of research plan development and structure ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Step-by-step guide](../Materials/researchQuestions)
 - 3:40-4:00 Afternoon break
 - 4:00-5:45 Dynamical Fever - computer exercise and discussion ([Alex Welte]({{site.subdomainurl}}/team/welte/))
-- 5:45-6:00 Dynamical Fever - model description, modeling terminology and taxonomy ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) - [Download](../Materials/modelTaxonomy)
+- 5:45-6:00 Dynamical Fever - model description, modeling terminology, and taxonomy ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) - [Download](../Materials/modelTaxonomy)
 - 6:00 Welcome reception
 
 ### Tuesday, 18 Dec
 
 - 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) ([Carl Pearson]({{site.subdomainurl}}/team/pearson))
-- 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove)) -[Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)
+- 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)
   - [Spreadsheet](http://tinyurl.com/SIR-DAIDD-2016); [Previous spreadsheet (includes spreadsheet Gillespie)](http://tinyurl.com/SIR-DAIDD-2015)
 - 10:30-11:00 Morning break
 - 11:00-11:45 Small group session: research questions for modeling projects ([All faculty]({{site.subdomainurl}}/team/)) - Group assignments to be added
@@ -73,7 +74,7 @@ alertmsg: >
 - 8:30-10:00 Group hike
 - 10:10-10:30 Regroup after feedback ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 10:30-11:00 Morning break
-- 11:00-12:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Slides](../Materials/Bellan-ModelsData-IntrotoModelFitting.pdf)
+- 11:00-12:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 12:30-2:00 Lunch break
 - 2:00-3:30 Model fitting tutorial ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
 - 3:30-4:00 Afternoon break
