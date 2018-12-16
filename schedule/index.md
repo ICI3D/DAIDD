@@ -32,6 +32,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 ### Monday, 17 Dec
 
 - 8:40-10:30 Research pitches (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
+    - [Order of introductions](./introductions)
 - 10:30-11:00 Morning break
 - 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 12:30-2:00 Lunch
