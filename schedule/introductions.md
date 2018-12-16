@@ -26,5 +26,5 @@ subtitle: Order of introductions
 - Sylvia
 - Teklay
 - Gavin (no pitch)
-- Masimba
+- Masimba (no pitch)
 - Kennedy
