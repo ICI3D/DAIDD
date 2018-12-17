@@ -36,11 +36,12 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 10:30-11:00 Morning break
 - 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 12:30-2:00 Lunch
-- 2:00-2:15 Introduction to [Mont Fleur](https://www.montfleur.co.za/)
+    - Introduction to [Mont Fleur](https://www.montfleur.co.za/)
+- 2:00-2:15 Intuitive aspects of dynamics and introduction to model worlds ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) - continued
 - 2:15-2:45 Overview of research plan development and structure ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 3:40-4:00 Afternoon break
-- 4:00-5:45 Dynamical Fever - computer exercise and discussion ([Alex Welte]({{site.subdomainurl}}/team/welte/))
+- 4:00-5:45 Dynamical Fever - computer exercise and discussion ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 5:45-6:00 Dynamical Fever - model description, modeling terminology and taxonomy ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 6:00 Welcome reception
 

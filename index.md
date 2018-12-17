@@ -3,7 +3,7 @@ layout: clinic
 alerttype: warning
 alertmsg: >
   <ul style="font-size:16px">
-    <li><b>View the order of introductions via <a href="./schedule/introductions">this link</a>.</b></li>
+    <li><b>View the updated schedule for Monday afternoon <a href="./schedule">here</a>.</b></li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
   </ul>
 ---
