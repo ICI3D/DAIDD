@@ -40,14 +40,14 @@ In this exercise, we ask participants to go through a series of steps designed t
 
 ### Step 6 (group)
 
--   Share (your version of) your partner's research question with the group. Describe any dependent processes or nonlinearities that you identified.
+-   Share (your version of) your partner's research question with your partner.
 
 ### Step 7 (individual)
 
--   Make any further adjustments to your research question that seem appropriate after hearing your partner's interpretation of your research. You can adopt their language if you feel they have done a particularly good job of wording your question so it can be understood by those outside your field of study.
--   Post the revised version of your research question on the **DAIDD2017participants** dropbox, by following the instructions:
+-   Make any further adjustments to your research question that seem appropriate after hearing your partner's interpretation of your research question. You can adopt their language if you feel they have done a particularly good job of wording your question so it can be understood by those outside your field of study.
+-   Post the revised version of your research question on the **DAIDD2018participants** dropbox, by following the instructions:
     - write your research question and convert the document to PDF
-    - name your file using the filename convention 'yourName.question.pdf'
+    - name your file using the filename convention 'Name_Surname.pdf'
     - make sure you're signed in using your Dropbox username and password
-    - navigate to the 'researchQuestions' folder
+    - navigate to the '03_researchQuestions' folder
     - copy the PDF file with your research question to the Dropbox folder
