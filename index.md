@@ -3,7 +3,14 @@ layout: clinic
 alerttype: warning
 alertmsg: >
   <ul style="font-size:16px">
-    <li><b>View the updated schedule for Monday afternoon <a href="./schedule">here</a>.</b></li>
+    <li><b>Groups for Tuesday morning:</b></li>
+    <ul>
+        <li> <b>Alex</b>: Ntsieni, Sylvia, Teklay</li>
+        <li> <b>Carl</b>: David, Eric, Katie, Grace</li>
+        <li> <b>Cari</b>: Emily, Peninah, Daniel</li>
+        <li> <b>John</b>: Isaac, Mercy, Andrew</li>
+        <li> <b>Juliet</b>: Evelyn, Fathuwani, Kennedy</li>
+    </ul>
     <li>Post the final version of your research question (after the small group meeting on Tuesday morning) on the <b>DAIDD2018participants</b> dropbox <b>by 16:00 on Tuesday</b>:</li>
     <ul>
         <li> write your research question and convert the document to PDF</li>

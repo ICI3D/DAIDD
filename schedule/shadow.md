@@ -38,7 +38,7 @@ alertmsg: >
 - 2:15-2:45 Overview of research plan development and structure ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Step-by-step guide](../Materials/researchQuestions)
 - 3:40-4:00 Afternoon break
-- 4:00-5:45 Dynamical Fever - computer exercise and discussion ([Alex Welte]({{site.subdomainurl}}/team/welte/))
+- 4:00-5:45 Dynamical Fever - computer exercise and discussion ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 5:45-6:00 Dynamical Fever - model description, modeling terminology, and taxonomy ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) - [Download](../Materials/modelTaxonomy)
 - 6:00 Welcome reception
 
