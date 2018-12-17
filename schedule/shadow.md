@@ -8,7 +8,8 @@ alerttype: danger
 alertmsg: >
   <ul>
     <li>Please update all your presentations to <b>use the ICI3D slide template</b>.</li>
-    <li><a href="https://github.com/ICI3D/DAIDD/edit/master/scheduleNotes">Click here for access to the DAIDD 2018 Notes GD.</a></li>
+    <li><a href="https://docs.google.com/document/d/1cCrzyuOYelbtxDKRT3fuwcKQImse3KLSJ3cR_yNTkng">Click here for access to the DAIDD 2018 Notes GD.</a></li>
+    <li><a href="https://docs.google.com/spreadsheets/d/1CgDkbZYDk0aTc6bjAHu1FYDjS5YRCV-GMuoneP-Qs6M">Click here for access to the DAIDD 2018 Participants' Progress Notes.</a></li>
     <li><a href="http://docs.google.com/document/d/1-mWDyOAVIrgIT59dJ4ShrM1rsh8Ik_2f6Pr0_O8FQ2I/edit?usp=sharing_eip&ts=5a2da462">Click here for access to the DAIDD 2017 Notes GD.</a></li>
     <li>Note that links on this page do not (necessarily) work!</li>
   </ul>
