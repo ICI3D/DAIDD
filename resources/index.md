@@ -8,7 +8,7 @@ subtitle: Resources for during and after the Clinic
 - Learning terminology
     - [DAIDD Glossary](./DAIDD_Glossary.pdf)
     - [MMED Glossary](http://lalashan.mcmaster.ca/theobio/mmed/index.php/Category:Definitions)
-    - [Modeling concepts](./modellingConcepts)
+    - [Modelling concepts](./modellingConcepts)
 - Learning R
     - [ICI3D tutorials](http://www.ici3d.org/MMED/tutorials/)
     - [Project Mosaic](http://mosaic-web.org/r-packages/)
@@ -20,3 +20,5 @@ subtitle: Resources for during and after the Clinic
     - [The 100% CI](http://www.the100.ci/) (blog)
     - [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/) (blog)
     - [FiveThirtyEight](https://fivethirtyeight.com/) (website)
+- Miscellaneous code
+    - [Code](../tutorials/dynamicalFever) for the model underlying the Dynamical Fever exercise.
