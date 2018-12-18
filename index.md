@@ -3,6 +3,12 @@ layout: clinic
 alerttype: warning
 alertmsg: >
   <ul style="font-size:16px">
+    <li><b>Links for Tuesday morning tutorial:</b></li>
+    <ul>
+      <li> <a href="https://docs.google.com/spreadsheets/d/15bdsik9N6gcS5w1lB97joRqgo4Cnz349rTBzSpbSiDk/edit?usp=sharing">SIR model</a></li>
+      <li> <a href="https://docs.google.com/spreadsheets/d/1i7HprnvV1TNppItJ4TKIZFFS4nvo0tFNXsIxW9UlcIs/edit?usp=sharing">SIRS</a></li>
+      <li> <a href="https://docs.google.com/spreadsheets/d/1HPBPZR9ZTqegnPcIZCLGu4KyW_HjbY2Pq48cp6l5H4E/edit?usp=sharing">SIRS+</a></li>
+    </ul>
     <li><b>Groups for Tuesday morning:</b></li>
     <ul>
         <li> <b>Alex</b>: Ntsieni, Sylvia, Teklay</li>
