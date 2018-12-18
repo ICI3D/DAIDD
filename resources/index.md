@@ -15,6 +15,10 @@ subtitle: Resources for during and after the Clinic
     - [R Studio Cheat Sheets](http://www.rstudio.com/resources/cheatsheets)
     - [R for Data Science](http://r4ds.had.co.nz/)
     - [R Studio Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+- Further reading
+    - _An introduction to infectious disease modelling_ by E Vynnycky and RG White - [link](http://www.anintroductiontoinfectiousdiseasemodelling.com/)
+    - _Modeling Infectious Diseases in Humans and Animals_ by MJ Keeling and P Rohani - [preview](https://books.google.co.za/books/about/Modeling_Infectious_Diseases_in_Humans_a.html)
+    - _Epidemics: models and data using R_ by O Bjornstad - [preview](https://books.google.co.za/books/about/Epidemics.html)
 - More fun things
     - [xkcd](https://www.xkcd.com/) (comic)
     - [The 100% CI](http://www.the100.ci/) (blog)
