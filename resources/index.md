@@ -20,5 +20,9 @@ subtitle: Resources for during and after the Clinic
     - [The 100% CI](http://www.the100.ci/) (blog)
     - [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/) (blog)
     - [FiveThirtyEight](https://fivethirtyeight.com/) (website)
-- Miscellaneous code
-    - [Code](../tutorials/dynamicalFever) for the model underlying the Dynamical Fever exercise.
+- Models used during the week
+    - [Code](http://www.ici3d.org/MMED/tutorials/dynamicalFever) for the model underlying the Dynamical Fever exercise.
+    - Tuesday morning spreadsheet tutorials
+        - [SIR model](https://docs.google.com/spreadsheets/d/15bdsik9N6gcS5w1lB97joRqgo4Cnz349rTBzSpbSiDk/edit?usp=sharing)
+        - [SIRS model](https://docs.google.com/spreadsheets/d/1i7HprnvV1TNppItJ4TKIZFFS4nvo0tFNXsIxW9UlcIs/edit?usp=sharing)
+        - [SIRS plus](https://docs.google.com/spreadsheets/d/1HPBPZR9ZTqegnPcIZCLGu4KyW_HjbY2Pq48cp6l5H4E/edit?usp=sharing)
