@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: clinic
 redirect: ../development
 tab: Schedule
 subtitle: Creating a Model World
@@ -7,8 +7,8 @@ subtitle: Creating a Model World
 
 In this exercise, participants go through a series of steps designed to help them develop a simplified conceptual model of their study system that will help them clarify and address their research question.
 
--   **Example Model Diagram** -  [PDF](./exampleModelDiagram.pdf), [PPTX](https://www.dropbox.com/s/m30om65rhov6prh/exampleModelDiagram.pptx?dl=1)
--   [Download slides with steps](./CreatingAModelWorld_DAIDD2016.pdf "Creating a Model World")
+-   **Example Model Diagram** -  [PDF](./exampleModelDiagram.pdf), [PPTX](https://www.dropbox.com/s/drfffwpood0xr0w/exampleModelDiagram.pptx?dl=1)
+-   [Download slides with steps](https://www.dropbox.com/s/4xdxezsbl1a93hv/DAIDD_CreatingAModelWorld.pdf?dl=1 "Creating a Model World")
 - Another example for practice
     - **Research Question:** Can Eastern red fox populations maintain rabies virus transmission?
     - [Model Diagram](./practice.Diagram.pdf)
@@ -38,6 +38,6 @@ Reconcile your process and characteristic lists by identifying how the most impo
 
 -   Construct a diagram that represents all of the individual characteristics and processes of interest.
     -   For your own purposes, you can use whatever graphical conventions work best for how you think about the system.
--   Hand draw or print a clean, clearly labeled version of your model diagram and bring it with you to tomorrow afternoon's session.
+-   Hand draw or print a clean, clearly labeled version of your model diagram and bring it with you to tomorrow morning's session.
     -   The physical (paper) version of your diagram, which you should bring with you on Thursday morning, should use arrows to represent the *transitions* from one category or state to another, and these transition arrows should be labeled with descriptions of what variables or other factors will influence the rate at which the transition occurs.
     -   If you use any letters or symbols in your diagram (chances are you will!), include a key that clearly state what each symbol/letter/abbreviation means.

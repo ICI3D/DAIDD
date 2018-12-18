@@ -3,14 +3,7 @@ layout: clinic
 alerttype: warning
 alertmsg: >
   <ul style="font-size:16px">
-    <li>Post the final version of your research question on the <b>DAIDD2018participants</b> dropbox <b>by 16:00 on Tuesday</b>:</li>
-    <ul>
-      <li> write your research question and convert the document to PDF</li>
-      <li> make sure you're signed in using your Dropbox username and password</li>
-      <li> navigate to the '03_researchQuestions' folder</li>
-      <li> copy the PDF file with your research question to the Dropbox folder</li>
-      <li> make sure the filename uses the convention 'Name_Surname.pdf'</li>
-    </ul>    
+    <li>Instructions and resources for <b>creating a model world</b> are available <a href="./Materials/modelWorld">here</a>. Draft model diagrams are <b>due at 11:00 on Wednesday</b>.</li>
     <li><b>Groups for Wednesday morning:</b></li>
     <ul>
         <li> <b>Carl</b>: Ntsieni, Sylvia, Teklay</li>
