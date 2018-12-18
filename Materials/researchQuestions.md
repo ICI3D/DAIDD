@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: clinic
 redirect: ../development
 tab: Schedule
+title: Research Questions
 subtitle: Formulating Research Questions for Modeling Projects
 ---
 

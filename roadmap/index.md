@@ -2,6 +2,7 @@
 layout: clinic
 redirect: ../development
 tab: Roadmap
+title: Roadmap
 subtitle: DAIDD 2018 Road Map
 ---
 

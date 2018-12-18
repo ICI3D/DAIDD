@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: clinic
+tab: Resources
+title: Example
 subtitle: Example Model Description
 ---
 

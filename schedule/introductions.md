@@ -2,6 +2,7 @@
 layout: clinic
 redirect: ../development
 tab: Schedule
+title: Introductions
 subtitle: Order of introductions
 ---
 

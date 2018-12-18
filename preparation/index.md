@@ -2,6 +2,7 @@
 layout: clinic
 redirect: ../development
 tab: Preparation
+title: Preparation
 subtitle: Instructions for preparation
 ---
 

@@ -1,9 +1,8 @@
 ---
-layout: page
-title: DAIDD 2016
+layout: clinic
+tab: Resources
+title: Research Plans
 subtitle: Research Plan Instructions
-longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
-summary: The fifth annual DAIDD clinic  ~  December 4-10, 2016  ~  Jacksonville and Yulee, Florida
 ---
 
 ## DAIDD Research Plan Outline

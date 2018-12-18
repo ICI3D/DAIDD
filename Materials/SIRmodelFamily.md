@@ -1,13 +1,11 @@
 ---
-layout: page
-title: DAIDD 2016
+layout: clinic
+title: DAIDD 2018
 tab: Schedule
 subtitle: SIR Model Family Exercise
-longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
-summary: The fifth annual DAIDD clinic  ~  December 4-10, 2016  ~  Jacksonville and Yulee, Florida
 ---
 
-- Download a version of the spreadsheet [using this link](http://tinyurl.com/SIR-DAIDD-2017)
+- Download a version of the spreadsheet [using this link](http://tinyurl.com/SIR-DAIDD-2018)
     - Save a copy (so you have your own version)
     - Experiment with parameters
     - What happens when R0<1 and there are several initial infections? Is this equivalent to having an R0>1? Why or why not?

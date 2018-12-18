@@ -2,6 +2,7 @@
 layout: clinic
 redirect: ../development
 tab: Schedule
+title: Model Worlds
 subtitle: Creating a Model World
 ---
 
