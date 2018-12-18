@@ -14,6 +14,10 @@ alertmsg: >
         <li> <b>John</b>: Evelyn, Fathuwani, Kennedy</li>
     </ul>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
+    <ul>
+        <li>Video: <a href="https://ndownloader.figshare.com/files/8731693">Creating a Model World</a></li>
+        <li>Video: <a href="https://ndownloader.figshare.com/files/8730145">live coding session to implement the model world</a></li>
+    </ul>
   </ul>
 ---
 
