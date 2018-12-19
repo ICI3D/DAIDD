@@ -68,7 +68,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 10:30-11:00 Morning break
 - 11:00-12:30 Small-group session: matching models to questions (All [faculty]({{site.subdomainurl}}/team/))
 - 12:30-2:00 Lunch break
-- 2:00-3:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dusoff))
+- 2:00-3:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff))
 - 3:30-4:00 Afternoon break
 - 4:00-4:30 Work session
 - 4:30-6:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/))
@@ -76,7 +76,8 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 
 ### Thursday, 20 Dec
 
-- 8:30-10:00 Group hike
+- 8:00-9:30 Group hike
+- 9:30-10:00 Shower / swim
 - 10:10-10:30 Regroup after feedback ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 10:30-11:00 Morning break
 - 11:00-12:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))

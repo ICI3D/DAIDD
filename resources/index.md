@@ -31,3 +31,7 @@ subtitle: Resources for during and after the Clinic
         - [SIR model](https://docs.google.com/spreadsheets/d/15bdsik9N6gcS5w1lB97joRqgo4Cnz349rTBzSpbSiDk/edit?usp=sharing)
         - [SIRS model](https://docs.google.com/spreadsheets/d/1i7HprnvV1TNppItJ4TKIZFFS4nvo0tFNXsIxW9UlcIs/edit?usp=sharing)
         - [SIRS plus](https://docs.google.com/spreadsheets/d/1HPBPZR9ZTqegnPcIZCLGu4KyW_HjbY2Pq48cp6l5H4E/edit?usp=sharing)
+    - Example code for simple stochastic models:
+        - [Code](https://www.dropbox.com/s/s1cu3hg1fp7rptx/SimpleStochastic.zip?dl=1) for comparing ODE, difference equation (discrete time), and Gillespie approaches to modelling a simple model with a single process (death).
+        - [Code](../Materials/spillover_introductions.R) for Becky's stochastic introductions model of rabies spillover.
+        - Also see the ICI3D R tutorials (linked above) for additional examples of stochastic simulation models, including the [Gillespie algorithm](http://www.ici3d.org/MMED/tutorials/gillespie) and [chain binomial models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Example_chainBinom.R).
