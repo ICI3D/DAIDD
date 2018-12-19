@@ -3,6 +3,7 @@ layout: clinic
 alerttype: warning
 alertmsg: >
   <ul style="font-size:16px">
+    <li>Code for Wednesday morning can be downloaded <a href="./Materials/spillover_introductions.R">here</a>.</li>
     <li>Instructions and resources for <b>creating a model world</b> are available <a href="./Materials/modelWorld">here</a>. Draft model diagrams are <b>due at 11:00 on Wednesday</b>.</li>
     <li>If you are unfamiliar with or rusty on your understanding of the <a href="http://en.wikipedia.org/wiki/Binomial_distribution">Binomial Distribution</a>, we strongly recommend that you work through the <a href="https://github.com/ICI3D/RTutorials/blob/master/binomialDistribution.R?raw=true">introductory Binomial Distribution tutorial</a>.</li>
     <li><b>Groups for Wednesday morning:</b></li>
