@@ -80,12 +80,13 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 9:30-10:00 Shower / swim
 - 10:10-10:30 Regroup after feedback ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 10:30-11:00 Morning break
-- 11:00-12:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
+- 11:00-12:30 Models and data: introduction to model fitting ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 12:30-2:00 Lunch break
 - 2:00-3:30 Model fitting tutorial ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 3:30-4:00 Afternoon break
 - 4:00-5:00 Exercise: Planning your approach
 - 5:00-6:00 Writing exercise & mentored working session (All [faculty]({{site.subdomainurl}}/team/))
+- 6:00-7:00 Exercise: Simulation for validation ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - **optional**
 - 8:00-9:00 Social activity (Game night)
 
 ### Friday, 21 Dec
