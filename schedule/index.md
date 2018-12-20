@@ -84,8 +84,9 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 12:30-2:00 Lunch break
 - 2:00-3:30 Model fitting tutorial ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 3:30-4:00 Afternoon break
-- 4:00-5:00 Exercise: Planning your approach
-- 5:00-6:00 Writing exercise & mentored working session (All [faculty]({{site.subdomainurl}}/team/))
+- 4:00-5:30 Exercise: Planning your approach
+    - 30 minutes working individually; 30 minutes in your usual groups
+- 5:30-6:00 Small-group mentored working session (All [faculty]({{site.subdomainurl}}/team/))
 - 6:00-7:00 Exercise: Simulation for validation ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - **optional**
 - 8:00-9:00 Social activity (Game night)
 
@@ -96,7 +97,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 10:30-11:00 Morning break
     - 10:30 **Group Photo**
 - 11:00-12:30 Mentored working session (All [faculty]({{site.subdomainurl}}/team/))
-    - _Be sure to submit your **written model description** and **final (digital) model diagram** before your one-on-one meeting_. (See [instructions](../Materials/instructions))
+    - _Be sure to submit your **written model description**, including the placement on the model taxonomy (with justification), and **final (digital) model diagram** before your one-on-one meeting_. (See [instructions](../Materials/researchPlans))
 - 12:30-2:00 Lunch break
 - 2:00-3:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dusoff) - remote)
 - 3:00-3:30 Model-based inference and the bigger picture - ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
