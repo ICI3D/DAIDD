@@ -92,17 +92,19 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 
 ### Friday, 21 Dec
 
-- 8:40-9:00 Faculty research presentations ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam))
-- 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
-- 10:30-11:00 Morning break
-    - 10:30 **Group Photo**
+- 8:40-10:10 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
+    - 10:10 **Group Photo**
+- 10:20-10:40 Faculty research presentations ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam))
+- 10:40-11:00 Morning break
 - 11:00-12:30 Mentored working session (All [faculty]({{site.subdomainurl}}/team/))
-    - _Be sure to submit your **written model description**, including the placement on the model taxonomy (with justification), and **final (digital) model diagram** before your one-on-one meeting_. (See [instructions](../Materials/researchPlans))
 - 12:30-2:00 Lunch break
+    - 13:00 **Mentored working session (continued)**
 - 2:00-3:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dusoff) - remote)
 - 3:00-3:30 Model-based inference and the bigger picture - ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 3:30-4:00 Afternoon break
-- 4:00-6:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
+- 4:00-6:00 Writing exercise - complete your Research Plan and your presentation slide (final research question and diagram)
+    - _Full research plans are due by 9:00 on Saturday_ (see [instructions](../Materials/researchPlans)).
+
 
 ### Saturday, 22 Dec
 
