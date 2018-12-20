@@ -3,15 +3,6 @@ layout: clinic
 alerttype: warning
 alertmsg: >
   <ul style="font-size:16px">
-    <li>Group assignments for Wednesday afternoon session:</li>
-    <ul>
-        <li>Ntsieni, Andrew, Fhatuwani</li>
-        <li>David, Sylvia, Evelyn</li>
-        <li>Emily, Teklay, Eric</li>
-        <li>Katie, Daniel, Mercy</li>
-        <li>Isaac, Grace, Peninah, Kennedy</li>
-    </ul>
-    <li>Instructions and resources for <b>creating a model world</b> are available <a href="./Materials/modelWorld">here</a>. <b>Final model diagrams are due at 16:30 on Wednesday, and should be uploaded to the <em>04_modelDiagram</em> folder on Dropbox</b> using the DAIDD file naming convention (Name_Surname.pdf).</li>
     <li>Instructions for your <b>final research plans</b> are available <a href="./Materials/researchPlans">here</a>.  Final research plans and slides are <b>due at 9:00 on Saturday, and should be uploaded to the appropriate folders on Dropbox</b> using the DAIDD file naming convention (Name_Surname.pdf).</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
     <ul>
