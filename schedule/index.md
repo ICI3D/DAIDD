@@ -20,7 +20,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 </div>
 
 
-### Sunday, 16 Dec
+### Sunday, 15 Dec
 
 - 14:00 Check-in available for all participants
 - 16:00-16:30 Welcome and introductions
@@ -30,7 +30,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
     - _Make sure your slides are uploaded for tomorrow's morning session!_
 - 17:45-18:30 Ice breakers ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/) and [Gavin Hitchcock]({{site.subdomainurl}}/team/hitchcock/))
 
-### Monday, 17 Dec
+### Monday, 16 Dec
 
 - 8:40-10:30 Research pitches (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
     - [Order of introductions](./introductions)
@@ -46,7 +46,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 5:45-6:00 Dynamical Fever - model description, modeling terminology and taxonomy ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 6:00 Welcome reception
 
-### Tuesday, 18 Dec
+### Tuesday, 17 Dec
 
 - 8:40-9:00 Faculty research presentations - ([Carl Pearson]({{site.subdomainurl}}/team/pearson))
 - 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove))
@@ -61,20 +61,20 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 4:30-6:00 Exercise: Creating a model world to address a research question ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 8:00-9:00 Working session
 
-### Wednesday, 19 Dec
+### Wednesday, 18 Dec
 
 - 8:40-9:00 Faculty research presentations - ([John Hargrove]({{site.subdomainurl}}/team/hargrove))
 - 9:00-10:30 Stochastic simulation models ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam))
 - 10:30-11:00 Morning break
 - 11:00-12:30 Small-group session: matching models to questions (All [faculty]({{site.subdomainurl}}/team/))
 - 12:30-2:00 Lunch break
-- 2:00-3:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff))
+- 2:00-3:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee))
 - 3:30-4:00 Afternoon break
 - 4:00-4:30 Work session
 - 4:30-6:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/))
 - 8:00-9:00 Mid-session feedback ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/) and [Gavin Hitchcock]({{site.subdomainurl}}/team/hitchcock/))
 
-### Thursday, 20 Dec
+### Thursday, 19 Dec
 
 - 8:00-9:30 Group hike
 - 9:30-10:00 Shower / swim
@@ -90,7 +90,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 6:00-7:00 Exercise: Simulation for validation ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - **optional**
 - 8:00-9:00 Social activity (Game night)
 
-### Friday, 21 Dec
+### Friday, 20 Dec
 
 - 8:40-10:10 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
     - 10:10 **Group Photo**
@@ -99,14 +99,14 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 11:00-12:30 Mentored working session (All [faculty]({{site.subdomainurl}}/team/))
 - 12:30-2:00 Lunch break
     - 13:00 **Mentored working session (continued)**
-- 2:00-3:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dusoff) - remote)
+- 2:00-3:00 Model evaluation and comparison ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee))
 - 3:00-3:30 Model-based inference and the bigger picture - ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 3:30-4:00 Afternoon break
 - 4:00-6:00 Writing exercise - complete your Research Plan and your presentation slide (final research question and diagram)
     - _Full research plans are due by 9:00 on Saturday_ (see [instructions](../Materials/researchPlans)).
 
 
-### Saturday, 22 Dec
+### Saturday, 21 Dec
 
 - 8:00-8:50 Breakfast
     - _Be sure to submit your [**final research plan**](../Materials/researchPlans) by 9:00_

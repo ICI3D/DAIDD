@@ -14,7 +14,7 @@ subtitle: Logistical Information
 ## Arrival
 
 - Reservations have been made for all participants at the [Mont Fleur Conference Centre](https://www.montfleur.co.za). Ground transportation has been arranged from Cape Town International Airport to Stellenbosch.
-- The first official session will be held at 16:00 on Sunday 16 December.
+- The first official session will be held at 16:00 on Sunday 15 December.
 
 ## Ground rules
 
