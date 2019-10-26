@@ -1,15 +1,11 @@
 ---
 layout: clinic
-alerttype: warning
+alerttype: success
 alertmsg: >
   <ul style="font-size:16px">
-    <li><b>Please note that there have been some modifications to the <a href="./schedule">schedule for Friday morning</a>.</b></li>
-    <li>Instructions for your <b>final research plans</b> are available <a href="./Materials/researchPlans">here</a>.  Final research plans and slides are <b>due at 9:00 on Saturday, and should be uploaded to the appropriate folders on Dropbox</b> using the DAIDD file naming convention (Name_Surname.pdf).</li>
+    <li>Welcome to DAIDD 2019!</li>
+    <li>Information will be added to this site as the Clinic approaches.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
-    <ul>
-        <li>Video: <a href="https://ndownloader.figshare.com/files/8731693">Creating a Model World</a></li>
-        <li>Video: <a href="https://ndownloader.figshare.com/files/8730145">live coding session to implement the model world</a></li>
-    </ul>
   </ul>
 ---
 
