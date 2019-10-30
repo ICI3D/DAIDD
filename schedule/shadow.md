@@ -9,7 +9,6 @@ alertmsg: >
   <ul>
     <li>Please update all your presentations to <b>use the ICI3D slide template</b>.</li>
     <li><a href="https://docs.google.com/document/d/1cCrzyuOYelbtxDKRT3fuwcKQImse3KLSJ3cR_yNTkng">Click here for access to the DAIDD 2018 Notes GD.</a></li>
-    <li><a href="https://docs.google.com/spreadsheets/d/1CgDkbZYDk0aTc6bjAHu1FYDjS5YRCV-GMuoneP-Qs6M">Click here for access to the DAIDD 2018 Participants' Progress Notes.</a></li>
     <li><a href="http://docs.google.com/document/d/1-mWDyOAVIrgIT59dJ4ShrM1rsh8Ik_2f6Pr0_O8FQ2I/edit?usp=sharing_eip&ts=5a2da462">Click here for access to the DAIDD 2017 Notes GD.</a></li>
     <li>Note that links on this page do not (necessarily) work!</li>
   </ul>
@@ -24,7 +23,7 @@ alertmsg: >
 - 16:45-17:30 What is Science: models and data ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 17:30-17:45 Working with the DAIDD Dropbox Folders and RStudio ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
     - _Make sure your slides are uploaded for tomorrow's morning session!_
-- 17:45-18:30 Ice breakers ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/)
+- 17:45-18:30 Ice breakers ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
     - **Prep for round-robin introductions.**
 
 ### Monday
@@ -45,7 +44,7 @@ alertmsg: >
 
 ### Tuesday
 
-- 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) ([Alex Welte]({{site.subdomainurl}}/team/welte)) or TBD
+- 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) ([Alex Welte]({{site.subdomainurl}}/team/welte) or [Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee))
 - 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)
   - [Spreadsheet](http://tinyurl.com/SIR-DAIDD-2016); [Previous spreadsheet (includes spreadsheet Gillespie)](http://tinyurl.com/SIR-DAIDD-2015)
 - 10:30-11:00 Morning break
@@ -70,7 +69,7 @@ alertmsg: >
 - 3:30-4:00 Afternoon break
 - 4:00-4:30 Work session
 - 4:30-6:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/)) - Groups (to be added)
-- 8:00-9:00 Mid-session feedback ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/)
+- 8:00-9:00 Mid-session feedback ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
 
 ### Thursday
 
