@@ -66,7 +66,7 @@ alertmsg: >
 - 10:30-11:00 Morning break
 - 11:00-12:30 Small-group session: matching models to questions (All [faculty]({{site.subdomainurl}}/team/)) - Group assignments to be added
 - 12:30-2:00 Lunch break
-- 2:00-3:30 Impact of contact patterns, consequences of heterogeneity, and modeling options (TBD) - [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks/), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
+- 2:00-3:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee)) - [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks/), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 - 3:30-4:00 Afternoon break
 - 4:00-4:30 Work session
 - 4:30-6:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/)) - Groups (to be added)
@@ -94,7 +94,7 @@ alertmsg: >
 - 11:00-12:30 Mentored working session (All [faculty]({{site.subdomainurl}}/team/)) - Group assignments to be added
     - _Be sure to submit your **written model description** and **final (digital) model diagram** before your one-on-one meeting_. (See [instructions](../Materials/instructions))
 - 12:30-2:00 Lunch break
-- 2:00-3:00 Model evaluation and comparison ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee)) - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
+- 2:00-3:00 Model evaluation and comparison (John or ??) - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
 - 3:00-3:30 Model-based inference and the bigger picture - ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 3:30-4:00 Afternoon break
 - 4:00-6:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
