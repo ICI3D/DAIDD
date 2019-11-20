@@ -1,6 +1,7 @@
 ---
 layout: clinic
 redirect: http://www.ici3d.org/DAIDD/schedule
+thispage: http://www.ici3d.org/DAIDD/schedule/shadow
 title: Shadow
 tab: Schedule
 subtitle: Faculty Schedule
@@ -19,7 +20,8 @@ alertmsg: >
 
 - 14:00 Check-in available for all participants
 - 16:00-16:30 Welcome and registration ☺
-- 16:30-17:30 What science are we doing here? (HARGROVE/??))
+- 16:30-17:30 What science are we doing here? (Hargrove/??))
+	* DISCUSS: this is meant to combine two sessions and should have two people (and maybe be broken again). What resources do we have?
 - 17:30-17:45 Working with the DAIDD Dropbox Folders and RStudio (DUSHOFF? DISCUSS goals)
     - _Make sure your slides are uploaded for tomorrow's morning session!_
 - 17:45-18:30 Ice breakers ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
@@ -32,28 +34,32 @@ alertmsg: >
 - 10:30-11:00 Morning break
 - 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds (Welte)
     - 10-minute stretch break at around 11:40
-- 12:30-2:00 Lunch
+- 12:30-2:00 Lunch break
+
 - 2:00-2:15 Introduction to [Mont Fleur](https://www.montfleur.co.za/)
 - 2:15-2:45 Overview of research plan development and structure (Dushoff)
 - 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Step-by-step guide](../Materials/researchQuestions)
 - 3:40-4:00 Afternoon break
+
 - 4:00-5:30 Dynamical Fever - computer exercise and discussion ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
 - 5:30-6:00 Dynamical Fever - model description, modeling terminology, and the DAIDD glossary (Dushoff) - [Download](../Materials/modelTaxonomy)
 - 6:00 Welcome reception
 
 ### Tuesday
 
-- 8:45-9:00 Monday recap (Hargrove)
-- 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) ([Alex Welte]({{site.subdomainurl}}/team/welte))
+- 8:45-9:00 Monday recap (Kassanjee)
 - 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)
   - [Spreadsheet](http://tinyurl.com/SIR-DAIDD-2016); [Previous spreadsheet (includes spreadsheet Gillespie)](http://tinyurl.com/SIR-DAIDD-2015)
 - 10:30-11:00 Morning break
+
 - 11:00-11:45 Small group session: research questions for modeling projects ([All faculty]({{site.subdomainurl}}/team/)) - Group assignments to be added
 - 11:45-12:30 Simple individual-based models (Dushoff)
 - 12:30-2:00 Lunch break
+
 - 2:00-3:00 Simple individual-based models (continued) (Dushoff)
 - 3:00-4:00 Modeling in practice: The life cycle of a modeling project, from conception to publication ([John Hargrove]({{site.subdomainurl}}/team/hargrove))
 - 4:00-4:30 Afternoon break
+
     - _Make sure your research question is in the researchQuestions folder on Dropbox before the next session!_
 - 4:30-6:00 Exercise: Creating a model world to address a research question (Welte) - [Step-by-step guide](../Materials/modelWorld)
 - 8:00-9:00 Working session
@@ -64,10 +70,13 @@ alertmsg: >
 - 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) (Hargrove)
 - 9:00-10:30 Stochastic simulation models (Kassanjee) - [Slides](https://www.dropbox.com/s/678dx9io8fqnxyg/Borchering_stochastic_simulation_DAIDD2016.pdf?dl=1) - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R)
 - 10:30-11:00 Morning break
+
 - 11:00-12:30 Small-group session: matching models to questions (All [faculty]({{site.subdomainurl}}/team/)) - Group assignments to be added
 - 12:30-2:00 Lunch break
+
 - 2:00-3:30 Impact of contact patterns, consequences of heterogeneity, and modeling options (Dushoff) - [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks/), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 - 3:30-4:00 Afternoon break
+
 - 4:00-4:30 Work session
 - 4:30-6:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/)) - Groups (to be added)
 - 8:00-9:00 Mid-session feedback ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
@@ -78,33 +87,38 @@ alertmsg: >
 - 10:00-10:20 Regroup after feedback (Hargrove)
 - 10:20-10:30 Wednesday recap ([Alex Welte]({{site.subdomainurl}}/team/welte))
 - 10:30-11:00 Morning break
+
 - 11:00-12:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 12:30-2:00 Lunch break
+
 - 2:00-3:30 Model fitting tutorial ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
 	* (Tutorial wrapup by Dushoff)
 - 3:30-4:00 Afternoon break
+
 - 4:00-5:00 Exercise: Planning your approach
 - 5:00-6:00 Writing exercise & mentored working session (All [faculty]({{site.subdomainurl}}/team/))
 - 8:00-9:00 Social activity (Game night)
 
 ### Friday
 
-- 8:45-9:00 Thursday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
-- 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) - ([John Hargrove]({{site.subdomainurl}}/team/hargrove))
+- 8:45-9:00 Thursday recap (Hargrove)
 - 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000) - [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661)
-
 - 10:30-11:00 Morning break
     - 10:30 **Group Photo**
+
 - 11:00-12:30 Mentored working session (All [faculty]({{site.subdomainurl}}/team/)) - Group assignments to be added
     - _Be sure to submit your **written model description** and **final (digital) model diagram** before your one-on-one meeting_. (See [instructions](../Materials/instructions))
 - 12:30-2:00 Lunch break
+
 - 2:00-3:00 Model evaluation and comparison ((Dushoff)) - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
 - 3:00-3:30 Model-based inference and the bigger picture - (Hargrove)
 - 3:30-4:00 Afternoon break
+
 - 4:00-6:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 
 ### Saturday
 
+DISCUSS: final plan and checkout at same time is not ideal.
 - 8:00-8:50 Breakfast
     - _Be sure to submit your [**final research plan**](../Materials/researchPlans) by 9:00_
 - _Be sure to check out by 9:00_
@@ -119,3 +133,4 @@ alertmsg: >
 - 13:00-13:15 Closing session (Hargrove)
 - 13:15-14:00 Lunch
 - 14:00 Departure from Mont Fleur ☹
+
