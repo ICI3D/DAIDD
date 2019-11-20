@@ -12,7 +12,7 @@ current: target
 vim_session:
 	bash -cl "vmt"
 
-serve:
+cerve:
 	./run.sh
 
 ######################################################################
