@@ -1,5 +1,8 @@
 ## This is daiddweb (pages branch of DAIDD)
 
+## http://localhost:4000/
+## http://localhost:4000/schedule/shadow
+
 current: target
 -include target.mk
 
@@ -12,8 +15,14 @@ current: target
 vim_session:
 	bash -cl "vmt"
 
-cerve:
-	./run.sh
+ICI3D.github.io/_config.yml:
+	git submodule update -i
+cerve: ICI3D.github.io/_config.yml
+	./run.sh &
+
+Sources += _config.yml _localconfig.yml
+
+Sources += schedule/shadow.md
 
 ######################################################################
 
