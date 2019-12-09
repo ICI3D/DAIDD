@@ -26,7 +26,7 @@ cerve: ICI3D.github.io/_config.yml
 
 Sources += _config.yml _localconfig.yml
 
-Sources += $(wildcard */index.md */shadow.md)
+Sources += $(wildcard */shadow.md)
 
 ######################################################################
 
