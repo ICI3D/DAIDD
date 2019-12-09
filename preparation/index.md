@@ -24,7 +24,7 @@ You should complete the following steps in preparation for the clinic before you
 
 ### 2. Pre-assigned reading
 
-All of the pre-assigned readings are available in the DAIDD 2018 Dropbox folder. **Please be sure to complete the [pre-clinic quiz](./readingQuiz) by 17:00 on 14 December.**
+All of the pre-assigned readings are available in the DAIDD 2019 Dropbox folder. **Please be sure to complete the [pre-clinic quiz](./readingQuiz) by 17:00 on 14 December.**
 
 #### Required reading
 
@@ -83,3 +83,4 @@ Please let us know if you have trouble installing any of the above software!
 
 - When you have successfully installed both R and R Studio, please work through the [R Studio Introductory Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/introRstudio.R) to familiarize yourself with the user interface prior to the Clinic.
 - If you are unfamiliar with or rusty on your understanding of the [Binomial Distribution](http://en.wikipedia.org/wiki/Binomial_distribution), you may also want to work through the [introductory Binomial Distribution tutorial](https://github.com/ICI3D/RTutorials/blob/master/binomialDistribution.R?raw=true). You will be glad you did!
+- **Note:** You do not need to be a proficient R programmer in order to get the most out of DAIDD. Completing the above introductory materials should be sufficient. If you would like to learn more about programming in R, we have included some helpful resources on [this page](../resources), but we recommend you wait until after the Clinic to develop these skills further.
