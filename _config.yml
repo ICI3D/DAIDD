@@ -26,4 +26,3 @@ exclude:
   - run.sh
   - aims.sh
 plugins:
-  - jemoji
