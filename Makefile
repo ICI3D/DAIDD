@@ -3,8 +3,9 @@
 ## make cerve ##
 ## http://localhost:4000/
 ## http://localhost:4000/schedule/shadow
-## http://localhost:4000/schedule/shadow
-## http://www.ici3d.org/DAIDD/preparation/shadow
+
+## http://www.ici3d.org/DAIDD/
+## http://www.ici3d.org/DAIDD/schedule/2018.html
 
 current: target
 -include target.mk

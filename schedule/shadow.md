@@ -15,7 +15,6 @@ alertmsg: >
   </ul>
 ---
 
-
 ### Sunday
 
 - 14:00 Check-in available for all participants
@@ -118,10 +117,9 @@ alertmsg: >
 
 ### Saturday
 
-DISCUSS: final plan and checkout at same time is not ideal.
+- _Be sure to submit your [**final research plan**](../Materials/researchPlans) before Breakfast
 - 8:00-8:50 Breakfast
-    - _Be sure to submit your [**final research plan**](../Materials/researchPlans) by 9:00_
-- _Be sure to check out by 9:00_
+- _Be sure to check out by 8:45_
 - 8:50-9:00 Friday recap ([John Hargrove]({{site.subdomainurl}}/team/hargrove))
 - 9:00-10:00 Use of models in study design for dynamic systems: Ebola vaccine trial design (Dushoff) - [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
 - 10:00-10:15 Short break
