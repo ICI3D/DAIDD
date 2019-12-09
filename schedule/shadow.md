@@ -19,9 +19,9 @@ alertmsg: >
 
 - 14:00 Check-in available for all participants
 - 16:00-16:30 Welcome and registration ☺
-- 16:30-17:30 What science are we doing here? (Hargrove/??))
-	* DISCUSS: this is meant to combine two sessions and should have two people (and maybe be broken again). What resources do we have?
-- 17:30-17:45 Working with the DAIDD Dropbox Folders and RStudio (DUSHOFF? DISCUSS goals)
+- 16:30-17:00 What are we doing here? ((Hargrove))
+- 17:00-17:30 What are we doing here? ((Dushoff))
+- 17:30-17:45 Working with the DAIDD Dropbox Folders and RStudio
     - _Make sure your slides are uploaded for tomorrow's morning session!_
 - 17:45-18:30 Ice breakers ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
     - **Prep for round-robin introductions.**
