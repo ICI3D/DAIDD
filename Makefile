@@ -15,6 +15,7 @@ current: target
 vim_session:
 	bash -cl "vmt"
 
+alldirs += ICI3D.github.io
 ICI3D.github.io/_config.yml:
 	git submodule update -i
 cerve: ICI3D.github.io/_config.yml
