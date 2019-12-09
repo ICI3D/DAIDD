@@ -3,6 +3,8 @@
 ## make cerve ##
 ## http://localhost:4000/
 ## http://localhost:4000/schedule/shadow
+## http://localhost:4000/schedule/shadow
+## http://www.ici3d.org/DAIDD/preparation/shadow
 
 current: target
 -include target.mk
@@ -24,7 +26,7 @@ cerve: ICI3D.github.io/_config.yml
 
 Sources += _config.yml _localconfig.yml
 
-Sources += schedule/shadow.md
+Sources += $(wildcard */index.md */shadow.md)
 
 ######################################################################
 
