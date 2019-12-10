@@ -1,0 +1,16 @@
+---
+layout: clinic
+redirect: ../development
+tab: Schedule
+title: Schedule
+subtitle: Clinic Schedule
+alerttype: warning
+alertmsg: Unless otherwise noted, all materials made available through this website and the DAIDD Dropbox are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>. <a rel="license" href="../license.html">Click here for license details</a>.
+---
+
+__The schedule below is preliminary and subject to change__ Materials linked from this page are also subject to change and should not be considered final until the conclusion of the relevant session.
+
+* Slides are being made available via the DAIDD Dropbox Folder. They will also be added to the [ICI3D Figshare Collection](https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data).</li>
+
+* Most tutorials and exercises are available through the ICI3D R package. Additional materials are linked from the [Resources](../resources) page.
+

@@ -35,8 +35,13 @@ Sources += $(wildcard */shadow.md)
 
 -include makestuff/perl.def
 
-schedule/index.md: schedule/index.top schedule/shadow.md
-	$(cat)
+Sources += $(wildcard schedule/index.*) schedule/shadow.md
+Sources += $(wildcard *.pl)
+schedule/index.md: schedule/index.top shadow.pl schedule/shadow.md
+	$(rm)
+	$(CAT) $< > $@
+	perl -wf shadow.pl schedule/shadow.md >> $@
+	$(chmod)
 
 ######################################################################
 
