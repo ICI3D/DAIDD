@@ -59,7 +59,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 ### Tuesday
 
 - 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
-- 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ((vanschalkwyk/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove/))
  
 - 10:30-11:00 Morning break
 
@@ -121,7 +121,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
     - _Be sure to submit your **written model description** and **final (digital) model diagram** before your one-on-one meeting_. (See [instructions](../Materials/instructions))
 - 12:30-2:00 Lunch break
 
-- 2:00-3:00 Model evaluation and comparison (([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)))
+- 2:00-3:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 3:00-3:30 Model-based inference and the bigger picture - ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 3:30-4:00 Afternoon break
 
