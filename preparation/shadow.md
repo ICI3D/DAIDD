@@ -56,7 +56,7 @@ All of the pre-assigned readings are available in the DAIDD 2019 Dropbox folder.
 If you plan to bring a laptop to use during the Clinic, please install the following programs prior to the opening session:
 
 - R - a statistical programming language (download links for [Windows](http://cran.r-project.org/bin/windows/base/), [Linux](http://cran.r-project.org/bin/linux/), and [MacOS](http://cran.r-project.org/bin/macosx/))
-	* If you already have R, please check that you have a recent version, or else update. Versions starting with 3.5 or 3.6 should be OKr.
+	* If you already have R, please check that you have a recent version, or else update. Versions starting with 3.5 or 3.6 should be OK.
 - R Studio - a user interface for R that will be needed for computer exercises ([download link](http://www.rstudio.com/products/rstudio/download/))
 - Dropbox - a cloud-based program for sharing and storing files ([download](https://www.dropbox.com/install))
 - ICI3D R package - a package containing interactive tutorials for use at the Clinic; to install, run the following lines of code from the R or Rstudio command line:
