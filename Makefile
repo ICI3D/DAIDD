@@ -44,6 +44,8 @@ schedule/index.md: schedule/index.top shadow.pl schedule/shadow.md
 	perl -wf shadow.pl schedule/shadow.md >> $@
 	$(chmod)
 
+Sources += $(wildcard preparation/*.md)
+
 ######################################################################
 
 ### Makestuff

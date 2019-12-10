@@ -24,7 +24,7 @@ You should complete the following steps in preparation for the clinic before you
 
 ### 2. Pre-assigned reading
 
-All of the pre-assigned readings are available in the DAIDD 2019 Dropbox folder. **Please be sure to complete the [pre-clinic quiz](./readingQuiz) by 17:00 on 14 December.**
+All of the pre-assigned readings are available in the DAIDD 2019 Dropbox folder. **Please make sure you have access to this folder**
 
 #### Required reading
 
