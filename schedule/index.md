@@ -10,7 +10,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 
 __The schedule below is preliminary and subject to change__ Materials linked from this page are also subject to change and should not be considered final until the conclusion of the relevant session.
 
-* Slides are being made available via the DAIDD Dropbox Folder. They will also be added to the [ICI3D Figshare Collection](https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data).</li>
+* Slides are being made available via the DAIDD Dropbox Folder. They will also be added to the [ICI3D Figshare Collection](https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data).
 
 * Most tutorials and exercises are available through the ICI3D R package. Additional materials are linked from the [Resources](../resources) page.
 

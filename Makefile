@@ -5,6 +5,7 @@
 ## http://localhost:4000/schedule/shadow
 
 ## http://www.ici3d.org/DAIDD/
+## http://www.ici3d.org/DAIDD/schedule/
 ## http://www.ici3d.org/DAIDD/schedule/2018.html
 
 current: target
