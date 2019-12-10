@@ -31,6 +31,15 @@ Sources += $(wildcard */shadow.md)
 
 ######################################################################
 
+## This stuff should all be structured better, and probably be in the parent repo
+
+-include makestuff/perl.def
+
+schedule/index.md: schedule/index.top schedule/shadow.md
+	$(cat)
+
+######################################################################
+
 ### Makestuff
 
 Sources += Makefile
