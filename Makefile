@@ -38,13 +38,15 @@ Sources += $(wildcard */shadow.md)
 
 Sources += $(wildcard schedule/index.*) schedule/shadow.md
 Sources += $(wildcard *.pl)
-schedule/index.md: schedule/index.top shadow.pl schedule/shadow.md
+schedule/index.md: schedule/index.top schedule/shadow.md shadow.pl
 	$(rm)
 	$(CAT) $< > $@
 	perl -wf shadow.pl schedule/shadow.md >> $@
 	$(chmod)
 
+## git rm preparation/shadow.md ##
 Sources += $(wildcard preparation/*.md)
+
 
 ######################################################################
 

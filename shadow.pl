@@ -11,6 +11,7 @@ while(<>){
 	next if /SHADOW/;
 	chomp;
 	s/[|].*//;
+	s/HIDE.*//;
 	s|\(paradza\)|[Masimba Paradza]($linktext/paradza/)|;
 	s|\(hargrove\)|[John Hargrove]($linktext/hargrove/)|;
 	s|\(dushoff\)|[Jonathan Dushoff]($linktext/dushoff/)|;
