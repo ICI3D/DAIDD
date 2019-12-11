@@ -44,19 +44,8 @@ alertmsg: >
 
 - 4:00-5:30 Dynamical Fever - computer exercise and discussion ((kassanjee) and (hargrove))HIDE  - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)
  HIDE  - [Spreadsheet](http://tinyurl.com/SIR-DAIDD-2016); [Previous spreadsheet (includes spreadsheet Gillespie)](http://tinyurl.com/SIR-DAIDD-2015)
-- 10:30-11:00 Morning break
-
-- 11:00-11:45 Small group session: research questions for modeling projects (All faculty)HIDE  - Group assignments to be added
-- 11:45-12:30 Simple individual-based models ((dushoff))
-- 12:30-2:00 Lunch break
-
-- 2:00-3:00 Simple individual-based models (continued) ((dushoff))
-- 3:00-4:00 Modeling in practice: The life cycle of a modeling project, from conception to publication ((hargrove))
-- 4:00-4:30 Afternoon break
-
-    - _Make sure your research question is in the researchQuestions folder on Dropbox before the next session!_
-- 4:30-6:00 Exercise: Creating a model world to address a research question ((welte))HIDE  - [Step-by-step guide](../Materials/modelWorld)
-- 8:00-9:00 Working session
+- 5:30-6:00 Dynamical Fever - model description, modeling terminology, and the DAIDD glossary ((dushoff)) - HIDE [Download](../Materials/modelTaxonomy)
+- 6:00 Welcome reception
 
 ### Tuesday
 
@@ -131,7 +120,7 @@ alertmsg: >
 
 ### Saturday
 
-- _Be sure to submit your [**final research plan**](../Materials/researchPlans) before Breakfast
+- _Be sure to submit your [**final research plan**](../Materials/researchPlans) before Breakfast_
 - 8:00-8:50 Breakfast
 - _Be sure to check out by 8:45_
 - 8:50-9:00 Friday recap ((hargrove))
