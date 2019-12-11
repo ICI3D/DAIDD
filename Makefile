@@ -36,7 +36,7 @@ Sources += $(wildcard */shadow.md)
 
 -include makestuff/perl.def
 
-Sources += $(wildcard schedule/index.*) schedule/shadow.md
+Sources += $(wildcard schedule/index.* schedule/*.md)
 Sources += $(wildcard *.pl)
 schedule/index.md: schedule/index.top schedule/shadow.md shadow.pl
 	$(rm)
