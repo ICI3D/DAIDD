@@ -29,10 +29,8 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 ### Monday
 
 - 8:30-10:30 Research pitches (Moderator: [John Hargrove]({{site.subdomainurl}}/team/hargrove/))
-    - [Order of introductions](./introductions)
 - 10:30-11:00 Morning break
 - 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds ([Alex Welte]({{site.subdomainurl}}/team/welte/))
-    - 10-minute stretch break at around 11:40
 - 12:30-2:00 Lunch break
 
 - 2:00-2:15 Introduction to [Mont Fleur](https://www.montfleur.co.za)
