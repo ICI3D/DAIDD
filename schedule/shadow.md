@@ -55,7 +55,7 @@ alertmsg: >
 - 10:30-11:00 Morning break
 
 - 11:00-11:45 Small group session: research questions for modeling projects (All faculty)HIDE  - Group assignments to be added
-- 11:45-12:30 Simple individual-based models (dushoff)
+- 11:45-12:30 Simple individual-based models ((dushoff))
 - 12:30-2:00 Lunch break
 
 - 2:00-3:00 Simple individual-based models (continued)

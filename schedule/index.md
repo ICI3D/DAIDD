@@ -53,7 +53,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 10:30-11:00 Morning break
 
 - 11:00-11:45 Small group session: research questions for modeling projects (All faculty)
-- 11:45-12:30 Simple individual-based models [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)
+- 11:45-12:30 Simple individual-based models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 12:30-2:00 Lunch break
 
 - 2:00-3:00 Simple individual-based models (continued)
