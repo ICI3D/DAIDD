@@ -22,11 +22,7 @@ subtitle: Order of introductions
 
 * Marsha
 
-* Masimba
-
 * Olatunji
-
-* Rafiq
 
 * Rebecca
 
