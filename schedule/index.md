@@ -24,7 +24,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 17:30-17:45 Working with the DAIDD Dropbox Folders and RStudio
     - _Make sure your slides are uploaded for tomorrow's morning session!_
 - 17:45-18:30 Ice breakers ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
-    - **Prep for round-robin introductions.**
+    - **Prep for [round-robin introductions](./introductions).**
 
 ### Monday
 

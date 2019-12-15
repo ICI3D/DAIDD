@@ -18,7 +18,7 @@ current: target
 # Content
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt schedule/shadow.md"
 
 alldirs += ICI3D.github.io
 ICI3D.github.io/_config.yml:
