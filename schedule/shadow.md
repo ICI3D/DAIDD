@@ -70,6 +70,7 @@ alertmsg: >
 
 - 8:30-8:40 Tuesday recap ((vanschalkwyk))
 - 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) (Hargrove)
+
 - 9:00-10:30 Stochastic simulation models ((kassanjee))HIDE  - [Slides](https://www.dropbox.com/s/678dx9io8fqnxyg/Borchering_stochastic_simulation_DAIDD2016.pdf?dl=1)HIDE  - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R)
 - 10:30-11:00 Morning break
 
