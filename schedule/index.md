@@ -19,8 +19,8 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 
 - 14:00 Check-in available for all participants
 - 16:00-16:30 Welcome and registration ☺
-- 16:30-17:00 What are we doing here? ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
-- 17:00-17:30 Data, models and science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 16:30-17:00 What are we doing here? ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Slide folder](https://tinyurl.com/daidd-2019)
+- 17:00-17:30 Data, models and science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - [Lecture notes](https://github.com/dushoff/disease_dynamics/blob/master/git_push/data.handouts.pdf)
 - 17:30-17:45 Working with the DAIDD Dropbox Folders and RStudio
     - _Make sure your slides are uploaded for tomorrow's morning session!_
 - 17:45-18:30 Ice breakers ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
@@ -65,7 +65,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 ### Wednesday
 
 - 8:30-8:40 Tuesday recap ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
-- 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) (Hargrove)
+- 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 
 - 9:00-10:30 Stochastic simulation models ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
 - 10:30-11:00 Morning break

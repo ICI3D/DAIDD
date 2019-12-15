@@ -21,8 +21,8 @@ alertmsg: >
 
 - 14:00 Check-in available for all participants
 - 16:00-16:30 Welcome and registration ☺
-- 16:30-17:00 What are we doing here? ((hargrove))
-- 17:00-17:30 Data, models and science ((dushoff))
+- 16:30-17:00 What are we doing here? ((hargrove)) - [Slide folder](https://tinyurl.com/daidd-2019)
+- 17:00-17:30 Data, models and science ((dushoff)) - [Lecture notes](https://github.com/dushoff/disease_dynamics/blob/master/git_push/data.handouts.pdf)
 - 17:30-17:45 Working with the DAIDD Dropbox Folders and RStudio
     - _Make sure your slides are uploaded for tomorrow's morning session!_
 - 17:45-18:30 Ice breakers ((paradza))
@@ -69,7 +69,7 @@ alertmsg: >
 ### Wednesday
 
 - 8:30-8:40 Tuesday recap ((vanschalkwyk))
-- 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) (Hargrove)
+- 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) ((hargrove))
 
 - 9:00-10:30 Stochastic simulation models ((kassanjee))HIDE  - [Slides](https://www.dropbox.com/s/678dx9io8fqnxyg/Borchering_stochastic_simulation_DAIDD2016.pdf?dl=1)HIDE  - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R)
 - 10:30-11:00 Morning break
