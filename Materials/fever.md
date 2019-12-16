@@ -10,8 +10,10 @@ subtitle: Dynamical Fever Model Description
 It's an implementation of a very simple model world
 
 * One infection is introduced from outside at the beginning of the year
+* Humans do not transmit
 * Dogs transmit equally to dogs and to humans
 	* … with the _minimum_ amount of stochasticity consistent with the fact that individuals are individuals
+	* everyone mixes equally
 * Surveillance is perfect
 * Recovered dogs and humans are immune for several months
 	* We assume that they lose immunity after the end of the epidemic and before next year's
