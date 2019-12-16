@@ -31,6 +31,7 @@ Your model description should fully describe your model world, including all pro
 
 ## Posting instructions
 
-**Post your research plan as a PDF by 9am on Saturday morning.**
+**Post your research plan as a PDF Friday night.**
+* In the Will Rogers sense
 
 Thank you!
