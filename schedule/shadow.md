@@ -41,8 +41,7 @@ alertmsg: >
 - SHADOW 2:00-2:15 Introduction to [Mont Fleur](https://www.montfleur.co.za)
 	* SHADOW was moved unexpectedly this year; be in touch with them, some of the staff want to greet us and then go home
 - 2:15-2:45 [Overview of research plan development and structure](planOverview) ((dushoff)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
-- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ((vanschalkwyk)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
-- 11:00-11:45 Small group session: research questions for modeling projects (All faculty) #RP HIDE  - Group assignments to be added
+- 2:45-3:40 Small group session: research questions for modeling projects (All faculty) #RP HIDE  - Group assignments to be added
 	* SHADOW HIDE - [Step-by-step guide](../Materials/researchQuestions)
 - 3:40-4:00 Afternoon break
 
