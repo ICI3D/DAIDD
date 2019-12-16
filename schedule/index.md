@@ -35,15 +35,17 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 12:30-2:00 Lunch break
 
 - 2:00-2:15 Introduction to [Mont Fleur](https://www.montfleur.co.za)
-- 2:15-2:45 [Overview of research plan development and structure](plans) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 2:15-2:45 [Overview of research plan development and structure](planOverview) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) #RP - 
 	- [Slide folder](https://tinyurl.com/daidd-2019)
-- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
+- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP 
 - 3:40-4:00 Afternoon break
 
 - 4:00-5:30 Dynamical Fever - computer exercise and discussion ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove/))
  
 - 5:30-6:00 Dynamical Fever - model description, modeling terminology, and the DAIDD glossary ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - 
 - 6:00 Welcome reception
+
+- Evening __Draft__ research questions [Task 3p]
 
 ### Tuesday
 
@@ -52,16 +54,16 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
  
 - 10:30-11:00 Morning break
 
-- 11:00-11:45 Small group session: research questions for modeling projects (All faculty)
+- 11:00-11:45 Small group session: research questions for modeling projects (All faculty) #RP 
 - 11:45-12:30 Simple individual-based models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 12:30-2:00 Lunch break
 
 - 2:00-3:00 Simple individual-based models (continued)
 - 3:00-4:00 Modeling in practice: The life cycle of a modeling project, from conception to publication ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 4:00-4:30 Afternoon break
+	* Before 4:30 __Post__ revised research questions [Task 3]
 
-    - _Make sure your research question is in the researchQuestions folder on Dropbox before the next session!_
-- 4:30-6:00 Exercise: Creating a model world to address a research question (Welte)
+- 4:30-6:00 Exercise: Creating a model world to address a research question (Welte) #RP 
 - 8:00-9:00 Working session
 
 ### Wednesday
@@ -72,14 +74,15 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 9:00-10:30 Stochastic simulation models ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
 - 10:30-11:00 Morning break
 
-- 11:00-12:30 Small-group session: matching models to questions (All faculty) - Group assignments to be added
+- 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP 
 - 12:30-2:00 Lunch break
 
 - 2:00-3:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 3:30-4:00 Afternoon break
 
 - 4:00-4:30 Work session
-- 4:30-6:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/))
+- 4:30-6:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/)) #RP 
+
 - 8:00-9:00 Mid-session feedback ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
 
 ### Thursday
@@ -96,8 +99,8 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 	* (Tutorial wrapup by [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 3:30-4:00 Afternoon break
 
-- 4:00-5:00 Exercise: Planning your approach
-- 5:00-6:00 Writing exercise & mentored working session (All faculty)
+- 4:00-5:00 Exercise: Planning your approach #RP
+- 5:00-6:00 Writing exercise & mentored working session (All faculty) #RP
 - 8:00-9:00 Social activity (Game night)
 
 ### Friday
@@ -106,16 +109,20 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 10:30-11:00 Morning break
     - 10:30 **Group Photo**
+	 
+- By 11 _Post_ model description [Task 5]; _Revise_ model diagram [Task 4f] if desired in time for working session
+	* [See instructions](../Materials/researchPlans)
 
-- 11:00-12:30 Mentored working session (All faculty) - Group assignments to be added
-    - _Be sure to submit your **written model description** and **final (digital) model diagram** before your one-on-one meeting_. 
+- 11:00-12:30 Mentored working session (All faculty) #RP 
 - 12:30-2:00 Lunch break
 
 - 2:00-3:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 3:00-3:30 Model-based inference and the bigger picture - ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 3:30-4:00 Afternoon break
 
-- 4:00-6:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
+- 4:00-6:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP
+
+- Evening __Post__ final research plan [Task 7]
 
 ### Saturday
 
@@ -126,7 +133,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 9:00-10:00 Use of models in study design for dynamic systems: Ebola vaccine trial design ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 10:00-10:15 Short break
 
-- 10:15-11:30 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
+- 10:15-11:30 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP
 - 11:30-11:45 Short break
 
 - 11:45-13:00 Final feedback session ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))

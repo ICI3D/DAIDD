@@ -38,16 +38,17 @@ alertmsg: >
 - 12:30-2:00 Lunch break
 
 - 2:00-2:15 Introduction to [Mont Fleur](https://www.montfleur.co.za)
-- 2:15-2:45 [Overview of research plan development and structure](plans) ((dushoff))
+- 2:15-2:45 [Overview of research plan development and structure](planOverview) ((dushoff)) #RP - 
 	- [Slide folder](https://tinyurl.com/daidd-2019)
-	- SHADOW [Plan schedule](plans)
-- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ((vanschalkwyk)) HIDE - [Step-by-step guide](../Materials/researchQuestions)
+- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ((vanschalkwyk)) #RP HIDE - [Step-by-step guide](../Materials/researchQuestions)
 - 3:40-4:00 Afternoon break
 
 - 4:00-5:30 Dynamical Fever - computer exercise and discussion ((kassanjee) and (hargrove))HIDE  - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)
  HIDE  - [Spreadsheet](http://tinyurl.com/SIR-DAIDD-2016); [Previous spreadsheet (includes spreadsheet Gillespie)](http://tinyurl.com/SIR-DAIDD-2015)
 - 5:30-6:00 Dynamical Fever - model description, modeling terminology, and the DAIDD glossary ((dushoff)) - HIDE [Download](../Materials/modelTaxonomy)
 - 6:00 Welcome reception
+
+- Evening __Draft__ research questions [Task 3p]
 
 ### Tuesday
 
@@ -56,16 +57,16 @@ alertmsg: >
  HIDE  - [Spreadsheet](http://tinyurl.com/SIR-DAIDD-2016); [Previous spreadsheet (includes spreadsheet Gillespie)](http://tinyurl.com/SIR-DAIDD-2015)
 - 10:30-11:00 Morning break
 
-- 11:00-11:45 Small group session: research questions for modeling projects (All faculty)HIDE  - Group assignments to be added
+- 11:00-11:45 Small group session: research questions for modeling projects (All faculty) #RP HIDE  - Group assignments to be added
 - 11:45-12:30 Simple individual-based models ((dushoff))
 - 12:30-2:00 Lunch break
 
 - 2:00-3:00 Simple individual-based models (continued)
 - 3:00-4:00 Modeling in practice: The life cycle of a modeling project, from conception to publication ((hargrove))
 - 4:00-4:30 Afternoon break
+	* Before 4:30 __Post__ revised research questions [Task 3]
 
-    - _Make sure your research question is in the researchQuestions folder on Dropbox before the next session!_
-- 4:30-6:00 Exercise: Creating a model world to address a research question (Welte)HIDE  - [Step-by-step guide](../Materials/modelWorld)
+- 4:30-6:00 Exercise: Creating a model world to address a research question (Welte) #RP HIDE  - [Step-by-step guide](../Materials/modelWorld)
 - 8:00-9:00 Working session
 
 ### Wednesday
@@ -77,14 +78,15 @@ alertmsg: >
 - 9:00-10:30 Stochastic simulation models ((kassanjee))HIDE  - [Slides](https://www.dropbox.com/s/678dx9io8fqnxyg/Borchering_stochastic_simulation_DAIDD2016.pdf?dl=1)HIDE  - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R)
 - 10:30-11:00 Morning break
 
-- 11:00-12:30 Small-group session: matching models to questions (All faculty) - Group assignments to be added
+- 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP HIDE - Group assignments to be added 
 - 12:30-2:00 Lunch break
 
 - 2:00-3:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff))HIDE  - [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 - 3:30-4:00 Afternoon break
 
 - 4:00-4:30 Work session
-- 4:30-6:00 Writing exercise - description of proposed model and assumptions ((welte))HIDE  - Groups (to be added)
+- 4:30-6:00 Writing exercise - description of proposed model and assumptions ((welte)) #RP HIDE  - Groups (to be added)
+
 - 8:00-9:00 Mid-session feedback ((paradza))
 
 ### Thursday
@@ -101,8 +103,8 @@ alertmsg: >
 	* (Tutorial wrapup by (dushoff))
 - 3:30-4:00 Afternoon break
 
-- 4:00-5:00 Exercise: Planning your approach
-- 5:00-6:00 Writing exercise & mentored working session (All faculty)
+- 4:00-5:00 Exercise: Planning your approach #RP
+- 5:00-6:00 Writing exercise & mentored working session (All faculty) #RP
 - 8:00-9:00 Social activity (Game night)
 
 ### Friday
@@ -111,16 +113,20 @@ alertmsg: >
 - 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ((pearson))HIDE  - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000)HIDE  - [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661)
 - 10:30-11:00 Morning break
     - 10:30 **Group Photo**
+	 
+- By 11 _Post_ model description [Task 5]; _Revise_ model diagram [Task 4f] if desired in time for working session
+	* [See instructions](../Materials/researchPlans)
 
-- 11:00-12:30 Mentored working session (All faculty) - Group assignments to be added
-    - _Be sure to submit your **written model description** and **final (digital) model diagram** before your one-on-one meeting_. HIDE (See [instructions](../Materials/instructions))
+- 11:00-12:30 Mentored working session (All faculty) #RP HIDE - Group assignments to be added
 - 12:30-2:00 Lunch break
 
 - 2:00-3:00 Model evaluation and comparison ((dushoff))HIDE  - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
 - 3:00-3:30 Model-based inference and the bigger picture - ((hargrove))
 - 3:30-4:00 Afternoon break
 
-- 4:00-6:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
+- 4:00-6:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP
+
+- Evening __Post__ final research plan [Task 7]
 
 ### Saturday
 
@@ -131,7 +137,7 @@ alertmsg: >
 - 9:00-10:00 Use of models in study design for dynamic systems: Ebola vaccine trial design ((dushoff))HIDE  - [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
 - 10:00-10:15 Short break
 
-- 10:15-11:30 Discussion of research plans/proposals (Moderator: (vanschalkwyk))
+- 10:15-11:30 Discussion of research plans/proposals (Moderator: (vanschalkwyk)) #RP
 - 11:30-11:45 Short break
 
 - 11:45-13:00 Final feedback session ((paradza))

@@ -36,13 +36,20 @@ Sources += $(wildcard */shadow.md)
 
 -include makestuff/perl.def
 
-Sources += $(wildcard schedule/index.* schedule/*.md)
+Sources += $(wildcard schedule/*.top schedule/*.md)
 Sources += $(wildcard *.pl)
-## Rewrite to use pushro and a smarter script
+## Rewrite to use pushro and a smarter script?
+## Why is chmod not working??
 schedule/index.md: schedule/index.top schedule/shadow.md shadow.pl
 	$(rm)
 	$(CAT) $< > $@
 	perl -wf shadow.pl schedule/shadow.md >> $@
+	$(chmod)
+
+schedule/planOverview.md: schedule/planOverview.top schedule/index.md rp.pl
+	$(rm)
+	$(CAT) $< > $@
+	perl -wf rp.pl schedule/index.md | cat -s >> $@
 	$(chmod)
 
 ## git rm preparation/shadow.md ##
