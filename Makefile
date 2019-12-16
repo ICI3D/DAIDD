@@ -15,6 +15,8 @@ current: target
 
 ######################################################################
 
+## Removed from index; make it a comment: Information will be added to this site as the Clinic approaches.
+
 # Content
 
 vim_session:
