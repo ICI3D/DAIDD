@@ -38,6 +38,7 @@ Sources += $(wildcard */shadow.md)
 
 Sources += $(wildcard schedule/index.* schedule/*.md)
 Sources += $(wildcard *.pl)
+## Rewrite to use pushro and a smarter script
 schedule/index.md: schedule/index.top schedule/shadow.md shadow.pl
 	$(rm)
 	$(CAT) $< > $@
@@ -47,6 +48,7 @@ schedule/index.md: schedule/index.top schedule/shadow.md shadow.pl
 ## git rm preparation/shadow.md ##
 Sources += $(wildcard preparation/*.md)
 
+Sources += $(wildcard Materials/*.md)
 
 ######################################################################
 
