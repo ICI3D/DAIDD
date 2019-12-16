@@ -46,7 +46,7 @@ alertmsg: >
 - 3:40-4:00 Afternoon break
 
 - 4:00-5:30 Dynamical Fever - computer exercise and discussion ((kassanjee)) - [Slide folder](https://tinyurl.com/daidd-2019)
-- 5:30-6:00 Dynamical Fever - [model description](../Materials/fever), modeling terminology, and the [[DAIDD glossary]](http://tinyurl.com/daidd-public) ((dushoff)) - [Download the taxonomy](../Materials/modelTaxonomy)
+- 5:30-6:00 Dynamical Fever - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) ((dushoff)) - [Download the taxonomy](../Materials/modelTaxonomy)
 - 6:00 Welcome reception
 
 - Evening __Draft__ research questions [Task 3p]
