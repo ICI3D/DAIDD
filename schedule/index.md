@@ -33,11 +33,10 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 10:30-11:00 Morning break
 - 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds ([Alex Welte]({{site.subdomainurl}}/team/welte/))
 - 12:30-2:00 Lunch break
+	* Introduction to [Mont Fleur](https://www.montfleur.co.za)
 
-- 2:00-2:15 Introduction to [Mont Fleur](https://www.montfleur.co.za)
-- 2:15-2:45 [Overview of research plan development and structure](planOverview) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) #RP - 
-	- [Slide folder](https://tinyurl.com/daidd-2019)
-- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP 
+- 2:15-2:45 [Overview of research plan development and structure](planOverview) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
+- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
 - 3:40-4:00 Afternoon break
 
 - 4:00-5:30 Dynamical Fever - computer exercise and discussion ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove/))

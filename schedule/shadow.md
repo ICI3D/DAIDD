@@ -36,11 +36,13 @@ alertmsg: >
 - 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds ((welte))
     - SHADOW 10-minute stretch break at around 11:40
 - 12:30-2:00 Lunch break
+	* Introduction to [Mont Fleur](https://www.montfleur.co.za)
 
-- 2:00-2:15 Introduction to [Mont Fleur](https://www.montfleur.co.za)
-- 2:15-2:45 [Overview of research plan development and structure](planOverview) ((dushoff)) #RP - 
-	- [Slide folder](https://tinyurl.com/daidd-2019)
-- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ((vanschalkwyk)) #RP HIDE - [Step-by-step guide](../Materials/researchQuestions)
+- SHADOW 2:00-2:15 Introduction to [Mont Fleur](https://www.montfleur.co.za)
+	* SHADOW was moved unexpectedly this year; be in touch with them, some of the staff want to greet us and then go home
+- 2:15-2:45 [Overview of research plan development and structure](planOverview) ((dushoff)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
+- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ((vanschalkwyk)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
+	* SHADOW HIDE - [Step-by-step guide](../Materials/researchQuestions)
 - 3:40-4:00 Afternoon break
 
 - 4:00-5:30 Dynamical Fever - computer exercise and discussion ((kassanjee) and (hargrove))HIDE  - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)

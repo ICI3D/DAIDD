@@ -14,8 +14,8 @@ __This schedule subject to change__.
 
 ### Monday
 
-- 2:15-2:45 [Overview of research plan development and structure](planOverview) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - 
-- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
+- 2:15-2:45 [Overview of research plan development and structure](planOverview) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - [Slide folder](https://tinyurl.com/daidd-2019)
+- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Slide folder](https://tinyurl.com/daidd-2019)
 
 - Evening __Draft__ research questions [Task 3p]
 
