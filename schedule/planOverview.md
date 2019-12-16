@@ -16,12 +16,13 @@ __This schedule subject to change__.
 
 - 2:15-2:45 [Overview of research plan development and structure](planOverview) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - [Slide folder](https://tinyurl.com/daidd-2019)
 - 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Slide folder](https://tinyurl.com/daidd-2019)
+- 11:00-11:45 Small group session: research questions for modeling projects (All faculty) 
 
 - Evening __Draft__ research questions [Task 3p]
 
 ### Tuesday
 
-- 11:00-11:45 Small group session: research questions for modeling projects (All faculty) 
+- 11:00-11:45 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Slide folder](https://tinyurl.com/daidd-2019)
 
 * Before 4:30 __Post__ revised research questions [Task 3]
 

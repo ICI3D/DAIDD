@@ -37,6 +37,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 
 - 2:15-2:45 [Overview of research plan development and structure](planOverview) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
 - 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
+- 11:00-11:45 Small group session: research questions for modeling projects (All faculty) #RP 
 - 3:40-4:00 Afternoon break
 
 - 4:00-5:30 Dynamical Fever - computer exercise and discussion ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove/))
@@ -53,7 +54,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
  
 - 10:30-11:00 Morning break
 
-- 11:00-11:45 Small group session: research questions for modeling projects (All faculty) #RP 
+- 11:00-11:45 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
 - 11:45-12:30 Simple individual-based models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 12:30-2:00 Lunch break
 

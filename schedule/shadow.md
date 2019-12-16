@@ -42,6 +42,7 @@ alertmsg: >
 	* SHADOW was moved unexpectedly this year; be in touch with them, some of the staff want to greet us and then go home
 - 2:15-2:45 [Overview of research plan development and structure](planOverview) ((dushoff)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
 - 2:45-3:40 Writing exercise: formulating research questions for modeling projects ((vanschalkwyk)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
+- 11:00-11:45 Small group session: research questions for modeling projects (All faculty) #RP HIDE  - Group assignments to be added
 	* SHADOW HIDE - [Step-by-step guide](../Materials/researchQuestions)
 - 3:40-4:00 Afternoon break
 
@@ -59,7 +60,7 @@ alertmsg: >
  HIDE  - [Spreadsheet](http://tinyurl.com/SIR-DAIDD-2016); [Previous spreadsheet (includes spreadsheet Gillespie)](http://tinyurl.com/SIR-DAIDD-2015)
 - 10:30-11:00 Morning break
 
-- 11:00-11:45 Small group session: research questions for modeling projects (All faculty) #RP HIDE  - Group assignments to be added
+- 11:00-11:45 Writing exercise: formulating research questions for modeling projects ((vanschalkwyk)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
 - 11:45-12:30 Simple individual-based models ((dushoff))
 - 12:30-2:00 Lunch break
 

@@ -3,6 +3,7 @@
 ## make cerve ##
 ## http://localhost:4000/
 ## http://localhost:4000/schedule/shadow
+## http://localhost:4000/schedule/shadow
 
 ## http://www.ici3d.org/DAIDD/
 ## http://www.ici3d.org/DAIDD/schedule/
@@ -37,6 +38,8 @@ Sources += $(wildcard */shadow.md)
 ## This stuff should all be structured better, and probably be in the parent repo
 
 -include makestuff/perl.def
+
+Sources += index.md
 
 Sources += $(wildcard schedule/*.top schedule/*.md)
 Sources += $(wildcard *.pl)
