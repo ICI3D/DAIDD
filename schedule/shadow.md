@@ -45,9 +45,8 @@ alertmsg: >
 	* SHADOW HIDE - [Step-by-step guide](../Materials/researchQuestions)
 - 3:40-4:00 Afternoon break
 
-- 4:00-5:30 Dynamical Fever - computer exercise and discussion ((kassanjee) and (hargrove))HIDE  - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)
- HIDE  - [Spreadsheet](http://tinyurl.com/SIR-DAIDD-2016); [Previous spreadsheet (includes spreadsheet Gillespie)](http://tinyurl.com/SIR-DAIDD-2015)
-- 5:30-6:00 Dynamical Fever - model description, modeling terminology, and the DAIDD glossary ((dushoff)) - HIDE [Download](../Materials/modelTaxonomy)
+- 4:00-5:30 Dynamical Fever - computer exercise and discussion ((kassanjee) and (hargrove))
+- 5:30-6:00 Dynamical Fever - [model description](../Materials/fever), modeling terminology, and the [[DAIDD glossary]](http://tinyurl.com/daidd-public) ((dushoff)) - [Download the taxonomy](../Materials/modelTaxonomy)
 - 6:00 Welcome reception
 
 - Evening __Draft__ research questions [Task 3p]

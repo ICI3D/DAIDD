@@ -3,7 +3,6 @@
 ## make cerve ##
 ## http://localhost:4000/
 ## http://localhost:4000/schedule/shadow
-## http://localhost:4000/schedule/shadow
 
 ## http://www.ici3d.org/DAIDD/
 ## http://www.ici3d.org/DAIDD/schedule/
