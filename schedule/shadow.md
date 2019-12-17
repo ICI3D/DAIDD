@@ -53,8 +53,8 @@ alertmsg: >
 
 ### Tuesday
 
-- 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))[DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0)
-- 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ((vanschalkwyk) and (hargrove))HIDE  - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)
+- 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) - [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0)
+- 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ((vanschalkwyk) and (hargrove)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)
  HIDE  - [Spreadsheet](http://tinyurl.com/SIR-DAIDD-2016); [Previous spreadsheet (includes spreadsheet Gillespie)](http://tinyurl.com/SIR-DAIDD-2015)
 - 10:30-11:00 Morning break
 
