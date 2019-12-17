@@ -2,7 +2,6 @@
 layout: clinic
 redirect: http://www.ici3d.org/DAIDD/schedule
 thispage: http://www.ici3d.org/DAIDD/schedule/shadow
-localpage: http://localhost:4000/schedule/shadow
 title: Shadow
 tab: Schedule
 subtitle: Faculty Schedule
@@ -57,13 +56,12 @@ alertmsg: >
 ### Tuesday
 
 - 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) - [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0)
-- 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ((vanschalkwyk) and (hargrove)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)
-	* HIDE: Cari's spreadsheet?
-	* SHADOW Older stuff  - [Spreadsheet](http://tinyurl.com/SIR-DAIDD-2016); [Previous spreadsheet (includes spreadsheet Gillespie)](http://tinyurl.com/SIR-DAIDD-2015)
+- 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ((vanschalkwyk) and (hargrove)) - [Slide folder](https://tinyurl.com/daidd-2019), [Exercise](../Materials/SIRmodelFamily)
+	* Excel spreadsheet in [Code folder](https://tinyurl.com/daidd-2019-code)
 - 10:30-11:00 Morning break
 
 - 11:00-11:45 Writing exercise: formulating research questions for modeling projects ((vanschalkwyk)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
-- 11:45-12:30 Simple individual-based models ((dushoff)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/individual.complete.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks)
+- 11:45-12:30 Simple individual-based models ((dushoff)) - [Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks)
 
 - 12:30-14:00 Lunch break
 
@@ -81,7 +79,9 @@ alertmsg: >
 - 8:40-9:00 Faculty research presentations ((hargrove))
 	- SHADOW [Faculty research presentations](../Materials/researchPresentations)
 
-- 9:00-10:30 Stochastic simulation models ((kassanjee))HIDE  - [Slides](https://www.dropbox.com/s/678dx9io8fqnxyg/Borchering_stochastic_simulation_DAIDD2016.pdf?dl=1)HIDE  - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R)
+- 9:00-10:30 Stochastic simulation models ((kassanjee))HIDE  - [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
+	* SHADOW [Becky's slides](https://www.dropbox.com/s/678dx9io8fqnxyg/Borchering_stochastic_simulation_DAIDD2016.pdf?dl=1)
+	* SHADOW - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R) older code
 - 10:30-11:00 Morning break
 
 - 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](participants/groups)

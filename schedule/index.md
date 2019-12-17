@@ -48,12 +48,12 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 ### Tuesday
 
 - 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) - [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0)
-- 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)
-	* 
+- 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Slide folder](https://tinyurl.com/daidd-2019), [Exercise](../Materials/SIRmodelFamily)
+	* Excel spreadsheet in [Code folder](https://tinyurl.com/daidd-2019-code)
 - 10:30-11:00 Morning break
 
 - 11:00-11:45 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
-- 11:45-12:30 Simple individual-based models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/individual.complete.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks)
+- 11:45-12:30 Simple individual-based models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - [Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks)
 
 - 12:30-14:00 Lunch break
 
