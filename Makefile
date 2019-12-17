@@ -58,8 +58,8 @@ schedule/planOverview.md: schedule/planOverview.top schedule/index.md rp.pl
 
 ## git rm preparation/shadow.md ##
 Sources += $(wildcard preparation/*.md)
-
 Sources += $(wildcard Materials/*.md)
+Sources += $(wildcard participants/*.md)
 
 ######################################################################
 

@@ -36,7 +36,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 	* Introduction to [Mont Fleur](https://www.montfleur.co.za)
 
 - 14:15-14:45 [Overview of research plan development and structure](planOverview) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
-- 14:45-15:40 Small group session: research questions for modeling projects (All faculty) #RP 
+- 14:45-15:40 Small group session: research questions for modeling projects (All faculty) #RP
 - 15:40-16:00 Afternoon break
 
 - 16:00-17:30 Dynamical Fever - computer exercise and discussion ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) - [Slide folder](https://tinyurl.com/daidd-2019)
@@ -49,19 +49,20 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 
 - 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) - [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0)
 - 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)
- 
+	* 
 - 10:30-11:00 Morning break
 
 - 11:00-11:45 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
-- 11:45-12:30 Simple individual-based models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 11:45-12:30 Simple individual-based models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/individual.complete.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks)
+
 - 12:30-14:00 Lunch break
 
-- 14:00-15:00 Simple individual-based models (continued)
-- 15:00-16:00 Modeling in practice: The life cycle of a modeling project, from conception to publication ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- 14:00-15:00 Simple individual-based models (continued) - [Google sheet](https://tinyurl.com/DAIDD-SIRboth-2019)
+- 15:00-16:00 Modeling in practice: The life cycle of a modeling project, from conception to publication ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Slide folder](https://tinyurl.com/daidd-2019)
 - 16:00-16:30 Afternoon break
 	* Before 16:30 __Post__ revised research questions [Task 3]
 
-- 16:30-18:00 Exercise: Creating a model world to address a research question (Welte) #RP 
+- 16:30-18:00 Exercise: Creating a model world to address a research question [Alex Welte]({{site.subdomainurl}}/team/welte/) #RP 
 - 20:00-21:00 Working session
 
 ### Wednesday
@@ -72,7 +73,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 9:00-10:30 Stochastic simulation models ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
 - 10:30-11:00 Morning break
 
-- 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP 
+- 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](participants/groups)
 - 12:30-14:00 Lunch break
 
 - 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))

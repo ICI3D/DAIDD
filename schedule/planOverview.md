@@ -15,7 +15,7 @@ __This schedule subject to change__.
 ### Monday
 
 - 14:15-14:45 [Overview of research plan development and structure](planOverview) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - [Slide folder](https://tinyurl.com/daidd-2019)
-- 14:45-15:40 Small group session: research questions for modeling projects (All faculty) 
+- 14:45-15:40 Small group session: research questions for modeling projects (All faculty)
 
 - Evening __Draft__ research questions [Task 3p]
 
@@ -25,11 +25,11 @@ __This schedule subject to change__.
 
 * Before 16:30 __Post__ revised research questions [Task 3]
 
-- 16:30-18:00 Exercise: Creating a model world to address a research question (Welte) 
+- 16:30-18:00 Exercise: Creating a model world to address a research question [Alex Welte]({{site.subdomainurl}}/team/welte/) 
 
 ### Wednesday
 
-- 11:00-12:30 Small-group session: matching models to questions (All faculty) 
+- 11:00-12:30 Small-group session: matching models to questions (All faculty) - [Group assignments](participants/groups)
 
 - 16:30-18:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/)) 
 

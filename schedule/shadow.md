@@ -2,6 +2,7 @@
 layout: clinic
 redirect: http://www.ici3d.org/DAIDD/schedule
 thispage: http://www.ici3d.org/DAIDD/schedule/shadow
+localpage: http://localhost:4000/schedule/shadow
 title: Shadow
 tab: Schedule
 subtitle: Faculty Schedule
@@ -34,15 +35,17 @@ alertmsg: >
     - [Order of introductions](./introductions)
 - 10:30-11:00 Morning break
 - 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds ((welte))
-    - SHADOW 10-minute stretch break at around 11:40
+	- SHADOW 10-minute stretch break at around 11:40
+	- SHADOW Plan forward links: dynamics PICO acronym, more time for SIR foundation
 - 12:30-14:00 Lunch break
 	* Introduction to [Mont Fleur](https://www.montfleur.co.za)
 
 - SHADOW 14:00-14:15 Introduction to [Mont Fleur](https://www.montfleur.co.za)
 	* SHADOW was moved unexpectedly this year; be in touch with them, some of the staff want to greet us and then go home
 - 14:15-14:45 [Overview of research plan development and structure](planOverview) ((dushoff)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
-- 14:45-15:40 Small group session: research questions for modeling projects (All faculty) #RP HIDE  - Group assignments to be added
-	* SHADOW HIDE - [Step-by-step guide](../Materials/researchQuestions)
+- 14:45-15:40 Small group session: research questions for modeling projects (All faculty) #RP
+	* SHADOW Promulgate Group assignments
+	* SHADOW - [Step-by-step guide](../Materials/researchQuestions) Cari decided not to post this
 - 15:40-16:00 Afternoon break
 
 - 16:00-17:30 Dynamical Fever - computer exercise and discussion ((kassanjee)) - [Slide folder](https://tinyurl.com/daidd-2019)
@@ -55,19 +58,21 @@ alertmsg: >
 
 - 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) - [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0)
 - 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ((vanschalkwyk) and (hargrove)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)
- HIDE  - [Spreadsheet](http://tinyurl.com/SIR-DAIDD-2016); [Previous spreadsheet (includes spreadsheet Gillespie)](http://tinyurl.com/SIR-DAIDD-2015)
+	* HIDE: Cari's spreadsheet?
+	* SHADOW Older stuff  - [Spreadsheet](http://tinyurl.com/SIR-DAIDD-2016); [Previous spreadsheet (includes spreadsheet Gillespie)](http://tinyurl.com/SIR-DAIDD-2015)
 - 10:30-11:00 Morning break
 
 - 11:00-11:45 Writing exercise: formulating research questions for modeling projects ((vanschalkwyk)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
-- 11:45-12:30 Simple individual-based models ((dushoff))
+- 11:45-12:30 Simple individual-based models ((dushoff)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/individual.complete.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks)
+
 - 12:30-14:00 Lunch break
 
-- 14:00-15:00 Simple individual-based models (continued)
-- 15:00-16:00 Modeling in practice: The life cycle of a modeling project, from conception to publication ((hargrove))
+- 14:00-15:00 Simple individual-based models (continued) - [Google sheet](https://tinyurl.com/DAIDD-SIRboth-2019)
+- 15:00-16:00 Modeling in practice: The life cycle of a modeling project, from conception to publication ((hargrove)) - [Slide folder](https://tinyurl.com/daidd-2019)
 - 16:00-16:30 Afternoon break
 	* Before 16:30 __Post__ revised research questions [Task 3]
 
-- 16:30-18:00 Exercise: Creating a model world to address a research question (Welte) #RP HIDE  - [Step-by-step guide](../Materials/modelWorld)
+- 16:30-18:00 Exercise: Creating a model world to address a research question (welte) #RP HIDE  - [Step-by-step guide](../Materials/modelWorld) 
 - 20:00-21:00 Working session
 
 ### Wednesday
@@ -79,7 +84,7 @@ alertmsg: >
 - 9:00-10:30 Stochastic simulation models ((kassanjee))HIDE  - [Slides](https://www.dropbox.com/s/678dx9io8fqnxyg/Borchering_stochastic_simulation_DAIDD2016.pdf?dl=1)HIDE  - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R)
 - 10:30-11:00 Morning break
 
-- 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP HIDE - Group assignments to be added 
+- 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](participants/groups)
 - 12:30-14:00 Lunch break
 
 - 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff))HIDE  - [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
