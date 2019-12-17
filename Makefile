@@ -43,18 +43,18 @@ Sources += index.md
 Sources += $(wildcard schedule/*.top schedule/*.md)
 Sources += $(wildcard *.pl)
 ## Rewrite to use pushro and a smarter script?
-## Why is chmod not working??
+## Rewrite to use the full crazy lecture/format world?
 schedule/index.md: schedule/index.top schedule/shadow.md shadow.pl
 	$(rm)
 	$(CAT) $< > $@
 	perl -wf shadow.pl schedule/shadow.md >> $@
-	$(chmod)
+	$(readonly)
 
 schedule/planOverview.md: schedule/planOverview.top schedule/index.md rp.pl
 	$(rm)
 	$(CAT) $< > $@
 	perl -wf rp.pl schedule/index.md | cat -s >> $@
-	$(chmod)
+	$(readonly)
 
 ## git rm preparation/shadow.md ##
 Sources += $(wildcard preparation/*.md)

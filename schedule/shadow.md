@@ -35,19 +35,19 @@ alertmsg: >
 - 10:30-11:00 Morning break
 - 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds ((welte))
     - SHADOW 10-minute stretch break at around 11:40
-- 12:30-2:00 Lunch break
+- 12:30-14:00 Lunch break
 	* Introduction to [Mont Fleur](https://www.montfleur.co.za)
 
-- SHADOW 2:00-2:15 Introduction to [Mont Fleur](https://www.montfleur.co.za)
+- SHADOW 14:00-14:15 Introduction to [Mont Fleur](https://www.montfleur.co.za)
 	* SHADOW was moved unexpectedly this year; be in touch with them, some of the staff want to greet us and then go home
-- 2:15-2:45 [Overview of research plan development and structure](planOverview) ((dushoff)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
-- 2:45-3:40 Small group session: research questions for modeling projects (All faculty) #RP HIDE  - Group assignments to be added
+- 14:15-14:45 [Overview of research plan development and structure](planOverview) ((dushoff)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
+- 14:45-15:40 Small group session: research questions for modeling projects (All faculty) #RP HIDE  - Group assignments to be added
 	* SHADOW HIDE - [Step-by-step guide](../Materials/researchQuestions)
-- 3:40-4:00 Afternoon break
+- 15:40-16:00 Afternoon break
 
-- 4:00-5:30 Dynamical Fever - computer exercise and discussion ((kassanjee)) - [Slide folder](https://tinyurl.com/daidd-2019)
-- 5:30-6:00 Dynamical Fever - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) ((dushoff)) - [Download the taxonomy](../Materials/modelTaxonomy)
-- 6:00 Welcome reception
+- 16:00-17:30 Dynamical Fever - computer exercise and discussion ((kassanjee)) - [Slide folder](https://tinyurl.com/daidd-2019)
+- 17:30-18:00 Dynamical Fever - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) ((dushoff)) - [Download the taxonomy](../Materials/modelTaxonomy)
+- 18:00 Welcome reception
 
 - Evening __Draft__ research questions [Task 3p]
 
@@ -60,15 +60,15 @@ alertmsg: >
 
 - 11:00-11:45 Writing exercise: formulating research questions for modeling projects ((vanschalkwyk)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
 - 11:45-12:30 Simple individual-based models ((dushoff))
-- 12:30-2:00 Lunch break
+- 12:30-14:00 Lunch break
 
-- 2:00-3:00 Simple individual-based models (continued)
-- 3:00-4:00 Modeling in practice: The life cycle of a modeling project, from conception to publication ((hargrove))
-- 4:00-4:30 Afternoon break
-	* Before 4:30 __Post__ revised research questions [Task 3]
+- 14:00-15:00 Simple individual-based models (continued)
+- 15:00-16:00 Modeling in practice: The life cycle of a modeling project, from conception to publication ((hargrove))
+- 16:00-16:30 Afternoon break
+	* Before 16:30 __Post__ revised research questions [Task 3]
 
-- 4:30-6:00 Exercise: Creating a model world to address a research question (Welte) #RP HIDE  - [Step-by-step guide](../Materials/modelWorld)
-- 8:00-9:00 Working session
+- 16:30-18:00 Exercise: Creating a model world to address a research question (Welte) #RP HIDE  - [Step-by-step guide](../Materials/modelWorld)
+- 20:00-21:00 Working session
 
 ### Wednesday
 
@@ -80,15 +80,15 @@ alertmsg: >
 - 10:30-11:00 Morning break
 
 - 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP HIDE - Group assignments to be added 
-- 12:30-2:00 Lunch break
+- 12:30-14:00 Lunch break
 
-- 2:00-3:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff))HIDE  - [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
-- 3:30-4:00 Afternoon break
+- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff))HIDE  - [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
+- 15:30-16:00 Afternoon break
 
-- 4:00-4:30 Work session
-- 4:30-6:00 Writing exercise - description of proposed model and assumptions ((welte)) #RP HIDE  - Groups (to be added)
+- 16:00-16:30 Work session
+- 16:30-18:00 Writing exercise - description of proposed model and assumptions ((welte)) #RP HIDE  - Groups (to be added)
 
-- 8:00-9:00 Mid-session feedback ((paradza))
+- 20:00-21:00 Mid-session feedback ((paradza))
 
 ### Thursday
 
@@ -98,15 +98,15 @@ alertmsg: >
 - 10:30-11:00 Morning break
 
 - 11:00-12:30 Models and data: introduction to model fitting  ((vanschalkwyk))
-- 12:30-2:00 Lunch break
+- 12:30-14:00 Lunch break
 
-- 2:00-3:30 Model fitting tutorial ((hargrove))HIDE  - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
+- 14:00-15:30 Model fitting tutorial ((hargrove))HIDE  - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
 	* (Tutorial wrapup by (dushoff))
-- 3:30-4:00 Afternoon break
+- 15:30-16:00 Afternoon break
 
-- 4:00-5:00 Exercise: Planning your approach #RP
-- 5:00-6:00 Writing exercise & mentored working session (All faculty) #RP
-- 8:00-9:00 Social activity (Game night)
+- 16:00-17:00 Exercise: Planning your approach #RP
+- 17:00-18:00 Writing exercise & mentored working session (All faculty) #RP
+- 20:00-21:00 Social activity (Game night)
 
 ### Friday
 
@@ -119,13 +119,13 @@ alertmsg: >
 	* [See instructions](../Materials/researchPlans)
 
 - 11:00-12:30 Mentored working session (All faculty) #RP HIDE - Group assignments to be added
-- 12:30-2:00 Lunch break
+- 12:30-14:00 Lunch break
 
-- 2:00-3:00 Model evaluation and comparison ((dushoff))HIDE  - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
-- 3:00-3:30 Model-based inference and the bigger picture - ((hargrove))
-- 3:30-4:00 Afternoon break
+- 14:00-15:00 Model evaluation and comparison ((dushoff))HIDE  - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
+- 15:00-15:30 Model-based inference and the bigger picture - ((hargrove))
+- 15:30-16:00 Afternoon break
 
-- 4:00-6:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP
+- 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP
 
 - Evening __Post__ final research plan [Task 7]
 

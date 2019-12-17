@@ -32,16 +32,16 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
     - [Order of introductions](./introductions)
 - 10:30-11:00 Morning break
 - 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds ([Alex Welte]({{site.subdomainurl}}/team/welte/))
-- 12:30-2:00 Lunch break
+- 12:30-14:00 Lunch break
 	* Introduction to [Mont Fleur](https://www.montfleur.co.za)
 
-- 2:15-2:45 [Overview of research plan development and structure](planOverview) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
-- 2:45-3:40 Small group session: research questions for modeling projects (All faculty) #RP 
-- 3:40-4:00 Afternoon break
+- 14:15-14:45 [Overview of research plan development and structure](planOverview) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
+- 14:45-15:40 Small group session: research questions for modeling projects (All faculty) #RP 
+- 15:40-16:00 Afternoon break
 
-- 4:00-5:30 Dynamical Fever - computer exercise and discussion ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) - [Slide folder](https://tinyurl.com/daidd-2019)
-- 5:30-6:00 Dynamical Fever - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - [Download the taxonomy](../Materials/modelTaxonomy)
-- 6:00 Welcome reception
+- 16:00-17:30 Dynamical Fever - computer exercise and discussion ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) - [Slide folder](https://tinyurl.com/daidd-2019)
+- 17:30-18:00 Dynamical Fever - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - [Download the taxonomy](../Materials/modelTaxonomy)
+- 18:00 Welcome reception
 
 - Evening __Draft__ research questions [Task 3p]
 
@@ -54,15 +54,15 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 
 - 11:00-11:45 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
 - 11:45-12:30 Simple individual-based models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- 12:30-2:00 Lunch break
+- 12:30-14:00 Lunch break
 
-- 2:00-3:00 Simple individual-based models (continued)
-- 3:00-4:00 Modeling in practice: The life cycle of a modeling project, from conception to publication ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
-- 4:00-4:30 Afternoon break
-	* Before 4:30 __Post__ revised research questions [Task 3]
+- 14:00-15:00 Simple individual-based models (continued)
+- 15:00-16:00 Modeling in practice: The life cycle of a modeling project, from conception to publication ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- 16:00-16:30 Afternoon break
+	* Before 16:30 __Post__ revised research questions [Task 3]
 
-- 4:30-6:00 Exercise: Creating a model world to address a research question (Welte) #RP 
-- 8:00-9:00 Working session
+- 16:30-18:00 Exercise: Creating a model world to address a research question (Welte) #RP 
+- 20:00-21:00 Working session
 
 ### Wednesday
 
@@ -73,15 +73,15 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 10:30-11:00 Morning break
 
 - 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP 
-- 12:30-2:00 Lunch break
+- 12:30-14:00 Lunch break
 
-- 2:00-3:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- 3:30-4:00 Afternoon break
+- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 15:30-16:00 Afternoon break
 
-- 4:00-4:30 Work session
-- 4:30-6:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/)) #RP 
+- 16:00-16:30 Work session
+- 16:30-18:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/)) #RP 
 
-- 8:00-9:00 Mid-session feedback ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
+- 20:00-21:00 Mid-session feedback ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
 
 ### Thursday
 
@@ -91,15 +91,15 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 10:30-11:00 Morning break
 
 - 11:00-12:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
-- 12:30-2:00 Lunch break
+- 12:30-14:00 Lunch break
 
-- 2:00-3:30 Model fitting tutorial ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- 14:00-15:30 Model fitting tutorial ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 	* (Tutorial wrapup by [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- 3:30-4:00 Afternoon break
+- 15:30-16:00 Afternoon break
 
-- 4:00-5:00 Exercise: Planning your approach #RP
-- 5:00-6:00 Writing exercise & mentored working session (All faculty) #RP
-- 8:00-9:00 Social activity (Game night)
+- 16:00-17:00 Exercise: Planning your approach #RP
+- 17:00-18:00 Writing exercise & mentored working session (All faculty) #RP
+- 20:00-21:00 Social activity (Game night)
 
 ### Friday
 
@@ -112,13 +112,13 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 	* [See instructions](../Materials/researchPlans)
 
 - 11:00-12:30 Mentored working session (All faculty) #RP 
-- 12:30-2:00 Lunch break
+- 12:30-14:00 Lunch break
 
-- 2:00-3:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- 3:00-3:30 Model-based inference and the bigger picture - ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
-- 3:30-4:00 Afternoon break
+- 14:00-15:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 15:00-15:30 Model-based inference and the bigger picture - ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- 15:30-16:00 Afternoon break
 
-- 4:00-6:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP
+- 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP
 
 - Evening __Post__ final research plan [Task 7]
 
