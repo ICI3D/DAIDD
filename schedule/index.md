@@ -47,7 +47,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 
 ### Tuesday
 
-- 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
+- 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))[DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0)
 - 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove/))
  
 - 10:30-11:00 Morning break
