@@ -81,7 +81,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 15:30-16:00 Afternoon break
 
 - 16:00-16:30 Work session
-- 16:30-18:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/)) #RP 
+- 16:30-18:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/)) #RP -  [Group assignments](../participants/groups)
 
 - 20:00-21:00 Mid-session feedback ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
 

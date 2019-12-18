@@ -94,7 +94,7 @@ alertmsg: >
 - 15:30-16:00 Afternoon break
 
 - 16:00-16:30 Work session
-- 16:30-18:00 Writing exercise - description of proposed model and assumptions ((welte)) #RP HIDE  -  [Group assignments](../participants/groups)
+- 16:30-18:00 Writing exercise - description of proposed model and assumptions ((welte)) #RP -  [Group assignments](../participants/groups)
 
 - 20:00-21:00 Mid-session feedback ((paradza))
 
