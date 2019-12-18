@@ -21,4 +21,15 @@ title: RP groups
 * Alex; John
 * Marsha Joaquin Lactatia
 
+## Group A
+Ijeoma Joaquin Ola
+
+## Group B
+Kyle Lactatia Heather
+
+## Group C
+Dan Thien-An Marsha
+
+## Group D
+Rafiq Rebecca Gerald
 
