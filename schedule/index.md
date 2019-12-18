@@ -71,7 +71,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 8:40-9:00 Faculty research presentations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 	- 
 
-- 9:00-10:30 Stochastic simulation models ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
+- 9:00-10:30 Stochastic simulation models ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))- [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
 - 10:30-11:00 Morning break
 
 - 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](participants/groups)

@@ -82,7 +82,7 @@ alertmsg: >
 	- HIDE [Slide folder](https://tinyurl.com/daidd-2019)
 	- SHADOW [Faculty research presentations](../Materials/researchPresentations)
 
-- 9:00-10:30 Stochastic simulation models ((kassanjee))HIDE  - [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
+- 9:00-10:30 Stochastic simulation models ((kassanjee))- [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
 	* SHADOW [Becky's slides](https://www.dropbox.com/s/678dx9io8fqnxyg/Borchering_stochastic_simulation_DAIDD2016.pdf?dl=1)
 	* SHADOW - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R) older code
 - 10:30-11:00 Morning break
