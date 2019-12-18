@@ -98,6 +98,8 @@ alertmsg: >
 
 - 20:00-21:00 Mid-session feedback ((paradza))
 
+SHADOW - 21:30 Mid-session post-mortem
+
 ### Thursday
 
 - SHADOW Planned 8:30-10:00 Group hike
