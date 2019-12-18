@@ -15,6 +15,8 @@ alertmsg: >
   </ul>
 ---
 
+* http://localhost:4000/schedule/shadow
+
 /HEAD
 
 ### Sunday
@@ -76,7 +78,7 @@ alertmsg: >
 ### Wednesday
 
 - 8:30-8:40 Tuesday recap ((vanschalkwyk))
-- 8:40-9:00 Faculty research presentations ((hargrove))
+- 8:40-9:00 Faculty research presentations ((vanschalkwyk))
 	- SHADOW [Faculty research presentations](../Materials/researchPresentations)
 
 - 9:00-10:30 Stochastic simulation models ((kassanjee))HIDE  - [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
