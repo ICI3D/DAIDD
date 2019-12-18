@@ -18,7 +18,7 @@ title: RP groups
 * Ijeoma Gerald Dan
 
 ## Group 4
-* Alex; Reshma
+* Alex; John
 * Marsha Joaquin Lactatia
 
 
