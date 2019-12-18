@@ -8,11 +8,6 @@ alertmsg: >
   </ul>
 ---
 
-2019 Dec 16 (Mon)
-=================
-
-Today's afternoon session will start at 14:15, not 14:00, because Mont Fleur suddenly introduced themselves at lunch time.
-
 <div class="col-lg-2">
 </div>
 <div class="col-lg-8">

@@ -18,8 +18,8 @@ subtitle: Resources for during and after the Clinic
     - [R Studio Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 - Further reading
     - _An introduction to infectious disease modelling_ by E Vynnycky and RG White - [link](http://www.anintroductiontoinfectiousdiseasemodelling.com/)
-    - _Modeling Infectious Diseases in Humans and Animals_ by MJ Keeling and P Rohani - [preview](https://books.google.co.za/books/about/Modeling_Infectious_Diseases_in_Humans_a.html)
-    - _Epidemics: models and data using R_ by O Bjornstad - [preview](https://books.google.co.za/books/about/Epidemics.html)
+    - _Modeling Infectious Diseases in Humans and Animals_ by MJ Keeling and P Rohani - [review](http://rohanilab.ecology.uga.edu/wp-content/uploads/2013/12/farrington.pdf), [link](https://www.researchgate.net/publication/23180326_Modeling_Infectious_Diseases_in_Humans_and_Animals)
+    - _Epidemics: models and data using R_ by O Bjornstad - [preview](https://books.google.co.za/books/about/Epidemics.html?id=4sJ1DwAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false), [package](https://cran.r-project.org/web/packages/epimdr/index.html_), [link](https://www.academia.edu/37886938/Epidemics_Models_and_Data_using_R_-_Ottar_N._Bj%C3%B8rnstad.pdf)
 - More fun things
     - [xkcd](https://www.xkcd.com/) (comic)
     - [The 100% CI](http://www.the100.ci/) (blog)
