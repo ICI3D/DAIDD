@@ -68,8 +68,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 ### Wednesday
 
 - 8:30-8:40 Tuesday recap ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
-- 8:40-9:00 Faculty research presentations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
-	- 
+- 8:40-9:00 Faculty research presentations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Slide folder, under research_talks](https://tinyurl.com/daidd-2019)
 
 - 9:00-10:30 Stochastic simulation models ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))- [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
 - 10:30-11:00 Morning break
@@ -77,7 +76,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](../participants/groups)
 - 12:30-14:00 Lunch break
 
-- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - [Slide folder](https://tinyurl.com/daidd-2019)
 - 15:30-16:00 Afternoon break
 
 - 16:00-16:30 Work session #RP - [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
@@ -92,6 +91,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 8:30-8:50 Regroup after feedback ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
 - 8:50-9:00 Wednesday recap ([Alex Welte]({{site.subdomainurl}}/team/welte/)) 
 - 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
+	- Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) 
 
 - 10:30-11:00 Morning break
 

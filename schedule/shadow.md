@@ -78,8 +78,7 @@ alertmsg: >
 ### Wednesday
 
 - 8:30-8:40 Tuesday recap ((vanschalkwyk))
-- 8:40-9:00 Faculty research presentations ((vanschalkwyk))
-	- HIDE [Slide folder](https://tinyurl.com/daidd-2019)
+- 8:40-9:00 Faculty research presentations ((vanschalkwyk)) - [Slide folder, under research_talks](https://tinyurl.com/daidd-2019)
 	- SHADOW [Faculty research presentations](../Materials/researchPresentations)
 
 - 9:00-10:30 Stochastic simulation models ((kassanjee))- [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
@@ -90,7 +89,8 @@ alertmsg: >
 - 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](../participants/groups)
 - 12:30-14:00 Lunch break
 
-- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff))HIDE  - [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
+- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) - [Slide folder](https://tinyurl.com/daidd-2019)
+	- SHADOW [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 - 15:30-16:00 Afternoon break
 
 - 16:00-16:30 Work session #RP - [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
@@ -106,9 +106,10 @@ SHADOW - 21:30 Mid-session post-mortem
 - SHADOW Planned 10:00-10:20 Regroup after feedback ((hargrove))
 - SHADOW Planned 10:20-10:30 Wednesday recap ((welte))
 
-- 8:30-8:50 Regroup after feedback ((hargrove)) HIDE: Changed for weather
-- 8:50-9:00 Wednesday recap ((welte)) HIDE: Changed 
-- 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ((pearson))HIDE  - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000)HIDE  - [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) HIDE Changed for weather
+- 8:30-8:50 Regroup after feedback ((hargrove)) NOTE: Changed for weather
+- 8:50-9:00 Wednesday recap ((welte)) NOTE: Changed for weather
+- 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ((pearson))HIDE  - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000) NOTE: Changed for weather
+	- Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) 
 
 - 10:30-11:00 Morning break
 
@@ -125,13 +126,13 @@ SHADOW - 21:30 Mid-session post-mortem
 
 ### Friday
 
-- 8:30-10:00 Group hike HIDE: Changed for weather
-- 10:00-10:20 Thursday recap ((hargrove)) HIDE: Changed for weather
-- 10:20 **Group photo** HIDE: Changed for weather
+- 8:30-10:00 Group hike NOTE: Changed for weather
+- 10:00-10:20 Thursday recap ((hargrove)) NOTE: Changed for weather
+- 10:20 **Group photo** NOTE: Changed for weather
 
 - SHADOW 8:45-9:00 Thursday recap ((hargrove))
 - SHADOW 8:45-9:00 Thursday recap ((hargrove))
-- SHADOW 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ((pearson))HIDE  - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000)HIDE  - [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661)
+- SHADOW 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ((pearson)) (See updated links from Changed version)
 - 10:30-11:00 Morning break
     SHADOW - 10:30 **Group Photo**
 	 

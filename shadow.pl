@@ -8,10 +8,15 @@ while(<>){
 my $linktext = "{{site.subdomainurl}}/team";
 
 while(<>){
-	next if /SHADOW/;
 	chomp;
-	s/[|].*//;
+	## Use SHADOW for resources, events and event notes for future
+	## It blocks the whole line
+	## Save HIDE for things we're hoping to reveal this year
+	## It only blocks things that follow it
+	## NOTE for shorter (part-line) notes, to help the goal of getting rid of HIDE as workshop progresses
+	next if /SHADOW/;
 	s/HIDE.*//;
+	s/NOTE.*//;
 	s|\(paradza\)|[Masimba Paradza]($linktext/paradza/)|;
 	s|\(hargrove\)|[John Hargrove]($linktext/hargrove/)|;
 	s|\(dushoff\)|[Jonathan Dushoff]($linktext/dushoff/)|;
