@@ -100,9 +100,14 @@ alertmsg: >
 
 ### Thursday
 
-- 8:30-10:00 Group hike
-- 10:00-10:20 Regroup after feedback ((hargrove))
-- 10:20-10:30 Wednesday recap ((welte))
+- SHADOW Planned 8:30-10:00 Group hike
+- SHADOW Planned 10:00-10:20 Regroup after feedback ((hargrove))
+- SHADOW Planned 10:20-10:30 Wednesday recap ((welte))
+
+- 8:30-8:50 Regroup after feedback ((hargrove)) HIDE: Changed for weather
+- 8:50-9:00 Wednesday recap ((welte)) HIDE: Changed 
+- 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ((pearson))HIDE  - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000)HIDE  - [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) HIDE Changed for weather
+
 - 10:30-11:00 Morning break
 
 - 11:00-12:30 Models and data: introduction to model fitting  ((vanschalkwyk))
@@ -118,10 +123,15 @@ alertmsg: >
 
 ### Friday
 
-- 8:45-9:00 Thursday recap ((hargrove))
-- 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ((pearson))HIDE  - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000)HIDE  - [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661)
+- 8:30-10:00 Group hike HIDE: Changed for weather
+- 10:00-10:20 Thursday recap ((hargrove)) HIDE: Changed for weather
+- 10:20 **Group photo** HIDE: Changed for weather
+
+- SHADOW 8:45-9:00 Thursday recap ((hargrove))
+- SHADOW 8:45-9:00 Thursday recap ((hargrove))
+- SHADOW 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ((pearson))HIDE  - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000)HIDE  - [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661)
 - 10:30-11:00 Morning break
-    - 10:30 **Group Photo**
+    SHADOW - 10:30 **Group Photo**
 	 
 - By 11 _Post_ model description [Task 5]; _Revise_ model diagram [Task 4f] if desired in time for working session
 	* [See instructions](../Materials/researchPlans)

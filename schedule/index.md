@@ -87,9 +87,11 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 
 ### Thursday
 
-- 8:30-10:00 Group hike
-- 10:00-10:20 Regroup after feedback ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
-- 10:20-10:30 Wednesday recap ([Alex Welte]({{site.subdomainurl}}/team/welte/))
+
+- 8:30-8:50 Regroup after feedback ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
+- 8:50-9:00 Wednesday recap ([Alex Welte]({{site.subdomainurl}}/team/welte/)) 
+- 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
+
 - 10:30-11:00 Morning break
 
 - 11:00-12:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
@@ -105,10 +107,11 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 
 ### Friday
 
-- 8:45-9:00 Thursday recap ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
-- 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
+- 8:30-10:00 Group hike 
+- 10:00-10:20 Thursday recap ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
+- 10:20 **Group photo** 
+
 - 10:30-11:00 Morning break
-    - 10:30 **Group Photo**
 	 
 - By 11 _Post_ model description [Task 5]; _Revise_ model diagram [Task 4f] if desired in time for working session
 	* [See instructions](../Materials/researchPlans)
