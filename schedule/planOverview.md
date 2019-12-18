@@ -31,6 +31,7 @@ __This schedule subject to change__.
 
 - 11:00-12:30 Small-group session: matching models to questions (All faculty) - [Group assignments](../participants/groups)
 
+- 16:00-16:30 Work session - [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
 - 16:30-18:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/)) -  [Group assignments](../participants/groups)
 
 ### Thursday

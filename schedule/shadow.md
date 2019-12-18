@@ -93,7 +93,7 @@ alertmsg: >
 - 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff))HIDE  - [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 - 15:30-16:00 Afternoon break
 
-- 16:00-16:30 Work session
+- 16:00-16:30 Work session #RP - [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
 - 16:30-18:00 Writing exercise - description of proposed model and assumptions ((welte)) #RP -  [Group assignments](../participants/groups)
 
 - 20:00-21:00 Mid-session feedback ((paradza))

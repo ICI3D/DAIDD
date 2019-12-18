@@ -1,8 +1,8 @@
 ## This is daiddweb (pages branch of DAIDD)
 
 ## make cerve ##
-## http://localhost:4000/
 ## http://localhost:4000/schedule/shadow
+## http://localhost:4000/
 
 ## http://www.ici3d.org/DAIDD/
 ## http://www.ici3d.org/DAIDD/schedule/
