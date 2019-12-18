@@ -69,6 +69,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 
 - 8:30-8:40 Tuesday recap ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 8:40-9:00 Faculty research presentations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
+	- 
 
 - 9:00-10:30 Stochastic simulation models ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
 - 10:30-11:00 Morning break
