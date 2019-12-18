@@ -87,7 +87,7 @@ alertmsg: >
 	* SHADOW - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R) older code
 - 10:30-11:00 Morning break
 
-- 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](participants/groups)
+- 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](../participants/groups)
 - 12:30-14:00 Lunch break
 
 - 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff))HIDE  - [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)

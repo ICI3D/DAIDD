@@ -74,7 +74,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 9:00-10:30 Stochastic simulation models ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))- [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
 - 10:30-11:00 Morning break
 
-- 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](participants/groups)
+- 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](../participants/groups)
 - 12:30-14:00 Lunch break
 
 - 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))

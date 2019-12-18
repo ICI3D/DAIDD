@@ -29,7 +29,7 @@ __This schedule subject to change__.
 
 ### Wednesday
 
-- 11:00-12:30 Small-group session: matching models to questions (All faculty) - [Group assignments](participants/groups)
+- 11:00-12:30 Small-group session: matching models to questions (All faculty) - [Group assignments](../participants/groups)
 
 - 16:30-18:00 Writing exercise - description of proposed model and assumptions ([Alex Welte]({{site.subdomainurl}}/team/welte/)) 
 
