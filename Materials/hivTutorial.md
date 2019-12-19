@@ -1,9 +1,8 @@
 ---
 layout: clinic
 title: HIV tutorial
-subtitle: Model fitting
+subtitle: Model fitting tutorial
 ---
-
 
 In this tutorial, we will fit a series of models, with different model structures, to HIV prevalence data from antenatal clinics (ANC data). 
 
