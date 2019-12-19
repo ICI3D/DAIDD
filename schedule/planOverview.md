@@ -36,7 +36,8 @@ __This schedule subject to change__.
 
 ### Thursday
 
-- 16:00-17:00 Exercise: Planning your approach
+- 16:00-17:00 Exercise: Planning your approach - [Planning document](https://docs.google.com/document/d/131l0PnkzeURcDt9sC0_5Qk-VAet3w64v3mhCzeY_MoQ/edit?usp=sharing)
+
 - 17:00-18:00 Writing exercise & mentored working session (All faculty)
 
 ### Friday

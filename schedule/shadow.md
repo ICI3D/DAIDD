@@ -120,7 +120,8 @@ SHADOW - 21:30 Mid-session post-mortem
 	* (Tutorial wrapup by (dushoff)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
 - 15:30-16:00 Afternoon break
 
-- 16:00-17:00 Exercise: Planning your approach #RP
+- 16:00-17:00 Exercise: Planning your approach #RP - [Planning document](https://docs.google.com/document/d/131l0PnkzeURcDt9sC0_5Qk-VAet3w64v3mhCzeY_MoQ/edit?usp=sharing)
+
 - 17:00-18:00 Writing exercise & mentored working session (All faculty) #RP
 - 20:00-21:00 Social activity (Game night)
 
