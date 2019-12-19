@@ -98,8 +98,8 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 11:00-12:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 12:30-14:00 Lunch break
 
-- 14:00-15:30 Model fitting tutorial ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Tutorial notes](../Materials/hivTutorial) 
-	* (Tutorial wrapup by [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 14:00-15:30 Model fitting tutorial ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Tutorial notes](../Materials/hivTutorial)
+	* (Tutorial wrapup by [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
 - 15:30-16:00 Afternoon break
 
 - 16:00-17:00 Exercise: Planning your approach #RP

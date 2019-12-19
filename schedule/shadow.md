@@ -116,8 +116,8 @@ SHADOW - 21:30 Mid-session post-mortem
 - 11:00-12:30 Models and data: introduction to model fitting  ((vanschalkwyk))
 - 12:30-14:00 Lunch break
 
-- 14:00-15:30 Model fitting tutorial ((hargrove)) - [Tutorial notes](../Materials/hivTutorial) HIDE [Boxcar Model Slides](../Materials/boxcarModels.pdf)
-	* (Tutorial wrapup by (dushoff))
+- 14:00-15:30 Model fitting tutorial ((hargrove)) - [Tutorial notes](../Materials/hivTutorial)
+	* (Tutorial wrapup by (dushoff)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
 - 15:30-16:00 Afternoon break
 
 - 16:00-17:00 Exercise: Planning your approach #RP
