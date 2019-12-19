@@ -57,7 +57,7 @@ alertmsg: >
 
 ### Tuesday
 
-- 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) - [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0)
+- 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) - [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0) - HIDE [recap folder](https://tinyurl.com/daidd-2019-recaps)
 - 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ((vanschalkwyk) and (hargrove)) - [Slide folder](https://tinyurl.com/daidd-2019), [Exercise](../Materials/SIRmodelFamily)
 	* Excel spreadsheet in [Code folder](https://tinyurl.com/daidd-2019-code)
 - 10:30-11:00 Morning break
@@ -77,8 +77,8 @@ alertmsg: >
 
 ### Wednesday
 
-- 8:30-8:40 Tuesday recap ((vanschalkwyk))
-- 8:40-9:00 Faculty research presentations ((vanschalkwyk)) - [Slide folder, under research_talks](https://tinyurl.com/daidd-2019)
+- 8:30-8:40 Tuesday recap ((vanschalkwyk)) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
+- 8:40-9:00 Faculty research presentations ((vanschalkwyk)) - [Research talks folder](https://tinyurl.com/daidd-2019-research)
 	- SHADOW [Faculty research presentations](../Materials/researchPresentations)
 
 - 9:00-10:30 Stochastic simulation models ((kassanjee))- [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
@@ -89,7 +89,7 @@ alertmsg: >
 - 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](../participants/groups)
 - 12:30-14:00 Lunch break
 
-- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) - [Slide folder](https://tinyurl.com/daidd-2019)
+- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) - [Slide folder](https://tinyurl.com/daidd-2019) HIDE: ADD some outputs?
 	- SHADOW [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 - 15:30-16:00 Afternoon break
 
@@ -107,7 +107,7 @@ SHADOW - 21:30 Mid-session post-mortem
 - SHADOW Planned 10:20-10:30 Wednesday recap ((welte))
 
 - 8:30-8:50 Regroup after feedback ((hargrove)) NOTE: Changed for weather
-- 8:50-9:00 Wednesday recap ((welte)) NOTE: Changed for weather
+- 8:50-9:00 Wednesday recap ((welte))  - HIDE[recap folder](https://tinyurl.com/daidd-2019-recaps) NOTE: Changed for weather
 - 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ((pearson))HIDE  - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000) NOTE: Changed for weather
 	- Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) 
 
@@ -116,7 +116,7 @@ SHADOW - 21:30 Mid-session post-mortem
 - 11:00-12:30 Models and data: introduction to model fitting  ((vanschalkwyk))
 - 12:30-14:00 Lunch break
 
-- 14:00-15:30 Model fitting tutorial ((hargrove))HIDE  - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
+- 14:00-15:30 Model fitting tutorial ((hargrove)) - [Tutorial notes](../Materials/hivTutorial) HIDE [Boxcar Model Slides](../Materials/boxcarModels.pdf)
 	* (Tutorial wrapup by (dushoff))
 - 15:30-16:00 Afternoon break
 
@@ -127,11 +127,10 @@ SHADOW - 21:30 Mid-session post-mortem
 ### Friday
 
 - 8:30-10:00 Group hike NOTE: Changed for weather
-- 10:00-10:20 Thursday recap ((hargrove)) NOTE: Changed for weather
+- 10:00-10:20 Thursday recap ((dushoff)) NOTE: Changed for weather
 - 10:20 **Group photo** NOTE: Changed for weather
 
-- SHADOW 8:45-9:00 Thursday recap ((hargrove))
-- SHADOW 8:45-9:00 Thursday recap ((hargrove))
+- SHADOW 8:45-9:00 Thursday recap ((dushoff))- HIDE[recap folder](https://tinyurl.com/daidd-2019-recaps) 
 - SHADOW 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ((pearson)) (See updated links from Changed version)
 - 10:30-11:00 Morning break
     SHADOW - 10:30 **Group Photo**
@@ -155,7 +154,7 @@ SHADOW - 21:30 Mid-session post-mortem
 - _Be sure to submit your [**final research plan**](../Materials/researchPlans) before Breakfast_
 - 8:00-8:50 Breakfast
 - _Be sure to check out by 8:45_
-- 8:50-9:00 Friday recap ((hargrove))
+- 8:50-9:00 Friday recap ((hargrove))- HIDE[recap folder](https://tinyurl.com/daidd-2019-recaps) 
 - 9:00-10:00 Use of models in study design for dynamic systems: Ebola vaccine trial design ((dushoff))HIDE  - [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
 - 10:00-10:15 Short break
 
@@ -165,5 +164,5 @@ SHADOW - 21:30 Mid-session post-mortem
 - 11:45-13:00 Final feedback session ((paradza))
 - 13:00-13:15 Closing session ((hargrove))
 - 13:15-14:00 Lunch
-- 14:00 Departure from Mont Fleur HIDE ☹
+- 14:00 Departure from Mont Fleur ☹
 

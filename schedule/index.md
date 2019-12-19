@@ -47,7 +47,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 
 ### Tuesday
 
-- 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) - [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0)
+- 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) - [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0) - 
 - 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/) and [John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Slide folder](https://tinyurl.com/daidd-2019), [Exercise](../Materials/SIRmodelFamily)
 	* Excel spreadsheet in [Code folder](https://tinyurl.com/daidd-2019-code)
 - 10:30-11:00 Morning break
@@ -67,8 +67,8 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 
 ### Wednesday
 
-- 8:30-8:40 Tuesday recap ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
-- 8:40-9:00 Faculty research presentations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Slide folder, under research_talks](https://tinyurl.com/daidd-2019)
+- 8:30-8:40 Tuesday recap ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
+- 8:40-9:00 Faculty research presentations ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Research talks folder](https://tinyurl.com/daidd-2019-research)
 
 - 9:00-10:30 Stochastic simulation models ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))- [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
 - 10:30-11:00 Morning break
@@ -76,7 +76,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](../participants/groups)
 - 12:30-14:00 Lunch break
 
-- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - [Slide folder](https://tinyurl.com/daidd-2019)
+- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) - [Slide folder](https://tinyurl.com/daidd-2019) 
 - 15:30-16:00 Afternoon break
 
 - 16:00-16:30 Work session #RP - [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
@@ -89,7 +89,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 
 
 - 8:30-8:50 Regroup after feedback ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
-- 8:50-9:00 Wednesday recap ([Alex Welte]({{site.subdomainurl}}/team/welte/)) 
+- 8:50-9:00 Wednesday recap ([Alex Welte]({{site.subdomainurl}}/team/welte/))  - 
 - 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 	- Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) 
 
@@ -98,7 +98,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 11:00-12:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 12:30-14:00 Lunch break
 
-- 14:00-15:30 Model fitting tutorial ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- 14:00-15:30 Model fitting tutorial ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) - [Tutorial notes](../Materials/hivTutorial) 
 	* (Tutorial wrapup by [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 15:30-16:00 Afternoon break
 
@@ -109,7 +109,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 ### Friday
 
 - 8:30-10:00 Group hike 
-- 10:00-10:20 Thursday recap ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
+- 10:00-10:20 Thursday recap ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 10:20 **Group photo** 
 
 - 10:30-11:00 Morning break
@@ -133,7 +133,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - _Be sure to submit your [**final research plan**](../Materials/researchPlans) before Breakfast_
 - 8:00-8:50 Breakfast
 - _Be sure to check out by 8:45_
-- 8:50-9:00 Friday recap ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- 8:50-9:00 Friday recap ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))- 
 - 9:00-10:00 Use of models in study design for dynamic systems: Ebola vaccine trial design ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 10:00-10:15 Short break
 
@@ -143,5 +143,5 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 11:45-13:00 Final feedback session ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
 - 13:00-13:15 Closing session ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 13:15-14:00 Lunch
-- 14:00 Departure from Mont Fleur 
+- 14:00 Departure from Mont Fleur ☹
 
