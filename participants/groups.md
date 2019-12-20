@@ -2,34 +2,25 @@
 layout: clinic
 redirect: ../development
 tab: Participants
-title: RP groups
+title: Research proposal presentations
 ---
 
-## Group 1
-* Reshma; Alex; Cari
-* Kyle Thien-An Rafiq
+## Session 1
 
-## Group 2
-* Cari; Jonathan; John
-* Rebecca Heather Ola
+Rafiq
+Gerald
+Joaquin
+Rebecca
+Thien-An
+Ola
 
-## Group 3
-* John; Reshma; Alex
-* Ijeoma Gerald Dan
+## Session 2
 
-## Group 4
-* Alex; John; Reshma
-* Marsha Joaquin Lactatia
+Kyle
+Ijeoma
+Dan
+Heather
+Lactatia
+Marsha*
 
-## Group A
-Ijeoma Joaquin Ola
-
-## Group B
-Kyle Lactatia Heather
-
-## Group C
-Dan Thien-An Marsha
-
-## Group D
-Rafiq Rebecca Gerald
 
