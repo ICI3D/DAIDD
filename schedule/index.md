@@ -31,7 +31,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 8:30-10:30 Research pitches (Moderator: [John Hargrove]({{site.subdomainurl}}/team/hargrove/))
     - [Order of introductions](./introductions)
 - 10:30-11:00 Morning break
-- 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds ([Alex Welte]({{site.subdomainurl}}/team/welte/))
+- 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds ([Alex Welte]({{site.subdomainurl}}/team/welte/)) -  [Slide folder](https://tinyurl.com/daidd-2019)
 - 12:30-14:00 Lunch break
 	* Introduction to [Mont Fleur](https://www.montfleur.co.za)
 
@@ -62,7 +62,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 16:00-16:30 Afternoon break
 	* Before 16:30 __Post__ revised research questions [Task 3]
 
-- 16:30-18:00 Exercise: Creating a model world to address a research question [Alex Welte]({{site.subdomainurl}}/team/welte/) #RP 
+- 16:30-18:00 Exercise: Creating a model world to address a research question [Alex Welte]({{site.subdomainurl}}/team/welte/) #RP -  [Slide folder](https://tinyurl.com/daidd-2019)
 - 20:00-21:00 Working session
 
 ### Wednesday
@@ -110,19 +110,19 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 ### Friday
 
 - 8:30-10:00 Group hike 
-- 10:00-10:20 Thursday recap ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 10:20 **Group photo** 
 
 - 10:30-11:00 Morning break
-	 
+    -  **Group Photo**;
+
 - By 11 _Post_ model description [Task 5]; _Revise_ model diagram [Task 4f] if desired in time for working session
 	* [See instructions](../Materials/researchPlans)
 
-- 11:00-12:30 Mentored working session (All faculty) #RP 
+- 11:00-11:20 Thursday recap ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 11:20-12:30 Mentored working session (All faculty) #RP 
 - 12:30-14:00 Lunch break
 
 - 14:00-15:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- 15:00-15:30 Model-based inference and the bigger picture - ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- 15:00-15:30 Model-based inference and the bigger picture - ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 15:30-16:00 Afternoon break
 
 - 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP

@@ -35,14 +35,14 @@ alertmsg: >
 - 8:30-10:30 Research pitches (Moderator: (hargrove))
     - [Order of introductions](./introductions)
 - 10:30-11:00 Morning break
-- 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds ((welte))
+- 11:00 - 12:30 Intuitive aspects of dynamics and introduction to model worlds ((welte)) -  [Slide folder](https://tinyurl.com/daidd-2019)
 	- SHADOW 10-minute stretch break at around 11:40
 	- SHADOW Plan forward links: dynamics PICO acronym, more time for SIR foundation
 - 12:30-14:00 Lunch break
 	* Introduction to [Mont Fleur](https://www.montfleur.co.za)
 
 - SHADOW 14:00-14:15 Introduction to [Mont Fleur](https://www.montfleur.co.za)
-	* SHADOW was moved unexpectedly this year; be in touch with them, some of the staff want to greet us and then go home
+	* SHADOW was sprung on us during lunch in 2019; be in touch with Mont Fleur next year; some of the staff want to greet us and then go home before 14:00
 - 14:15-14:45 [Overview of research plan development and structure](planOverview) ((dushoff)) #RP - [Slide folder](https://tinyurl.com/daidd-2019)
 - 14:45-15:40 Small group session: research questions for modeling projects (All faculty) #RP
 	* SHADOW Promulgate Group assignments
@@ -72,7 +72,8 @@ alertmsg: >
 - 16:00-16:30 Afternoon break
 	* Before 16:30 __Post__ revised research questions [Task 3]
 
-- 16:30-18:00 Exercise: Creating a model world to address a research question (welte) #RP HIDE  - [Step-by-step guide](../Materials/modelWorld) 
+- 16:30-18:00 Exercise: Creating a model world to address a research question (welte) #RP -  [Slide folder](https://tinyurl.com/daidd-2019)
+	* SHADOW Not used 2019 HIDE  - [Step-by-step guide](../Materials/modelWorld) 
 - 20:00-21:00 Working session
 
 ### Wednesday
@@ -103,6 +104,7 @@ SHADOW - 21:30 Mid-session post-mortem
 ### Thursday
 
 - SHADOW Planned 8:30-10:00 Group hike
+	* SHADOW Prepare in advance about time here; went more than 30 minutes long
 - SHADOW Planned 10:00-10:20 Regroup after feedback ((hargrove))
 - SHADOW Planned 10:20-10:30 Wednesday recap ((welte))
 
@@ -128,22 +130,22 @@ SHADOW - 21:30 Mid-session post-mortem
 ### Friday
 
 - 8:30-10:00 Group hike NOTE: Changed for weather
-- 10:00-10:20 Thursday recap ((dushoff)) NOTE: Changed for weather
-- 10:20 **Group photo** NOTE: Changed for weather
 
 - SHADOW 8:45-9:00 Thursday recap ((dushoff))- HIDE[recap folder](https://tinyurl.com/daidd-2019-recaps) 
 - SHADOW 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ((pearson)) (See updated links from Changed version)
 - 10:30-11:00 Morning break
-    SHADOW - 10:30 **Group Photo**
-	 
+    -  **Group Photo**;
+
 - By 11 _Post_ model description [Task 5]; _Revise_ model diagram [Task 4f] if desired in time for working session
 	* [See instructions](../Materials/researchPlans)
 
-- 11:00-12:30 Mentored working session (All faculty) #RP HIDE - Group assignments to be added
+- 11:00-11:20 Thursday recap ((dushoff)) NOTE: Changed for weather; Changed again
+- 11:20-12:30 Mentored working session (All faculty) #RP HIDE - Group assignments to be added
+	* SHADOW This time should be adjusted each year for faculty:student ratio. 
 - 12:30-14:00 Lunch break
 
 - 14:00-15:00 Model evaluation and comparison ((dushoff))HIDE  - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
-- 15:00-15:30 Model-based inference and the bigger picture - ((hargrove))
+- 15:00-15:30 Model-based inference and the bigger picture - ((pearson))
 - 15:30-16:00 Afternoon break
 
 - 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP

@@ -25,7 +25,7 @@ __This schedule subject to change__.
 
 * Before 16:30 __Post__ revised research questions [Task 3]
 
-- 16:30-18:00 Exercise: Creating a model world to address a research question [Alex Welte]({{site.subdomainurl}}/team/welte/) 
+- 16:30-18:00 Exercise: Creating a model world to address a research question [Alex Welte]({{site.subdomainurl}}/team/welte/) -  [Slide folder](https://tinyurl.com/daidd-2019)
 
 ### Wednesday
 
@@ -44,7 +44,7 @@ __This schedule subject to change__.
 
 - By 11 _Post_ model description [Task 5]; _Revise_ model diagram [Task 4f] if desired in time for working session
 
-- 11:00-12:30 Mentored working session (All faculty) 
+- 11:20-12:30 Mentored working session (All faculty) 
 
 - 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 

@@ -6,19 +6,19 @@ title: RP groups
 ---
 
 ## Group 1
-* Reshma; Alex
+* Reshma; Alex; Cari
 * Kyle Thien-An Rafiq
 
 ## Group 2
-* Cari; Jonathan
+* Cari; Jonathan; John
 * Rebecca Heather Ola
 
 ## Group 3
-* John; Reshma
+* John; Reshma; Alex
 * Ijeoma Gerald Dan
 
 ## Group 4
-* Alex; John
+* Alex; John; Reshma
 * Marsha Joaquin Lactatia
 
 ## Group A
