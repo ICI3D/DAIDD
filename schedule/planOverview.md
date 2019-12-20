@@ -52,5 +52,7 @@ __This schedule subject to change__.
 
 ### Saturday
 
-- 10:15-11:30 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
+- 9:00-10:00 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
+
+- 10:15-11:15 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
 

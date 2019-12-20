@@ -144,7 +144,7 @@ SHADOW - 21:30 Mid-session post-mortem
 	* SHADOW This time should be adjusted each year for faculty:student ratio. 
 - 12:30-14:00 Lunch break
 
-- 14:00-15:00 Model evaluation and comparison ((dushoff)) HIDE  - 
+- 14:00-15:00 Model evaluation and comparison ((dushoff)) -  [Slide folder](https://tinyurl.com/daidd-2019) 
 - 15:00-15:30 Model-based inference and the bigger picture - ((pearson))
 - 15:30-16:00 Afternoon break
 
@@ -158,14 +158,18 @@ SHADOW - 21:30 Mid-session post-mortem
 - 8:00-8:50 Breakfast
 - _Be sure to check out by 8:45_
 - 8:50-9:00 Friday recap ((hargrove))- HIDE[recap folder](https://tinyurl.com/daidd-2019-recaps) 
-- 9:00-10:00 Use of models in study design for dynamic systems: Ebola vaccine trial design ((dushoff))HIDE  - [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
+- SHADOW 9:00-10:00 Use of models in study design for dynamic systems: Ebola vaccine trial design ((dushoff))HIDE  - [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
+	* Suppressed this year to give more time to participants; also, Dushoff illness
+- 9:00-10:00 Discussion of research plans/proposals (Moderator: (vanschalkwyk)) #RP NOTE: FIDDLED for 2019
+	* [Proposal order](../participants/order)
 - 10:00-10:15 Short break
 
-- 10:15-11:30 Discussion of research plans/proposals (Moderator: (vanschalkwyk)) #RP
-- 11:30-11:45 Short break
+- 10:15-11:15 Discussion of research plans/proposals (Moderator: (vanschalkwyk)) #RP NOTE: FIDDLED for 2019
+	* [Proposal order](../participants/order)
+- 11:15-11:30 Short break
 
-- 11:45-13:00 Final feedback session ((paradza))
-- 13:00-13:15 Closing session ((hargrove))
-- 13:15-14:00 Lunch
+- 11:30-12:40 Final feedback session ((paradza))
+- 12:40-13:00 Closing session ((hargrove))
+- Lunch 
 - 14:00 Departure from Mont Fleur ☹
 

@@ -121,7 +121,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 11:20-12:30 Mentored working session (All faculty) #RP  [Group assignments](../participants/groups)
 - 12:30-14:00 Lunch break
 
-- 14:00-15:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 14:00-15:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) -  [Slide folder](https://tinyurl.com/daidd-2019) 
 - 15:00-15:30 Model-based inference and the bigger picture - ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 15:30-16:00 Afternoon break
 
@@ -135,14 +135,17 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 8:00-8:50 Breakfast
 - _Be sure to check out by 8:45_
 - 8:50-9:00 Friday recap ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))- 
-- 9:00-10:00 Use of models in study design for dynamic systems: Ebola vaccine trial design ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+	* Suppressed this year to give more time to participants; also, Dushoff illness
+- 9:00-10:00 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP 
+	* [Proposal order](../participants/order)
 - 10:00-10:15 Short break
 
-- 10:15-11:30 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP
-- 11:30-11:45 Short break
+- 10:15-11:15 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP 
+	* [Proposal order](../participants/order)
+- 11:15-11:30 Short break
 
-- 11:45-13:00 Final feedback session ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
-- 13:00-13:15 Closing session ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
-- 13:15-14:00 Lunch
+- 11:30-12:40 Final feedback session ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
+- 12:40-13:00 Closing session ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- Lunch 
 - 14:00 Departure from Mont Fleur ☹
 
