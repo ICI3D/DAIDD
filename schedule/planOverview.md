@@ -44,7 +44,7 @@ __This schedule subject to change__.
 
 - By 11 _Post_ model description [Task 5]; _Revise_ model diagram [Task 4f] if desired in time for working session
 
-- 11:20-12:30 Mentored working session (All faculty) 
+- 11:20-12:30 Mentored working session (All faculty)  [Group assignments](../participants/groups)
 
 - 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 

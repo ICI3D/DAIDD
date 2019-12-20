@@ -118,7 +118,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 	* [See instructions](../Materials/researchPlans)
 
 - 11:00-11:20 Thursday recap ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 11:20-12:30 Mentored working session (All faculty) #RP 
+- 11:20-12:30 Mentored working session (All faculty) #RP  [Group assignments](../participants/groups)
 - 12:30-14:00 Lunch break
 
 - 14:00-15:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))

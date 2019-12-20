@@ -140,7 +140,7 @@ SHADOW - 21:30 Mid-session post-mortem
 	* [See instructions](../Materials/researchPlans)
 
 - 11:00-11:20 Thursday recap ((dushoff)) NOTE: Changed for weather; Changed again
-- 11:20-12:30 Mentored working session (All faculty) #RP HIDE - Group assignments to be added
+- 11:20-12:30 Mentored working session (All faculty) #RP  [Group assignments](../participants/groups)
 	* SHADOW This time should be adjusted each year for faculty:student ratio. 
 - 12:30-14:00 Lunch break
 
