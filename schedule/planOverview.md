@@ -46,7 +46,7 @@ __This schedule subject to change__.
 
 - 11:20-12:30 Mentored working session (All faculty)  [Group assignments](../participants/groups)
 
-- 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
+- 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) - [instructions](../Materials/researchPlans)
 
 - Evening __Post__ final research plan [Task 7]
 

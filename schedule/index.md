@@ -89,7 +89,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 
 
 - 8:30-8:50 Regroup after feedback ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
-- 8:50-9:00 Wednesday recap ([Alex Welte]({{site.subdomainurl}}/team/welte/))  - 
+- 8:50-9:00 Wednesday recap ([Alex Welte]({{site.subdomainurl}}/team/welte/))  - [recap folder](https://tinyurl.com/daidd-2019-recaps) 
 - 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 	- Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) 
 
@@ -121,11 +121,11 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 11:20-12:30 Mentored working session (All faculty) #RP  [Group assignments](../participants/groups)
 - 12:30-14:00 Lunch break
 
-- 14:00-15:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 14:00-15:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 15:00-15:30 Model-based inference and the bigger picture - ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 15:30-16:00 Afternoon break
 
-- 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP
+- 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP - [instructions](../Materials/researchPlans)
 
 - Evening __Post__ final research plan [Task 7]
 

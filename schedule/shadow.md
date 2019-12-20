@@ -73,7 +73,7 @@ alertmsg: >
 	* Before 16:30 __Post__ revised research questions [Task 3]
 
 - 16:30-18:00 Exercise: Creating a model world to address a research question (welte) #RP -  [Slide folder](https://tinyurl.com/daidd-2019)
-	* SHADOW Not used 2019 HIDE  - [Step-by-step guide](../Materials/modelWorld) 
+	* SHADOW Not used 2019 - [Step-by-step guide](../Materials/modelWorld) 
 - 20:00-21:00 Working session
 
 ### Wednesday
@@ -109,7 +109,7 @@ SHADOW - 21:30 Mid-session post-mortem
 - SHADOW Planned 10:20-10:30 Wednesday recap ((welte))
 
 - 8:30-8:50 Regroup after feedback ((hargrove)) NOTE: Changed for weather
-- 8:50-9:00 Wednesday recap ((welte))  - HIDE[recap folder](https://tinyurl.com/daidd-2019-recaps) NOTE: Changed for weather
+- 8:50-9:00 Wednesday recap ((welte))  - [recap folder](https://tinyurl.com/daidd-2019-recaps) NOTE: Changed for weather
 - 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ((pearson))HIDE  - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000) NOTE: Changed for weather
 	- Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) 
 
@@ -139,16 +139,16 @@ SHADOW - 21:30 Mid-session post-mortem
 - By 11 _Post_ model description [Task 5]; _Revise_ model diagram [Task 4f] if desired in time for working session
 	* [See instructions](../Materials/researchPlans)
 
-- 11:00-11:20 Thursday recap ((dushoff)) NOTE: Changed for weather; Changed again
+- 11:00-11:20 Thursday recap ((dushoff)) NOTE: Changed for weather; Changed again for hike delays
 - 11:20-12:30 Mentored working session (All faculty) #RP  [Group assignments](../participants/groups)
 	* SHADOW This time should be adjusted each year for faculty:student ratio. 
 - 12:30-14:00 Lunch break
 
-- 14:00-15:00 Model evaluation and comparison ((dushoff))HIDE  - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
+- 14:00-15:00 Model evaluation and comparison ((dushoff)) HIDE  - 
 - 15:00-15:30 Model-based inference and the bigger picture - ((pearson))
 - 15:30-16:00 Afternoon break
 
-- 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP
+- 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP - [instructions](../Materials/researchPlans)
 
 - Evening __Post__ final research plan [Task 7]
 
