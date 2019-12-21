@@ -23,5 +23,3 @@ title: Research proposal presentation order
 * Heather
 * Marsha*
 
-
-

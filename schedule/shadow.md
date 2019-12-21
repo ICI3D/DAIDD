@@ -110,7 +110,7 @@ SHADOW - 21:30 Mid-session post-mortem
 
 - 8:30-8:50 Regroup after feedback ((hargrove)) NOTE: Changed for weather
 - 8:50-9:00 Wednesday recap ((welte))  - [recap folder](https://tinyurl.com/daidd-2019-recaps) NOTE: Changed for weather
-- 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ((pearson))HIDE  - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000) NOTE: Changed for weather
+- 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ((pearson))  - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000) NOTE: Changed for weather
 	- Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) 
 
 - 10:30-11:00 Morning break
