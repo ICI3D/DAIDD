@@ -8,19 +8,19 @@ title: Research proposal presentation order
 ## Session 1
 
 * Rafiq
+* Lactatia
 * Gerald
 * Joaquin
 * Rebecca
 * Thien-An
-* Ola
 
 ## Session 2
 
+* Ola
 * Kyle
 * Ijeoma
 * Dan
 * Heather
-* Lactatia
 * Marsha*
 
 
