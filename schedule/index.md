@@ -122,7 +122,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - 12:30-14:00 Lunch break
 
 - 14:00-15:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) -  [Slide folder](https://tinyurl.com/daidd-2019) 
-- 15:00-15:30 Model-based inference and the bigger picture - ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
+- 15:00-15:30 Model-based inference and the bigger picture ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) -  [Slide folder](https://tinyurl.com/daidd-2019)
 - 15:30-16:00 Afternoon break
 
 - 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP - [instructions](../Materials/researchPlans)

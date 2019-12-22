@@ -145,7 +145,7 @@ SHADOW - 21:30 Mid-session post-mortem
 - 12:30-14:00 Lunch break
 
 - 14:00-15:00 Model evaluation and comparison ((dushoff)) -  [Slide folder](https://tinyurl.com/daidd-2019) 
-- 15:00-15:30 Model-based inference and the bigger picture - ((pearson))
+- 15:00-15:30 Model-based inference and the bigger picture ((pearson)) -  [Slide folder](https://tinyurl.com/daidd-2019)
 - 15:30-16:00 Afternoon break
 
 - 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP - [instructions](../Materials/researchPlans)
