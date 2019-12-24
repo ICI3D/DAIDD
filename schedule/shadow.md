@@ -57,7 +57,7 @@ alertmsg: >
 
 ### Tuesday
 
-- 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) - [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0) - HIDE [recap folder](https://tinyurl.com/daidd-2019-recaps)
+- 8:45-9:00 Monday recap ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) - [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
 - 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ((vanschalkwyk) and (hargrove)) - [Slide folder](https://tinyurl.com/daidd-2019), [Exercise](../Materials/SIRmodelFamily)
 	* Excel spreadsheet in [Code folder](https://tinyurl.com/daidd-2019-code)
 - 10:30-11:00 Morning break
@@ -90,7 +90,7 @@ alertmsg: >
 - 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](../participants/groups)
 - 12:30-14:00 Lunch break
 
-- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) - [Slide folder](https://tinyurl.com/daidd-2019) HIDE: ADD some outputs?
+- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) - [Slide folder](https://tinyurl.com/daidd-2019)
 	- SHADOW [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 - 15:30-16:00 Afternoon break
 
