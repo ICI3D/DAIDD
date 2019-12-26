@@ -16,6 +16,7 @@ subtitle: Resources for during and after the Clinic
     - [R Studio Cheat Sheets](http://www.rstudio.com/resources/cheatsheets)
     - [R for Data Science](http://r4ds.had.co.nz/)
     - [R Studio Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+    - [R Bootcamp](https://r-bootcamp.netlify.com/) - specifically for learning tidyverse
 - Further reading
     - _An introduction to infectious disease modelling_ by E Vynnycky and RG White - [link](http://www.anintroductiontoinfectiousdiseasemodelling.com/)
     - _Modeling Infectious Diseases in Humans and Animals_ by MJ Keeling and P Rohani - [review](http://rohanilab.ecology.uga.edu/wp-content/uploads/2013/12/farrington.pdf), [link](https://www.researchgate.net/publication/23180326_Modeling_Infectious_Diseases_in_Humans_and_Animals)
