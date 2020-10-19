@@ -6,7 +6,7 @@ The schedule is made from shadow.md by
 * replacing whatever's above /HEAD with what's in index.top
 * Hiding lines tagged as SHADOW
 * Hiding text after the tags NOTE or HIDE
-* Replacing ((faculty_names)
+* Replacing ((faculty_names))
 	* this last may not work perfectly right now, but I will upgrade it
 	* should already work for the codes you see (last year's faculty)
 
