@@ -1,5 +1,5 @@
 ---
-layout: clinic
+layout: redirect
 redirect: ../development
 tab: Schedule
 title: Schedule
@@ -88,10 +88,10 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 ### Thursday
 
 
-- 8:30-8:50 Regroup after feedback ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
-- 8:50-9:00 Wednesday recap ([Alex Welte]({{site.subdomainurl}}/team/welte/))  - [recap folder](https://tinyurl.com/daidd-2019-recaps) 
-- 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))  - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000) 
-	- Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) 
+- 8:30-8:50 Regroup after feedback ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- 8:50-9:00 Wednesday recap ([Alex Welte]({{site.subdomainurl}}/team/welte/))  - [recap folder](https://tinyurl.com/daidd-2019-recaps)
+- 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))  - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000)
+	- Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661)
 
 - 10:30-11:00 Morning break
 
@@ -109,7 +109,7 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 
 ### Friday
 
-- 8:30-10:00 Group hike 
+- 8:30-10:00 Group hike
 
 - 10:30-11:00 Morning break
     -  **Group Photo**;
@@ -117,11 +117,11 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - By 11 _Post_ model description [Task 5]; _Revise_ model diagram [Task 4f] if desired in time for working session
 	* [See instructions](../Materials/researchPlans)
 
-- 11:00-11:20 Thursday recap ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 11:00-11:20 Thursday recap ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 11:20-12:30 Mentored working session (All faculty) #RP  [Group assignments](../participants/groups)
 - 12:30-14:00 Lunch break
 
-- 14:00-15:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) -  [Slide folder](https://tinyurl.com/daidd-2019) 
+- 14:00-15:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) -  [Slide folder](https://tinyurl.com/daidd-2019)
 - 15:00-15:30 Model-based inference and the bigger picture ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) -  [Slide folder](https://tinyurl.com/daidd-2019)
 - 15:30-16:00 Afternoon break
 
@@ -134,18 +134,17 @@ __The schedule below is preliminary and subject to change__ Materials linked fro
 - _Be sure to submit your [**final research plan**](../Materials/researchPlans) before Breakfast_
 - 8:00-8:50 Breakfast
 - _Be sure to check out by 8:45_
-- 8:50-9:00 Friday recap ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))- 
+- 8:50-9:00 Friday recap ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))-
 	* Suppressed this year to give more time to participants; also, Dushoff illness
-- 9:00-10:00 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP 
+- 9:00-10:00 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP
 	* [Proposal order](../participants/order)
 - 10:00-10:15 Short break
 
-- 10:15-11:15 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP 
+- 10:15-11:15 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) #RP
 	* [Proposal order](../participants/order)
 - 11:15-11:30 Short break
 
 - 11:30-12:40 Final feedback session ([Masimba Paradza]({{site.subdomainurl}}/team/paradza/))
 - 12:40-13:00 Closing session ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
-- Lunch 
+- Lunch
 - 14:00 Departure from Mont Fleur ☹
-

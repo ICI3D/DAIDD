@@ -5,6 +5,8 @@
 ## http://localhost:4000/schedule/test
 ## http://localhost:4000/
 
+## https://github.com/ICI3D/DAIDD/tree/gh-pages
+
 ## http://www.ici3d.org/DAIDD/
 ## http://www.ici3d.org/DAIDD/schedule/
 ## http://www.ici3d.org/DAIDD/schedule/test
