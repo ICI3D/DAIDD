@@ -40,13 +40,16 @@ Sources += $(wildcard */shadow.md)
 
 -include makestuff/perl.def
 
-Sources += index.md makeshadow.md
+Sources += index.md makeshadow.md 
 
 Sources += $(wildcard schedule/*.top schedule/*.md)
 Sources += $(wildcard *.pl)
 ## Rewrite to use pushro and a smarter script?
 ## Rewrite to use the full crazy lecture/format world?
-schedule/index.md: schedule/index.top schedule/shadow.md shadow.pl
+schedule/index.md: schedule/test.md
+	$(copy)
+
+schedule/test.md: schedule/index.top schedule/shadow.md shadow.pl
 	$(rm)
 	$(CAT) $< > $@
 	perl -wf shadow.pl schedule/shadow.md >> $@
