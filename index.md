@@ -1,9 +1,10 @@
 ---
 layout: clinic
-alerttype: success
+alerttype: warning
 alertmsg: >
   <ul style="font-size:16px">
-    <li>Welcome to DAIDD 2019!</li>
+    <li>Welcome to DAIDD 2020!</li>
+    <li>This site is currently being updated. Please come back in mid-November for additional information.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
   </ul>
 ---
