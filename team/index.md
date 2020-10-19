@@ -3,7 +3,7 @@ layout: clinic
 redirect: ../development
 tab: Team
 title: Team
-subtitle: DAIDD 2019 Instructional Team
+subtitle: DAIDD 2020 Instructional Team
 ---
 
 {% include topTable.html %}
@@ -74,7 +74,7 @@ subtitle: DAIDD 2019 Instructional Team
 
 {% include topTable.html %}
 
-## Evaluators
+## Evaluator
 
 {% for profile in site.team %}
 {% assign key = profile.relative_path | split: '/' | last | split: '.' | first %}
