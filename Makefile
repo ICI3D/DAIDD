@@ -7,6 +7,7 @@
 
 ## http://www.ici3d.org/DAIDD/
 ## http://www.ici3d.org/DAIDD/schedule/
+## http://www.ici3d.org/DAIDD/schedule/2019.html
 ## http://www.ici3d.org/DAIDD/schedule/2018.html
 
 current: target
@@ -39,7 +40,7 @@ Sources += $(wildcard */shadow.md)
 
 -include makestuff/perl.def
 
-Sources += index.md
+Sources += index.md makeshadow.md
 
 Sources += $(wildcard schedule/*.top schedule/*.md)
 Sources += $(wildcard *.pl)
