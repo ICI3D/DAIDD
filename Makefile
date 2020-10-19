@@ -2,11 +2,12 @@
 
 ## make cerve ##
 ## http://localhost:4000/schedule/shadow
-## http://localhost:4000/schedule
+## http://localhost:4000/schedule/test
 ## http://localhost:4000/
 
 ## http://www.ici3d.org/DAIDD/
 ## http://www.ici3d.org/DAIDD/schedule/
+## http://www.ici3d.org/DAIDD/schedule/test
 ## http://www.ici3d.org/DAIDD/schedule/2019.html
 ## http://www.ici3d.org/DAIDD/schedule/2018.html
 
@@ -16,8 +17,6 @@ current: target
 # include makestuff/perl.def
 
 ######################################################################
-
-## Removed from index; make it a comment: Information will be added to this site as the Clinic approaches.
 
 # Content
 

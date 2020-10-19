@@ -1,6 +1,12 @@
-The schedule is currently made from [index.top](schedule/index.top) and [shadow.md]. The idea is that you edit those two files, save, and then say `make schedule/index.md` from the main folder of the pages branch.
+The schedule is currently made from [index.top](schedule/index.top) and [shadow.md](schedule/index.top). The idea is that you edit those two files, save, and then say `make schedule/test.md` from the main folder of the pages branch. Editing shadow.md directly updates [the shadow schedule](http://www.ici3d.org/DAIDD/schedule/test).
 
-You can compare the [shadow schedule](http://www.ici3d.org/DAIDD/schedule/shadow) and the public schedule](http://www.ici3d.org/DAIDD/schedule/test) now to get an idea of what functionality I'm trying to incorporate.
+If you like what's in [test](http://www.ici3d.org/DAIDD/schedule/test), you can then `make schedule/index.md` to update the real schedule. 
 
-I see that you've disabled the public link to the public schedule, so I've also made a test version (updated using `make schedule/test.md`
+The schedule is made from shadow.md by
+* replacing whatever's above /HEAD with what's in index.top
+* Hiding lines tagged as SHADOW
+* Hiding text after the tags NOTE or HIDE
+* Replacing ((faculty_names)
+	* this last may not work perfectly right now, but I will upgrade it
+	* should already work for the codes you see (last year's faculty)
 
