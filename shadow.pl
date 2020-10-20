@@ -18,11 +18,15 @@ while(<>){
 	s/HIDE.*//;
 	s/NOTE.*//;
 	s|\(paradza\)|[Masimba Paradza]($linktext/paradza/)|;
+	s|\(bruce\)|[Faikah Bruce]($linktext/bruce/)|;
 	s|\(hargrove\)|[John Hargrove]($linktext/hargrove/)|;
 	s|\(dushoff\)|[Jonathan Dushoff]($linktext/dushoff/)|;
+	s|\(mthombothi\)|[Zinhle Mthombothi]($linktext/mthombothi/)|;
+	s|\(scott\)|[Jim Scott]($linktext/scott/)|;
+	s|\(borchering\)|[Becky Borchering]($linktext/borchering/)|;
+	s|\(pulliam\)|[Juliet Pulliam]($linktext/pulliam/)|;
 	s|\(vanschalkwyk\)|[Cari van Schalkwyk]($linktext/vanschalkwyk/)|;
 	s|\(kassanjee\)|[Reshma Kassanjee]($linktext/kassanjee/)|;
 	s|\(pearson\)|[Carl Pearson]($linktext/pearson/)|;
-	s|\(welte\)|[Alex Welte]($linktext/welte/)|;
 	say;
 }
