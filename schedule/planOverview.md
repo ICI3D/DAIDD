@@ -2,12 +2,13 @@
 layout: clinic
 redirect: ../development
 tab: Overview
-title: Research Plan Overview
+title: Overview
+subtitle: Research Plan Overview
 alerttype: warning
 alertmsg: Unless otherwise noted, all materials made available through this website and the DAIDD Dropbox are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>. <a rel="license" href="../license.html">Click here for license details</a>.
 ---
 
-__This schedule subject to change__. 
+__This schedule subject to change__.
 
 
 ### Sunday
@@ -55,4 +56,3 @@ __This schedule subject to change__.
 - 9:00-10:00 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 
 - 10:15-11:15 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
-
