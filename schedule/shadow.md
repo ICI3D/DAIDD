@@ -28,9 +28,9 @@ alertmsg: >
 
 - _Please join the session by 16:25 SAST. We will begin promptly at 16:30._
 - Welcome and some logistics ((pulliam?)) NOTE (15 mins)
-- What are we doing here? ((hargrove?)) NOTE - [Slide folder](https://tinyurl.com/daidd-2019) (30 mins)
+- What are we doing here? ((hargrove?)) NOTE - [Slide folder](https://tinyurl.com/daidd-2019) (25 mins) + 5 min break
 - Data, models, and science ((dushoff?)) NOTE (30 mins)
-- Working with the DAIDD Dropbox Folders and R Studio ((pearson)) NOTE (15 mins)
+- Working with the DAIDD technical tools ((pearson)) NOTE (15 mins)
     - _Make sure your slides are uploaded for tomorrow's interactive session!_
 - Ice breakers ((bruce)) NOTE (30 mins?)
     - SHADOW How will this work online? Should probably use this as a chance to introduce some Teams features
@@ -38,7 +38,7 @@ alertmsg: >
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Research pitches (Moderator: (tbd))
+- Research pitches (Moderator: (borchering))
     - SHADOW [Order of introductions](./introductions)
 
 #### Individual session 1
