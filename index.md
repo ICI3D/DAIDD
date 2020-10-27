@@ -9,6 +9,10 @@ alertmsg: >
   </ul>
 ---
 
+<center>
+<p>DAIDD 2020 is supported by the South African Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)<br>and the MIDAS Coordination Centre, with funding from grant GM-U24GM132013.</p>
+</center>
+
 <div class="col-lg-2">
 </div>
 <div class="col-lg-8">
