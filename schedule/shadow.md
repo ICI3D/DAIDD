@@ -27,9 +27,9 @@ alertmsg: >
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - _Please join the session by 16:25 SAST. We will begin promptly at 16:30._
-- Welcome and some logistics ((pulliam?)) NOTE (15 mins)
-- What are we doing here? ((hargrove?)) NOTE - [Slide folder](https://tinyurl.com/daidd-2019) (25 mins) + 5 min break
-- Data, models, and science ((dushoff?)) NOTE (30 mins)
+- Welcome and some logistics ((pulliam)) NOTE (15 mins)
+- What are we doing here? ((hargrove)) NOTE - [Slide folder](https://tinyurl.com/daidd-2019) (25 mins) + 5 min break
+- Data, models, and science ((dushoff)) NOTE (30 mins)
 - Working with the DAIDD technical tools ((pearson)) NOTE (15 mins)
     - _Make sure your slides are uploaded for tomorrow's interactive session!_
 - Ice breakers ((bruce)) NOTE (30 mins?)
@@ -48,7 +48,7 @@ _**Please complete the following between the end of Sunday's interactive session
 - Video lecture: Intuitive aspects of dynamics NOTE (tbd) possibly use Bellan MMED video? review...
     - SHADOW Plan forward links: dynamics PICO acronym, more time for SIR foundation
 - Video lecture: Introduction to model worlds NOTE (tbd)
-- Exercise: Formulating research questions for modeling projects NOTE How best to do this?
+- Exercise: Formulating research questions for modeling projects NOTE How best to do this? POST in a Research Questions channel before the beginning of the next interactive session.
 
 ### Monday
 
@@ -56,13 +56,13 @@ _**Please complete the following between the end of Sunday's interactive session
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((mthombothi?)) NOTE (20 mins)
-- Overview of research plan development and structure ((pulliam?)) NOTE (10 mins?) - [Overview of research plan development and structure](planOverview)
-- Tutorial: Dynamical Fever - computer exercise and discussion (All faculty?) HIDE - [Slide folder](https://tinyurl.com/daidd-2019) NOTE (90 minutes?)
+- Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((mthombothi)) NOTE (20 mins)
+- Overview of research plan development and structure ((pulliam)) NOTE (10 mins?) - [Overview of research plan development and structure](planOverview)
+- Tutorial: Dynamical Fever - computer exercise and discussion (All faculty) HIDE - [Slide folder](https://tinyurl.com/daidd-2019) NOTE (40 + 10 group + 40)
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Discussion: Dynamical Fever ((scott?)) HIDE - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)
+- Discussion: Dynamical Fever ((scott)) HIDE - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)
 - Small group session: research questions for modeling projects (All faculty) NOTE (90 mins)
     - SHADOW - [Step-by-step guide](../Materials/researchQuestions)
 
