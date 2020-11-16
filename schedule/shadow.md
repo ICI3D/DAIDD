@@ -45,7 +45,7 @@ alertmsg: >
 
 _**Please complete the following between the end of Sunday's interactive session and the beginning of Monday's interactive session.**_
 
-- Video lecture: Intuitive aspects of dynamics NOTE (tbd) possibly use Bellan MMED video? review...
+- Video lecture: Intuitive aspects of dynamics NOTE (bellan) possibly use Bellan MMED video? review...
     - SHADOW Plan forward links: dynamics PICO acronym, more time for SIR foundation
 - Video lecture: Introduction to model worlds NOTE (tbd)
 - Exercise: Formulating research questions for modeling projects NOTE How best to do this? POST in a Research Questions channel before the beginning of the next interactive session.
@@ -70,9 +70,9 @@ _**Please complete the following between the end of Sunday's interactive session
 
 **_Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session._**
 
-- Exercise: Finalize your research question and post to the Dropbox folder.
-- Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations NOTE (dushoff?)
-- Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication NOTE (hargrove?)
+- Exercise: Finalize your research question and post to the Research Questions channel.
+- Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations NOTE (dushoff) will look into using existing lecture
+- Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication NOTE (hargrove)
 - Video lecture: Faculty research presentation NOTE (tbd) Is this too many lectures for one session?
 
 ### Tuesday
@@ -81,13 +81,13 @@ _**Please complete the following between the end of Sunday's interactive session
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Daily recap ((hargrove?)) NOTE (15 mins)
+- Daily recap ((borchering)) NOTE (15 mins)
     - SHADOW [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
-- Summary and discussion: The SIR model family ((borchering?)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Exercise](../Materials/SIRmodelFamily) NOTE (15 mins?)
+- Summary and discussion: The SIR model family ((dushoff)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Exercise](../Materials/SIRmodelFamily) NOTE (15 mins?)
     - SHADOW Excel spreadsheet in [Code folder](https://tinyurl.com/daidd-2019-code)
 - Exercise: Building an SIR model from scratch ((dushoff)) NOTE (30 mins?) NOTE + 5 min stretch break
-- Summary and discussion: The life cycle of a modeling project ((scott?))
-- Live lecture: Simple individual-based models ((pearson?)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)
+- Summary and discussion: The life cycle of a modeling project ((hargrove))
+- Live lecture: Simple individual-based models ((pearson)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)
     - SHADOW [Google sheet](https://tinyurl.com/DAIDD-SIRboth-2019)
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
