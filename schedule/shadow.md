@@ -73,7 +73,7 @@ _**Please complete the following between the end of Sunday's interactive session
 - Exercise: Finalize your research question and post to the Research Questions channel.
 - Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations NOTE (dushoff) will look into using existing lecture
 - Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication NOTE (hargrove)
-- Video lecture: Faculty research presentation NOTE (tbd) Is this too many lectures for one session?
+- Video lecture: Faculty research presentation NOTE (dushoff) [video](https://www.youtube.com/watch?v=N4qWzM044ns)
 
 ### Tuesday
 
@@ -93,7 +93,7 @@ _**Please complete the following between the end of Sunday's interactive session
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Exercise: Simple individual-based models ((tbd)) NOTE (30 mins)
-- Exercise: Creating a model world to address a research question ((pulliam?)) NOTE (90 mins)
+- Exercise: Creating a model world to address a research question ((pulliam)) NOTE (90 mins)
     - SHADOW [Step-by-step guide](../Materials/modelWorld)
 
 #### Individual session 3
@@ -102,10 +102,10 @@ _**Please complete the following between the end of Sunday's interactive session
 
 - Exercise: Creating a model world assignment. Be prepared to share your model diagram during Wednesday's interactive session.
 - Video (optional): Creating a model world - another example NOTE if sharing, use a different example question!
-- Video lecture: Faculty research presentation NOTE (tbd)
+- Video lecture: Faculty research presentation NOTE (hargrove) AIMS Public lecture
     - SHADOW [Faculty research presentations](../Materials/researchPresentations)
-- Video lecture: Stochastic simulation models NOTE (borchering?)
-    - SHADOW Stochastic simulation models ((kassanjee))- [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
+- Video lecture: Stochastic simulation models NOTE (borchering)
+    - SHADOW Stochastic simulation models ((kassanjee)) - [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
     - SHADOW [Becky's slides](https://www.dropbox.com/s/678dx9io8fqnxyg/Borchering_stochastic_simulation_DAIDD2016.pdf?dl=1)
     - SHADOW - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R) older code
 - Video lecture: Impact of contact patterns, consequences of heterogeneity, and modeling options NOTE (dushoff)
@@ -118,16 +118,16 @@ _**Please complete the following between the end of Sunday's interactive session
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - Daily recap ((mthombothi)) NOTE (15 mins)
-- Summary and discussion: Stochastic simulation models ((pulliam?)) NOTE (15 mins)
+- Summary and discussion: Stochastic simulation models ((borchering)) NOTE (15 mins)
 - Small-group session: matching models to questions (All faculty) NOTE (90 minutes)
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ((pearson?)) NOTE (15 mins)
-- Tutorial: Heterogeneity in disease emergence ((borchering?)) # (45 mins)
-- Mid-session feedback ((bruce)) # (60 mins)
+- Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) NOTE (15 mins)
+- Tutorial: Heterogeneity in disease emergence ((dushoff), (pearson), (mthombothi), (pearson)) NOTE (45 mins)
+- Mid-session feedback ((bruce)) NOTE (60 mins)
 
-SHADOW - Mid-session post-mortem: when??
+SHADOW - Mid-session post-mortem: when?? NOTE Start here!!
 
 #### Individual session 4
 
