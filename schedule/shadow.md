@@ -127,15 +127,16 @@ _**Please complete the following between the end of Sunday's interactive session
 - Tutorial: Heterogeneity in disease emergence ((dushoff), (pearson), (mthombothi), (pearson)) NOTE (45 mins)
 - Mid-session feedback ((bruce)) NOTE (60 mins)
 
-SHADOW - Mid-session post-mortem: when?? NOTE Start here!!
+SHADOW - Mid-session post-mortem: 21:30 or soon thereafter SAST Wednesday
 
 #### Individual session 4
 
 **_Please complete the following between the end of Wednesday's interactive session and the beginning of Thursday's interactive session._**
 
-- Exercise: Update your model diagram and post to Dropbox.
-- Video lecture: Faculty research presentation NOTE (tbd)
-- Video lecture: Models and data: introduction to model fitting NOTE (scott?)
+- Exercise: Update your model diagram and post to Teams.
+- Video lecture: Faculty research presentation NOTE ((borchering))
+- Video lecture: Models and data: introduction to model fitting NOTE ((scott)) - to be confirmed
+- Video lecture (optional): Introduction to statistical philosophy NOTE ((dushoff))
 
 ### Thursday
 
@@ -143,11 +144,12 @@ SHADOW - Mid-session post-mortem: when?? NOTE Start here!!
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Regroup after feedback ((tbd)) NOTE (20 mins)
+- Regroup after feedback ((pulliam)) NOTE (20 mins)
 - Daily recap ((borchering)) NOTE (15 mins)
-- Summary and discussion: Models and data: introduction to model fitting ((dushoff?)) NOTE (20 mins?)
-- Writing exercise: description of proposed model and assumptions ((tbd)) NOTE (65 mins?) Model telephone
+- Summary and discussion: Models and data: introduction to model fitting ((scott)) NOTE (20 mins?)
+- Writing exercise: description of proposed model and assumptions ((mthombothi)) NOTE (65 mins?) Model telephone
     - SHADOW [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
+    - SHADOW [instructions for in-person version](https://docs.google.com/document/d/1d_noXARmkB3yqg8_kUW7AqCTurWy5u84JQWsGoTVCj8)
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
@@ -160,14 +162,14 @@ SHADOW - Mid-session post-mortem: when?? NOTE Start here!!
 
 **_Please complete the following between the end of Thursday's interactive session and the beginning of Friday's interactive session._**
 
-- Exercise: Finalize your model diagram and description and post to Dropbox.
+- Exercise: Finalize your model diagram and description and post to Teams NOTE (pulliam) to make folders for assignments
     - SHADOW [See instructions](../Materials/researchPlans)
-- Exercise: Work through the document for planning your approach.
-- Video lecture: Model evaluation and comparison NOTE (dushoff)
+- Exercise: Work through the document for planning your approach
+- Video lecture: Model evaluation and comparison NOTE ((dushoff))
 
-SHADOW Possible social activity (Game night)? eg, from c. 21:30 SAST?
+SHADOW Possible social activity (Game night) - eg, from c. 21:30 SAST; JD will bring beer; CP will source games
 
-### Friday
+### Friday NOTE Start here
 
 #### Interactive session 6
 
