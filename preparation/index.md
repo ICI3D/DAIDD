@@ -67,8 +67,8 @@ If you plan to bring a laptop to use during the Clinic, please install the follo
 <div class="col-lg-10">
 {% highlight r %}
 
-install.packages('devtools') # if not already installed
-devtools::install_github('ICI3D/ici3d-pkg') # DO NOT DO THIS IF YOU NEED TO UPDATE R VERSION (see above)
+install.packages('remotes') # if not already installed
+remotes::install_github('ICI3D/ici3d-pkg') # DO NOT DO THIS IF YOU NEED TO UPDATE R VERSION (see above)
 
 {% endhighlight %}
 </div>

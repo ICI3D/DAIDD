@@ -45,9 +45,9 @@ alertmsg: >
 
 _**Please complete the following between the end of Sunday's interactive session and the beginning of Monday's interactive session.**_
 
-- Video lecture: Intuitive aspects of dynamics NOTE (bellan) possibly use Bellan MMED video? review...
+- Video lecture: [Introduction to Infectious Disease Modelling](https://youtu.be/EV5FLlrRwiQ) NOTE (bellan) possibly use Bellan MMED video? review...
     - SHADOW Plan forward links: dynamics PICO acronym, more time for SIR foundation
-- Video lecture: Introduction to model worlds NOTE (tbd)
+- Video lecture: Introduction to model worlds NOTE (pulliam)
 - Exercise: Formulating research questions for modeling projects NOTE How best to do this? POST in a Research Questions channel before the beginning of the next interactive session.
 
 ### Monday
