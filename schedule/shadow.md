@@ -102,7 +102,7 @@ _**Please complete the following between the end of Sunday's interactive session
 
 - Exercise: Creating a model world assignment. Be prepared to share your model diagram during Wednesday's interactive session.
 - Video (optional): Creating a model world - another example NOTE if sharing, use a different example question!
-- Video lecture: Faculty research presentation NOTE (hargrove) AIMS Public lecture
+- Video lecture: Faculty research presentation NOTE (hargrove)
     - SHADOW [Faculty research presentations](../Materials/researchPresentations)
 - Video lecture: Stochastic simulation models NOTE (borchering)
     - SHADOW Stochastic simulation models ((kassanjee)) - [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
@@ -133,10 +133,10 @@ SHADOW - Mid-session post-mortem: 21:30 or soon thereafter SAST Wednesday
 
 **_Please complete the following between the end of Wednesday's interactive session and the beginning of Thursday's interactive session._**
 
-- Exercise: Update your model diagram and post to Teams.
-- Video lecture: Faculty research presentation NOTE ((borchering))
+- Exercise: Update your model diagram and post to Teams
 - Video lecture: Models and data: introduction to model fitting NOTE ((scott)) - to be confirmed
-- Video lecture (optional): Introduction to statistical philosophy NOTE ((dushoff))
+- Video lecture (optional): Faculty research presentation NOTE ((bellan)) trial design video
+- SHADOW Video lecture (optional): Introduction to statistical philosophy NOTE ((dushoff))
 
 ### Thursday
 
@@ -145,7 +145,7 @@ SHADOW - Mid-session post-mortem: 21:30 or soon thereafter SAST Wednesday
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - Regroup after feedback ((pulliam)) NOTE (20 mins)
-- Daily recap ((borchering)) NOTE (15 mins)
+- Daily recap ((pearson)) NOTE (15 mins)
 - Summary and discussion: Models and data: introduction to model fitting ((scott)) NOTE (20 mins?)
 - Writing exercise: description of proposed model and assumptions ((mthombothi)) NOTE (65 mins?) Model telephone
     - SHADOW [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
@@ -169,31 +169,30 @@ SHADOW - Mid-session post-mortem: 21:30 or soon thereafter SAST Wednesday
 
 SHADOW Possible social activity (Game night) - eg, from c. 21:30 SAST; JD will bring beer; CP will source games
 
-### Friday NOTE Start here
+### Friday
 
 #### Interactive session 6
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Daily recap ((tbd)) NOTE (15 mins)
-- Summary and discussion: Model evaluation and comparison ((tbd)) NOTE (20 mins?)
-- Live lecture: Use of models in public health decision-making (Faculty research presentation) - Dengue vaccination roll-out ((pearson)) HIDE - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
+- Daily recap ((hargrove)) NOTE (15 mins)
+- Summary and discussion: Model evaluation and comparison ((dushoff)) NOTE (20 mins?)
+- Live lecture: Use of models in public health decision-making (Faculty research presentation) - Now with more COVID! ((pearson)) HIDE - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Live lecture: Model-based inference and the bigger picture ((tbd)) NOTE (30 mins)
-- Review and Discussion (Moderator: (hargrove?)) NOTE (30 mins free form discussion / Q&A on topics raised by participants)
+- Live lecture: Model-based inference and the bigger picture ((scott)) NOTE (30 mins)
+- Review and Discussion (Moderator: (hargrove)) NOTE (30 mins free form discussion / Q&A on topics raised by participants)
 - Small group session: planning your approach (All faculty) NOTE (60 mins)
 
 #### Individual session 6
 
 **_Please complete the following between the end of Friday's interactive session and the beginning of Saturday's interactive session._**
 
-- Video lecture: Use of models in public health decision-making (Faculty research presentation)
-    - SHADOW Choose at least one: Ebola vaccine trial design (dushoff) or Modelling the COVID epidemic in South Africa (pulliam) or something else entirely...
+- Video lecture: Use of models in public health decision-making (Faculty research presentation) ((borchering))
     - SHADOW [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
-- Submit your [**final research plan**](../Materials/researchPlans) via Dropbox.
+- Submit your [**final research plan**](../Materials/researchPlans) via Teams
 
 **_Special session:_ 15:00-17:00 EST / 12:00-14:00 PST**
 
@@ -211,11 +210,11 @@ SHADOW Possible social activity (Game night) - eg, from c. 21:30 SAST; JD will b
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Daily recap ((pearson)) NOTE (15 mins)
-- Discussion of research plans/proposals (Moderator: (tbd))
+- Daily recap ((dushoff)) NOTE (15 mins)
+- Discussion of research plans/proposals (Moderator: (dushoff))
 	* SHADOW [Proposal order](../participants/order)
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Final feedback session ((bruce)) NOTE (60-90 mins)
-- Closing session ((dushoff)) NOTE (15 mins)
+- Closing session ((pulliam)) NOTE (15 mins)
