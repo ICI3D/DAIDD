@@ -1,6 +1,6 @@
 ---
 layout: clinic
-alerttype: warning
+alerttype: success
 alertmsg: >
   <ul style="font-size:16px">
     <li>Welcome to DAIDD 2020!</li>
