@@ -1,12 +1,12 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
 tab: Preparation
 title: Preparation
 subtitle: Instructions for preparation
 ---
 
-You should complete the following steps in preparation for the clinic before you arrive for the Clinic.
+You should complete the following steps in preparation for the clinic before the first day of the Clinic.
 
 ### 1. Research Pitch
 
@@ -20,22 +20,25 @@ You should complete the following steps in preparation for the clinic before you
     - The intent here is not for you to spend hours preparing something new to share, rather to provide an easy way for others who are interested to learn more about your research and interests.
     - Please do keep it brief (1-3 pages would be best).
 
-- Bring PDF versions of your slide and more detailed description with you on Sunday afternoon. We will have a session on Sunday evening where you are instructed on how to add these files to the DAIDD Participants Dropbox folder.
+- Upload the PDF version of your 1-slide research pitch to the **_01_pitchSlides_** folder on the DAIDD Participants Team on Microsoft Teams. Use the file naming convention **01_SurnameFirstname_pitch.pdf**.
+- Upload the PDF version of your more detailed description of your research to the **_02_reserachInfo_** folder on the DAIDD Participants Team, using the file naming convention **02_SurnameFirstname_info.pdf**.
+- Please contact Faikah if you have any trouble accessing the DAIDD Participants Team or uploading your material.
 
 ### 2. Pre-assigned reading
 
-All of the pre-assigned readings are available in the DAIDD 2019 Dropbox folder. **Please make sure you have access to this folder**
+All of the pre-assigned readings are available in the DAIDD Participant Team under the **_Pre-reading_** folder.
 
 #### Required reading
 
-- We have put together an introductory overview, which includes excerpts from the below papers.
+- Please review the [DAIDD Glossary](../resources/DAIDD_Glossary.pdf).
+
+#### Recommended reading
+
+- We have put together an introductory overview, which includes excerpts from the below papers:
     - **Bellan, SE**, **JRC Pulliam**, **JC Scott**, **J Dushoff** and the MMED Organizing Committee. How to make epidemiological training infectious. _PLoS Biology_ 2012; 10: e1001295.
     - Susser, M and E Susser. Choosing a future for epidemiology: I. Eras and paradigms. _Am J Public Health_ 1996; 86: 668–73.
     - Koopman, JS and JW Lynch. Individual causal models and population system models in epidemiology. _Am J Public Health_ 1999; 89: 1170–4.
     - Brauer, F. Mathematical epidemiology is not an oxymoron. _BMC Public Health_ 2009; 9: S2.
-- Please also review the [DAIDD Glossary](../resources/DAIDD_Glossary.pdf).
-
-#### Recommended reading
 
 - Heesterbeek, JAP, RM Anderson, V Andreasen, S Bansal, D De Angelis, C Dye, KTD Eames, WJ Edmunds, SDW Frost, S Funk, TD Hollingsworth, T House, V Isham, P Klepac, J Lessler, JO Lloyd-Smith, CJE Metcalf, D Mollison, L Pellis, **JRC Pulliam**, MG Roberts, C Viboud, and the Isaac Newton Institute IDD Collaboration. (2017) Modeling infectious disease dynamics in the complex landscape of global health. _Science_ 347(6227): aaa4339. doi:10.1126/science.aaa4339
     - Note that this paper is long and may be best read in multiple sittings.
@@ -53,12 +56,12 @@ All of the pre-assigned readings are available in the DAIDD 2019 Dropbox folder.
 
 ### 3. Software installation
 
-If you plan to bring a laptop to use during the Clinic, please install the following programs prior to the opening session:
+Please install the following programs on the computer you will use during the Clinic, prior to the opening session:
 
 - R - a statistical programming language (download links for [Windows](http://cran.r-project.org/bin/windows/base/), [Linux](http://cran.r-project.org/bin/linux/), and [MacOS](http://cran.r-project.org/bin/macosx/))
 	* If you already have R, please check that you have a recent version, or else update. Versions starting with 3.5 or 3.6 should be OK.
 - R Studio - a user interface for R that will be needed for computer exercises ([download link](http://www.rstudio.com/products/rstudio/download/))
-- Dropbox - a cloud-based program for sharing and storing files ([download](https://www.dropbox.com/install))
+- [Microsoft Teams](https://www.microsoft.com/en-za/microsoft-365/microsoft-teams/download-app) - used for file sharing, chat, and virtual sessions
 - ICI3D R package - a package containing interactive tutorials for use at the Clinic; to install, run the following lines of code from the R or Rstudio command line:
 
 <div class="row">
@@ -78,7 +81,7 @@ remotes::install_github('ICI3D/ici3d-pkg') # DO NOT DO THIS IF YOU NEED TO UPDAT
 
 Please let us know if you have trouble installing any of the above software!
 
-> Please note that you will need to have administrative permissions on the laptop you bring to the Clinic. You may need to arrange this through your IT department before departure if you are using an institutional laptop.
+> Please note that you will need to have administrative permissions on the computer you use for the Clinic. You may need to arrange this through your IT department if you are using an institutional computer.
 
 ### 4. Introductory tutorials
 
