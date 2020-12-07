@@ -9,13 +9,15 @@ alerttype: danger
 alertmsg: >
   <ul>
     <li>Please update all your presentations to <b>use the ICI3D slide template</b>.</li>
-    <li><b>(dushoff)</b>: Please add a link to the DAIDD 2019 Notes GD.</li>
-    <li><a href="https://docs.google.com/document/d/1cCrzyuOYelbtxDKRT3fuwcKQImse3KLSJ3cR_yNTkng">Click here for access to the DAIDD 2018 Notes GD.</a></li>
-    <li><a href="http://docs.google.com/document/d/1-mWDyOAVIrgIT59dJ4ShrM1rsh8Ik_2f6Pr0_O8FQ2I/edit?usp=sharing_eip&ts=5a2da462">Click here for access to the DAIDD 2017 Notes GD.</a></li>
     <li>Note that links on this page do not (necessarily) work!</li>
+	 <li>Faculty notes docs now on faculty notes page</li>
   </ul>
 ---
 
+Faculty notes page
+* https://github.com/ICI3D/DAIDD/blob/master/notes.md
+
+Local copy of this page
 * http://localhost:4000/schedule/shadow
 
 /HEAD
@@ -28,7 +30,7 @@ alertmsg: >
 
 - _Please join the session by 16:25 SAST. We will begin promptly at 16:30._
 - Welcome and some logistics ((pulliam)) NOTE (15 mins)
-- What are we doing here? ((hargrove)) NOTE - [Slide folder](https://tinyurl.com/daidd-2019) (25 mins) + 5 min break
+- What are we doing here? ((hargrove)) NOTE - UPDATE linking system[Slide folder](https://tinyurl.com/daidd-2019) (25 mins) + 5 min break 
 - Data, models, and science ((dushoff)) NOTE (30 mins)
 - Working with the DAIDD technical tools ((pearson)) NOTE (15 mins)
     - _Make sure your slides are uploaded for the next session!_

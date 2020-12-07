@@ -1,7 +1,6 @@
 ## This is daiddweb (pages branch of DAIDD)
 
 ## make cerve ##
-## http://localhost:4000/schedule/shadow
 ## http://localhost:4000/schedule/test
 ## http://localhost:4000/
 
