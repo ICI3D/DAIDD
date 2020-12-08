@@ -86,7 +86,7 @@ _**Please complete the following between the end of Sunday's interactive session
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - Daily recap ((borchering)) NOTE (15 mins)
-    - SHADOW [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
+    - SHADOW [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=1) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
 - Summary and discussion: The SIR model family ((dushoff)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Exercise](../Materials/SIRmodelFamily) NOTE (15 mins?)
     - SHADOW Excel spreadsheet in [Code folder](https://tinyurl.com/daidd-2019-code)
 - Exercise: Building an SIR model from scratch ((dushoff)) NOTE (30 mins?) NOTE + 5 min stretch break
@@ -105,7 +105,7 @@ _**Please complete the following between the end of Sunday's interactive session
 **_Please complete the following between the end of Tuesday's interactive session and the beginning of Wednesday's interactive session._**
 
 - Exercise: Creating a model world assignment. Be prepared to share your model diagram during Wednesday's interactive session.
-- Video (optional): Creating a model world - another example NOTE if sharing, use a different example question!
+- Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example NOTE if sharing, use a different example question!
 - Video lecture: Faculty research presentation NOTE (hargrove)
     - SHADOW [Faculty research presentations](../Materials/researchPresentations)
 - Video lecture: Stochastic simulation models NOTE (borchering)
