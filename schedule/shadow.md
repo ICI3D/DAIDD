@@ -30,7 +30,7 @@ Local copy of this page
 
 - _Please join the session by 16:25 SAST. We will begin promptly at 16:30._
 - Welcome and some logistics ((pulliam)) NOTE (15 mins)
-- What are we doing here? ((hargrove)) NOTE - UPDATE linking system[Slide folder](https://tinyurl.com/daidd-2019) (25 mins) + 5 min break 
+- What are we doing here? ((hargrove)) NOTE - UPDATE linking system[Slide folder](https://tinyurl.com/daidd-2019) (25 mins) + 5 min break
 - Data, models, and science ((dushoff)) NOTE (30 mins)
 - Working with the DAIDD technical tools ((pearson)) NOTE (15 mins)
     - _Make sure your slides are uploaded for the next session!_
@@ -47,9 +47,11 @@ Local copy of this page
 
 _**Please complete the following between the end of Sunday's interactive session and the beginning of Monday's interactive session.**_
 
-- Video lecture: [Introduction to Infectious Disease Modelling](https://youtu.be/EV5FLlrRwiQ) NOTE (bellan) possibly use Bellan MMED video? review...
+- Video lecture: [Introduction to Infectious Disease Modelling](https://youtu.be/EV5FLlrRwiQ) NOTE (bellan)
     - SHADOW Plan forward links: dynamics PICO acronym, more time for SIR foundation
-- Video lecture: Introduction to model worlds NOTE (pulliam)
+- Video lecture: [Introduction to model worlds](https://youtu.be/ev8jMgv-DEg) NOTE (pulliam)
+    - Reference: [Bellan _et al_. 2015](https://doi.org/10.1016/S1473-3099(15)70139-8)
+    - Reference: [Kucharski _et al_. 2015](https://www.pnas.org/content/112/46/14366)
 - Exercise: Formulating research questions for modeling projects NOTE How best to do this? POST in a Research Questions channel before the beginning of the next interactive session.
 
 ### Monday
