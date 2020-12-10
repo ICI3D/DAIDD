@@ -29,10 +29,10 @@ Local copy of this page
 - _Please join the session by 16:25. We will begin promptly at 16:30._
 - 16:30-16:45 Welcome and some logistics ((pulliam))
 - 16:45-17:10 What are we doing here? ((hargrove)) NOTE - UPDATE linking system[Slide folder](https://tinyurl.com/daidd-2019)
-- Data, models, and science ((dushoff)) NOTE (30 mins)
-- Working with the DAIDD technical tools ((pearson)) NOTE (15 mins)
+- 17:15-17:45 Data, models, and science ((dushoff))
+- 17:45-18:00 Working with the DAIDD technical tools ((pearson)) NOTE (15 mins)
     - _Make sure your slides are uploaded for the next session!_
-- Ice breakers ((bruce)) NOTE (30 mins?)
+- 18:00-18:30 Ice breakers ((bruce))
     - SHADOW How will this work online? Should probably use this as a chance to introduce some Teams features
     - SHADOW **Prep for round-robin introductions.** Can we figure out how to do this online?
 

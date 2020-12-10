@@ -34,10 +34,10 @@ alertmsg: >
 - _Please join the session by 07:25. We will begin promptly at 07:30._
 - 07:30-07:45 Welcome and some logistics ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 07:45-08:10 What are we doing here? ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
-- Data, models, and science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- Working with the DAIDD technical tools ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
+- 08:15-08:45 Data, models, and science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 08:45-09:00 Working with the DAIDD technical tools ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
     - _Make sure your slides are uploaded for the next session!_
-- Ice breakers ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
+- 09:00-09:30 Ice breakers ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/))
 
 #### Interactive session 1b
 
