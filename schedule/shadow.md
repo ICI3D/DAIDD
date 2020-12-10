@@ -45,9 +45,11 @@ Local copy of this page
 
 _**Please complete the following between the end of Sunday's interactive session and the beginning of Monday's interactive session.**_
 
-- Video lecture: [Introduction to Infectious Disease Modelling](https://youtu.be/EV5FLlrRwiQ) NOTE (bellan) possibly use Bellan MMED video? review...
+- Video lecture: [Introduction to Infectious Disease Modelling](https://youtu.be/EV5FLlrRwiQ) NOTE (bellan)
     - SHADOW Plan forward links: dynamics PICO acronym, more time for SIR foundation
-- Video lecture: Introduction to model worlds NOTE (pulliam)
+- Video lecture: [Introduction to model worlds](https://youtu.be/ev8jMgv-DEg) NOTE (pulliam)
+    - Reference: [Bellan _et al_. 2015](https://doi.org/10.1016/S1473-3099(15)70139-8)
+    - Reference: [Kucharski _et al_. 2015](https://www.pnas.org/content/112/46/14366)
 - Exercise: Formulating research questions for modeling projects NOTE How best to do this? POST in a Research Questions channel before the beginning of the next interactive session.
 
 ### Monday
@@ -82,7 +84,7 @@ _**Please complete the following between the end of Sunday's interactive session
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - Daily recap ((borchering)) NOTE (15 mins)
-    - SHADOW [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=0) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
+    - SHADOW [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=1) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
 - Summary and discussion: The SIR model family ((dushoff)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Exercise](../Materials/SIRmodelFamily) NOTE (15 mins?)
     - SHADOW Excel spreadsheet in [Code folder](https://tinyurl.com/daidd-2019-code)
 - Exercise: Building an SIR model from scratch ((dushoff)) NOTE (30 mins?) NOTE + 5 min stretch break
@@ -101,7 +103,7 @@ _**Please complete the following between the end of Sunday's interactive session
 **_Please complete the following between the end of Tuesday's interactive session and the beginning of Wednesday's interactive session._**
 
 - Exercise: Creating a model world assignment. Be prepared to share your model diagram during Wednesday's interactive session.
-- Video (optional): Creating a model world - another example NOTE if sharing, use a different example question!
+- Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example NOTE if sharing, use a different example question!
 - Video lecture: Faculty research presentation NOTE (hargrove)
     - SHADOW [Faculty research presentations](../Materials/researchPresentations)
 - Video lecture: Stochastic simulation models NOTE (borchering)

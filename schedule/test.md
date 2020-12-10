@@ -34,7 +34,9 @@ alertmsg: >
 _**Please complete the following between the end of Sunday's interactive session and the beginning of Monday's interactive session.**_
 
 - Video lecture: [Introduction to Infectious Disease Modelling](https://youtu.be/EV5FLlrRwiQ) 
-- Video lecture: Introduction to model worlds 
+- Video lecture: [Introduction to model worlds](https://youtu.be/ev8jMgv-DEg) 
+    - Reference: [Bellan _et al_. 2015](https://doi.org/10.1016/S1473-3099(15)70139-8)
+    - Reference: [Kucharski _et al_. 2015](https://www.pnas.org/content/112/46/14366)
 - Exercise: Formulating research questions for modeling projects 
 
 ### Monday
@@ -83,7 +85,7 @@ _**Please complete the following between the end of Sunday's interactive session
 **_Please complete the following between the end of Tuesday's interactive session and the beginning of Wednesday's interactive session._**
 
 - Exercise: Creating a model world assignment. Be prepared to share your model diagram during Wednesday's interactive session.
-- Video (optional): Creating a model world - another example 
+- Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example 
 - Video lecture: Faculty research presentation 
 - Video lecture: Stochastic simulation models 
 - Video lecture: Impact of contact patterns, consequences of heterogeneity, and modeling options 
