@@ -39,9 +39,14 @@ _**Please complete the following between the end of Sunday's interactive session
     - Reference: [Kucharski _et al_. 2015](https://www.pnas.org/content/112/46/14366)
 - Exercise: Formulating research questions for modeling projects 
 
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
+
 ### Monday
 
 #### Interactive session 2a
+
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -63,6 +68,10 @@ _**Please complete the following between the end of Sunday's interactive session
 - Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations 
 - Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication 
 - Video lecture: Faculty research presentation 
+
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
 
 ### Tuesday
 
@@ -91,6 +100,10 @@ _**Please complete the following between the end of Sunday's interactive session
 - Video lecture: Stochastic simulation models 
 - Video lecture: Impact of contact patterns, consequences of heterogeneity, and modeling options 
 
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
+
 ### Wednesday
 
 #### Interactive session 4
@@ -116,6 +129,10 @@ _**Please complete the following between the end of Sunday's interactive session
 - Video lecture: Models and data: introduction to model fitting 
 - Video lecture (optional): Faculty research presentation 
 
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
+
 ### Thursday
 
 #### Interactive session 5
@@ -140,6 +157,10 @@ _**Please complete the following between the end of Sunday's interactive session
 - Exercise: Work through the document for planning your approach
 - Video lecture: Model evaluation and comparison 
 
+
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
 
 ### Friday
 
@@ -169,11 +190,15 @@ _**Please complete the following between the end of Sunday's interactive session
 
 - One-on-one mentoring sessions with Borchering, Dushoff, and Scott 
 
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
+
 ### Saturday
 
 #### Individual session 7
 
-**_Special session:_ 11:00-13:00 SAST / 9:00-11:00 BST**
+**_Special session:_ 11:00-13:00 
 
 - One-on-one mentoring sessions with Hargrove, Mthombothi, Pearson, and Pulliam 
 

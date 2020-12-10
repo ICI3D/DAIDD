@@ -6,6 +6,10 @@ my $new = shift @ARGV;
 
 while(<>){
 	chomp;
+	if (/SAST/){
+		## say;
+		next;
+	}
 	my @ln = split/([0-9]{1,2}:[0-9]{2})/;
 	foreach my $piece (@ln){
 		next unless $piece =~ /[0-9]{1,2}:[0-9]{2}/;

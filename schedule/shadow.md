@@ -14,11 +14,10 @@ alertmsg: >
   </ul>
 ---
 
-Faculty notes page
-* https://github.com/ICI3D/DAIDD/blob/master/notes.md
+* [Faculty notes page](https://github.com/ICI3D/DAIDD/blob/master/notes.md)
+* [Shadow rules](http://www.ici3d.org/DAIDD/shadow_rules)
 
-Local copy of this page
-* http://localhost:4000/schedule/shadow
+* [Your local (jekyll) copy of this page](http://localhost:4000/schedule/shadow)
 
 /HEAD
 
@@ -52,10 +51,15 @@ _**Please complete the following between the end of Sunday's interactive session
     - Reference: [Kucharski _et al_. 2015](https://www.pnas.org/content/112/46/14366)
 - Exercise: Formulating research questions for modeling projects NOTE How best to do this? POST in a Research Questions channel before the beginning of the next interactive session.
 
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
+
 ### Monday
 
 #### Interactive session 2a
 
+HIDE Let me know what you think about these banner lines with SAST; they are suppressed by the program for now but the code is there to show them correctly
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((mthombothi))
@@ -77,6 +81,10 @@ _**Please complete the following between the end of Sunday's interactive session
 - Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations NOTE (dushoff) will look into using existing lecture
 - Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication NOTE (hargrove)
 - Video lecture: Faculty research presentation NOTE (dushoff) [video](https://www.youtube.com/watch?v=N4qWzM044ns)
+
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
 
 ### Tuesday
 
@@ -114,6 +122,10 @@ _**Please complete the following between the end of Sunday's interactive session
 - Video lecture: Impact of contact patterns, consequences of heterogeneity, and modeling options NOTE (dushoff)
     - SHADOW [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
+
 ### Wednesday
 
 #### Interactive session 4
@@ -130,7 +142,7 @@ _**Please complete the following between the end of Sunday's interactive session
 - Tutorial: Heterogeneity in disease emergence ((dushoff), (pearson), (mthombothi)) NOTE (45 mins)
 - Mid-session feedback ((bruce)) NOTE (60 mins)
 
-SHADOW - Mid-session post-mortem: 21:30 or soon thereafter SAST Wednesday
+SHADOW - Mid-session post-mortem: ~ 21:30
 
 #### Individual session 4
 
@@ -140,6 +152,10 @@ SHADOW - Mid-session post-mortem: 21:30 or soon thereafter SAST Wednesday
 - Video lecture: Models and data: introduction to model fitting NOTE ((scott)) - to be confirmed
 - Video lecture (optional): Faculty research presentation NOTE ((bellan)) trial design video
 - SHADOW Video lecture (optional): Introduction to statistical philosophy NOTE ((dushoff))
+
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
 
 ### Thursday
 
@@ -170,7 +186,11 @@ SHADOW - Mid-session post-mortem: 21:30 or soon thereafter SAST Wednesday
 - Exercise: Work through the document for planning your approach
 - Video lecture: Model evaluation and comparison NOTE ((dushoff))
 
-SHADOW Possible social activity (Game night) - eg, from c. 21:30 SAST; JD will bring beer; CP will source games
+SHADOW Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; CP will source games
+
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
 
 ### Friday
 
@@ -201,11 +221,15 @@ SHADOW Possible social activity (Game night) - eg, from c. 21:30 SAST; JD will b
 
 - One-on-one mentoring sessions with Borchering, Dushoff, and Scott NOTE Schedule to be posted
 
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
+
 ### Saturday
 
 #### Individual session 7
 
-**_Special session:_ 11:00-13:00 SAST / 9:00-11:00 BST**
+**_Special session:_ 11:00-13:00 
 
 - One-on-one mentoring sessions with Hargrove, Mthombothi, Pearson, and Pulliam NOTE Schedule to be posted
 
