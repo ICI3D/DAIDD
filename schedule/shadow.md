@@ -24,7 +24,7 @@ Local copy of this page
 
 ### Sunday
 
-#### Interactive session 1 
+#### Interactive session 1a
 
 - _Please join the session by 16:25. We will begin promptly at 16:30._
 - 16:30-16:45 Welcome and some logistics ((pulliam))
@@ -36,9 +36,9 @@ Local copy of this page
     - SHADOW How will this work online? Should probably use this as a chance to introduce some Teams features
     - SHADOW **Prep for round-robin introductions.** Can we figure out how to do this online?
 
-**19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
+#### Interactive session 1b
 
-- Research pitches (Moderator: (borchering))
+- 19:30-21:30 Research pitches (Moderator: ((borchering)))
     - SHADOW [Order of introductions](./introductions)
 
 #### Individual session 1

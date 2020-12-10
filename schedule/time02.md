@@ -29,7 +29,7 @@ alertmsg: >
 
 ### Sunday
 
-#### Interactive session 1 
+#### Interactive session 1a
 
 - _Please join the session by 08:25. We will begin promptly at 08:30._
 - 08:30-08:45 Welcome and some logistics ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
@@ -39,9 +39,9 @@ alertmsg: >
     - _Make sure your slides are uploaded for the next session!_
 - Ice breakers ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
 
-**11:30-13:30 SAST / 09:30-11:30 BST / 04:30-06:30 EST / 01:30-03:30 PST**
+#### Interactive session 1b
 
-- Research pitches (Moderator: [Becky Borchering]({{site.subdomainurl}}/team/borchering/))
+- 11:30-13:30 Research pitches (Moderator: ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)))
 
 #### Individual session 1
 
