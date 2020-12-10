@@ -24,13 +24,11 @@ Local copy of this page
 
 ### Sunday
 
-#### Interactive session 1
+#### Interactive session 1 
 
-**16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
-
-- _Please join the session by 16:25 SAST. We will begin promptly at 16:30._
-- Welcome and some logistics ((pulliam)) NOTE (15 mins)
-- What are we doing here? ((hargrove)) NOTE - UPDATE linking system[Slide folder](https://tinyurl.com/daidd-2019) (25 mins) + 5 min break 
+- _Please join the session by 16:25. We will begin promptly at 16:30._
+- 16:30-16:45 Welcome and some logistics ((pulliam))
+- 16:45-17:10 What are we doing here? ((hargrove)) NOTE - UPDATE linking system[Slide folder](https://tinyurl.com/daidd-2019)
 - Data, models, and science ((dushoff)) NOTE (30 mins)
 - Working with the DAIDD technical tools ((pearson)) NOTE (15 mins)
     - _Make sure your slides are uploaded for the next session!_

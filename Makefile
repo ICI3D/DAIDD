@@ -1,14 +1,12 @@
 ## This is daiddweb (pages branch of DAIDD)
 
 ## make cerve ##
-## http://localhost:4000/schedule/test
-## http://localhost:4000/
+## http://localhost:4000/schedule/
 
 ## https://github.com/ICI3D/DAIDD/tree/gh-pages
 
-## http://www.ici3d.org/DAIDD/
+## http://www.ici3d.org/
 ## http://www.ici3d.org/DAIDD/schedule/
-## http://www.ici3d.org/DAIDD/schedule/test
 ## http://www.ici3d.org/DAIDD/schedule/2019.html
 ## http://www.ici3d.org/DAIDD/schedule/2018.html
 
@@ -30,7 +28,9 @@ ICI3D.github.io/_config.yml:
 cerve: ICI3D.github.io/_config.yml
 	./run.sh &
 
-Sources += _config.yml _localconfig.yml
+Sources += _config.yml _localconfig.yml Gemfile.jd
+
+Ignore += Gemfile
 
 Sources += $(wildcard */shadow.md)
 
@@ -46,13 +46,24 @@ Sources += $(wildcard schedule/*.top schedule/*.md)
 Sources += $(wildcard *.pl)
 ## Rewrite to use pushro and a smarter script?
 ## Rewrite to use the full crazy lecture/format world?
-schedule/index.md: schedule/test.md
-	$(copy)
+## schedule/index.md: schedule/test.md; $(copy)
+## Schedule not made for DAIDD 2020 (points to time zones)
 
 schedule/test.md: schedule/index.top schedule/shadow.md shadow.pl
 	$(rm)
 	$(CAT) $< > $@
 	perl -wf shadow.pl schedule/shadow.md >> $@
+	$(readonly)
+
+zones = time10 time08 time03 time02 time01 time00
+times = $(zones:%=schedule/%.md)
+time_setup: $(times)
+
+## schedule/time10.md: schedule/index.top schedule/test.md timeshadow.pl
+schedule/time%.md: schedule/index.top schedule/test.md timeshadow.pl
+	$(rm)
+	$(CAT) $< > $@
+	perl -wf timeshadow.pl $* schedule/test.md >> $@
 	$(readonly)
 
 schedule/planOverview.md: schedule/planOverview.top schedule/index.md rp.pl
