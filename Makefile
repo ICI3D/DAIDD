@@ -26,11 +26,11 @@ alldirs += ICI3D.github.io
 ICI3D.github.io/_config.yml:
 	git submodule update -i
 cerve: ICI3D.github.io/_config.yml
-	./run.sh &
+	./run.sh > jekyll.log 2>&1 &
 
 Sources += _config.yml _localconfig.yml Gemfile.jd
 
-Ignore += Gemfile
+Ignore += Gemfile Gemfile.lock
 
 Sources += $(wildcard */shadow.md)
 
@@ -62,7 +62,6 @@ time_setup: $(times)
 ## schedule/time10.md: schedule/index.top schedule/test.md timeshadow.pl
 schedule/time%.md: schedule/index.top schedule/test.md timeshadow.pl
 	$(rm)
-	$(CAT) $< > $@
 	perl -wf timeshadow.pl $* schedule/test.md >> $@
 	$(readonly)
 
