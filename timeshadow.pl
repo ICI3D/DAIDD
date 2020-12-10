@@ -12,6 +12,7 @@ while(<>){
 		my ($x, $y) = $piece =~ /(.*):(.*)/;
 		$x += $new-$old;
 		$x += 24 if $x<0;
+		$x -= 24 if $x>=24;
 		$piece = sprintf("%02d:%02d", $x, $y);
 	}
 	say join "", @ln;

@@ -54,14 +54,15 @@ _**Please complete the following between the end of Sunday's interactive session
 
 ### Monday
 
-#### Interactive session 2
+#### Interactive session 2a
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((mthombothi)) NOTE (20 mins)
+- 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((mthombothi))
 - Overview of research plan development and structure ((pulliam)) NOTE (10 mins?) - [Overview of research plan development and structure](planOverview)
 - Tutorial: Dynamical Fever - computer exercise and discussion (All faculty) HIDE - [Slide folder](https://tinyurl.com/daidd-2019) NOTE (40 + 10 group + 40)
 
+#### Interactive session 2b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Discussion: Dynamical Fever ((scott)) HIDE - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)
@@ -126,7 +127,7 @@ _**Please complete the following between the end of Sunday's interactive session
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) NOTE (15 mins)
-- Tutorial: Heterogeneity in disease emergence ((dushoff), (pearson), (mthombothi), (pearson)) NOTE (45 mins)
+- Tutorial: Heterogeneity in disease emergence ((dushoff), (pearson), (mthombothi)) NOTE (45 mins)
 - Mid-session feedback ((bruce)) NOTE (60 mins)
 
 SHADOW - Mid-session post-mortem: 21:30 or soon thereafter SAST Wednesday

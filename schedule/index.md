@@ -15,9 +15,14 @@ alertmsg: >
 
 __Click here for schedule in your time zone__
 
-* [SAST](time10)
-* [UK](time08)
-* [US Eastern](time03)
-* [US Central](time02)
-* [US Mountain](time01)
+* [South Africa (our spiritual location)](time10)
+
 * [US Pacific](time00)
+* [US Mountain](time01)
+* [US Central](time02)
+* [US Eastern](time03)
+* [UK](time08)
+* [West Africa](time09)
+* [Central Africa](time10)
+* [East Africa](time11)
+* [Dhaka](time14)

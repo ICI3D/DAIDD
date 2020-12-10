@@ -20,7 +20,7 @@ current: target
 # Content
 
 vim_session:
-	bash -cl "vmt schedule/shadow.md"
+	bash -cl "vmt schedule/index.md schedule/shadow.md timeshadow.pl"
 
 alldirs += ICI3D.github.io
 ICI3D.github.io/_config.yml:
@@ -55,7 +55,7 @@ schedule/test.md: schedule/index.top schedule/shadow.md shadow.pl
 	perl -wf shadow.pl schedule/shadow.md >> $@
 	$(readonly)
 
-zones = time10 time08 time03 time02 time01 time00
+zones = time10 time08 time03 time02 time01 time00 time09 time11 time14
 times = $(zones:%=schedule/%.md)
 time_setup: $(times)
 

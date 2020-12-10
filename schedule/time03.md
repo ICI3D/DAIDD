@@ -41,14 +41,15 @@ _**Please complete the following between the end of Sunday's interactive session
 
 ### Monday
 
-#### Interactive session 2
+#### Interactive session 2a
 
 **09:30-11:30 SAST / 07:30-09:30 BST / 02:30-04:30 EST / 23:30-01:30 PST**
 
-- Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
+- 09:30-09:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
 - Overview of research plan development and structure ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
 - Tutorial: Dynamical Fever - computer exercise and discussion (All faculty) 
 
+#### Interactive session 2b
 **12:30-14:30 SAST / 10:30-12:30 BST / 05:30-07:30 EST / 02:30-04:30 PST**
 
 - Discussion: Dynamical Fever ([Jim Scott]({{site.subdomainurl}}/team/scott/)) 
@@ -103,7 +104,7 @@ _**Please complete the following between the end of Sunday's interactive session
 **12:30-14:30 SAST / 10:30-12:30 BST / 05:30-07:30 EST / 02:30-04:30 PST**
 
 - Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- Tutorial: Heterogeneity in disease emergence ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/), [Carl Pearson]({{site.subdomainurl}}/team/pearson/), [Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/), (pearson)) 
+- Tutorial: Heterogeneity in disease emergence ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/), [Carl Pearson]({{site.subdomainurl}}/team/pearson/), [Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 - Mid-session feedback ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
 
 
