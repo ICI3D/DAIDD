@@ -13,6 +13,8 @@ alertmsg: >
   </ul>
 ---
 
+[Daily overview](overview)
+
 ### Sunday
 
 #### Interactive session 1a
@@ -73,7 +75,7 @@ _**Please complete the following between the end of Sunday's interactive session
 
 ### Tuesday
 
-#### Interactive session 3
+#### Interactive session 3a
 
 
 - Daily recap ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
@@ -82,6 +84,7 @@ _**Please complete the following between the end of Sunday's interactive session
 - Summary and discussion: The life cycle of a modeling project ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - Live lecture: Simple individual-based models ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 
+#### Interactive session 3b
 
 - Exercise: Simple individual-based models ((tbd)) 
 - Exercise: Creating a model world to address a research question ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
@@ -102,13 +105,14 @@ _**Please complete the following between the end of Sunday's interactive session
 
 ### Wednesday
 
-#### Interactive session 4
+#### Interactive session 4a
 
 
 - Daily recap ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 - Summary and discussion: Stochastic simulation models ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
 - Small-group session: matching models to questions (All faculty) 
 
+#### Interactive session 4b
 
 - Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - Tutorial: Heterogeneity in disease emergence ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/), [Carl Pearson]({{site.subdomainurl}}/team/pearson/), [Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
@@ -129,7 +133,7 @@ _**Please complete the following between the end of Sunday's interactive session
 
 ### Thursday
 
-#### Interactive session 5
+#### Interactive session 5a
 
 
 - Regroup after feedback ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
@@ -137,6 +141,7 @@ _**Please complete the following between the end of Sunday's interactive session
 - Summary and discussion: Models and data: introduction to model fitting ([Jim Scott]({{site.subdomainurl}}/team/scott/)) 
 - Writing exercise: description of proposed model and assumptions ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 
+#### Interactive session 5b
 
 - Tutorial: Model fitting ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
 - Review: model taxonomy ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
@@ -156,13 +161,14 @@ _**Please complete the following between the end of Sunday's interactive session
 
 ### Friday
 
-#### Interactive session 6
+#### Interactive session 6a
 
 
 - Daily recap ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
 - Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - Live lecture: Use of models in public health decision-making (Faculty research presentation) - Now with more COVID! ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 
+#### Interactive session 6b
 
 - Live lecture: Model-based inference and the bigger picture ([Jim Scott]({{site.subdomainurl}}/team/scott/)) 
 - Review and Discussion (Moderator: [John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
@@ -192,12 +198,12 @@ _**Please complete the following between the end of Sunday's interactive session
 
 - One-on-one mentoring sessions with Hargrove, Mthombothi, Pearson, and Pulliam 
 
-#### Interactive session 7
-
+#### Interactive session 7a
 
 - Daily recap ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - Discussion of research plans/proposals (Moderator: [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 
+#### Interactive session 7b
 
 - Final feedback session ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
 - Closing session ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 

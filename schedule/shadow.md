@@ -21,6 +21,8 @@ alertmsg: >
 
 /HEAD
 
+[Daily overview](overview)
+
 ### Sunday
 
 #### Interactive session 1a
@@ -88,7 +90,7 @@ HIDE Let me know what you think about these banner lines with SAST; they are sup
 
 ### Tuesday
 
-#### Interactive session 3
+#### Interactive session 3a
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -101,6 +103,7 @@ HIDE Let me know what you think about these banner lines with SAST; they are sup
 - Live lecture: Simple individual-based models ((pearson)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)
     - SHADOW [Google sheet](https://tinyurl.com/DAIDD-SIRboth-2019)
 
+#### Interactive session 3b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Exercise: Simple individual-based models ((tbd)) NOTE (30 mins)
@@ -128,7 +131,7 @@ HIDE Let me know what you think about these banner lines with SAST; they are sup
 
 ### Wednesday
 
-#### Interactive session 4
+#### Interactive session 4a
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -136,6 +139,7 @@ HIDE Let me know what you think about these banner lines with SAST; they are sup
 - Summary and discussion: Stochastic simulation models ((borchering)) NOTE (15 mins)
 - Small-group session: matching models to questions (All faculty) NOTE (90 minutes)
 
+#### Interactive session 4b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) NOTE (15 mins)
@@ -159,7 +163,7 @@ SHADOW - Mid-session post-mortem: ~ 21:30
 
 ### Thursday
 
-#### Interactive session 5
+#### Interactive session 5a
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -170,6 +174,7 @@ SHADOW - Mid-session post-mortem: ~ 21:30
     - SHADOW [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
     - SHADOW [instructions for in-person version](https://docs.google.com/document/d/1d_noXARmkB3yqg8_kUW7AqCTurWy5u84JQWsGoTVCj8)
 
+#### Interactive session 5b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Tutorial: Model fitting ((hargrove)) NOTE (90 mins?) - [Tutorial notes](../Materials/hivTutorial)
@@ -194,7 +199,7 @@ SHADOW Possible social activity (Game night) - eg, from c. 21:30 JD will bring b
 
 ### Friday
 
-#### Interactive session 6
+#### Interactive session 6a
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -202,6 +207,7 @@ SHADOW Possible social activity (Game night) - eg, from c. 21:30 JD will bring b
 - Summary and discussion: Model evaluation and comparison ((dushoff)) NOTE (20 mins?)
 - Live lecture: Use of models in public health decision-making (Faculty research presentation) - Now with more COVID! ((pearson)) HIDE - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
 
+#### Interactive session 6b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Live lecture: Model-based inference and the bigger picture ((scott)) NOTE (30 mins)
@@ -233,14 +239,14 @@ SHADOW Possible social activity (Game night) - eg, from c. 21:30 JD will bring b
 
 - One-on-one mentoring sessions with Hargrove, Mthombothi, Pearson, and Pulliam NOTE Schedule to be posted
 
-#### Interactive session 7
-
+#### Interactive session 7a
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - Daily recap ((dushoff)) NOTE (15 mins)
 - Discussion of research plans/proposals (Moderator: (dushoff))
 	* SHADOW [Proposal order](../participants/order)
 
+#### Interactive session 7b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Final feedback session ((bruce)) NOTE (60-90 mins)

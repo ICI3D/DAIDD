@@ -13,6 +13,8 @@ alertmsg: >
   </ul>
 ---
 
+[Daily overview](overview)
+
 ### Sunday
 
 #### Interactive session 1a
@@ -75,7 +77,7 @@ _**Please complete the following between the end of Sunday's interactive session
 
 ### Tuesday
 
-#### Interactive session 3
+#### Interactive session 3a
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -85,6 +87,7 @@ _**Please complete the following between the end of Sunday's interactive session
 - Summary and discussion: The life cycle of a modeling project ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - Live lecture: Simple individual-based models ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 
+#### Interactive session 3b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Exercise: Simple individual-based models ((tbd)) 
@@ -106,7 +109,7 @@ _**Please complete the following between the end of Sunday's interactive session
 
 ### Wednesday
 
-#### Interactive session 4
+#### Interactive session 4a
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -114,6 +117,7 @@ _**Please complete the following between the end of Sunday's interactive session
 - Summary and discussion: Stochastic simulation models ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
 - Small-group session: matching models to questions (All faculty) 
 
+#### Interactive session 4b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
@@ -135,7 +139,7 @@ _**Please complete the following between the end of Sunday's interactive session
 
 ### Thursday
 
-#### Interactive session 5
+#### Interactive session 5a
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -144,6 +148,7 @@ _**Please complete the following between the end of Sunday's interactive session
 - Summary and discussion: Models and data: introduction to model fitting ([Jim Scott]({{site.subdomainurl}}/team/scott/)) 
 - Writing exercise: description of proposed model and assumptions ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 
+#### Interactive session 5b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Tutorial: Model fitting ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
@@ -164,7 +169,7 @@ _**Please complete the following between the end of Sunday's interactive session
 
 ### Friday
 
-#### Interactive session 6
+#### Interactive session 6a
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -172,6 +177,7 @@ _**Please complete the following between the end of Sunday's interactive session
 - Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - Live lecture: Use of models in public health decision-making (Faculty research presentation) - Now with more COVID! ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 
+#### Interactive session 6b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Live lecture: Model-based inference and the bigger picture ([Jim Scott]({{site.subdomainurl}}/team/scott/)) 
@@ -202,13 +208,13 @@ _**Please complete the following between the end of Sunday's interactive session
 
 - One-on-one mentoring sessions with Hargrove, Mthombothi, Pearson, and Pulliam 
 
-#### Interactive session 7
-
+#### Interactive session 7a
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - Daily recap ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - Discussion of research plans/proposals (Moderator: [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 
+#### Interactive session 7b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Final feedback session ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
