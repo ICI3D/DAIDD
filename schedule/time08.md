@@ -23,6 +23,7 @@ alertmsg: >
 - 14:30-14:45 Welcome and some logistics ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 14:45-15:10 What are we doing here? ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
 - 15:15-15:45 Data, models, and science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
 - 15:45-16:00 Working with the DAIDD technical tools ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
     - _Make sure your slides are uploaded for the next session!_
 - 16:00-16:30 Ice breakers ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/))

@@ -31,6 +31,7 @@ alertmsg: >
 - 16:30-16:45 Welcome and some logistics ((pulliam))
 - 16:45-17:10 What are we doing here? ((hargrove)) NOTE - UPDATE linking system[Slide folder](https://tinyurl.com/daidd-2019)
 - 17:15-17:45 Data, models, and science ((dushoff))
+	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
 - 17:45-18:00 Working with the DAIDD technical tools ((pearson)) NOTE (15 mins)
     - _Make sure your slides are uploaded for the next session!_
 - 18:00-18:30 Ice breakers ((bruce))
