@@ -29,7 +29,7 @@ alertmsg: >
 
 #### Interactive session 1b
 
-- 19:30-21:30 Research pitches (Moderator: ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)))
+- 19:30-21:30 Research pitches (Moderator: [Becky Borchering]({{site.subdomainurl}}/team/borchering/))
 
 #### Individual session 1
 
@@ -53,14 +53,14 @@ _**Please complete the following between the end of Sunday's interactive session
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
-- Overview of research plan development and structure ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
-- Tutorial: Dynamical Fever - computer exercise and discussion (All faculty) 
+- 16:50-17:00 Overview of research plan development and structure ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion (All faculty) 
 
 #### Interactive session 2b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Discussion: Dynamical Fever ([Jim Scott]({{site.subdomainurl}}/team/scott/)) 
-- Small group session: research questions for modeling projects (All faculty) 
+- 19:30-20:00 Discussion: Dynamical Fever ([Jim Scott]({{site.subdomainurl}}/team/scott/)) 
+- 20:00-21:30 Small group session: research questions for modeling projects (All faculty) 
 
 #### Individual session 2
 
@@ -69,6 +69,9 @@ _**Please complete the following between the end of Sunday's interactive session
 - Exercise: Finalize your research question and post to the Research Questions channel.
 - Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations 
 - Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication 
+    - [Part 1](https://youtu.be/cPLBzQGz2lM)
+    - [Part 2](https://youtu.be/2IrPJCqff7g)
+    - [Part 3](https://youtu.be/meEJ7ys10WA)
 - Video lecture: Faculty research presentation 
 
 - 22:00 Tea with North American Faculty
@@ -81,17 +84,17 @@ _**Please complete the following between the end of Sunday's interactive session
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Daily recap ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
-- Summary and discussion: The SIR model family ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- Exercise: Building an SIR model from scratch ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- Summary and discussion: The life cycle of a modeling project ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
-- Live lecture: Simple individual-based models ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
+- 16:30-16:45 Daily recap ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
+- 16:45- 17:00 Summary and discussion: The SIR model family ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 17:00-17:30 Exercise: Building an SIR model from scratch ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 17:30-17:45 Summary and discussion: The life cycle of a modeling project ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- 17:45-18:30 Live lecture: Simple individual-based models ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 
 #### Interactive session 3b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Exercise: Simple individual-based models ((tbd)) 
-- Exercise: Creating a model world to address a research question ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 19:30-20:00 Exercise: Simple individual-based models ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
+- 20:00-21:30 Exercise: Creating a model world to address a research question ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
 
 #### Individual session 3
 
@@ -99,7 +102,7 @@ _**Please complete the following between the end of Sunday's interactive session
 
 - Exercise: Creating a model world assignment. Be prepared to share your model diagram during Wednesday's interactive session.
 - Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example 
-- Video lecture: Faculty research presentation 
+- Video lecture: [Faculty research presentation](https://youtu.be/L1qalfZfwEo) 
 - Video lecture: Stochastic simulation models 
 - Video lecture: Impact of contact patterns, consequences of heterogeneity, and modeling options 
 
@@ -113,16 +116,16 @@ _**Please complete the following between the end of Sunday's interactive session
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Daily recap ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
-- Summary and discussion: Stochastic simulation models ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
-- Small-group session: matching models to questions (All faculty) 
+- 16:30-16:45 Daily recap ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
+- 16:45-17:00 Summary and discussion: Stochastic simulation models ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
+- 17:00-18:30 Small-group session: matching models to questions (All faculty) 
 
 #### Interactive session 4b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- Tutorial: Heterogeneity in disease emergence ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/), [Carl Pearson]({{site.subdomainurl}}/team/pearson/), [Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
-- Mid-session feedback ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
+- 19:30-19:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 19:45-20:30 Tutorial: Heterogeneity in disease emergence ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/), [Carl Pearson]({{site.subdomainurl}}/team/pearson/), [Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
+- 20:30-21:30 Mid-session feedback ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
 
 
 #### Individual session 4
@@ -143,16 +146,16 @@ _**Please complete the following between the end of Sunday's interactive session
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Regroup after feedback ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
-- Daily recap ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
-- Summary and discussion: Models and data: introduction to model fitting ([Jim Scott]({{site.subdomainurl}}/team/scott/)) 
-- Writing exercise: description of proposed model and assumptions ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
+- 16:30-16:50 Regroup after feedback ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 16:50-17:05 Daily recap ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
+- 17:05-17:20 Summary and discussion: Models and data: introduction to model fitting ([Jim Scott]({{site.subdomainurl}}/team/scott/)) 
+- 17:20-18:30 Writing exercise: description of proposed model and assumptions ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 
 #### Interactive session 5b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Tutorial: Model fitting ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
-- Review: model taxonomy ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 19:30-21:00 Tutorial: Model fitting ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
+- 21:00-21:30 Review: model taxonomy ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
 
 #### Individual session 5
 
@@ -173,16 +176,16 @@ _**Please complete the following between the end of Sunday's interactive session
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Daily recap ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
-- Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- Live lecture: Use of models in public health decision-making (Faculty research presentation) - Now with more COVID! ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
+- 16:30-16:45 Daily recap ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
+- 16:45-17:00 Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 17:00-18:30 Live lecture: Use of models in public health decision-making (Faculty research presentation) - Now with more COVID! ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 
 #### Interactive session 6b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Live lecture: Model-based inference and the bigger picture ([Jim Scott]({{site.subdomainurl}}/team/scott/)) 
-- Review and Discussion (Moderator: [John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
-- Small group session: planning your approach (All faculty) 
+- 19:30-20:00 Live lecture: Model-based inference and the bigger picture ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 20:00-20:30 Review and Discussion (Moderator: [John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
+- 20:30-21:30 Small group session: planning your approach (All faculty) 
 
 #### Individual session 6
 
@@ -204,18 +207,18 @@ _**Please complete the following between the end of Sunday's interactive session
 
 #### Individual session 7
 
-**_Special session:_ 11:00-13:00 
+**_Special session:_ 11:00-13:00
 
 - One-on-one mentoring sessions with Hargrove, Mthombothi, Pearson, and Pulliam 
 
 #### Interactive session 7a
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Daily recap ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- Discussion of research plans/proposals (Moderator: [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 16:30-16:45 Daily recap ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 16:45-18:30 Discussion of research plans/proposals (Moderator: [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 
 #### Interactive session 7b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Final feedback session ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
-- Closing session ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 19:30-21:00 Final feedback session ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
+- 21:00-21:15 Closing session ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
