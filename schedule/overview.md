@@ -22,6 +22,6 @@ alertmsg: >
 * __Part B:__ 23:30-01:30 Dhaka / 19:30-21:30 SAST / 17:30-19:30 GMT / 12:30-14:30 EST / 9:30-11:30 PST
 
 ## Individual Sessions
-* __Tea with African Faculty:__ 15:00 Dhaka / 11:00 SAST / 09:00 GMT / 02:00 EST / 23:00 PST
+* __Tea with African Faculty:__ 15:00 Dhaka / 11:00 SAST / 09:00 GMT / 04:00 EST / 01:00 PST
 * __Tea with North American Faculty:__ 02:00 Dhaka / 22:00 SAST / 20:00 GMT / 15:00 EST / 12:00 PST
 
