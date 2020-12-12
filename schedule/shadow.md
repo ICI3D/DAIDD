@@ -39,7 +39,7 @@ alertmsg: >
 
 #### Interactive session 1b
 
-- 19:30-21:30 Research pitches (Moderator: ((borchering)))
+- 19:30-21:30 Research pitches (Moderator: (borchering))
     - SHADOW [Order of introductions](./introductions)
 
 #### Individual session 1
@@ -65,14 +65,14 @@ HIDE Let me know what you think about these banner lines with SAST; they are sup
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((mthombothi))
-- Overview of research plan development and structure ((pulliam)) NOTE (10 mins?) - [Overview of research plan development and structure](planOverview)
-- Tutorial: Dynamical Fever - computer exercise and discussion (All faculty) HIDE - [Slide folder](https://tinyurl.com/daidd-2019) NOTE (40 + 10 group + 40)
+- 16:50-17:00 Overview of research plan development and structure ((pulliam)) NOTE (10 mins?) - [Overview of research plan development and structure](planOverview)
+- 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion (All faculty) HIDE - [Slide folder](https://tinyurl.com/daidd-2019) NOTE (40 + 10 group + 40)
 
 #### Interactive session 2b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Discussion: Dynamical Fever ((scott)) HIDE - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)
-- Small group session: research questions for modeling projects (All faculty) NOTE (90 mins)
+- 19:30-20:00 Discussion: Dynamical Fever ((scott)) HIDE - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)
+- 20:00-21:30 Small group session: research questions for modeling projects (All faculty) NOTE (90 mins)
     - SHADOW - [Step-by-step guide](../Materials/researchQuestions)
 
 #### Individual session 2
@@ -82,6 +82,9 @@ HIDE Let me know what you think about these banner lines with SAST; they are sup
 - Exercise: Finalize your research question and post to the Research Questions channel.
 - Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations NOTE (dushoff) will look into using existing lecture
 - Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication NOTE (hargrove)
+    - [Part 1](https://youtu.be/cPLBzQGz2lM)
+    - [Part 2](https://youtu.be/2IrPJCqff7g)
+    - [Part 3](https://youtu.be/meEJ7ys10WA)
 - Video lecture: Faculty research presentation NOTE (dushoff) [video](https://www.youtube.com/watch?v=N4qWzM044ns)
 
 - 22:00 Tea with North American Faculty
@@ -94,20 +97,20 @@ HIDE Let me know what you think about these banner lines with SAST; they are sup
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Daily recap ((borchering)) NOTE (15 mins)
+- 16:30-16:45 Daily recap ((borchering)) NOTE (15 mins)
     - SHADOW [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=1) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
-- Summary and discussion: The SIR model family ((dushoff)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Exercise](../Materials/SIRmodelFamily) NOTE (15 mins?)
+- 16:45- 17:00 Summary and discussion: The SIR model family ((dushoff)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Exercise](../Materials/SIRmodelFamily) NOTE (15 mins?)
     - SHADOW Excel spreadsheet in [Code folder](https://tinyurl.com/daidd-2019-code)
-- Exercise: Building an SIR model from scratch ((dushoff)) NOTE (30 mins?) NOTE + 5 min stretch break
-- Summary and discussion: The life cycle of a modeling project ((hargrove))
-- Live lecture: Simple individual-based models ((pearson)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)
+- 17:00-17:30 Exercise: Building an SIR model from scratch ((dushoff)) NOTE (30 mins?) NOTE + 5 min stretch break
+- 17:30-17:45 Summary and discussion: The life cycle of a modeling project ((hargrove))
+- 17:45-18:30 Live lecture: Simple individual-based models ((pearson)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)
     - SHADOW [Google sheet](https://tinyurl.com/DAIDD-SIRboth-2019)
 
 #### Interactive session 3b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Exercise: Simple individual-based models ((tbd)) NOTE (30 mins)
-- Exercise: Creating a model world to address a research question ((pulliam)) NOTE (90 mins)
+- 19:30-20:00 Exercise: Simple individual-based models ((pearson)) NOTE (30 mins)
+- 20:00-21:30 Exercise: Creating a model world to address a research question ((pulliam)) NOTE (90 mins)
     - SHADOW [Step-by-step guide](../Materials/modelWorld)
 
 #### Individual session 3
@@ -116,7 +119,7 @@ HIDE Let me know what you think about these banner lines with SAST; they are sup
 
 - Exercise: Creating a model world assignment. Be prepared to share your model diagram during Wednesday's interactive session.
 - Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example NOTE if sharing, use a different example question!
-- Video lecture: Faculty research presentation NOTE (hargrove)
+- Video lecture: [Faculty research presentation](https://youtu.be/L1qalfZfwEo) NOTE (hargrove)
     - SHADOW [Faculty research presentations](../Materials/researchPresentations)
 - Video lecture: Stochastic simulation models NOTE (borchering)
     - SHADOW Stochastic simulation models ((kassanjee)) - [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
@@ -135,16 +138,16 @@ HIDE Let me know what you think about these banner lines with SAST; they are sup
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Daily recap ((mthombothi)) NOTE (15 mins)
-- Summary and discussion: Stochastic simulation models ((borchering)) NOTE (15 mins)
-- Small-group session: matching models to questions (All faculty) NOTE (90 minutes)
+- 16:30-16:45 Daily recap ((mthombothi)) NOTE (15 mins)
+- 16:45-17:00 Summary and discussion: Stochastic simulation models ((borchering)) NOTE (15 mins)
+- 17:00-18:30 Small-group session: matching models to questions (All faculty) NOTE (90 minutes)
 
 #### Interactive session 4b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) NOTE (15 mins)
-- Tutorial: Heterogeneity in disease emergence ((dushoff), (pearson), (mthombothi)) NOTE (45 mins)
-- Mid-session feedback ((bruce)) NOTE (60 mins)
+- 19:30-19:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) NOTE (15 mins)
+- 19:45-20:30 Tutorial: Heterogeneity in disease emergence ((dushoff), (pearson), (mthombothi)) NOTE (45 mins)
+- 20:30-21:30 Mid-session feedback ((bruce)) NOTE (60 mins)
 
 SHADOW - Mid-session post-mortem: ~ 21:30
 
@@ -155,7 +158,7 @@ SHADOW - Mid-session post-mortem: ~ 21:30
 - Exercise: Update your model diagram and post to Teams
 - Video lecture: Models and data: introduction to model fitting NOTE ((scott)) - to be confirmed
 - Video lecture (optional): Faculty research presentation NOTE ((bellan)) trial design video
-- SHADOW Video lecture (optional): Introduction to statistical philosophy NOTE ((dushoff))
+- SHADOW Video lecture (optional): [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) NOTE ((dushoff))
 
 - 22:00 Tea with North American Faculty
 
@@ -167,19 +170,19 @@ SHADOW - Mid-session post-mortem: ~ 21:30
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Regroup after feedback ((pulliam)) NOTE (20 mins)
-- Daily recap ((pearson)) NOTE (15 mins)
-- Summary and discussion: Models and data: introduction to model fitting ((scott)) NOTE (20 mins?)
-- Writing exercise: description of proposed model and assumptions ((mthombothi)) NOTE (65 mins?) Model telephone
+- 16:30-16:50 Regroup after feedback ((pulliam)) NOTE (20 mins)
+- 16:50-17:05 Daily recap ((pearson)) NOTE (15 mins)
+- 17:05-17:20 Summary and discussion: Models and data: introduction to model fitting ((scott)) NOTE (15 mins)
+- 17:20-18:30 Writing exercise: description of proposed model and assumptions ((mthombothi)) NOTE (65 mins?) Model telephone
     - SHADOW [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
     - SHADOW [instructions for in-person version](https://docs.google.com/document/d/1d_noXARmkB3yqg8_kUW7AqCTurWy5u84JQWsGoTVCj8)
 
 #### Interactive session 5b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Tutorial: Model fitting ((hargrove)) NOTE (90 mins?) - [Tutorial notes](../Materials/hivTutorial)
+- 19:30-21:00 Tutorial: Model fitting ((hargrove)) NOTE (90 mins?) - [Tutorial notes](../Materials/hivTutorial)
   * SHADOW (Tutorial wrapup by (dushoff)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
-- Review: model taxonomy ((pulliam)) NOTE Set up 'planning your approach exercise'
+- 21:00-21:30 Review: model taxonomy ((pulliam)) NOTE Set up 'planning your approach exercise'
     - SHADOW [Planning document](https://docs.google.com/document/d/131l0PnkzeURcDt9sC0_5Qk-VAet3w64v3mhCzeY_MoQ/edit?usp=sharing)
 
 #### Individual session 5
@@ -203,16 +206,16 @@ SHADOW Possible social activity (Game night) - eg, from c. 21:30 JD will bring b
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Daily recap ((hargrove)) NOTE (15 mins)
-- Summary and discussion: Model evaluation and comparison ((dushoff)) NOTE (20 mins?)
-- Live lecture: Use of models in public health decision-making (Faculty research presentation) - Now with more COVID! ((pearson)) HIDE - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
+- 16:30-16:45 Daily recap ((hargrove)) NOTE (15 mins)
+- 16:45-17:00 Summary and discussion: Model evaluation and comparison ((dushoff)) NOTE (20 mins?)
+- 17:00-18:30 Live lecture: Use of models in public health decision-making (Faculty research presentation) - Now with more COVID! ((pearson)) HIDE - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
 
 #### Interactive session 6b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Live lecture: Model-based inference and the bigger picture ((scott)) NOTE (30 mins)
-- Review and Discussion (Moderator: (hargrove)) NOTE (30 mins free form discussion / Q&A on topics raised by participants)
-- Small group session: planning your approach (All faculty) NOTE (60 mins)
+- 19:30-20:00 Live lecture: Model-based inference and the bigger picture ((dushoff)) NOTE (30 mins)
+- 20:00-20:30 Review and Discussion (Moderator: (hargrove)) NOTE (30 mins free form discussion / Q&A on topics raised by participants)
+- 20:30-21:30 Small group session: planning your approach (All faculty) NOTE (60 mins)
 
 #### Individual session 6
 
@@ -235,19 +238,19 @@ SHADOW Possible social activity (Game night) - eg, from c. 21:30 JD will bring b
 
 #### Individual session 7
 
-**_Special session:_ 11:00-13:00 
+**_Special session:_ 11:00-13:00
 
 - One-on-one mentoring sessions with Hargrove, Mthombothi, Pearson, and Pulliam NOTE Schedule to be posted
 
 #### Interactive session 7a
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Daily recap ((dushoff)) NOTE (15 mins)
-- Discussion of research plans/proposals (Moderator: (dushoff))
+- 16:30-16:45 Daily recap ((dushoff)) NOTE (15 mins)
+- 16:45-18:30 Discussion of research plans/proposals (Moderator: (dushoff))
 	* SHADOW [Proposal order](../participants/order)
 
 #### Interactive session 7b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- Final feedback session ((bruce)) NOTE (60-90 mins)
-- Closing session ((pulliam)) NOTE (15 mins)
+- 19:30-21:00 Final feedback session ((bruce)) NOTE (60-90 mins)
+- 21:00-21:15 Closing session ((pulliam)) NOTE (15 mins)
