@@ -77,6 +77,9 @@ _**Please complete the following between the end of Sunday's interactive session
 - Exercise: Finalize your research question and post to the Research Questions channel.
 - Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations NOTE (dushoff) will look into using existing lecture
 - Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication NOTE (hargrove)
+    - [Part 1](https://youtu.be/cPLBzQGz2lM)
+    - [Part 2](https://youtu.be/2IrPJCqff7g)
+    - [Part 3](https://youtu.be/meEJ7ys10WA)
 - Video lecture: Faculty research presentation NOTE (dushoff) [video](https://www.youtube.com/watch?v=N4qWzM044ns)
 
 ### Tuesday
@@ -106,7 +109,7 @@ _**Please complete the following between the end of Sunday's interactive session
 
 - Exercise: Creating a model world assignment. Be prepared to share your model diagram during Wednesday's interactive session.
 - Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example NOTE if sharing, use a different example question!
-- Video lecture: Faculty research presentation NOTE (hargrove)
+- Video lecture: [Faculty research presentation](https://youtu.be/L1qalfZfwEo) NOTE (hargrove)
     - SHADOW [Faculty research presentations](../Materials/researchPresentations)
 - Video lecture: Stochastic simulation models NOTE (borchering)
     - SHADOW Stochastic simulation models ((kassanjee)) - [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
