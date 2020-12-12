@@ -14,33 +14,32 @@ alertmsg: >
   </ul>
 ---
 
-Faculty notes page
-* https://github.com/ICI3D/DAIDD/blob/master/notes.md
+* [Faculty notes page](https://github.com/ICI3D/DAIDD/blob/master/notes.md)
+* [Shadow rules](http://www.ici3d.org/DAIDD/shadow_rules)
 
-Local copy of this page
-* http://localhost:4000/schedule/shadow
+* [Your local (jekyll) copy of this page](http://localhost:4000/schedule/shadow)
 
 /HEAD
 
+[Daily overview](overview)
+
 ### Sunday
 
-#### Interactive session 1
+#### Interactive session 1a
 
-**16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
-
-- _Please join the session by 16:25 SAST. We will begin promptly at 16:30._
-- Welcome and some logistics ((pulliam)) NOTE (15 mins)
-- What are we doing here? ((hargrove)) NOTE - UPDATE linking system[Slide folder](https://tinyurl.com/daidd-2019) (25 mins) + 5 min break
-- Data, models, and science ((dushoff)) NOTE (30 mins)
-- Working with the DAIDD technical tools ((pearson)) NOTE (15 mins)
+- _Please join the session by 16:25. We will begin promptly at 16:30._
+- 16:30-16:45 Welcome and some logistics ((pulliam))
+- 16:45-17:10 What are we doing here? ((hargrove)) NOTE - UPDATE linking system[Slide folder](https://tinyurl.com/daidd-2019)
+- 17:15-17:45 Data, models, and science ((dushoff))
+- 17:45-18:00 Working with the DAIDD technical tools ((pearson)) NOTE (15 mins)
     - _Make sure your slides are uploaded for the next session!_
-- Ice breakers ((bruce)) NOTE (30 mins?)
+- 18:00-18:30 Ice breakers ((bruce))
     - SHADOW How will this work online? Should probably use this as a chance to introduce some Teams features
     - SHADOW **Prep for round-robin introductions.** Can we figure out how to do this online?
 
-**19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
+#### Interactive session 1b
 
-- Research pitches (Moderator: (borchering))
+- 19:30-21:30 Research pitches (Moderator: ((borchering)))
     - SHADOW [Order of introductions](./introductions)
 
 #### Individual session 1
@@ -54,16 +53,22 @@ _**Please complete the following between the end of Sunday's interactive session
     - Reference: [Kucharski _et al_. 2015](https://www.pnas.org/content/112/46/14366)
 - Exercise: Formulating research questions for modeling projects NOTE How best to do this? POST in a Research Questions channel before the beginning of the next interactive session.
 
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
+
 ### Monday
 
-#### Interactive session 2
+#### Interactive session 2a
 
+HIDE Let me know what you think about these banner lines with SAST; they are suppressed by the program for now but the code is there to show them correctly
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((mthombothi)) NOTE (20 mins)
+- 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((mthombothi))
 - Overview of research plan development and structure ((pulliam)) NOTE (10 mins?) - [Overview of research plan development and structure](planOverview)
 - Tutorial: Dynamical Fever - computer exercise and discussion (All faculty) HIDE - [Slide folder](https://tinyurl.com/daidd-2019) NOTE (40 + 10 group + 40)
 
+#### Interactive session 2b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Discussion: Dynamical Fever ((scott)) HIDE - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)
@@ -82,9 +87,13 @@ _**Please complete the following between the end of Sunday's interactive session
     - [Part 3](https://youtu.be/meEJ7ys10WA)
 - Video lecture: Faculty research presentation NOTE (dushoff) [video](https://www.youtube.com/watch?v=N4qWzM044ns)
 
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
+
 ### Tuesday
 
-#### Interactive session 3
+#### Interactive session 3a
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -97,6 +106,7 @@ _**Please complete the following between the end of Sunday's interactive session
 - Live lecture: Simple individual-based models ((pearson)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)
     - SHADOW [Google sheet](https://tinyurl.com/DAIDD-SIRboth-2019)
 
+#### Interactive session 3b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Exercise: Simple individual-based models ((tbd)) NOTE (30 mins)
@@ -118,9 +128,13 @@ _**Please complete the following between the end of Sunday's interactive session
 - Video lecture: Impact of contact patterns, consequences of heterogeneity, and modeling options NOTE (dushoff)
     - SHADOW [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
+
 ### Wednesday
 
-#### Interactive session 4
+#### Interactive session 4a
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -128,13 +142,14 @@ _**Please complete the following between the end of Sunday's interactive session
 - Summary and discussion: Stochastic simulation models ((borchering)) NOTE (15 mins)
 - Small-group session: matching models to questions (All faculty) NOTE (90 minutes)
 
+#### Interactive session 4b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) NOTE (15 mins)
-- Tutorial: Heterogeneity in disease emergence ((dushoff), (pearson), (mthombothi), (pearson)) NOTE (45 mins)
+- Tutorial: Heterogeneity in disease emergence ((dushoff), (pearson), (mthombothi)) NOTE (45 mins)
 - Mid-session feedback ((bruce)) NOTE (60 mins)
 
-SHADOW - Mid-session post-mortem: 21:30 or soon thereafter SAST Wednesday
+SHADOW - Mid-session post-mortem: ~ 21:30
 
 #### Individual session 4
 
@@ -145,9 +160,13 @@ SHADOW - Mid-session post-mortem: 21:30 or soon thereafter SAST Wednesday
 - Video lecture (optional): Faculty research presentation NOTE ((bellan)) trial design video
 - SHADOW Video lecture (optional): Introduction to statistical philosophy NOTE ((dushoff))
 
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
+
 ### Thursday
 
-#### Interactive session 5
+#### Interactive session 5a
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -158,6 +177,7 @@ SHADOW - Mid-session post-mortem: 21:30 or soon thereafter SAST Wednesday
     - SHADOW [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
     - SHADOW [instructions for in-person version](https://docs.google.com/document/d/1d_noXARmkB3yqg8_kUW7AqCTurWy5u84JQWsGoTVCj8)
 
+#### Interactive session 5b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Tutorial: Model fitting ((hargrove)) NOTE (90 mins?) - [Tutorial notes](../Materials/hivTutorial)
@@ -174,11 +194,15 @@ SHADOW - Mid-session post-mortem: 21:30 or soon thereafter SAST Wednesday
 - Exercise: Work through the document for planning your approach
 - Video lecture: Model evaluation and comparison NOTE ((dushoff))
 
-SHADOW Possible social activity (Game night) - eg, from c. 21:30 SAST; JD will bring beer; CP will source games
+SHADOW Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; CP will source games
+
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
 
 ### Friday
 
-#### Interactive session 6
+#### Interactive session 6a
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -186,6 +210,7 @@ SHADOW Possible social activity (Game night) - eg, from c. 21:30 SAST; JD will b
 - Summary and discussion: Model evaluation and comparison ((dushoff)) NOTE (20 mins?)
 - Live lecture: Use of models in public health decision-making (Faculty research presentation) - Now with more COVID! ((pearson)) HIDE - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
 
+#### Interactive session 6b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Live lecture: Model-based inference and the bigger picture ((scott)) NOTE (30 mins)
@@ -205,22 +230,26 @@ SHADOW Possible social activity (Game night) - eg, from c. 21:30 SAST; JD will b
 
 - One-on-one mentoring sessions with Borchering, Dushoff, and Scott NOTE Schedule to be posted
 
+- 22:00 Tea with North American Faculty
+
+- 11:00 Tea with African Faculty
+
 ### Saturday
 
 #### Individual session 7
 
-**_Special session:_ 11:00-13:00 SAST / 9:00-11:00 BST**
+**_Special session:_ 11:00-13:00 
 
 - One-on-one mentoring sessions with Hargrove, Mthombothi, Pearson, and Pulliam NOTE Schedule to be posted
 
-#### Interactive session 7
-
+#### Interactive session 7a
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - Daily recap ((dushoff)) NOTE (15 mins)
 - Discussion of research plans/proposals (Moderator: (dushoff))
 	* SHADOW [Proposal order](../participants/order)
 
+#### Interactive session 7b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - Final feedback session ((bruce)) NOTE (60-90 mins)

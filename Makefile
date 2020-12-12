@@ -1,14 +1,12 @@
 ## This is daiddweb (pages branch of DAIDD)
 
 ## make cerve ##
-## http://localhost:4000/schedule/test
-## http://localhost:4000/
+## http://localhost:4000/schedule/
 
 ## https://github.com/ICI3D/DAIDD/tree/gh-pages
 
-## http://www.ici3d.org/DAIDD/
+## http://www.ici3d.org/
 ## http://www.ici3d.org/DAIDD/schedule/
-## http://www.ici3d.org/DAIDD/schedule/test
 ## http://www.ici3d.org/DAIDD/schedule/2019.html
 ## http://www.ici3d.org/DAIDD/schedule/2018.html
 
@@ -22,15 +20,17 @@ current: target
 # Content
 
 vim_session:
-	bash -cl "vmt schedule/shadow.md"
+	bash -cl "vmt schedule/index.md schedule/shadow.md timeshadow.pl"
 
 alldirs += ICI3D.github.io
 ICI3D.github.io/_config.yml:
 	git submodule update -i
 cerve: ICI3D.github.io/_config.yml
-	./run.sh &
+	./run.sh > jekyll.log 2>&1 &
 
-Sources += _config.yml _localconfig.yml
+Sources += _config.yml _localconfig.yml Gemfile.jd
+
+Ignore += Gemfile Gemfile.lock
 
 Sources += $(wildcard */shadow.md)
 
@@ -40,19 +40,29 @@ Sources += $(wildcard */shadow.md)
 
 -include makestuff/perl.def
 
-Sources += index.md makeshadow.md 
+Sources += index.md shadow_rules.md
 
 Sources += $(wildcard schedule/*.top schedule/*.md)
 Sources += $(wildcard *.pl)
 ## Rewrite to use pushro and a smarter script?
 ## Rewrite to use the full crazy lecture/format world?
-schedule/index.md: schedule/test.md
-	$(copy)
+## schedule/index.md: schedule/test.md; $(copy)
+## Schedule not made for DAIDD 2020 (points to time zones)
 
 schedule/test.md: schedule/index.top schedule/shadow.md shadow.pl
 	$(rm)
 	$(CAT) $< > $@
 	perl -wf shadow.pl schedule/shadow.md >> $@
+	$(readonly)
+
+zones = time10 time08 time03 time02 time01 time00 time09 time11 time14
+times = $(zones:%=schedule/%.md)
+time_setup: $(times)
+
+## schedule/time10.md: schedule/index.top schedule/test.md timeshadow.pl
+schedule/time%.md: schedule/index.top schedule/test.md timeshadow.pl
+	$(rm)
+	perl -wf timeshadow.pl $* schedule/test.md >> $@
 	$(readonly)
 
 schedule/planOverview.md: schedule/planOverview.top schedule/index.md rp.pl
