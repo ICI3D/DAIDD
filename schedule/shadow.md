@@ -29,7 +29,7 @@ alertmsg: >
 
 - _Please join the session by 16:25. We will begin promptly at 16:30._
 - 16:30-16:45 Welcome and some logistics ((pulliam))
-- 16:45-17:10 What are we doing here? ((hargrove)) NOTE - UPDATE linking system[Slide folder](https://tinyurl.com/daidd-2019)
+- 16:45-17:10 What are we doing here? ((hargrove)) NOTE - UPDATE linking system [Slide folder](https://tinyurl.com/daidd-2019)
 - 17:15-17:45 Data, models, and science ((dushoff))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
 - 17:45-18:00 Working with the DAIDD technical tools ((pearson)) NOTE (15 mins)
@@ -53,6 +53,7 @@ _**Please complete the following between the end of Sunday's interactive session
     - Reference: [Bellan _et al_. 2015](https://doi.org/10.1016/S1473-3099(15)70139-8)
     - Reference: [Kucharski _et al_. 2015](https://www.pnas.org/content/112/46/14366)
 - Exercise: Formulating research questions for modeling projects NOTE How best to do this? POST in a Research Questions channel before the beginning of the next interactive session.
+- Recommended reading: If you have not already read the [compiled pre-assigned readings](https://teams.microsoft.com/l/file/93743F01-2F1A-408E-A0F8-DA127CD2B7B9?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FPre-reading%2FOptional_DAIDD_PreAssignedReadings.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747), please do so now. These and other optional readings are available through the Pre-readings Folder in the DAIDD Participants Team.
 
 - 22:00 Tea with North American Faculty
 
