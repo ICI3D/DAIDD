@@ -43,8 +43,9 @@ _**Please complete the following between the end of Sunday's interactive session
 - Exercise: [Formulating research questions for modeling projects](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1) 
 - Recommended reading: If you have not already read the [compiled pre-assigned readings](https://teams.microsoft.com/l/file/93743F01-2F1A-408E-A0F8-DA127CD2B7B9?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FPre-reading%2FOptional_DAIDD_PreAssignedReadings.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747), please do so now. These and other optional readings are available through the Pre-readings Folder in the DAIDD Participants Team.
 
-- 15:00 Tea with North American Faculty
+_Reminder:_
 
+- 15:00 Tea with North American Faculty
 - 04:00 Tea with African Faculty
 
 ### Monday
@@ -74,8 +75,9 @@ _**Please complete the following between the end of Sunday's interactive session
     - [Part 3](https://youtu.be/meEJ7ys10WA)
 - Video lecture: Faculty research presentation 
 
-- 15:00 Tea with North American Faculty
+_Reminder:_
 
+- 15:00 Tea with North American Faculty
 - 04:00 Tea with African Faculty
 
 ### Tuesday
@@ -104,8 +106,9 @@ _**Please complete the following between the end of Sunday's interactive session
 - Video lecture: Stochastic simulation models 
 - Video lecture: Impact of contact patterns, consequences of heterogeneity, and modeling options 
 
-- 15:00 Tea with North American Faculty
+_Reminder:_
 
+- 15:00 Tea with North American Faculty
 - 04:00 Tea with African Faculty
 
 ### Wednesday
@@ -132,8 +135,9 @@ _**Please complete the following between the end of Sunday's interactive session
 - Video lecture: Models and data: introduction to model fitting 
 - Video lecture (optional): Faculty research presentation 
 
-- 15:00 Tea with North American Faculty
+_Reminder:_
 
+- 15:00 Tea with North American Faculty
 - 04:00 Tea with African Faculty
 
 ### Thursday
@@ -160,8 +164,9 @@ _**Please complete the following between the end of Sunday's interactive session
 - Video lecture: Model evaluation and comparison 
 
 
-- 15:00 Tea with North American Faculty
+_Reminder:_
 
+- 15:00 Tea with North American Faculty
 - 04:00 Tea with African Faculty
 
 ### Friday
@@ -187,19 +192,20 @@ _**Please complete the following between the end of Sunday's interactive session
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 - Submit your [**final research plan**](../Materials/researchPlans) via Teams
 
-**_Special session:_ 08:00-10:00 EST / 05:00-07:00 PST**
+**_Special session:_ 15:30-16:30**
 
 - One-on-one mentoring sessions with Borchering, Dushoff, and Scott 
 
-- 15:00 Tea with North American Faculty
+_Reminder:_
 
+- 15:00 Tea with North American Faculty
 - 04:00 Tea with African Faculty
 
 ### Saturday
 
 #### Individual session 7
 
-**_Special session:_ 04:00-06:00
+**_Special session:_ 04:30-06:30**
 
 - One-on-one mentoring sessions with Hargrove, Mthombothi, Pearson, and Pulliam 
 
