@@ -10,7 +10,7 @@ alertmsg: >
   <ul>
     <li>Please update all your presentations to <b>use the ICI3D slide template</b>.</li>
     <li>Note that links on this page do not (necessarily) work!</li>
-	 <li>Faculty notes docs now on faculty notes page</li>
+    <li>Faculty notes docs now on faculty notes page</li>
   </ul>
 ---
 
@@ -29,7 +29,7 @@ alertmsg: >
 
 - _Please join the session by 16:25. We will begin promptly at 16:30._
 - 16:30-16:45 Welcome and some logistics ((pulliam))
-- 16:45-17:10 What are we doing here? ((hargrove)) NOTE - UPDATE linking system[Slide folder](https://tinyurl.com/daidd-2019)
+- 16:45-17:10 What are we doing here? ((hargrove)) NOTE - UPDATE linking system [Slide folder](https://tinyurl.com/daidd-2019)
 - 17:15-17:45 Data, models, and science ((dushoff))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
 - 17:45-18:00 Working with the DAIDD technical tools ((pearson)) NOTE (15 mins)
@@ -42,6 +42,7 @@ alertmsg: >
 
 - 19:30-21:30 Research pitches (Moderator: (borchering))
     - SHADOW [Order of introductions](./introductions)
+- SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 1
 
@@ -52,10 +53,12 @@ _**Please complete the following between the end of Sunday's interactive session
 - Video lecture: [Introduction to model worlds](https://youtu.be/ev8jMgv-DEg) NOTE (pulliam)
     - Reference: [Bellan _et al_. 2015](https://doi.org/10.1016/S1473-3099(15)70139-8)
     - Reference: [Kucharski _et al_. 2015](https://www.pnas.org/content/112/46/14366)
-- Exercise: Formulating research questions for modeling projects NOTE How best to do this? POST in a Research Questions channel before the beginning of the next interactive session.
+- Exercise: [Formulating research questions for modeling projects](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1) NOTE Also available in the Assignments folder in the General Channel of the DAIDD Participants Team
+- Recommended reading: If you have not already read the [compiled pre-assigned readings](https://teams.microsoft.com/l/file/93743F01-2F1A-408E-A0F8-DA127CD2B7B9?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FPre-reading%2FOptional_DAIDD_PreAssignedReadings.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747), please do so now. These and other optional readings are available through the Pre-readings Folder in the DAIDD Participants Team.
+
+_Reminder:_
 
 - 22:00 Tea with North American Faculty
-
 - 11:00 Tea with African Faculty
 
 ### Monday
@@ -75,6 +78,7 @@ HIDE Let me know what you think about these banner lines with SAST; they are sup
 - 19:30-20:00 Discussion: Dynamical Fever ((scott)) HIDE - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)
 - 20:00-21:30 Small group session: research questions for modeling projects (All faculty) NOTE (90 mins)
     - SHADOW - [Step-by-step guide](../Materials/researchQuestions)
+- SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 2
 
@@ -91,8 +95,9 @@ HIDE Let me know what you think about these banner lines with SAST; they are sup
     - [Part 3](https://youtu.be/meEJ7ys10WA)
 - Video lecture: Faculty research presentation NOTE (dushoff) [video](https://www.youtube.com/watch?v=N4qWzM044ns)
 
-- 22:00 Tea with North American Faculty
+_Reminder:_
 
+- 22:00 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Tuesday
@@ -116,6 +121,7 @@ HIDE Let me know what you think about these banner lines with SAST; they are sup
 - 19:30-20:00 Exercise: Simple individual-based models ((pearson)) NOTE (30 mins)
 - 20:00-21:30 Exercise: Creating a model world to address a research question ((pulliam)) NOTE (90 mins)
     - SHADOW [Step-by-step guide](../Materials/modelWorld)
+- SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 3
 
@@ -132,8 +138,9 @@ HIDE Let me know what you think about these banner lines with SAST; they are sup
 - Video lecture: Impact of contact patterns, consequences of heterogeneity, and modeling options NOTE (dushoff)
     - SHADOW [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 
-- 22:00 Tea with North American Faculty
+_Reminder:_
 
+- 22:00 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Wednesday
@@ -164,8 +171,9 @@ SHADOW - Mid-session post-mortem: ~ 21:30
 - Video lecture (optional): Faculty research presentation NOTE ((bellan)) trial design video
 - SHADOW Video lecture (optional): [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) NOTE ((dushoff))
 
-- 22:00 Tea with North American Faculty
+_Reminder:_
 
+- 22:00 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Thursday
@@ -188,6 +196,7 @@ SHADOW - Mid-session post-mortem: ~ 21:30
   * SHADOW (Tutorial wrapup by (dushoff)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
 - 21:00-21:30 Review: model taxonomy ((pulliam)) NOTE Set up 'planning your approach exercise'
     - SHADOW [Planning document](https://docs.google.com/document/d/131l0PnkzeURcDt9sC0_5Qk-VAet3w64v3mhCzeY_MoQ/edit?usp=sharing)
+- SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 5
 
@@ -200,8 +209,9 @@ SHADOW - Mid-session post-mortem: ~ 21:30
 
 SHADOW Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; CP will source games
 
-- 22:00 Tea with North American Faculty
+_Reminder:_
 
+- 22:00 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Friday
@@ -220,6 +230,7 @@ SHADOW Possible social activity (Game night) - eg, from c. 21:30 JD will bring b
 - 19:30-20:00 Live lecture: Model-based inference and the bigger picture ((dushoff)) NOTE (30 mins)
 - 20:00-20:30 Review and Discussion (Moderator: (hargrove)) NOTE (30 mins free form discussion / Q&A on topics raised by participants)
 - 20:30-21:30 Small group session: planning your approach (All faculty) NOTE (60 mins)
+- SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 6
 
@@ -230,19 +241,20 @@ SHADOW Possible social activity (Game night) - eg, from c. 21:30 JD will bring b
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 - Submit your [**final research plan**](../Materials/researchPlans) via Teams
 
-**_Special session:_ 15:00-17:00 EST / 12:00-14:00 PST**
+**_Special session:_ 22:30-23:30**
 
 - One-on-one mentoring sessions with Borchering, Dushoff, and Scott NOTE Schedule to be posted
 
-- 22:00 Tea with North American Faculty
+_Reminder:_
 
+- 22:00 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Saturday
 
 #### Individual session 7
 
-**_Special session:_ 11:00-13:00
+**_Special session:_ 11:30-13:30**
 
 - One-on-one mentoring sessions with Hargrove, Mthombothi, Pearson, and Pulliam NOTE Schedule to be posted
 
