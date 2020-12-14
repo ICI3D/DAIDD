@@ -122,7 +122,7 @@ _Reminder:_
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - 16:30-16:45 Daily recap ((borchering)) NOTE (15 mins)
-    - SHADOW [DAIDD roadmap](https://www.dropbox.com/s/p41iaw1pl5nani4/roadmap.pdf?dl=1) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
+    - SHADOW [DAIDD roadmap slideset](https://www.dropbox.com/s/f37p9hgizwx360t/DAIDDroadmap.pptx?dl=1) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
 - 16:45- 17:00 Summary and discussion: The SIR model family ((dushoff)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Exercise](../Materials/SIRmodelFamily) NOTE (15 mins?)
     - SHADOW Excel spreadsheet in [Code folder](https://tinyurl.com/daidd-2019-code)
 - 17:00-17:30 Exercise: Building an SIR model from scratch ((dushoff)) NOTE (30 mins?) NOTE + 5 min stretch break
