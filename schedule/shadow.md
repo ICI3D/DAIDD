@@ -105,7 +105,7 @@ ICI3D::dynamicalFever()
     - [Part 1](https://youtu.be/cPLBzQGz2lM)
     - [Part 2](https://youtu.be/2IrPJCqff7g)
     - [Part 3](https://youtu.be/meEJ7ys10WA)
-- Video lecture: Faculty research presentation NOTE (dushoff) [video](https://www.youtube.com/watch?v=N4qWzM044ns)
+- Video lecture: [Faculty research presentation](https://www.youtube.com/watch?v=SbE5IMwHzlo&feature=youtu.be) NOTE (dushoff) [video](https://www.youtube.com/watch?v=N4qWzM044ns)
 
 _Reminder:_
 
