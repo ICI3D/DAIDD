@@ -55,8 +55,23 @@ _Reminder:_
 
 
 - 20:30-20:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
-- 20:50-21:00 Overview of research plan development and structure ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 20:50-21:00 [Overview of research plan development and structure](https://www.dropbox.com/s/6lhot2cfi0qwo8z/DAIDD2020guide.pdf?dl=1) ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
 - 21:00-22:30 Tutorial: Dynamical Fever - computer exercise and discussion (All faculty) 
+    - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+
+<div class="row">
+<div class="col-lg-1">
+</div>
+<div class="col-lg-10">
+{% highlight r %}
+
+ICI3D::dynamicalFever()
+
+{% endhighlight %}
+</div>
+<div class="col-lg-1">
+</div>
+</div>
 
 #### Interactive session 2b
 
