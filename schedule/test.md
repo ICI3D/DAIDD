@@ -68,7 +68,10 @@ _**Please complete the following between the end of Sunday's interactive session
 **_Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session._**
 
 - Exercise: Finalize your research question and post to the Research Questions channel.
-- Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations 
+- Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations
+	* [Intro (from live workshop)](https://youtu.be/cPLBzQGz2lM)
+	* [Discussion](https://youtu.be/cPLBzQGz2lM)
+	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.draft.pdf)
 - Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication 
     - [Part 1](https://youtu.be/cPLBzQGz2lM)
     - [Part 2](https://youtu.be/2IrPJCqff7g)
