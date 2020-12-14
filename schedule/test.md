@@ -71,8 +71,8 @@ _Reminder:_
 
 - Exercise: Finalize your research question and post to the Research Questions channel.
 - Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations
-	* [Intro (from live workshop)](https://youtu.be/cPLBzQGz2lM)
-	* [Discussion](https://youtu.be/cPLBzQGz2lM)
+	* [Intro (from live workshop)](https://youtu.be/wpxnkyKDAyA)
+	* [Discussion](https://youtu.be/WI1iYRprM2Y)
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.draft.pdf)
 - Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication 
     - [Part 1](https://youtu.be/cPLBzQGz2lM)
