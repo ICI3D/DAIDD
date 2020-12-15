@@ -93,7 +93,7 @@ ICI3D::dynamicalFever()
     - [Part 1](https://youtu.be/cPLBzQGz2lM)
     - [Part 2](https://youtu.be/2IrPJCqff7g)
     - [Part 3](https://youtu.be/meEJ7ys10WA)
-- Video lecture: [Faculty research presentation](https://www.youtube.com/watch?v=SbE5IMwHzlo&feature=youtu.be) 
+- Video lecture: [Faculty research presentation (Pulliam on COVID)](https://www.youtube.com/watch?v=SbE5IMwHzlo&feature=youtu.be)
 
 _Reminder:_
 
@@ -107,7 +107,9 @@ _Reminder:_
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - 16:30-16:45 Daily recap ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
-- 16:45- 17:00 Summary and discussion: The SIR model family ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 16:45- 17:00 Summary and discussion: The SIR model family ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+	* [Live spreadsheet](https://docs.google.com/spreadsheets/d/15LmAOLg4CCCYzOGhCxv0PH6gPua1sEkqo1qcTlWYP0w/) (copy or save to work on it)
+	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
 - 17:00-17:30 Exercise: Building an SIR model from scratch ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 17:30-17:45 Summary and discussion: The life cycle of a modeling project ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 17:45-18:30 Live lecture: Simple individual-based models ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
@@ -152,7 +154,7 @@ ICI3D::reedFrost()
 
 _Reminder:_
 
-- 22:00 Tea with North American Faculty
+- 0:30 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Wednesday

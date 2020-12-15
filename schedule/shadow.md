@@ -108,7 +108,7 @@ ICI3D::dynamicalFever()
     - [Part 1](https://youtu.be/cPLBzQGz2lM)
     - [Part 2](https://youtu.be/2IrPJCqff7g)
     - [Part 3](https://youtu.be/meEJ7ys10WA)
-- Video lecture: [Faculty research presentation](https://www.youtube.com/watch?v=SbE5IMwHzlo&feature=youtu.be) NOTE (dushoff) [video](https://www.youtube.com/watch?v=N4qWzM044ns)
+- Video lecture: [Faculty research presentation (Pulliam on COVID)](https://www.youtube.com/watch?v=SbE5IMwHzlo&feature=youtu.be)
 
 _Reminder:_
 
@@ -123,8 +123,9 @@ _Reminder:_
 
 - 16:30-16:45 Daily recap ((borchering)) NOTE (15 mins)
     - SHADOW [DAIDD roadmap slideset](https://www.dropbox.com/s/f37p9hgizwx360t/DAIDDroadmap.pptx?dl=1) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
-- 16:45- 17:00 Summary and discussion: The SIR model family ((dushoff)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Exercise](../Materials/SIRmodelFamily) NOTE (15 mins?)
-    - SHADOW Excel spreadsheet in [Code folder](https://tinyurl.com/daidd-2019-code)
+- 16:45- 17:00 Summary and discussion: The SIR model family ((dushoff))
+	* [Live spreadsheet](https://docs.google.com/spreadsheets/d/15LmAOLg4CCCYzOGhCxv0PH6gPua1sEkqo1qcTlWYP0w/) (copy or save to work on it)
+	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
 - 17:00-17:30 Exercise: Building an SIR model from scratch ((dushoff)) NOTE (30 mins?) NOTE + 5 min stretch break
 - 17:30-17:45 Summary and discussion: The life cycle of a modeling project ((hargrove))
 - 17:45-18:30 Live lecture: Simple individual-based models ((pearson)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)
@@ -173,7 +174,7 @@ ICI3D::reedFrost()
 
 _Reminder:_
 
-- 22:00 Tea with North American Faculty
+- 0:30 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Wednesday
