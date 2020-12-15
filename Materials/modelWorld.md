@@ -9,7 +9,7 @@ subtitle: Creating a Model World
 In this exercise, participants go through a series of steps designed to help them develop a simplified conceptual model of their study system that will help them clarify and address their research question.
 
 -   **Example Model Diagram** -  [PDF](./exampleModelDiagram.pdf), [PPTX](https://www.dropbox.com/s/drfffwpood0xr0w/exampleModelDiagram.pptx?dl=1)
--   [Download slides with steps](https://www.dropbox.com/s/4xdxezsbl1a93hv/DAIDD_CreatingAModelWorld.pdf?dl=1 "Creating a Model World")
+-   [Download slides with steps](https://www.dropbox.com/s/ibry7jebto4615a/Pulliam_CreatingAModelWorld.pdf?dl=1 "Creating a Model World")
 - Another example for practice
     - **Research Question:** Can Eastern red fox populations maintain rabies virus transmission?
     - [Model Diagram](./practice.Diagram.pdf)

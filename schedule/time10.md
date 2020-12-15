@@ -112,17 +112,38 @@ _Reminder:_
 #### Interactive session 3b
 
 - 19:30-20:00 Exercise: Simple individual-based models ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
+    - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+
+<div class="row">
+<div class="col-lg-1">
+</div>
+<div class="col-lg-10">
+{% highlight r %}
+
+ICI3D::reedFrost()
+
+{% endhighlight %}
+</div>
+<div class="col-lg-1">
+</div>
+</div>
+
 - 20:00-21:30 Exercise: Creating a model world to address a research question ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
 
 #### Individual session 3
 
 **_Please complete the following between the end of Tuesday's interactive session and the beginning of Wednesday's interactive session._**
 
-- Exercise: Creating a model world assignment. Be prepared to share your model diagram during Wednesday's interactive session.
-- Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example 
-- Video lecture: [Faculty research presentation](https://youtu.be/L1qalfZfwEo) 
+- Exercise: Creating a model world assignment.
+    - [Step-by-step guide](../Materials/modelWorld)
+    -  Upload your intial model diagram before Wednesday's interactive session (DAIDD Participants > General > Files > 04_modelDiagram > 04.1_InitialDiagrams).
+- Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example
+    - 
 - Video lecture: Stochastic simulation models 
-- [Video lecture: Heterogeneity, contact patterns, and modeling options](https://www.youtube.com/watch?v=9OhB3WfSpS8&ab_channel=ICI3D) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+    - [Introduction](https://youtu.be/VcyhoQcAt00)
+    - [Part 1](https://youtu.be/MuXYbph_f0Y)
+    - [Part 2](https://youtu.be/Ht1YA0SFF80)
+- Video lecture: [Heterogeneity, contact patterns, and modeling options](https://www.youtube.com/watch?v=9OhB3WfSpS8&ab_channel=ICI3D) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.draft.pdf)
 
 _Reminder:_
@@ -143,6 +164,22 @@ _Reminder:_
 
 - 19:30-19:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 19:45-20:30 Tutorial: Heterogeneity in disease emergence ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/), [Carl Pearson]({{site.subdomainurl}}/team/pearson/), [Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
+    - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+
+<div class="row">
+<div class="col-lg-1">
+</div>
+<div class="col-lg-10">
+{% highlight r %}
+
+ICI3D::heterogeneityTutorial()
+
+{% endhighlight %}
+</div>
+<div class="col-lg-1">
+</div>
+</div>
+
 - 20:30-21:30 Mid-session feedback ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
 
 
@@ -152,7 +189,7 @@ _Reminder:_
 
 - Exercise: Update your model diagram and post to Teams
 - Video lecture: Models and data: introduction to model fitting 
-- Video lecture (optional): Faculty research presentation 
+- Video lecture: [Faculty research presentation](https://youtu.be/L1qalfZfwEo) 
 
 _Reminder:_
 
@@ -172,6 +209,22 @@ _Reminder:_
 #### Interactive session 5b
 
 - 19:30-21:00 Tutorial: Model fitting ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
+  - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+
+<div class="row">
+<div class="col-lg-1">
+</div>
+<div class="col-lg-10">
+{% highlight r %}
+
+ICI3D::hivTutorial()
+
+{% endhighlight %}
+</div>
+<div class="col-lg-1">
+</div>
+</div>
+
 - 21:00-21:30 Review: model taxonomy ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
 
 #### Individual session 5

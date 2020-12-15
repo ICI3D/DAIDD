@@ -134,6 +134,22 @@ _Reminder:_
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - 19:30-20:00 Exercise: Simple individual-based models ((pearson)) NOTE (30 mins)
+    - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+
+<div class="row">
+<div class="col-lg-1">
+</div>
+<div class="col-lg-10">
+{% highlight r %}
+
+ICI3D::reedFrost()
+
+{% endhighlight %}
+</div>
+<div class="col-lg-1">
+</div>
+</div>
+
 - 20:00-21:30 Exercise: Creating a model world to address a research question ((pulliam)) NOTE (90 mins)
     - SHADOW [Step-by-step guide](../Materials/modelWorld)
 - SHADOW 21:30-22:00 Faculty meeting
@@ -142,15 +158,16 @@ _Reminder:_
 
 **_Please complete the following between the end of Tuesday's interactive session and the beginning of Wednesday's interactive session._**
 
-- Exercise: Creating a model world assignment. Be prepared to share your model diagram during Wednesday's interactive session.
-- Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example NOTE if sharing, use a different example question!
-- Video lecture: [Faculty research presentation](https://youtu.be/L1qalfZfwEo) NOTE (hargrove)
-    - SHADOW [Faculty research presentations](../Materials/researchPresentations)
+- Exercise: Creating a model world assignment.
+    - [Step-by-step guide](../Materials/modelWorld)
+    -  Upload your intial model diagram before Wednesday's interactive session (DAIDD Participants > General > Files > 04_modelDiagram > 04.1_InitialDiagrams).
+- Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example
+    - 
 - Video lecture: Stochastic simulation models NOTE (borchering)
-    - SHADOW Stochastic simulation models ((kassanjee)) - [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
-    - SHADOW [Becky's slides](https://www.dropbox.com/s/678dx9io8fqnxyg/Borchering_stochastic_simulation_DAIDD2016.pdf?dl=1)
-    - SHADOW - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R) older code
-- [Video lecture: Heterogeneity, contact patterns, and modeling options](https://www.youtube.com/watch?v=9OhB3WfSpS8&ab_channel=ICI3D) ((dushoff))
+    - [Introduction](https://youtu.be/VcyhoQcAt00)
+    - [Part 1](https://youtu.be/MuXYbph_f0Y)
+    - [Part 2](https://youtu.be/Ht1YA0SFF80)
+- Video lecture: [Heterogeneity, contact patterns, and modeling options](https://www.youtube.com/watch?v=9OhB3WfSpS8&ab_channel=ICI3D) ((dushoff))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.draft.pdf)
     - SHADOW [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 
@@ -174,6 +191,22 @@ _Reminder:_
 
 - 19:30-19:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) NOTE (15 mins)
 - 19:45-20:30 Tutorial: Heterogeneity in disease emergence ((dushoff), (pearson), (mthombothi)) NOTE (45 mins)
+    - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+
+<div class="row">
+<div class="col-lg-1">
+</div>
+<div class="col-lg-10">
+{% highlight r %}
+
+ICI3D::heterogeneityTutorial()
+
+{% endhighlight %}
+</div>
+<div class="col-lg-1">
+</div>
+</div>
+
 - 20:30-21:30 Mid-session feedback ((bruce)) NOTE (60 mins)
 
 SHADOW - Mid-session post-mortem: ~ 21:30
@@ -184,7 +217,7 @@ SHADOW - Mid-session post-mortem: ~ 21:30
 
 - Exercise: Update your model diagram and post to Teams
 - Video lecture: Models and data: introduction to model fitting NOTE ((scott)) - to be confirmed
-- Video lecture (optional): Faculty research presentation NOTE ((bellan)) trial design video
+- Video lecture: [Faculty research presentation](https://youtu.be/L1qalfZfwEo) NOTE (hargrove)
 - SHADOW Video lecture (optional): [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) NOTE ((dushoff))
 
 _Reminder:_
@@ -210,6 +243,22 @@ _Reminder:_
 
 - 19:30-21:00 Tutorial: Model fitting ((hargrove)) NOTE (90 mins?) - [Tutorial notes](../Materials/hivTutorial)
   * SHADOW (Tutorial wrapup by (dushoff)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
+  - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+
+<div class="row">
+<div class="col-lg-1">
+</div>
+<div class="col-lg-10">
+{% highlight r %}
+
+ICI3D::hivTutorial()
+
+{% endhighlight %}
+</div>
+<div class="col-lg-1">
+</div>
+</div>
+
 - 21:00-21:30 Review: model taxonomy ((pulliam)) NOTE Set up 'planning your approach exercise'
     - SHADOW [Planning document](https://docs.google.com/document/d/131l0PnkzeURcDt9sC0_5Qk-VAet3w64v3mhCzeY_MoQ/edit?usp=sharing)
 - SHADOW 21:30-22:00 Faculty meeting
