@@ -150,8 +150,9 @@ _Reminder:_
     - SHADOW Stochastic simulation models ((kassanjee)) - [Slide folder](https://tinyurl.com/daidd-2019), [Code folder](https://tinyurl.com/daidd-2019-code)
     - SHADOW [Becky's slides](https://www.dropbox.com/s/678dx9io8fqnxyg/Borchering_stochastic_simulation_DAIDD2016.pdf?dl=1)
     - SHADOW - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R) older code
-- Video lecture: Impact of contact patterns, consequences of heterogeneity, and modeling options NOTE (dushoff)
-    - SHADOW [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
+- [Video lecture: Heterogeneity, contact patterns, and modeling options](https://www.youtube.com/watch?v=9OhB3WfSpS8&ab_channel=ICI3D) ((dushoff))
+	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.draft.pdf)
+    - SHADOW [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 
 _Reminder:_
 

@@ -126,7 +126,8 @@ _Reminder:_
 - Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example 
 - Video lecture: [Faculty research presentation](https://youtu.be/L1qalfZfwEo) 
 - Video lecture: Stochastic simulation models 
-- Video lecture: Impact of contact patterns, consequences of heterogeneity, and modeling options 
+- [Video lecture: Heterogeneity, contact patterns, and modeling options](https://www.youtube.com/watch?v=9OhB3WfSpS8&ab_channel=ICI3D) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.draft.pdf)
 
 _Reminder:_
 
