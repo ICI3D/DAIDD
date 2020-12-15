@@ -144,7 +144,6 @@ ICI3D::reedFrost()
     - [Step-by-step guide](../Materials/modelWorld)
     -  Upload your intial model diagram before Wednesday's interactive session (DAIDD Participants > General > Files > 04_modelDiagram > 04.1_InitialDiagrams).
 - Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example
-    - 
 - Video lecture: Stochastic simulation models 
     - [Introduction](https://youtu.be/VcyhoQcAt00)
     - [Part 1](https://youtu.be/MuXYbph_f0Y)

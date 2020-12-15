@@ -163,11 +163,12 @@ ICI3D::reedFrost()
     - [Step-by-step guide](../Materials/modelWorld)
     -  Upload your intial model diagram before Wednesday's interactive session (DAIDD Participants > General > Files > 04_modelDiagram > 04.1_InitialDiagrams).
 - Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example
-    - 
+    - SHADOW Something JP wants to add
 - Video lecture: Stochastic simulation models NOTE (borchering)
     - [Introduction](https://youtu.be/VcyhoQcAt00)
     - [Part 1](https://youtu.be/MuXYbph_f0Y)
     - [Part 2](https://youtu.be/Ht1YA0SFF80)
+	 - SHADOW Slide link Can we link to Teams via URL? or what?
 - Video lecture: [Heterogeneity, contact patterns, and modeling options](https://www.youtube.com/watch?v=9OhB3WfSpS8&ab_channel=ICI3D) ((dushoff))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.draft.pdf)
     - SHADOW [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
