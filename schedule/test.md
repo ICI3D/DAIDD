@@ -144,10 +144,12 @@ ICI3D::reedFrost()
     - [Step-by-step guide](../Materials/modelWorld)
     -  Upload your intial model diagram before Wednesday's interactive session (DAIDD Participants > General > Files > 04_modelDiagram > 04.1_InitialDiagrams).
 - Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example
+    - Research question: What level of vaccination is necessary to eliminate domestic dog rabies in Tanzania?
 - Video lecture: Stochastic simulation models 
     - [Introduction](https://youtu.be/VcyhoQcAt00)
     - [Part 1](https://youtu.be/MuXYbph_f0Y)
     - [Part 2](https://youtu.be/Ht1YA0SFF80)
+    - [Slides on Teams](https://teams.microsoft.com/l/file/99FBBFCC-4C5F-4444-8B19-4325DA5328C6?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FSlides%2FIndividual%20Session%203%2FBorchering_StochasticSimulationModels.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747)
 - Video lecture: [Heterogeneity, contact patterns, and modeling options](https://www.youtube.com/watch?v=9OhB3WfSpS8&ab_channel=ICI3D) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.draft.pdf)
 
@@ -194,9 +196,14 @@ ICI3D::heterogeneityTutorial()
 
 **_Please complete the following between the end of Wednesday's interactive session and the beginning of Thursday's interactive session._**
 
-- Exercise: Update your model diagram and post to Teams
+- Exercise: Update your model diagram and post to Teams before Thursday's interactive session (DAIDD Participants > General > Files > 04_modelDiagram > 04.2_UpdatedDiagrams).
 - Video lecture: Models and data: introduction to model fitting 
+    - [Part 1](https://youtu.be/VMHLBrTpoS0)
+    - [Part 2](https://youtu.be/ApxGWFyFUsU)
+    - [Part 3](https://youtu.be/iUEf8rhAScQ)
+    - [Part 4](https://youtu.be/On98jk6Wq4I)
 - Video lecture: [Faculty research presentation](https://youtu.be/L1qalfZfwEo) 
+- Video lecture (optional): [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) 
 
 _Reminder:_
 
