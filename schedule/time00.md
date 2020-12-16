@@ -201,8 +201,8 @@ ICI3D::heterogeneityTutorial()
 
 _Reminder:_
 
-- 12:00 Tea with North American Faculty
-- 01:00 Tea with African Faculty
+- 14:30 Tea with North American Faculty
+- 03:00 Tea with African Faculty
 
 ### Thursday
 
@@ -246,8 +246,8 @@ ICI3D::hivTutorial()
 
 _Reminder:_
 
-- 12:00 Tea with North American Faculty
-- 01:00 Tea with African Faculty
+- 14:30 Tea with North American Faculty
+- 03:00 Tea with African Faculty
 
 ### Friday
 
@@ -278,8 +278,8 @@ _Reminder:_
 
 _Reminder:_
 
-- 12:00 Tea with North American Faculty
-- 01:00 Tea with African Faculty
+- 14:30 Tea with North American Faculty
+- 03:00 Tea with African Faculty
 
 ### Saturday
 

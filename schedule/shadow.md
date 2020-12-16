@@ -227,8 +227,8 @@ SHADOW - Mid-session post-mortem: ~ 21:30
 
 _Reminder:_
 
-- 22:00 Tea with North American Faculty
-- 11:00 Tea with African Faculty
+- 0:30 Tea with North American Faculty
+- 13:00 Tea with African Faculty
 
 ### Thursday
 
@@ -281,8 +281,8 @@ SHADOW Possible social activity (Game night) - eg, from c. 21:30 JD will bring b
 
 _Reminder:_
 
-- 22:00 Tea with North American Faculty
-- 11:00 Tea with African Faculty
+- 0:30 Tea with North American Faculty
+- 13:00 Tea with African Faculty
 
 ### Friday
 
@@ -317,8 +317,8 @@ _Reminder:_
 
 _Reminder:_
 
-- 22:00 Tea with North American Faculty
-- 11:00 Tea with African Faculty
+- 0:30 Tea with North American Faculty
+- 13:00 Tea with African Faculty
 
 ### Saturday
 
