@@ -39,6 +39,11 @@ Reconcile your process and characteristic lists by identifying how the most impo
 
 -   Construct a diagram that represents all of the individual characteristics and processes of interest.
     -   For your own purposes, you can use whatever graphical conventions work best for how you think about the system.
--   Hand draw or print a clean, clearly labeled version of your model diagram and bring it with you to tomorrow morning's session.
-    -   The physical (paper) version of your diagram, which you should bring with you on Thursday morning, should use arrows to represent the *transitions* from one category or state to another, and these transition arrows should be labeled with descriptions of what variables or other factors will influence the rate at which the transition occurs.
-    -   If you use any letters or symbols in your diagram (chances are you will!), include a key that clearly state what each symbol/letter/abbreviation means.
+
+### Step 6
+
+-   Create a clean, clearly labeled version of your model diagram and upload it before Wednesday’s interactive session (4a).
+    - Use solid **labeled arrows** to represent the transitions into / out of / between states. Label all arrows into or out of a state with the rate for the process. If the arrow represents leaving a state (whether or not another state is entered), label the arrow with the per capita rate.
+    - Use **dashed arrows** (pointing to transitions, not states) to indicate influences of one state on the rate of transition from another state.
+    - Include a **key** for symbols/abbreviations.
+    - Include your **research question**.
