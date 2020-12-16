@@ -37,8 +37,8 @@ Reconcile your process and characteristic lists by identifying how the most impo
 
 ### Step 6
 
--   Construct a diagram that represents all of the individual characteristics and processes of interest.
-    -   For your own purposes, you can use whatever graphical conventions work best for how you think about the system.
+- Construct a diagram that represents all of the individual characteristics and processes of interest.
+    - For your own purposes, you can use whatever graphical conventions work best for how you think about the system.
 
 ### Step 6
 
