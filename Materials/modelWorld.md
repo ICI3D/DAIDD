@@ -42,7 +42,7 @@ Reconcile your process and characteristic lists by identifying how the most impo
 
 ### Step 6
 
--   Create a clean, clearly labeled version of your model diagram and upload it before Wednesday’s interactive session (4a).
+-   Create a clean, clearly labeled version of your model diagram and upload it before Wednesday’s interactive session (4a). Upload location: DAIDD Participants > General > Files > 04_modelDiagram > 04.1_InitialDiagrams.
     - Use solid **labeled arrows** to represent the transitions into / out of / between states. Label all arrows into or out of a state with the rate for the process. If the arrow represents leaving a state (whether or not another state is entered), label the arrow with the per capita rate.
     - Use **dashed arrows** (pointing to transitions, not states) to indicate influences of one state on the rate of transition from another state.
     - Include a **key** for symbols/abbreviations.
