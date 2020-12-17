@@ -241,7 +241,9 @@ ICI3D::hivTutorial()
 
 - Exercise: Finalize your model diagram and description and post to Teams 
 - Exercise: Work through the document for planning your approach
-- Video lecture: Model evaluation and comparison 
+- Video lecture: [Model evaluation and comparison](https://www.youtube.com/watch?v=0c5P1Lv33hM)
+	* [Lecture handouts](https://teams.microsoft.com/l/file/FFB83B2C-F9D7-4A8E-A04F-1048BD758C95?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FSlides%2FIndividual%20Session%205%2Fevaluation.draft.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747);
+	* [Draft slides](https://teams.microsoft.com/l/file/FFB83B2C-F9D7-4A8E-A04F-1048BD758C95?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FSlides%2FIndividual%20Session%205%2Fevaluation.draft.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747)
 
 
 _Reminder:_
