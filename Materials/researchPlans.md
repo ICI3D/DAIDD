@@ -7,7 +7,7 @@ subtitle: Research Plan Instructions
 
 # Model Diagram
 
-See the [step-by-step guide](./modelWorld) for creating a model world (Step 6). The final version of your diagram should include both your research question and a key / legend that defines all symbols.
+See the [step-by-step guide](./modelWorld) for creating a model world (Step 7). The final version of your diagram should include both your research question and a key / legend that defines all symbols.
 
 # Model Description
 
@@ -31,7 +31,9 @@ Your model description should fully describe your model world, including all pro
 
 ## Posting instructions
 
-**Post your research plan as a PDF Friday night.**
-* In the Will Rogers sense
+**Post your research plan before Saturday's Interactive Session.** (DAIDD Participants > General > Files > 06_researchPlan)
+
+**Post your final slide before Saturday's Interactive Session.** (DAIDD Participants > General > Files > 07_finalSlide)
+
 
 Thank you!
