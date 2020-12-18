@@ -310,10 +310,12 @@ _Reminder:_
 
 **_Please complete the following between the end of Friday's interactive session and the beginning of Saturday's interactive session._**
 
-- Video lecture: Use of models in public health decision-making (Faculty research presentation) ((borchering))
+- Video lecture: Use of models in public health decision-making II (Faculty research presentation) ((borchering))
     - SHADOW [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 - Submit your [**final research plan**](../Materials/researchPlans) via Teams
+- Submit your **final slide** via teams
+    - Include your research question and model diagram on a single page in a PDF document
 
 **_Special session:_ 22:30-23:30**
 
