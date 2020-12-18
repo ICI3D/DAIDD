@@ -274,6 +274,7 @@ _Reminder:_
 **_Please complete the following between the end of Friday's interactive session and the beginning of Saturday's interactive session._**
 
 - Video lecture: [Use of models in public health decision-making II](https://youtu.be/MtYUGxzUWH8) (Faculty research presentation) ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
+    - [Slides](https://teams.microsoft.com/l/file/18541B13-3A21-4881-B87A-6CA309F81C56?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FSlides%2FIndividual%20Session%206%2FBorchering_MMODS_DAIDD2020.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747)
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 - Submit your [**final research plan**](../Materials/researchPlans) via Teams
 - Submit your **final slide** via teams
@@ -282,7 +283,7 @@ _Reminder:_
 **_Special session:_ 20:30-21:30**
 
 - One-on-one mentoring sessions with Borchering, Dushoff, and Scott 
-    - [Schedule](https://teams.microsoft.com/l/file/2844FEDB-E44F-49C6-819A-71420EC41140?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FResources%2FOneOnOneMeetingSchedule.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747)
+    - [Schedule](https://teams.microsoft.com/l/file/3F4D3584-0CFC-44DA-997E-7825B3445318?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FResources%2FOneOnOneMeetingSchedule.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747)
 
 _Reminder:_
 
@@ -296,7 +297,7 @@ _Reminder:_
 **_Special session:_ 10:00-11:30**
 
 - One-on-one mentoring sessions with Hargrove, Mthombothi, Pearson, and Pulliam 
-    - [Schedule](https://teams.microsoft.com/l/file/2844FEDB-E44F-49C6-819A-71420EC41140?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FResources%2FOneOnOneMeetingSchedule.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747)
+    - [Schedule](https://teams.microsoft.com/l/file/3F4D3584-0CFC-44DA-997E-7825B3445318?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FResources%2FOneOnOneMeetingSchedule.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747)
 
 #### Interactive session 7a
 

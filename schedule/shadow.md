@@ -321,7 +321,7 @@ _Reminder:_
 **_Special session:_ 22:30-23:30**
 
 - One-on-one mentoring sessions with Borchering, Dushoff, and Scott NOTE Schedule to be posted
-    - [Schedule](https://teams.microsoft.com/l/file/2844FEDB-E44F-49C6-819A-71420EC41140?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FResources%2FOneOnOneMeetingSchedule.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747)
+    - [Schedule](https://teams.microsoft.com/l/file/3F4D3584-0CFC-44DA-997E-7825B3445318?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FResources%2FOneOnOneMeetingSchedule.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747)
 
 _Reminder:_
 
@@ -335,7 +335,7 @@ _Reminder:_
 **_Special session:_ 12:00-13:30**
 
 - One-on-one mentoring sessions with Hargrove, Mthombothi, Pearson, and Pulliam NOTE Schedule to be posted
-    - [Schedule](https://teams.microsoft.com/l/file/2844FEDB-E44F-49C6-819A-71420EC41140?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FResources%2FOneOnOneMeetingSchedule.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747)
+    - [Schedule](https://teams.microsoft.com/l/file/3F4D3584-0CFC-44DA-997E-7825B3445318?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FResources%2FOneOnOneMeetingSchedule.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747)
 
 #### Interactive session 7a
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
