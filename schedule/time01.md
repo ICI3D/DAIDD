@@ -265,6 +265,7 @@ _Reminder:_
 #### Interactive session 6b
 
 - 10:30-11:00 Live lecture: Model-based inference and the bigger picture ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+	* [Slides (by Bellan)](https://github.com/dushoff/statistics_talks/blob/master/outputs/inference2020.pdf)
 - 11:00-11:30 Review and Discussion (Moderator: [John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
 - 11:30-12:30 Small group session: planning your approach (All faculty) 
 
