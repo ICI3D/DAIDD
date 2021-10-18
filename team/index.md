@@ -3,7 +3,7 @@ layout: clinic
 redirect: ../development
 tab: Team
 title: Team
-subtitle: DAIDD 2020 Instructional Team
+subtitle: DAIDD 2021 Instructional Team
 ---
 
 {% include topTable.html %}
