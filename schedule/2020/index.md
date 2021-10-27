@@ -13,6 +13,8 @@ alertmsg: >
   </ul>
 ---
 
+> This is an archived version of the schedule from the DAIDD 2020 clinic.
+
 [Daily DAIDD overview](overview)
 
 __Click here for schedule in your time zone__

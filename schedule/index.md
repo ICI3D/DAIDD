@@ -1,6 +1,6 @@
 ---
-layout: clinic
-redirect: ../development
+layout: redirect
+redirect: ./2020
 tab: Schedule
 title: Schedule
 subtitle: Clinic Schedule
