@@ -36,8 +36,7 @@ alertmsg: >
 - 17:45-18:00 Working with the DAIDD technical tools ((pearson)) NOTE (15 mins)
     - _Make sure your slides are uploaded for the next session!_
 - 18:00-18:30 Ice breakers ((bruce))
-    - SHADOW How will this work online? Should probably use this as a chance to introduce some Teams features
-    - SHADOW **Prep for round-robin introductions.** Can we figure out how to do this online?
+    - SHADOW use this as a chance to introduce some Teams features - silly questions and getting to know you stuff; switch rooms midway through
 
 #### Interactive session 1b
 
@@ -59,14 +58,13 @@ _**Please complete the following between the end of Sunday's interactive session
 
 _Reminder:_
 
-- 22:00 Tea with North American Faculty
+- 0:30 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Monday
 
 #### Interactive session 2a
 
-HIDE Let me know what you think about these banner lines with SAST; they are suppressed by the program for now but the code is there to show them correctly
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((TBD))
@@ -89,6 +87,7 @@ ICI3D::dynamicalFever()
 </div>
 
 #### Interactive session 2b
+
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - 19:30-20:00 Discussion: Dynamical Fever ((TBD)) HIDE - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)
@@ -113,7 +112,7 @@ ICI3D::dynamicalFever()
 
 _Reminder:_
 
-- 22:00 Tea with North American Faculty
+- 0:30 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Tuesday
@@ -129,8 +128,8 @@ _Reminder:_
 	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
 - 17:00-17:30 Exercise: Building an SIR model from scratch ((dushoff)) NOTE (30 mins?) NOTE + 5 min stretch break
 - 17:30-17:45 Summary and discussion: The life cycle of a modeling project ((TBD))
-- 17:45-18:30 Live lecture: Simple individual-based models ((pearson)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)
-    - SHADOW [Google sheet](https://tinyurl.com/DAIDD-SIRboth-2019)
+- 17:45-18:30 Live lecture: The simplest model ((pearson)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)
+    - SHADOW [Google sheet](https://tinyurl.com/DAIDD-SIRboth-2019) NOTE Formerly: Simple individual-based models
 
 #### Interactive session 3b
 
@@ -153,7 +152,7 @@ ICI3D::reedFrost()
 </div>
 </div>
 
-- 20:00-21:30 Exercise: Creating a model world to address a research question ((pulliam OR mwangi)) NOTE (90 mins)
+- 20:00-21:30 Exercise: Creating a model world to address a research question ((mwangi)) NOTE (90 mins)
 - SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 3
@@ -190,6 +189,7 @@ _Reminder:_
 - 17:00-18:30 Small-group session: matching models to questions (All faculty) NOTE (90 minutes)
 
 #### Interactive session 4b
+
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - 19:30-19:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) NOTE (15 mins)
@@ -212,7 +212,7 @@ ICI3D::heterogeneityTutorial()
 
 - 20:30-21:30 Mid-session feedback ((bruce)) NOTE (60 mins)
 
-SHADOW - Mid-session post-mortem: ~ 21:30
+SHADOW - Mid-session post-mortem: ~ 21:30 NOTE STOPPED HERE
 
 #### Individual session 4
 
