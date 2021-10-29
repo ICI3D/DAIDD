@@ -8,15 +8,15 @@ subtitle: Resources for during and after the Clinic
 
 - Learning terminology
     - [DAIDD Glossary](./DAIDD_Glossary.pdf)
-    - [MMED Glossary](http://lalashan.mcmaster.ca/theobio/mmed/index.php/Category:Definitions)
     - [Modelling concepts](./modellingConcepts)
 - Learning R
     - [ICI3D tutorials](http://www.ici3d.org/MMED/tutorials/)
-    - [Project Mosaic](http://mosaic-web.org/r-packages/)
+    - [Repository template for student modelling projects](https://github.com/SACEMA/repo_template)
     - [R Studio Cheat Sheets](http://www.rstudio.com/resources/cheatsheets)
     - [R for Data Science](http://r4ds.had.co.nz/)
     - [R Studio Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
     - [R Bootcamp](https://r-bootcamp.netlify.com/) - specifically for learning tidyverse
+    - [Project Mosaic](http://mosaic-web.org/r-packages/)
 - Further reading
     - _An introduction to infectious disease modelling_ by E Vynnycky and RG White - [link](http://www.anintroductiontoinfectiousdiseasemodelling.com/)
     - _Modeling Infectious Diseases in Humans and Animals_ by MJ Keeling and P Rohani - [review](http://rohanilab.ecology.uga.edu/wp-content/uploads/2013/12/farrington.pdf), [link](https://www.researchgate.net/publication/23180326_Modeling_Infectious_Diseases_in_Humans_and_Animals)
@@ -25,7 +25,6 @@ subtitle: Resources for during and after the Clinic
     - [xkcd](https://www.xkcd.com/) (comic)
     - [The 100% CI](http://www.the100.ci/) (blog)
     - [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/) (blog)
-    - [FiveThirtyEight](https://fivethirtyeight.com/) (website)
 - Models used during the week
     - [Code](http://www.ici3d.org/MMED/tutorials/dynamicalFever) for the model underlying the Dynamical Fever exercise.
     - Tuesday morning spreadsheet tutorials
