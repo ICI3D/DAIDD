@@ -1,6 +1,6 @@
 ---
-layout: redirect
-redirect: ./2020
+layout: clinic
+redirect: ../development
 tab: Schedule
 title: Schedule
 subtitle: Clinic Schedule
@@ -12,6 +12,8 @@ alertmsg: >
     <li>Most tutorials and exercises are available through the ICI3D R package. Additional materials are linked from the <a href='../resources'>Resources</a> page.</li>
   </ul>
 ---
+
+> This is an archived version of the schedule from the DAIDD 2020 clinic.
 
 [Daily DAIDD overview](overview)
 
