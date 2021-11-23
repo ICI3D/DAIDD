@@ -30,7 +30,7 @@ alertmsg: >
 
 - _Please join the session by 16:25. We will begin promptly at 16:30._
 - 16:30-16:45 Welcome and some logistics ((pulliam))
-- 16:45-17:10 What are we doing here? ((TBD)) NOTE - UPDATE linking system [Slide folder](https://tinyurl.com/daidd-2019)
+- 16:45-17:10 What are we doing here? ((pulliam)) NOTE - UPDATE linking system [Slide folder](https://tinyurl.com/daidd-2019)
 - 17:15-17:45 Data, models, and science ((dushoff))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
 - 17:45-18:00 Working with the DAIDD technical tools ((pearson)) NOTE (15 mins)
@@ -237,6 +237,7 @@ _Reminder:_
 ### Thursday
 
 SHADOW JP giving a seminar; need to sort out timing; will otherwise be available
+SHADOW CP not available Thursday AM; shouldn't be a problem
 
 #### Interactive session 5a
 
@@ -298,6 +299,8 @@ _Reminder:_
 
 ### Friday
 
+SHADOW BR not available at 20:30
+
 #### Interactive session 6a
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
@@ -307,6 +310,7 @@ _Reminder:_
 - 17:00-18:30 Live lecture: Use of models in public health decision-making (Faculty research presentation) - Now with more COVID! ((pearson)) HIDE - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
 
 #### Interactive session 6b
+
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - 19:30-20:00 Live lecture: Model-based inference and the bigger picture ((dushoff or TBD)) NOTE (30 mins)
@@ -319,7 +323,7 @@ _Reminder:_
 
 **_Please complete the following between the end of Friday's interactive session and the beginning of Saturday's interactive session._**
 
-- Video lecture: Faculty Research Lecture (TBD)
+- Video lecture: Faculty Research Lecture ((bolton))
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 - Submit your [**final research plan**](../Materials/researchPlans) via Teams
 - Submit your **final slide** via teams
