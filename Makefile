@@ -1,4 +1,15 @@
-## This is DAIDD
+## This is daiddweb (pages branch of DAIDD)
+
+## make cerve ##
+## http://localhost:4000/schedule/shadow
+## http://localhost:4000/schedule/
+
+## https://github.com/ICI3D/DAIDD/tree/gh-pages
+
+## http://www.ici3d.org/
+## http://www.ici3d.org/DAIDD/schedule/
+## http://www.ici3d.org/DAIDD/schedule/2019.html
+## http://www.ici3d.org/DAIDD/schedule/2018.html
 
 current: target
 -include target.mk
@@ -10,53 +21,63 @@ current: target
 # Content
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt schedule/index.md schedule/shadow.md timeshadow.pl"
+
+## alldirs += ICI3D.github.io
+ICI3D.github.io/_config.yml:
+	git submodule update -i
+cerve: ICI3D.github.io/_config.yml
+	./run.sh > jekyll.log 2>&1 &
+
+Sources += _config.yml _localconfig.yml Gemfile.jd
+
+Ignore += Gemfile Gemfile.lock
+
+Sources += $(wildcard */shadow.md)
 
 ######################################################################
 
-alldirs += pages
+## This stuff should all be structured better, and probably be in the parent repo
+
+-include makestuff/perl.def
+
+Sources += index.md shadow_rules.md
+
+Sources += $(wildcard schedule/*.top schedule/*.md)
+Sources += $(wildcard *.pl)
+## Rewrite to use pushro and a smarter script?
+## Rewrite to use the full crazy lecture/format world?
+## schedule/index.md: schedule/test.md; $(copy)
+## Schedule not made for DAIDD 2020 (points to time zones)
+
+schedule/test.md: schedule/index.top schedule/shadow.md shadow.pl
+	$(rm)
+	$(CAT) $< > $@
+	perl -wf shadow.pl schedule/shadow.md >> $@
+	$(readonly)
+
+zones = time10 time08 time03 time02 time01 time00 time09 time11 time14
+times = $(zones:%=schedule/%.md)
+time_setup: $(times)
+
+## schedule/time10.md: schedule/index.top schedule/test.md timeshadow.pl
+schedule/time%.md: schedule/index.top schedule/test.md timeshadow.pl
+	$(rm)
+	perl -wf timeshadow.pl $* schedule/test.md >> $@
+	$(readonly)
+
+schedule/planOverview.md: schedule/planOverview.top schedule/index.md rp.pl
+	$(rm)
+	$(CAT) $< > $@
+	perl -wf rp.pl schedule/index.md | cat -s >> $@
+	$(readonly)
+
+## git rm preparation/shadow.md ##
+Sources += $(wildcard preparation/*.md)
+Sources += $(wildcard Materials/*.md)
+Sources += $(wildcard participants/*.md)
 
 ######################################################################
-
-## Dropdirs
-
-## Use local.mk to override Dropbox root if necessary
-Drop = ~/Dropbox
-Ignore += local.mk
--include local.mk
-
-## 2020 Oct 19 (Mon): Make the dropdirs for easy browsing; some need to be changed
-Ignore += resources faculty public participant_drop
-resources: dir = $(Drop)/daidd_resources
-faculty: dir = $(Drop)/ICI3D_Materials/DAIDD2019
-public: dir = $(Drop)/daidd_public/2019
-participant_drop: dir = $(Drop)/DAIDD2019participants
-
-dropdirs += resources faculty public participant_drop
-$(dropdirs):
-	$(linkdirname)
-dropdirs: $(dropdirs)
-
-######################################################################
-
-Sources += .gitignore
-## ignorehere:
-
-Sources += $(wildcard *.R)
-
-## downcall  faculty/logistics.csv ##
-survey.Rout: faculty/logistics.csv survey.R
-
-## dropbox_email.Rout.csv: survey.Rout dropbox_email.R
-dropbox_email.Rout: survey.Rout dropbox_email.R
-
-######################################################################
-
-Ignore += Gemfile*
-
-######################################################################
-
-## Sources += notes.md dropboxes.md archive_notes.md todo.md
 
 ### Makestuff
 
@@ -73,8 +94,7 @@ makestuff/Makefile:
 	ls $@
 
 -include makestuff/os.mk
--include makestuff/wrapR.mk
 -include makestuff/git.mk
-
 -include makestuff/visual.mk
 -include makestuff/projdir.mk
+
