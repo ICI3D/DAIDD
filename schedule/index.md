@@ -27,4 +27,8 @@ __Click here for schedule in your time zone__
 * [West Africa](time09)
 * [Central Africa](time10)
 * [East Africa](time11)
+* [Korea, Japan](time17)
+
+{% comment %} 
+
 * [Dhaka](time14)

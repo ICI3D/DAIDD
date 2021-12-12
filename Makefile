@@ -56,7 +56,7 @@ schedule/test.md: schedule/index.top schedule/shadow.md shadow.pl
 	perl -wf shadow.pl schedule/shadow.md >> $@
 	$(readonly)
 
-zones = time10 time08 time03 time02 time01 time00 time09 time11 time14
+zones = time10 time08 time03 time02 time01 time00 time09 time11 time14 time17
 times = $(zones:%=schedule/%.md)
 time_setup: $(times)
 
