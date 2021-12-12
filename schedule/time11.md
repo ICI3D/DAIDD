@@ -41,12 +41,13 @@ _**Please complete the following between the end of Sunday's interactive session
     - Reference: [Bellan _et al_. 2015](https://doi.org/10.1016/S1473-3099(15)70139-8)
     - Reference: [Kucharski _et al_. 2015](https://www.pnas.org/content/112/46/14366)
 - Exercise: [Formulating research questions for modeling projects](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1) 
-- Recommended reading: If you have not already read the [compiled pre-assigned readings](https://stellenbosch.sharepoint.com/:b:/s/DAIDD2021Participants224/EQKcX8LEJuhBhhUMsYdb8moBm7-qaW7ak81Xm2t-ZoXvSQ?e=tFOjaF), please do so now. These and other optional readings are available through the Pre-readings Folder in the DAIDD Participants Team. 
+- Recommended reading: If you have not already read the [compiled pre-assigned readings](https://stellenbosch.sharepoint.com/:b:/s/DAIDD2021Participants224/EQKcX8LEJuhBhhUMsYdb8moBm7-qaW7ak81Xm2t-ZoXvSQ?e=tFOjaF), please do so now. These and other optional readings are available through the Pre-readings Folder in the DAIDD Participants Team.
 
 _Reminder:_
 
 - 01:30 Tea with North American Faculty
 - 12:00 Tea with African Faculty
+    - 11:30 (optional)
 
 ### Monday
 
