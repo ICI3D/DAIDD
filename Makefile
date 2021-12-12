@@ -1,5 +1,6 @@
 ## This is daiddweb (pages branch of DAIDD)
 
+## cerve > jekyll.log takes care of local config (don't use serve)
 ## make cerve ##
 ## http://localhost:4000/schedule/shadow
 ## http://localhost:4000/schedule/
