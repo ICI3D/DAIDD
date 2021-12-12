@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ./2020
 tab: Schedule
 title: Schedule
