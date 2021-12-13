@@ -19,18 +19,18 @@ alertmsg: >
 
 #### Interactive session 1a
 
-- _Please join the session by 14:25. We will begin promptly at 14:30._
-- 14:30-14:45 Welcome and some logistics ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
-- 14:45-15:10 What are we doing here? ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
-- 15:15-15:45 Data, models, and science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- _Please join the session by 22:25. We will begin promptly at 22:30._
+- 22:30-22:45 Welcome and some logistics ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
+- 22:45-23:10 What are we doing here? ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 23:15-23:45 Data, models, and science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
-- 15:45-16:00 Working with the DAIDD technical tools ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
+- 23:45-00:00 Working with the DAIDD technical tools ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
     - _Make sure your slides are uploaded for the next session!_
-- 16:00-16:30 Ice breakers ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/))
+- 00:00-00:30 Ice breakers ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/))
 
 #### Interactive session 1b
 
-- 17:30-19:30 Research pitches (Moderator: [Becky Borchering]({{site.subdomainurl}}/team/borchering/))
+- 01:30-03:30 Research pitches (Moderator: [Becky Borchering]({{site.subdomainurl}}/team/borchering/))
 
 #### Individual session 1
 
@@ -45,18 +45,18 @@ _**Please complete the following between the end of Sunday's interactive session
 
 _Reminder:_
 
-- 22:30 Tea with North American Faculty
-- 09:00 Tea with African Faculty
-    - 08:30 (optional)
+- 06:30 Tea with North American Faculty
+- 17:00 Tea with African Faculty
+    - 16:30 (optional)
 
 ### Monday
 
 #### Interactive session 2a
 
 
-- 14:30-14:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
-- 14:50-15:00 [Overview of research plan development and structure](https://www.dropbox.com/s/6lhot2cfi0qwo8z/DAIDD2020guide.pdf?dl=1) ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
-- 15:00-16:30 Tutorial: Dynamical Fever - computer exercise and discussion ([Larisse Bolton]({{site.subdomainurl}}/team/bolton/) and all faculty) 
+- 22:30-22:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
+- 22:50-23:00 [Overview of research plan development and structure](https://www.dropbox.com/s/6lhot2cfi0qwo8z/DAIDD2020guide.pdf?dl=1) ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 23:00-00:30 Tutorial: Dynamical Fever - computer exercise and discussion ([Larisse Bolton]({{site.subdomainurl}}/team/bolton/) and all faculty) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
@@ -76,8 +76,8 @@ ICI3D::dynamicalFever()
 #### Interactive session 2b
 
 
-- 17:30-18:00 Discussion: Dynamical Fever ([Larisse Bolton]({{site.subdomainurl}}/team/bolton/)) 
-- 18:00-19:30 Small group session: research questions for modeling projects (All faculty) 
+- 01:30-02:00 Discussion: Dynamical Fever ([Larisse Bolton]({{site.subdomainurl}}/team/bolton/)) 
+- 02:00-03:30 Small group session: research questions for modeling projects (All faculty) 
 
 #### Individual session 2
 
@@ -96,26 +96,26 @@ ICI3D::dynamicalFever()
 
 _Reminder:_
 
-- 22:30 Tea with North American Faculty
-- 09:00 Tea with African Faculty
+- 06:30 Tea with North American Faculty
+- 17:00 Tea with African Faculty
 
 ### Tuesday
 
 #### Interactive session 3a
 
 
-- 14:30-14:45 Daily recap ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
-- 14:45- 15:00 Summary and discussion: The SIR model family ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 22:30-22:45 Daily recap ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
+- 22:45- 23:00 Summary and discussion: The SIR model family ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 	* [Live spreadsheet](https://docs.google.com/spreadsheets/d/15LmAOLg4CCCYzOGhCxv0PH6gPua1sEkqo1qcTlWYP0w/) (copy or save to work on it)
 	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
-- 15:00-15:30 Exercise: Building an SIR model from scratch ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 15:30-15:45 Summary and discussion: The life cycle of a modeling project ((reiner))
-- 15:45-16:30 Live lecture: The simplest model ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
+- 23:00-23:30 Exercise: Building an SIR model from scratch ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 23:30-23:45 Summary and discussion: The life cycle of a modeling project ((reiner))
+- 23:45-00:30 Live lecture: The simplest model ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 
 #### Interactive session 3b
 
 
-- 17:30-18:00 Exercise: Simple individual-based models ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
+- 01:30-02:00 Exercise: Simple individual-based models ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
@@ -132,7 +132,7 @@ ICI3D::reedFrost()
 </div>
 </div>
 
-- 18:00-19:30 Exercise: Creating a model world to address a research question ((mwangi)) 
+- 02:00-03:30 Exercise: Creating a model world to address a research question ((mwangi)) 
 
 #### Individual session 3
 
@@ -153,23 +153,23 @@ ICI3D::reedFrost()
 
 _Reminder:_
 
-- 22:30 Tea with North American Faculty
-- 09:00 Tea with African Faculty
+- 06:30 Tea with North American Faculty
+- 17:00 Tea with African Faculty
 
 ### Wednesday
 
 #### Interactive session 4a
 
 
-- 14:30-14:45 Daily recap ((li)) 
-- 14:45-15:00 Summary and discussion: Stochastic simulation models ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
-- 15:00-16:30 Small-group session: matching models to questions (All faculty) 
+- 22:30-22:45 Daily recap ((li)) 
+- 22:45-23:00 Summary and discussion: Stochastic simulation models ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
+- 23:00-00:30 Small-group session: matching models to questions (All faculty) 
 
 #### Interactive session 4b
 
 
-- 17:30-17:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 17:45-18:30 Tutorial: Heterogeneity in disease emergence ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/), [Carl Pearson]({{site.subdomainurl}}/team/pearson/), (li)) 
+- 01:30-01:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 01:45-02:30 Tutorial: Heterogeneity in disease emergence ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/), [Carl Pearson]({{site.subdomainurl}}/team/pearson/), (li)) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
@@ -186,7 +186,7 @@ ICI3D::heterogeneityTutorial()
 </div>
 </div>
 
-- 18:30-19:30 Mid-session feedback ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
+- 02:30-03:30 Mid-session feedback ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
 
 
 #### Individual session 4
@@ -206,8 +206,8 @@ ICI3D::heterogeneityTutorial()
 
 _Reminder:_
 
-- 22:30 Tea with North American Faculty
-- 11:00 Tea with African Faculty
+- 06:30 Tea with North American Faculty
+- 19:00 Tea with African Faculty
 
 ### Thursday
 
@@ -215,16 +215,16 @@ _Reminder:_
 #### Interactive session 5a
 
 
-- 14:30-14:50 Regroup after feedback ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
-- 14:50-15:05 Daily recap ((mwangi)) 
-- 15:05-15:20 Summary and discussion: Models and data: introduction to model fitting ([Larisse Bolton]({{site.subdomainurl}}/team/bolton/)) 
-- 15:20-16:30 Writing exercise: description of proposed model and assumptions ((reiner)) 
+- 22:30-22:50 Regroup after feedback ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 22:50-23:05 Daily recap ((mwangi)) 
+- 23:05-23:20 Summary and discussion: Models and data: introduction to model fitting ([Larisse Bolton]({{site.subdomainurl}}/team/bolton/)) 
+- 23:20-00:30 Writing exercise: description of proposed model and assumptions ((reiner)) 
 
 #### Interactive session 5b
 
 
 
-- 17:30-19:00 Tutorial: Model fitting ((li)) 
+- 01:30-03:00 Tutorial: Model fitting ((li)) 
   - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
@@ -241,7 +241,7 @@ ICI3D::hivTutorial()
 </div>
 </div>
 
-- 19:00-19:30 Review: model taxonomy ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 03:00-03:30 Review: model taxonomy ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
 
 #### Individual session 5
 
@@ -258,8 +258,8 @@ ICI3D::hivTutorial()
 
 _Reminder:_
 
-- 22:30 Tea with North American Faculty
-- 11:00 Tea with African Faculty
+- 06:30 Tea with North American Faculty
+- 19:00 Tea with African Faculty
 
 ### Friday
 
@@ -267,17 +267,17 @@ _Reminder:_
 #### Interactive session 6a
 
 
-- 14:30-14:45 Daily recap ((reiner)) 
-- 14:45-15:00 Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 15:00-16:30 Live lecture: Use of models in public health decision-making (Faculty research presentation) - Now with more COVID! ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
+- 22:30-22:45 Daily recap ((reiner)) 
+- 22:45-23:00 Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 23:00-00:30 Live lecture: Use of models in public health decision-making (Faculty research presentation) - Now with more COVID! ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 
 #### Interactive session 6b
 
 
-- 17:30-18:00 Live lecture: Model-based inference and the bigger picture ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 01:30-02:00 Live lecture: Model-based inference and the bigger picture ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 	* [Slides (by Bellan)](https://github.com/dushoff/statistics_talks/blob/master/outputs/inference2020.pdf)
-- 18:00-18:30 Review and Discussion (Moderator: (mwangi)) 
-- 18:30-19:30 Small group session: planning your approach (All faculty) 
+- 02:00-02:30 Review and Discussion (Moderator: (mwangi)) 
+- 02:30-03:30 Small group session: planning your approach (All faculty) 
 
 #### Individual session 6
 
@@ -291,31 +291,31 @@ _Reminder:_
 - Video lecture (optional): [Use of models in public health decision-making II](https://youtu.be/MtYUGxzUWH8) (Faculty research presentation) ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
     - [Slides](https://teams.microsoft.com/l/file/18541B13-3A21-4881-B87A-6CA309F81C56?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FSlides%2FIndividual%20Session%206%2FBorchering_MMODS_DAIDD2020.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747) 
 
-**_Special session:_ 20:30-21:30**
+**_Special session:_ 04:30-05:30**
 
 - One-on-one mentoring sessions with Borchering, Dushoff, Li, and Reiner 
     - 
 
 _Reminder:_
 
-- 22:30 Tea with North American Faculty
-- 11:00 Tea with African Faculty
+- 06:30 Tea with North American Faculty
+- 19:00 Tea with African Faculty
 
 ### Saturday
 
 #### Individual session 7
 
-**_Special session:_ 10:00-11:30**
+**_Special session:_ 18:00-19:30**
 
 - One-on-one mentoring sessions with Bolton, Mwangi, Pearson, and Pulliam 
     - 
 
 #### Interactive session 7a
 
-- 14:30-14:45 Daily recap ((li)) 
-- 14:45-16:30 Discussion of research plans/proposals (Moderator: [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 22:30-22:45 Daily recap ((li)) 
+- 22:45-00:30 Discussion of research plans/proposals (Moderator: [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 
 #### Interactive session 7b
 
-- 17:30-19:00 Final feedback session ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
-- 19:00-19:15 Closing session ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 01:30-03:00 Final feedback session ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
+- 03:00-03:15 Closing session ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 

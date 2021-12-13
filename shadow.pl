@@ -28,5 +28,6 @@ while(<>){
 	s|\(vanschalkwyk\)|[Cari van Schalkwyk]($linktext/vanschalkwyk/)|;
 	s|\(kassanjee\)|[Reshma Kassanjee]($linktext/kassanjee/)|;
 	s|\(pearson\)|[Carl Pearson]($linktext/pearson/)|;
+	s|\(bolton\)|[Larisse Bolton]($linktext/bolton/)|;
 	say;
 }

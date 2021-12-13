@@ -27,6 +27,7 @@ __Click here for schedule in your time zone__
 * [West Africa](time09)
 * [Central Africa](time10)
 * [East Africa](time11)
+* [Philippines](time16)
 * [Korea, Japan](time17)
 
 {% comment %} 

@@ -56,7 +56,7 @@ _Reminder:_
 
 - 15:30-15:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
 - 15:50-16:00 [Overview of research plan development and structure](https://www.dropbox.com/s/6lhot2cfi0qwo8z/DAIDD2020guide.pdf?dl=1) ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
-- 16:00-17:30 Tutorial: Dynamical Fever - computer exercise and discussion ((bolton) and all faculty) 
+- 16:00-17:30 Tutorial: Dynamical Fever - computer exercise and discussion ([Larisse Bolton]({{site.subdomainurl}}/team/bolton/) and all faculty) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
@@ -76,7 +76,7 @@ ICI3D::dynamicalFever()
 #### Interactive session 2b
 
 
-- 18:30-19:00 Discussion: Dynamical Fever ((bolton)) 
+- 18:30-19:00 Discussion: Dynamical Fever ([Larisse Bolton]({{site.subdomainurl}}/team/bolton/)) 
 - 19:00-20:30 Small group session: research questions for modeling projects (All faculty) 
 
 #### Individual session 2
@@ -217,7 +217,7 @@ _Reminder:_
 
 - 15:30-15:50 Regroup after feedback ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
 - 15:50-16:05 Daily recap ((mwangi)) 
-- 16:05-16:20 Summary and discussion: Models and data: introduction to model fitting ((bolton)) 
+- 16:05-16:20 Summary and discussion: Models and data: introduction to model fitting ([Larisse Bolton]({{site.subdomainurl}}/team/bolton/)) 
 - 16:20-17:30 Writing exercise: description of proposed model and assumptions ((reiner)) 
 
 #### Interactive session 5b
@@ -283,7 +283,7 @@ _Reminder:_
 
 **_Please complete the following between the end of Friday's interactive session and the beginning of Saturday's interactive session._**
 
-- Video lecture: Faculty Research Lecture ((bolton))
+- Video lecture: Faculty Research Lecture ([Larisse Bolton]({{site.subdomainurl}}/team/bolton/))
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 - Submit your [**final research plan**](../Materials/researchPlans) via Teams
 - Submit your **final slide** via teams

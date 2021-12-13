@@ -2,7 +2,8 @@
 
 ## cerve: jekyll.log ## takes care of local config (don't use serve)
 ## http://localhost:4000/schedule/shadow
-## http://localhost:4000/schedule/ ##
+## http://localhost:4000/schedule/
+## http://localhost:4000/schedule/time03
 
 ## https://github.com/ICI3D/DAIDD/tree/gh-pages
 
@@ -56,7 +57,7 @@ schedule/test.md: schedule/index.top schedule/shadow.md shadow.pl
 	perl -wf shadow.pl schedule/shadow.md >> $@
 	$(readonly)
 
-zones = time10 time08 time03 time02 time01 time00 time09 time11 time14 time17
+zones = time10 time08 time03 time02 time01 time00 time09 time11 time14 time16 time17
 times = $(zones:%=schedule/%.md)
 time_setup: $(times)
 
