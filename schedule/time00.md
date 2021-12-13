@@ -83,7 +83,7 @@ ICI3D::dynamicalFever()
 
 **_Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session._**
 
-- Exercise: Finalize your research question and post to the Research Questions channel.
+- Exercise: Finalize your research question and post to the **Research Questions** channel.
 - Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations
 	* [Intro (from live workshop)](https://youtu.be/wpxnkyKDAyA)
 	* [Discussion](https://youtu.be/WI1iYRprM2Y)
@@ -92,14 +92,19 @@ ICI3D::dynamicalFever()
     - [Part 1](https://youtu.be/cPLBzQGz2lM)
     - [Part 2](https://youtu.be/2IrPJCqff7g)
     - [Part 3](https://youtu.be/meEJ7ys10WA)
-- Video lecture: [Faculty research presentation (Pulliam on COVID)](https://www.youtube.com/watch?v=SbE5IMwHzlo&feature=youtu.be) 
+- Video lecture: [Omicron Modelling Session at Epidemics8 conference, December 2021](https://elsevier.zoom.us/rec/share/emEIoOyR7o6lV9jhpxU667fGwIdwhvSzISotBfn1UTny_srWCpiJ49fZv4ka5fx-.FY2d9dWOtDd3-6UK)
+    - Enter passcode: 9JKhQ&=Y
+- Video lecture (optional): Faculty research presentation (Pulliam on COVID) - _select **at least one** from the following list:
+    - [From June 2020](https://www.youtube.com/watch?v=SbE5IMwHzlo&feature=youtu.be) 
+    - [From August 2021](https://drive.google.com/file/d/11q_XylPrvIQaxXmTUGCTmXoq_O_5h7Ax/view?usp=sharing)
 
 _Reminder:_
 
 - 14:30 Tea with North American Faculty
-- 01:00 Tea with African Faculty
+- 03:30 Tea with African Faculty
 
 ### Tuesday
+
 
 #### Interactive session 3a
 
@@ -113,6 +118,7 @@ _Reminder:_
 - 07:45-08:30 Live lecture: The simplest model ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 
 #### Interactive session 3b
+
 
 
 - 09:30-10:00 Exercise: Simple individual-based models ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
@@ -147,14 +153,14 @@ ICI3D::reedFrost()
     - [Introduction](https://youtu.be/VcyhoQcAt00)
     - [Part 1](https://youtu.be/MuXYbph_f0Y)
     - [Part 2](https://youtu.be/Ht1YA0SFF80)
-    - [Slides on Teams](https://teams.microsoft.com/l/file/99FBBFCC-4C5F-4444-8B19-4325DA5328C6?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FSlides%2FIndividual%20Session%203%2FBorchering_StochasticSimulationModels.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747) 
+    - Slides on Teams - to be added 
 - Video lecture: [Heterogeneity, contact patterns, and modeling options](https://www.youtube.com/watch?v=9OhB3WfSpS8&ab_channel=ICI3D) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.draft.pdf)
 
 _Reminder:_
 
 - 14:30 Tea with North American Faculty
-- 01:00 Tea with African Faculty
+- 03:30 Tea with African Faculty
 
 ### Wednesday
 
