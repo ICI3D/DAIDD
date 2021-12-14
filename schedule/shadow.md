@@ -131,7 +131,7 @@ SHADOW Emcee: Mike
 - 16:30-16:45 Daily recap ((borchering)) NOTE (15 mins)
     - SHADOW [DAIDD roadmap slideset](https://www.dropbox.com/s/f37p9hgizwx360t/DAIDDroadmap.pptx?dl=1) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
 - 16:45- 17:00 Summary and discussion: The SIR model family ((dushoff))
-	* [Live spreadsheet](https://docs.google.com/spreadsheets/d/15LmAOLg4CCCYzOGhCxv0PH6gPua1sEkqo1qcTlWYP0w/) (copy or save to work on it)
+	* [2021 live spreadsheet](https://docs.google.com/spreadsheets/d/1dWyq1Tv7_8ID4vlPVQy_Ep9uWXYRfQl-opoe67j4UjM) (copy or save to work on it)
 	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
 - 17:00-17:30 Exercise: Building an SIR model from scratch ((dushoff)) NOTE (30 mins?) NOTE + 5 min stretch break
 - 17:30-17:45 Summary and discussion: The life cycle of a modeling project ((reiner))
