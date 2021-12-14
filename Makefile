@@ -9,6 +9,7 @@
 
 ## http://www.ici3d.org/
 ## http://www.ici3d.org/DAIDD/schedule/
+## http://www.ici3d.org/DAIDD/schedule/time03
 ## http://www.ici3d.org/DAIDD/schedule/2019.html
 ## http://www.ici3d.org/DAIDD/schedule/2018.html
 
