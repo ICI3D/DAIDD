@@ -211,9 +211,9 @@ ICI3D::heterogeneityTutorial()
     - [Part 2](https://youtu.be/ApxGWFyFUsU)
     - [Part 3](https://youtu.be/iUEf8rhAScQ)
     - [Part 4](https://youtu.be/On98jk6Wq4I)
-- Video lecture: [Faculty research presentation](https://youtu.be/L1qalfZfwEo) 
-- Video lecture (optional): [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) 
-- Video lecture (optional): [Faculty research presentation](https://youtu.be/L1qalfZfwEo) 
+- Video lecture: [Faculty research presentation](https://www.dropbox.com/t/TbGqhL99lcWlJHjQ) ((de leo))
+- Video lecture (optional): [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- Video lecture (optional): [Faculty research presentation](https://youtu.be/L1qalfZfwEo) ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - Catch-up on earlier materials, as needed
 
 _Reminder:_
