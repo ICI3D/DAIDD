@@ -341,10 +341,14 @@ SHADOW BR not available at 20:30
     - [Slides](https://teams.microsoft.com/l/file/18541B13-3A21-4881-B87A-6CA309F81C56?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FSlides%2FIndividual%20Session%206%2FBorchering_MMODS_DAIDD2020.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747) NOTE update link!
     - SHADOW [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
 
-**_Special session:_ 22:30-23:30**
+**_Special session:_ 22:00-23:30**
 
-- One-on-one mentoring sessions with Borchering, Dushoff, Li, and Reiner NOTE Schedule to be posted
-    - HIDE [Schedule](https://teams.microsoft.com/l/file/3F4D3584-0CFC-44DA-997E-7825B3445318?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FResources%2FOneOnOneMeetingSchedule.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747) NOTE update link!
+SHADOW 20 minutes
+SHADOW Becky not available until 22:30
+SHADOW Mike and Jonathan and Giulio not available after 23:00
+
+- One-on-one mentoring sessions with Borchering, Dushoff, Li, de Leo, and Reiner NOTE Schedule to be posted
+    - HIDE [Schedule]() NOTE update link!
 
 _Reminder:_
 
@@ -358,7 +362,7 @@ _Reminder:_
 **_Special session:_ 12:00-13:30**
 
 - One-on-one mentoring sessions with Bolton, Mwangi, Pearson, and Pulliam NOTE Schedule to be posted
-    - HIDE [Schedule](https://teams.microsoft.com/l/file/3F4D3584-0CFC-44DA-997E-7825B3445318?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FResources%2FOneOnOneMeetingSchedule.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747) NOTE update link!
+    - HIDE [Schedule]() NOTE update link!
 
 #### Interactive session 7a
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**

@@ -297,9 +297,10 @@ _Reminder:_
 - Video lecture (optional): [Use of models in public health decision-making II](https://youtu.be/MtYUGxzUWH8) (Faculty research presentation) ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
     - [Slides](https://teams.microsoft.com/l/file/18541B13-3A21-4881-B87A-6CA309F81C56?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FSlides%2FIndividual%20Session%206%2FBorchering_MMODS_DAIDD2020.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747) 
 
-**_Special session:_ 22:30-23:30**
+**_Special session:_ 22:00-23:30**
 
-- One-on-one mentoring sessions with Borchering, Dushoff, Li, and Reiner 
+
+- One-on-one mentoring sessions with Borchering, Dushoff, Li, de Leo, and Reiner 
     - 
 
 _Reminder:_
