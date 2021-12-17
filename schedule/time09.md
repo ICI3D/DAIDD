@@ -256,7 +256,7 @@ ICI3D::hivTutorial()
 - Exercise: Finalize your model diagram and description and post to Teams 
     - Place them both as a single file in DAIDD Participants > General > Files > 05_modelDescription
     - Now would also be a good time to review the [research plan instructions](../Materials/researchPlans)
-- Exercise: Work through the [document for planning your approach](https://teams.microsoft.com/l/file/8C866544-C698-48C1-9BEE-7D73A37582D0?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=docx&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FAssignments%2FplanningYourApproach.docx&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747) (available in DAIDD Participants > General > Files > Assignments) 
+- Exercise: Work through the [document for planning your approach](https://stellenbosch.sharepoint.com/:w:/s/DAIDD2021Participants224/EWN8Qcp-rnNFle-Qj5Ykk88ByJt6piDwOKJXBfrq-eOtEA?e=yQkciq) (available in DAIDD Participants > General > Files > Assignments)
 - Video lecture: [Model evaluation and comparison](https://www.youtube.com/watch?v=0c5P1Lv33hM)
 	* Handouts and slides are in [Teams slide folder](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2021Participants224/Shared%20Documents/General/Slides?csf=1&web=1&e=c6mcKs)
 https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2021Participants224/Shared%20Documents/General/Slides?csf=1&web=1&e=c6mcKs
@@ -299,9 +299,10 @@ _Reminder:_
 - Video lecture (optional): [Use of models in public health decision-making II](https://youtu.be/MtYUGxzUWH8) (Faculty research presentation) ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
     - [Slides](https://teams.microsoft.com/l/file/18541B13-3A21-4881-B87A-6CA309F81C56?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348&fileType=pdf&objectUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants%2FShared%20Documents%2FGeneral%2FSlides%2FIndividual%20Session%206%2FBorchering_MMODS_DAIDD2020.pdf&baseUrl=https%3A%2F%2Fstellenbosch.sharepoint.com%2Fsites%2FDAIDDParticipants&serviceName=teams&threadId=19:3aa9ca208da2467e8f65017a34fae9a0@thread.tacv2&groupId=68496a39-ff00-485e-835d-372d19b25747) 
 
-**_Special session:_ 21:30-22:30**
+**_Special session:_ 21:00-22:30**
 
-- One-on-one mentoring sessions with Borchering, Dushoff, Li, and Reiner 
+
+- One-on-one mentoring sessions with Borchering, Dushoff, Li, de Leo, and Reiner 
     - 
 
 _Reminder:_
