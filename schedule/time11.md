@@ -283,7 +283,9 @@ _Reminder:_
 
 
 - 20:30-21:00 Live lecture: Model-based inference and the bigger picture ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-	* [Slides (by Bellan)](https://github.com/dushoff/statistics_talks/blob/master/outputs/inference2020.pdf)
+	* [Slides (by Bellan)](https://github.com/dushoff/statistics_talks/blob/master/outputs/inference2021.pdf)
+	* [Camacho Ebola paper](https://pubmed.ncbi.nlm.nih.gov/25737806/)
+	* [Bellan HIV paper](https://pubmed.ncbi.nlm.nih.gov/23391466/)
 - 21:00-21:30 Review and Discussion (Moderator: (mwangi)) 
 - 21:30-22:30 Small group session: planning your approach (All faculty) 
 
