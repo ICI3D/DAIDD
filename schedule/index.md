@@ -13,8 +13,6 @@ alertmsg: >
   </ul>
 ---
 
-[Daily DAIDD overview](overview)
-
 __Click here for schedule in your time zone__
 
 * [South Africa (our spiritual location)](time10)
