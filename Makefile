@@ -9,6 +9,7 @@
 ## https://github.com/ICI3D/DAIDD/tree/gh-pages
 
 ## http://www.ici3d.org/
+## http://www.ici3d.org/DAIDD/
 ## http://www.ici3d.org/DAIDD/schedule/
 ## http://www.ici3d.org/DAIDD/schedule/time03
 ## http://www.ici3d.org/DAIDD/schedule/2019.html
@@ -37,6 +38,15 @@ Sources += _config.yml _localconfig.yml Gemfile.jd
 Ignore += Gemfile Gemfile.lock
 
 Sources += $(wildcard */shadow.md)
+
+######################################################################
+
+## Note; this is where the easy header stuff is.
+## jekyll needs to be restarted when it changes
+Sources += _config.yml
+
+## This is something else
+Sources += _localconfig.yml
 
 ######################################################################
 
