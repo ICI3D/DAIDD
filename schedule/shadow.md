@@ -14,8 +14,6 @@ alertmsg: >
   </ul>
 ---
 
-* Faculty notes - need to create GD and give faculty access
-* [Meeting notes page](https://github.com/ICI3D/DAIDD/blob/master/notes.md)
 * [Shadow rules](http://www.ici3d.org/DAIDD/shadow_rules)
 
 * [Your local (jekyll) copy of this page](http://localhost:4000/schedule/shadow)
