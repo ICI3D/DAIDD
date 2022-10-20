@@ -63,6 +63,10 @@ Sources += $(wildcard *.pl)
 ## schedule/index.md: schedule/test.md; $(copy)
 ## Schedule not made for DAIDD 2020 (points to time zones)
 
+Sources += scsv.pl
+schedule/example.tsv: schedule/shadow.md scsv.pl
+	$(PUSH)
+
 schedule/test.md: schedule/index.top schedule/shadow.md shadow.pl
 	$(rm)
 	$(CAT) $< > $@

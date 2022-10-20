@@ -17,20 +17,22 @@ alertmsg: >
 
 ### Sunday
 
-#### Interactive session 1a
+#### Interactive session 1a ((vs))
 
 - _Please join the session by 16:25. We will begin promptly at 16:30._
-- 16:30-16:45 Welcome and some logistics ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
+- 16:30-16:45 Welcome and some logistics ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 16:45-17:10 What are we doing here? ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
-- 17:15-17:45 Data, models, and science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 17:15-17:45 Data, models, and science ((reiner))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
-- 17:45-18:00 Working with the DAIDD technical tools ((__tbd__)) 
+- 17:45-18:00 Working with the DAIDD technical tools ((hladish), [Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
+	* 
+	* ICI3D R package
     - _Make sure your slides are uploaded for the next session!_
 - 18:00-18:30 Ice breakers ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/))
 
-#### Interactive session 1b
+#### Interactive session 1b ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
 
-- 19:30-21:30 Research pitches (Moderator: (__tbd__))
+- 19:30-21:30 Research pitches
 
 #### Individual session 1
 
@@ -51,13 +53,18 @@ _Reminder:_
 
 ### Monday
 
-#### Interactive session 2a
+#### Interactive session 2a ((hladish))
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((__tbd__))
+
+
+- 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((deleo))
+	* 
 - 16:50-17:00 [Overview of research plan development and structure](https://www.dropbox.com/s/6lhot2cfi0qwo8z/DAIDD2020guide.pdf?dl=1) ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
-- 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ((__tbd__) and all faculty) 
+- 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ((li) and all faculty) 
+	* 
+	* 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
@@ -74,11 +81,11 @@ ICI3D::dynamicalFever()
 </div>
 </div>
 
-#### Interactive session 2b
+#### Interactive session 2b ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- 19:30-20:00 Discussion: Dynamical Fever ((__tbd__)) 
+- 19:30-20:00 Discussion: Dynamical Fever ((vs)) 
 - 20:00-21:30 Small group session: research questions for modeling projects (All faculty) 
 
 #### Individual session 2
@@ -87,18 +94,15 @@ ICI3D::dynamicalFever()
 
 - Exercise: Finalize your research question and post to the **Research Questions** channel.
 - Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations
+	* 
 	* [Intro (from live workshop)](https://youtu.be/wpxnkyKDAyA)
 	* [Discussion](https://youtu.be/WI1iYRprM2Y)
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.draft.pdf)
-- Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication 
-    - [Part 1](https://youtu.be/cPLBzQGz2lM)
-    - [Part 2](https://youtu.be/2IrPJCqff7g)
-    - [Part 3](https://youtu.be/meEJ7ys10WA)
-- Video lecture: [Omicron Modelling Session at Epidemics8 conference, December 2021](https://elsevier.zoom.us/rec/share/emEIoOyR7o6lV9jhpxU667fGwIdwhvSzISotBfn1UTny_srWCpiJ49fZv4ka5fx-.FY2d9dWOtDd3-6UK)
+- Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication ((reiner))
+- Video lecture (optional): [Omicron Modelling Session at Epidemics8 conference, December 2021](https://elsevier.zoom.us/rec/share/emEIoOyR7o6lV9jhpxU667fGwIdwhvSzISotBfn1UTny_srWCpiJ49fZv4ka5fx-.FY2d9dWOtDd3-6UK)
     - Enter passcode: 9JKhQ&=Y
-- Video lecture (optional): Faculty research presentation (Pulliam on COVID) - _select **at least one** from the following list:
-    - [From June 2020](https://www.youtube.com/watch?v=SbE5IMwHzlo&feature=youtu.be) 
-    - [From August 2021](https://drive.google.com/file/d/11q_XylPrvIQaxXmTUGCTmXoq_O_5h7Ax/view?usp=sharing)
+	 * ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), [Carl Pearson]({{site.subdomainurl}}/team/pearson/), Sheetal Silal)
+- Video lecture: Faculty research presentation ((deleo))
 
 _Reminder:_
 
