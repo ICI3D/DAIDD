@@ -34,8 +34,12 @@ cerve: ICI3D.github.io/_config.yml
 	./run.sh > jekyll.log 2>&1 &
 
 Sources += _config.yml _localconfig.yml Gemfile.jd
-
 Ignore += Gemfile Gemfile.lock
+
+## jd.gm:
+%.gm: Gemfile.%
+	$(LNF) $< Gemfile
+	bundle install
 
 Sources += $(wildcard */shadow.md)
 
