@@ -142,7 +142,7 @@ ICI3D::reedFrost()
 </div>
 </div>
 
-- 03:00-04:30 Exercise: Creating a model world to address a research question ((__tbd__)) 
+- 03:00-04:30 Exercise: Creating a model world to address a research question ((vs)) 
 
 #### Individual session 3
 
@@ -172,15 +172,16 @@ _Reminder:_
 
 
 - 23:30-23:45 Daily recap ((li)) 
-- 23:45-00:00 Summary and discussion: Stochastic simulation models ((__tbd__)) 
+- 23:45-00:00 Summary and discussion: Stochastic simulation models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 00:00-01:30 Small-group session: matching models to questions (All faculty) 
 
 #### Interactive session 4b
 
 
 - 02:30-02:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 02:45-03:30 Tutorial: Heterogeneity in disease emergence ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/), (__tbd__), (li)) 
+- 02:45-03:30 Tutorial: Heterogeneity in disease emergence ((reiner), (li), [Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+	 * 
 
 <div class="row">
 <div class="col-lg-1">
@@ -228,7 +229,7 @@ _Reminder:_
 - 23:30-23:50 Regroup after feedback ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
 - 23:50-00:05 Daily recap ((__tbd__)) 
 - 00:05-00:20 Summary and discussion: Models and data: introduction to model fitting ((__tbd__)) 
-- 00:20-01:30 Writing exercise: description of proposed model and assumptions ((reiner)) 
+- 00:20-01:30 Writing exercise: description of proposed model and assumptions ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 
 #### Interactive session 5b
 

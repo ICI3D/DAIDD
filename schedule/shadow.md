@@ -166,7 +166,7 @@ ICI3D::reedFrost()
 </div>
 </div>
 
-- 20:00-21:30 Exercise: Creating a model world to address a research question ((__tbd__)) NOTE (90 mins)
+- 20:00-21:30 Exercise: Creating a model world to address a research question ((vs)) NOTE (90 mins)
 - SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 3
@@ -178,7 +178,7 @@ ICI3D::reedFrost()
     -  Upload your initial model diagram before Wednesday's interactive session (DAIDD Participants > General > Files > 04_modelDiagram > 04.1_InitialDiagrams).
 - Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example
     - Research question: What level of vaccination is necessary to eliminate domestic dog rabies in Tanzania?
-- Video lecture: Stochastic simulation models NOTE (__tbd__)
+- Video lecture: Stochastic simulation models NOTE (borchering)
     - [Introduction](https://youtu.be/VcyhoQcAt00)
     - [Part 1](https://youtu.be/MuXYbph_f0Y)
     - [Part 2](https://youtu.be/Ht1YA0SFF80)
@@ -199,7 +199,7 @@ _Reminder:_
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - 16:30-16:45 Daily recap ((li)) NOTE (15 mins)
-- 16:45-17:00 Summary and discussion: Stochastic simulation models ((__tbd__)) NOTE (15 mins)
+- 16:45-17:00 Summary and discussion: Stochastic simulation models ((dushoff)) NOTE (15 mins)
 - 17:00-18:30 Small-group session: matching models to questions (All faculty) NOTE (90 minutes)
 
 #### Interactive session 4b
@@ -207,8 +207,9 @@ _Reminder:_
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - 19:30-19:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) NOTE (15 mins)
-- 19:45-20:30 Tutorial: Heterogeneity in disease emergence ((dushoff), (__tbd__), (li)) NOTE (45 mins)
+- 19:45-20:30 Tutorial: Heterogeneity in disease emergence ((reiner), (li), (pulliam)) NOTE (45 mins)
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+	 * NOTE TODO make this a link!
 
 <div class="row">
 <div class="col-lg-1">
@@ -260,7 +261,7 @@ SHADOW CP not available Thursday AM; shouldn't be a problem
 - 16:30-16:50 Regroup after feedback ((pulliam)) NOTE (20 mins)
 - 16:50-17:05 Daily recap ((__tbd__)) NOTE (15 mins)
 - 17:05-17:20 Summary and discussion: Models and data: introduction to model fitting ((__tbd__)) NOTE (15 mins)
-- 17:20-18:30 Writing exercise: description of proposed model and assumptions ((reiner)) NOTE (65 mins?) Model telephone
+- 17:20-18:30 Writing exercise: description of proposed model and assumptions ((mthombothi)) NOTE (65 mins?) Model telephone
     - SHADOW [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
     - SHADOW [instructions for in-person version](https://docs.google.com/document/d/1d_noXARmkB3yqg8_kUW7AqCTurWy5u84JQWsGoTVCj8)
 
