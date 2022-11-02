@@ -113,19 +113,19 @@ _Reminder:_
 #### Interactive session 3a
 
 
-- 17:30-17:45 Daily recap ((__tbd__)) 
+- 17:30-17:45 Daily recap ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 - 17:45- 18:00 Summary and discussion: The SIR model family ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 	* [2021 live spreadsheet](https://docs.google.com/spreadsheets/d/1dWyq1Tv7_8ID4vlPVQy_Ep9uWXYRfQl-opoe67j4UjM) (copy or save to work on it)
 	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
 - 18:00-18:30 Exercise: Building an SIR model from scratch ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 18:30-18:45 Summary and discussion: The life cycle of a modeling project ((reiner))
-- 18:45-19:30 Live lecture: The simplest model ((__tbd__)) 
+- 18:45-19:30 Live lecture: The simplest model ((hladish)) 
 
-#### Interactive session 3b
+#### Interactive session 3b ((reiner))
 
 
 
-- 20:30-21:00 Exercise: Simple individual-based models ((__tbd__)) 
+- 20:30-21:00 Exercise: Simple individual-based models ((hladish)) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
@@ -168,14 +168,14 @@ _Reminder:_
 
 ### Wednesday
 
-#### Interactive session 4a
+#### Interactive session 4a [Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 
 
-- 17:30-17:45 Daily recap ((li)) 
+- 17:30-17:45 Daily recap ((mentors)) 
 - 17:45-18:00 Summary and discussion: Stochastic simulation models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 18:00-19:30 Small-group session: matching models to questions (All faculty) 
 
-#### Interactive session 4b
+#### Interactive session 4b ((deleo))
 
 
 - 20:30-20:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
@@ -210,9 +210,8 @@ ICI3D::heterogeneityTutorial()
     - [Part 2](https://youtu.be/ApxGWFyFUsU)
     - [Part 3](https://youtu.be/iUEf8rhAScQ)
     - [Part 4](https://youtu.be/On98jk6Wq4I)
-- Video lecture: [Faculty research presentation](https://www.dropbox.com/t/TbGqhL99lcWlJHjQ) ((de leo))
+- Video lecture: [Faculty research presentation](https://www.dropbox.com/t/TbGqhL99lcWlJHjQ) ((deleo))
 - Video lecture (optional): [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- Video lecture (optional): [Faculty research presentation](https://youtu.be/L1qalfZfwEo) ((__tbd__))
 - Catch-up on earlier materials, as needed
 
 _Reminder:_
@@ -223,16 +222,15 @@ _Reminder:_
 ### Thursday
 
 
-#### Interactive session 5a
+#### Interactive session 5a [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 
 
-- 17:30-17:50 Regroup after feedback ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
-- 17:50-18:05 Daily recap ((__tbd__)) 
-- 18:05-18:20 Summary and discussion: Models and data: introduction to model fitting ((__tbd__)) 
+- 17:30-17:50 Regroup after feedback ((vs)) 
+- 17:50-18:05 Daily recap ((mentors)) 
+- 18:05-18:20 Summary and discussion: Models and data: introduction to model fitting ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 18:20-19:30 Writing exercise: description of proposed model and assumptions ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 
-#### Interactive session 5b
-
+#### Interactive session 5b ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
 
 
 - 20:30-22:00 Tutorial: Model fitting ((li)) 
@@ -276,19 +274,19 @@ _Reminder:_
 
 ### Friday
 
+#### Interactive session 6a ((vs))
 
-#### Interactive session 6a
 
-
-- 17:30-17:45 Daily recap ((reiner)) 
+- 17:30-17:45 Daily recap ((mentors)) 
 - 17:45-18:00 Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 18:00-19:30 Live lecture: Use of models in public health decision-making (Faculty research presentation) - Now with more COVID! ((__tbd__)) 
+- 18:00-19:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)((__tbd__)) 
+	
 
-#### Interactive session 6b
+#### Interactive session 6b ((hladish))
 
 
-- 20:30-21:00 Live lecture: Model-based inference and the bigger picture ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-	* [Slides (by Bellan)](https://github.com/dushoff/statistics_talks/blob/master/outputs/inference2021.pdf)
+- 20:30-21:00 Live lecture: Model-based inference and the bigger picture ((__tbd__)) 
+	* WAS dushoff
 	* [Camacho Ebola paper](https://pubmed.ncbi.nlm.nih.gov/25737806/)
 	* [Bellan HIV paper](https://pubmed.ncbi.nlm.nih.gov/23391466/)
 - 21:00-21:30 Review and Discussion (Moderator: (__tbd__)) 
@@ -299,17 +297,18 @@ _Reminder:_
 **_Please complete the following between the end of Friday's interactive session and the beginning of Saturday's interactive session._**
 
 - Video lecture: [Faculty Research Lecture](https://www.youtube.com/watch?v=tBra5iS9PVk) ((__tbd__))
+	* 
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 - Submit your [**final research plan**](../Materials/researchPlans) via Teams
 - Submit your **final slide** via teams
     - Include your research question and model diagram on a single page in a PDF document
 - Video lecture (optional): [Use of models in public health decision-making II: COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) (Faculty research presentation) ((__tbd__))
 
-**_Special session:_ 23:00-00:30**
+**_Special session (NA)_ 23:00-00:30**
 
-
-- One-on-one mentoring sessions with Borchering, Dushoff, Li, de Leo, and Reiner 
-    - 
+- One-on-one mentoring sessions
+	* 
+   * 
 
 _Reminder:_
 
@@ -320,17 +319,17 @@ _Reminder:_
 
 #### Individual session 7
 
-**_Special session:_ 13:00-14:30**
+**_Special session (Africa)_ 13:00-14:30**
 
-- One-on-one mentoring sessions with Bolton, Mwangi, Pearson, and Pulliam 
+- One-on-one mentoring sessions 
     - 
 
 #### Interactive session 7a
 
-- 17:30-17:45 Daily recap ((li)) 
-- 17:45-19:30 Discussion of research plans/proposals (Moderator: [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 17:30-17:45 Daily recap ((mentors)) 
+- 17:45-19:30 Discussion of research plans/proposals (Moderator: (vs))
 
 #### Interactive session 7b
 
 - 20:30-22:00 Final feedback session ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
-- 22:00-22:15 Closing session ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 22:00-22:15 Closing session ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
