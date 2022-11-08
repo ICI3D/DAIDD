@@ -93,8 +93,7 @@ ICI3D::dynamicalFever()
 **_Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session._**
 
 - Exercise: Finalize your research question and post to the **Research Questions** channel.
-- Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations
-	* 
+- Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations 
 	* [Intro (from live workshop)](https://youtu.be/wpxnkyKDAyA)
 	* [Discussion](https://youtu.be/WI1iYRprM2Y)
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.draft.pdf)
@@ -155,13 +154,12 @@ ICI3D::reedFrost()
 - Exercise: Creating a model world assignment.
     - [Step-by-step guide](../Materials/modelWorld)
     -  Upload your initial model diagram before Wednesday's interactive session (DAIDD Participants > General > Files > 04_modelDiagram > 04.1_InitialDiagrams).
-- Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example
+- Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example 
     - Research question: What level of vaccination is necessary to eliminate domestic dog rabies in Tanzania?
 - Video lecture: Stochastic simulation models 
     - [Introduction](https://youtu.be/VcyhoQcAt00)
     - [Part 1](https://youtu.be/MuXYbph_f0Y)
     - [Part 2](https://youtu.be/Ht1YA0SFF80)
-    - Slides on Teams - to be added 
 - Video lecture: [Heterogeneity, contact patterns, and modeling options](https://www.youtube.com/watch?v=9OhB3WfSpS8&ab_channel=ICI3D) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.draft.pdf)
 
