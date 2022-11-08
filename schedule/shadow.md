@@ -321,9 +321,10 @@ _Reminder:_
 - 16:30-16:45 Daily recap ((mentors)) NOTE (15 mins)
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ((dushoff)) NOTE (20 mins?)
 - 17:00-18:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)((__tbd__)) 
-* SHADOW pulliam/mthombothi polio?
-* SHADOW OLD: - Now with more COVID! HIDE - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
-	
+	* SHADOW pulliam/mthombothi polio?
+	* SHADOW Possibly Mutono's preferred slot
+	* SHADOW Maybe split?
+	* SHADOW OLD: - Now with more COVID! HIDE - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
 
 #### Interactive session 6b ((hladish))
 
@@ -343,12 +344,14 @@ _Reminder:_
 **_Please complete the following between the end of Friday's interactive session and the beginning of Saturday's interactive session._**
 
 - Video lecture: [Faculty Research Lecture](https://www.youtube.com/watch?v=tBra5iS9PVk) ((__tbd__))
-	* NOTE ((nyamai)) maybe?
+	* NOTE Was Larisse
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 - Submit your [**final research plan**](../Materials/researchPlans) via Teams
 - Submit your **final slide** via teams
     - Include your research question and model diagram on a single page in a PDF document
 - Video lecture (optional): [Use of models in public health decision-making II: COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) (Faculty research presentation) ((__tbd__))
+	* SHADOW Does this need to be updated?
+		* Current link is apparently to Becky et al. (MIDAS)
     - SHADOW [Slides]() NOTE update link!
     - SHADOW [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
 

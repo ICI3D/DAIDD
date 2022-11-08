@@ -280,7 +280,6 @@ _Reminder:_
 - 14:30-14:45 Daily recap ((mentors)) 
 - 14:45-15:00 Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 15:00-16:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)((__tbd__)) 
-	
 
 #### Interactive session 6b ((hladish))
 
@@ -303,6 +302,7 @@ _Reminder:_
 - Submit your **final slide** via teams
     - Include your research question and model diagram on a single page in a PDF document
 - Video lecture (optional): [Use of models in public health decision-making II: COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) (Faculty research presentation) ((__tbd__))
+		* Current link is apparently to Becky et al. (MIDAS)
 
 **_Special session (NA)_ 20:00-21:30**
 
