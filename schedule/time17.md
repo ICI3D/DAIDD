@@ -279,7 +279,7 @@ _Reminder:_
 - 23:45-00:00 Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 00:00-01:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)((__tbd__)) 
 
-#### Interactive session 6b ((hladish))
+#### Interactive session 6b ((not_hladish))
 
 
 - 02:30-03:00 Live lecture: Model-based inference and the bigger picture ((__tbd__)) 

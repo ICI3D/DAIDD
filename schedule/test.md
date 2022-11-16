@@ -288,7 +288,7 @@ _Reminder:_
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 17:00-18:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)((__tbd__)) 
 
-#### Interactive session 6b ((hladish))
+#### Interactive session 6b ((not_hladish))
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
