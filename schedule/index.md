@@ -13,7 +13,7 @@ alertmsg: >
   </ul>
 ---
 
-__Click here for schedule in your time zone__
+__Click here for schedule in your time zone__; (_[email us to request a time zone](mailto:dushoff@mcmaster.ca)_)
 
 * [South Africa (our spiritual location)](time10)
 
