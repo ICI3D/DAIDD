@@ -193,7 +193,7 @@ _Reminder:_
 
 ### Wednesday
 
-#### Interactive session 4a (pulliam))
+#### Interactive session 4a ((pulliam))
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 

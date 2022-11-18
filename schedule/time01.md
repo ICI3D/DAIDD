@@ -17,14 +17,14 @@ alertmsg: >
 
 ### Sunday
 
-#### Interactive session 1a ((vs))
+#### Interactive session 1a ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 
 - _Please join the session by 07:25. We will begin promptly at 07:30._
 - 07:30-07:45 Welcome and some logistics ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 07:45-08:10 What are we doing here? ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
-- 08:15-08:45 Data, models, and science ((reiner))
+- 08:15-08:45 Data, models, and science ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
-- 08:45-09:00 Working with the DAIDD technical tools ((hladish), [Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
+- 08:45-09:00 Working with the DAIDD technical tools ([Tom Hladish]({{site.subdomainurl}}/team/hladish/), [Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
 	* 
 	* ICI3D R package
     - _Make sure your slides are uploaded for the next session!_
@@ -53,12 +53,12 @@ _Reminder:_
 
 ### Monday
 
-#### Interactive session 2a ((hladish))
+#### Interactive session 2a ([Tom Hladish]({{site.subdomainurl}}/team/hladish/))
 
 
 
 
-- 07:30-07:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((deleo))
+- 07:30-07:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ([Giulio De Leo]({{site.subdomainurl}}/team/deleo/))
 	* 
 - 07:50-08:00 [Overview of research plan development and structure](https://www.dropbox.com/s/6lhot2cfi0qwo8z/DAIDD2020guide.pdf?dl=1) ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
 - 08:00-09:30 Tutorial: Dynamical Fever - computer exercise and discussion ((li) and all faculty) 
@@ -83,7 +83,7 @@ ICI3D::dynamicalFever()
 #### Interactive session 2b ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 
 
-- 10:30-11:00 Discussion: Dynamical Fever ((vs)) 
+- 10:30-11:00 Discussion: Dynamical Fever ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
 - 11:00-12:30 Small group session: research questions for modeling projects (All faculty) 
 
 #### Individual session 2
@@ -95,11 +95,11 @@ ICI3D::dynamicalFever()
 	* [Intro (from live workshop)](https://youtu.be/wpxnkyKDAyA)
 	* [Discussion](https://youtu.be/WI1iYRprM2Y)
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.draft.pdf)
-- Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication ((reiner))
+- Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
 - Video lecture (optional): [Omicron Modelling Session at Epidemics8 conference, December 2021](https://elsevier.zoom.us/rec/share/emEIoOyR7o6lV9jhpxU667fGwIdwhvSzISotBfn1UTny_srWCpiJ49fZv4ka5fx-.FY2d9dWOtDd3-6UK)
     - Enter passcode: 9JKhQ&=Y
 	 * ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), [Carl Pearson]({{site.subdomainurl}}/team/pearson/), Sheetal Silal)
-- Video lecture: Faculty research presentation ((deleo))
+- Video lecture: Faculty research presentation ([Giulio De Leo]({{site.subdomainurl}}/team/deleo/))
 
 _Reminder:_
 
@@ -117,14 +117,14 @@ _Reminder:_
 	* [2021 live spreadsheet](https://docs.google.com/spreadsheets/d/1dWyq1Tv7_8ID4vlPVQy_Ep9uWXYRfQl-opoe67j4UjM) (copy or save to work on it)
 	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
 - 08:00-08:30 Exercise: Building an SIR model from scratch ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 08:30-08:45 Summary and discussion: The life cycle of a modeling project ((reiner))
-- 08:45-09:30 Live lecture: The simplest model ((hladish)) 
+- 08:30-08:45 Summary and discussion: The life cycle of a modeling project ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
+- 08:45-09:30 Live lecture: The simplest model ([Tom Hladish]({{site.subdomainurl}}/team/hladish/)) 
 
-#### Interactive session 3b ((reiner))
+#### Interactive session 3b ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
 
 
 
-- 10:30-11:00 Exercise: Simple individual-based models ((hladish)) 
+- 10:30-11:00 Exercise: Simple individual-based models ([Tom Hladish]({{site.subdomainurl}}/team/hladish/)) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
@@ -141,7 +141,7 @@ ICI3D::reedFrost()
 </div>
 </div>
 
-- 11:00-12:30 Exercise: Creating a model world to address a research question ((vs)) 
+- 11:00-12:30 Exercise: Creating a model world to address a research question ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
 
 #### Individual session 3
 
@@ -166,18 +166,18 @@ _Reminder:_
 
 ### Wednesday
 
-#### Interactive session 4a [Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
+#### Interactive session 4a ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 
 
 - 07:30-07:45 Daily recap ((mentors)) 
 - 07:45-08:00 Summary and discussion: Stochastic simulation models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 08:00-09:30 Small-group session: matching models to questions (All faculty) 
 
-#### Interactive session 4b ((deleo))
+#### Interactive session 4b ([Giulio De Leo]({{site.subdomainurl}}/team/deleo/))
 
 
 - 10:30-10:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 10:45-11:30 Tutorial: Heterogeneity in disease emergence ((reiner), (li), [Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 10:45-11:30 Tutorial: Heterogeneity in disease emergence ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/), (li), [Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	 * 
 
@@ -208,7 +208,7 @@ ICI3D::heterogeneityTutorial()
     - [Part 2](https://youtu.be/ApxGWFyFUsU)
     - [Part 3](https://youtu.be/iUEf8rhAScQ)
     - [Part 4](https://youtu.be/On98jk6Wq4I)
-- Video lecture: [Faculty research presentation](https://www.dropbox.com/t/TbGqhL99lcWlJHjQ) ((deleo))
+- Video lecture: [Faculty research presentation](https://www.dropbox.com/t/TbGqhL99lcWlJHjQ) ([Giulio De Leo]({{site.subdomainurl}}/team/deleo/))
 - Video lecture (optional): [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - Catch-up on earlier materials, as needed
 
@@ -223,7 +223,7 @@ _Reminder:_
 #### Interactive session 5a [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 
 
-- 07:30-07:50 Regroup after feedback ((vs)) 
+- 07:30-07:50 Regroup after feedback ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
 - 07:50-08:05 Daily recap ((mentors)) 
 - 08:05-08:20 Summary and discussion: Models and data: introduction to model fitting ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 08:20-09:30 Writing exercise: description of proposed model and assumptions ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
@@ -272,7 +272,7 @@ _Reminder:_
 
 ### Friday
 
-#### Interactive session 6a ((vs))
+#### Interactive session 6a ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 
 
 - 07:30-07:45 Daily recap ((mentors)) 
@@ -325,7 +325,7 @@ _Reminder:_
 #### Interactive session 7a
 
 - 07:30-07:45 Daily recap ((mentors)) 
-- 07:45-09:30 Discussion of research plans/proposals (Moderator: (vs))
+- 07:45-09:30 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 
 #### Interactive session 7b
 

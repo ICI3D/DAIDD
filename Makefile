@@ -81,7 +81,7 @@ zones = time10 time08 time03 time02 time01 time00 time09 time11 time14 time16 ti
 times = $(zones:%=schedule/%.md)
 time_setup: $(times)
 
-## schedule/time10.md: schedule/index.top schedule/test.md timeshadow.pl
+## schedule/time03.md: schedule/index.top schedule/test.md timeshadow.pl
 schedule/time%.md: schedule/index.top schedule/test.md timeshadow.pl
 	$(rm)
 	perl -wf timeshadow.pl $* schedule/test.md >> $@
