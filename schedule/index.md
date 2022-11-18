@@ -1,6 +1,6 @@
 ---
 layout: clinic
-redirect: ./2020
+redirect: ./2022
 tab: Schedule
 title: Schedule
 subtitle: Clinic Schedule
