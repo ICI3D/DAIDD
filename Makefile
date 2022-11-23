@@ -1,10 +1,10 @@
 ## This is daiddweb (pages branch of DAIDD)
 
 ## cerve: jekyll.log ## takes care of local config (don't use serve)
-## http://localhost:4000/
-## http://localhost:4000/schedule/
-## http://localhost:4000/schedule/shadow
-## http://localhost:4000/schedule/time03
+## http://localhost:4167/
+## http://localhost:4167/schedule/
+## http://localhost:4167/schedule/shadow
+## http://localhost:4167/schedule/time03
 
 ## https://github.com/ICI3D/DAIDD/tree/gh-pages
 
@@ -51,6 +51,8 @@ Sources += _config.yml
 
 ## This is something else
 Sources += _localconfig.yml
+
+Sources += ICI3D.github.io
 
 ######################################################################
 
