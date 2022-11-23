@@ -100,6 +100,10 @@ Sources += $(wildcard participants/*.md)
 
 ######################################################################
 
+Sources += roadmap/index.md $(wilcard roadmap/*.png)
+
+######################################################################
+
 ### Makestuff
 
 Sources += Makefile
