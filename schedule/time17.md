@@ -58,7 +58,7 @@ _Reminder:_
 
 - 23:30-23:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ([Giulio De Leo]({{site.subdomainurl}}/team/deleo/))
 - 23:50-00:00 [Overview of research plan development and structure](https://www.dropbox.com/s/6lhot2cfi0qwo8z/DAIDD2020guide.pdf?dl=1) ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
-- 00:00-01:30 Tutorial: Dynamical Fever - computer exercise and discussion ((li) and all faculty) 
+- 00:00-01:30 Tutorial: Dynamical Fever - computer exercise and discussion ([Michael Li]({{site.subdomainurl}}/team/li/) and all faculty) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
@@ -172,7 +172,7 @@ _Reminder:_
 
 
 - 02:30-02:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 02:45-03:30 Tutorial: Heterogeneity in disease emergence ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/), (li), [Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 02:45-03:30 Tutorial: Heterogeneity in disease emergence ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/), [Michael Li]({{site.subdomainurl}}/team/li/), [Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
@@ -225,7 +225,7 @@ _Reminder:_
 #### Interactive session 5b ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
 
 
-- 02:30-04:00 Tutorial: Model fitting ((li)) 
+- 02:30-04:00 Tutorial: Model fitting ([Michael Li]({{site.subdomainurl}}/team/li/)) 
   - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
