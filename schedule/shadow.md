@@ -32,7 +32,7 @@ alertmsg: >
 - 17:15-17:45 Data, models, and science ((reiner))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
 - 17:45-18:00 Working with the DAIDD technical tools ((hladish), (bruce)) NOTE (15 mins)
-	* NOTE Release form?
+	* SHADOW Release form?
 	* ICI3D R package
     - _Make sure your slides are uploaded for the next session!_
 - 18:00-18:30 Ice breakers ((bruce))
@@ -59,8 +59,7 @@ _**Please complete the following between the end of Sunday's interactive session
 _Reminder:_
 
 - 0:30 Tea with North American Faculty
-- 11:00 Tea with African Faculty
-    - 10:30 (optional)
+- 13:30 Tea with African Faculty
 
 ### Monday
 
@@ -71,12 +70,12 @@ _Reminder:_
 NOTE Do we need a Monday recap? Historically no.
 
 - 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((deleo))
-	* NOTE CHECK
+	* SHADOW CHECK
 - 16:50-17:00 [Overview of research plan development and structure](https://www.dropbox.com/s/6lhot2cfi0qwo8z/DAIDD2020guide.pdf?dl=1) ((pulliam)) NOTE (10 mins?) - [Overview of research plan development and structure](planOverview)
 - 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ((li) and all faculty) HIDE - [Slide folder](https://tinyurl.com/daidd-2019) NOTE (40 + 10 group + 40)
-* SHADOW Need a plan for how we're going to interact with students; breakout rooms? 
-	* NOTE Leader needs to control time in both directions; groups should know what should be discussed in each portion
-	* NOTE Li will work with dushoff and pulliam to plan
+* SHADOW Need a plan for how we're going to interact with students; breakout rooms? SAST
+	* SHADOW Leader needs to control time in both directions; groups should know what should be discussed in each portion SAST
+	* SHADOW Li will work with dushoff and pulliam to plan SAST
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
@@ -181,7 +180,7 @@ ICI3D::reedFrost()
     - [Introduction](https://youtu.be/VcyhoQcAt00)
     - [Part 1](https://youtu.be/MuXYbph_f0Y)
     - [Part 2](https://youtu.be/Ht1YA0SFF80)
-    - SHADOW Where are the slides? 
+    - SHADOW Where are the slides?
 - Video lecture: [Heterogeneity, contact patterns, and modeling options](https://www.youtube.com/watch?v=9OhB3WfSpS8&ab_channel=ICI3D) ((dushoff))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.draft.pdf)
     - SHADOW [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
@@ -208,7 +207,7 @@ _Reminder:_
 - 19:30-19:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) NOTE (15 mins)
 - 19:45-20:30 Tutorial: Heterogeneity in disease emergence ((reiner), (li), (pulliam)) NOTE (45 mins)
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
-	 * NOTE TODO make this a link!
+	 * SHADOW TODO make this a link!
 
 <div class="row">
 <div class="col-lg-1">
@@ -253,7 +252,7 @@ _Reminder:_
 SHADOW JP giving a seminar; need to sort out timing; will otherwise be available
 SHADOW CP not available Thursday AM; shouldn't be a problem
 
-#### Interactive session 5a (dushoff))
+#### Interactive session 5a ((dushoff))
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -319,13 +318,13 @@ _Reminder:_
 
 - 16:30-16:45 Daily recap ((mentors)) NOTE (15 mins)
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ((dushoff)) NOTE (20 mins?)
-- 17:00-18:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)((__tbd__)) 
+- 17:00-18:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)((__tbd__))
 	* SHADOW pulliam/mthombothi polio?
 	* SHADOW Possibly Mutono's preferred slot
 	* SHADOW Maybe split?
 	* SHADOW OLD: - Now with more COVID! HIDE - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
 
-#### Interactive session 6b ((not_hladish))
+#### Interactive session 6b HIDE ((not_hladish))
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
@@ -343,7 +342,7 @@ _Reminder:_
 **_Please complete the following between the end of Friday's interactive session and the beginning of Saturday's interactive session._**
 
 - Video lecture: [Faculty Research Lecture](https://www.youtube.com/watch?v=tBra5iS9PVk) ((__tbd__))
-	* NOTE Was Larisse
+	* SHADOW Was Larisse
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 - Submit your [**final research plan**](../Materials/researchPlans) via Teams
 - Submit your **final slide** via teams
@@ -354,11 +353,11 @@ _Reminder:_
     - SHADOW [Slides]() NOTE update link!
     - SHADOW [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
 
-**_Special session (NA)_ 22:00-23:30**
+**_Special session_ (North America) 22:00-23:30**
 
 - One-on-one mentoring sessions
-	* NOTE Schedule to be posted
-   * HIDE [Schedule]() NOTE update link!
+	* Schedule to be posted
+  * SHADOW [Schedule]() NOTE update link!
 
 _Reminder:_
 
@@ -369,10 +368,10 @@ _Reminder:_
 
 #### Individual session 7
 
-**_Special session (Africa)_ 12:00-13:30**
+**_Special session_ (Africa) 12:00-13:30**
 
 - One-on-one mentoring sessions NOTE with Bolton, Mwangi, Pearson, and Pulliam NOTE Schedule to be posted
-    - HIDE [Schedule]() NOTE update link!
+    - SHADOW [Schedule]() NOTE update link!
 
 #### Interactive session 7a
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
