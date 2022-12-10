@@ -197,7 +197,7 @@ _Reminder:_
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- 16:30-16:45 Daily recap ((mentors)) NOTE (15 mins)
+- 16:30-16:45 Daily recap ((brown)) NOTE (15 mins)
 - 16:45-17:00 Summary and discussion: Stochastic simulation models ((dushoff)) NOTE (15 mins)
 - 17:00-18:30 Small-group session: matching models to questions (All faculty) NOTE (90 minutes)
 
@@ -258,7 +258,7 @@ SHADOW CP not available Thursday AM; shouldn't be a problem
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - 16:30-16:50 Regroup after feedback ((vs)) NOTE (20 mins)
-- 16:50-17:05 Daily recap ((mentors)) NOTE (15 mins)
+- 16:50-17:05 Daily recap ((are)) NOTE (15 mins)
 - 17:05-17:20 Summary and discussion: Models and data: introduction to model fitting ((dushoff)) NOTE (15 mins)
 - 17:20-18:30 Writing exercise: description of proposed model and assumptions ((mthombothi)) NOTE (65 mins?) Model telephone
     - SHADOW [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
@@ -317,7 +317,7 @@ _Reminder:_
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- 16:30-16:45 Daily recap ((mentors)) NOTE (15 mins)
+- 16:30-16:45 Daily recap ((brown)) NOTE (15 mins)
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ((dushoff)) NOTE (20 mins?)
 - 17:00-18:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)((__tbd__)) 
 	* SHADOW pulliam/mthombothi polio?
@@ -377,7 +377,7 @@ _Reminder:_
 #### Interactive session 7a
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- 16:30-16:45 Daily recap ((mentors)) NOTE (15 mins)
+- 16:30-16:45 Daily recap ((are)) NOTE (15 mins)
 - 16:45-18:30 Discussion of research plans/proposals (Moderator: (vs))
 	* SHADOW [Proposal order](../participants/order)
 

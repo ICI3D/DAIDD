@@ -174,7 +174,7 @@ _Reminder:_
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- 16:30-16:45 Daily recap ((mentors)) 
+- 16:30-16:45 Daily recap (__Lauren Brown__) 
 - 16:45-17:00 Summary and discussion: Stochastic simulation models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 17:00-18:30 Small-group session: matching models to questions (All faculty) 
 
@@ -231,7 +231,7 @@ _Reminder:_
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - 16:30-16:50 Regroup after feedback ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
-- 16:50-17:05 Daily recap ((mentors)) 
+- 16:50-17:05 Daily recap (__Elisha Are__) 
 - 17:05-17:20 Summary and discussion: Models and data: introduction to model fitting ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 17:20-18:30 Writing exercise: description of proposed model and assumptions ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 
@@ -284,7 +284,7 @@ _Reminder:_
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- 16:30-16:45 Daily recap ((mentors)) 
+- 16:30-16:45 Daily recap (__Lauren Brown__) 
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 17:00-18:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)((__tbd__)) 
 
@@ -335,7 +335,7 @@ _Reminder:_
 #### Interactive session 7a
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- 16:30-16:45 Daily recap ((mentors)) 
+- 16:30-16:45 Daily recap (__Elisha Are__) 
 - 16:45-18:30 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 
 #### Interactive session 7b

@@ -169,7 +169,7 @@ _Reminder:_
 #### Interactive session 4a ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 
 
-- 14:30-14:45 Daily recap ((mentors)) 
+- 14:30-14:45 Daily recap (__Lauren Brown__) 
 - 14:45-15:00 Summary and discussion: Stochastic simulation models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 15:00-16:30 Small-group session: matching models to questions (All faculty) 
 
@@ -224,7 +224,7 @@ _Reminder:_
 
 
 - 14:30-14:50 Regroup after feedback ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
-- 14:50-15:05 Daily recap ((mentors)) 
+- 14:50-15:05 Daily recap (__Elisha Are__) 
 - 15:05-15:20 Summary and discussion: Models and data: introduction to model fitting ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 15:20-16:30 Writing exercise: description of proposed model and assumptions ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 
@@ -275,7 +275,7 @@ _Reminder:_
 #### Interactive session 6a ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 
 
-- 14:30-14:45 Daily recap ((mentors)) 
+- 14:30-14:45 Daily recap (__Lauren Brown__) 
 - 14:45-15:00 Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 15:00-16:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)((__tbd__)) 
 
@@ -324,7 +324,7 @@ _Reminder:_
 
 #### Interactive session 7a
 
-- 14:30-14:45 Daily recap ((mentors)) 
+- 14:30-14:45 Daily recap (__Elisha Are__) 
 - 14:45-16:30 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 
 #### Interactive session 7b

@@ -33,5 +33,7 @@ while(<>){
 	s|\(hladish\)|[Tom Hladish]($linktext/hladish/)|;
 	s|\(reiner\)|[Bobby Reiner]($linktext/reiner/)|;
 	s|\(deleo\)|[Giulio De Leo]($linktext/deleo/)|;
+	s|\(brown\)|__Lauren Brown__|;
+	s|\(are\)|__Elisha Are__|;
 	say;
 }
