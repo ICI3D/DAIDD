@@ -74,6 +74,7 @@ schedule/example.tsv: schedule/shadow.md scsv.pl
 	$(PUSH)
 
 ## schedule/test.md.compare: faculty.tsv shadow.pl
+Sources += faculty.tsv
 schedule/test.md: schedule/index.top faculty.tsv schedule/shadow.md shadow.pl
 	$(rm)
 	$(CAT) $< > $@
