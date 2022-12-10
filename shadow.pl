@@ -1,11 +1,29 @@
 use strict;
 use 5.10.0;
 
+## s|\(hargrove\)|[John Hargrove]($linktext/hargrove/)|;
+## s|\(are\)|__Elisha Are__|;
+
+my $linktext = "{{site.subdomainurl}}/team";
+
+my %rep;
+while(<>){
+	next if /^##/;
+	next if /^$/;
+	last if /^---/;
+	chomp;
+	my ($tag, $name, $lname) = split /\t/, $_;
+	if (defined $lname){
+		$name = "[$name]($linktext/$lname/)";	
+	} else {
+		$name = "__$name" . "__";	
+	}
+	$rep{$tag}=$name;
+}
+
 while(<>){
 	last if m|/HEAD|;
 }
-
-my $linktext = "{{site.subdomainurl}}/team";
 
 while(<>){
 	chomp;
@@ -17,23 +35,8 @@ while(<>){
 	next if /SHADOW/;
 	s/HIDE.*//;
 	s/NOTE.*//;
-	s|\(paradza\)|[Masimba Paradza]($linktext/paradza/)|;
-	s|\(bruce\)|[Faikah Bruce]($linktext/bruce/)|;
-	s|\(hargrove\)|[John Hargrove]($linktext/hargrove/)|;
-	s|\(dushoff\)|[Jonathan Dushoff]($linktext/dushoff/)|;
-	s|\(mthombothi\)|[Zinhle Mthombothi]($linktext/mthombothi/)|;
-	s|\(scott\)|[Jim Scott]($linktext/scott/)|;
-	s|\(borchering\)|[Becky Borchering]($linktext/borchering/)|;
-	s|\(pulliam\)|[Juliet Pulliam]($linktext/pulliam/)|;
-	s|\(vanschalkwyk\)|[Cari van Schalkwyk]($linktext/vanschalkwyk/)|;
-	s|\(kassanjee\)|[Reshma Kassanjee]($linktext/kassanjee/)|;
-	s|\(pearson\)|[Carl Pearson]($linktext/pearson/)|;
-	s|\(bolton\)|[Larisse Bolton]($linktext/bolton/)|;
-	s|\(vs\)|[Cari van Schalkwyk]($linktext/vanschalkwyk/)|;
-	s|\(hladish\)|[Tom Hladish]($linktext/hladish/)|;
-	s|\(reiner\)|[Bobby Reiner]($linktext/reiner/)|;
-	s|\(deleo\)|[Giulio De Leo]($linktext/deleo/)|;
-	s|\(brown\)|__Lauren Brown__|;
-	s|\(are\)|__Elisha Are__|;
+	while (my ($tag, $str) = each %rep) {
+		s/\($tag\)/$str/;
+	}
 	say;
 }

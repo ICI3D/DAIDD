@@ -73,10 +73,11 @@ Sources += scsv.pl
 schedule/example.tsv: schedule/shadow.md scsv.pl
 	$(PUSH)
 
-schedule/test.md: schedule/index.top schedule/shadow.md shadow.pl
+## schedule/test.md.compare: faculty.tsv shadow.pl
+schedule/test.md: schedule/index.top faculty.tsv schedule/shadow.md shadow.pl
 	$(rm)
 	$(CAT) $< > $@
-	perl -wf shadow.pl schedule/shadow.md >> $@
+	perl -wf shadow.pl faculty.tsv schedule/shadow.md >> $@
 	$(readonly)
 
 zones = time10 time08 time03 time02 time01 time00 time09 time11 time14 time16 time17
@@ -121,7 +122,7 @@ makestuff/Makefile:
 	ls $@
 
 -include makestuff/os.mk
+-include makestuff/compare.mk
 -include makestuff/git.mk
 -include makestuff/visual.mk
--include makestuff/projdir.mk
 
