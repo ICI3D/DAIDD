@@ -245,7 +245,7 @@ SHADOW - Video lecture (optional): [Faculty research presentation](https://youtu
 _Reminder:_
 
 - 0:30 Tea with North American Faculty
-- 13:00 Tea with African Faculty
+- 13:30 Tea with African Faculty
 
 ### Thursday
 
@@ -308,7 +308,7 @@ SHADOW Possible social activity (Game night) - eg, from c. 21:30 JD will bring b
 _Reminder:_
 
 - 0:30 Tea with North American Faculty
-- 13:00 Tea with African Faculty
+- 13:30 Tea with African Faculty
 
 ### Friday
 
@@ -362,7 +362,7 @@ _Reminder:_
 _Reminder:_
 
 - 0:30 Tea with North American Faculty
-- 13:00 Tea with African Faculty
+- 13:30 Tea with African Faculty
 
 ### Saturday
 

@@ -215,7 +215,7 @@ ICI3D::heterogeneityTutorial()
 _Reminder:_
 
 - 0:30 Tea with North American Faculty
-- 13:00 Tea with African Faculty
+- 13:30 Tea with African Faculty
 
 ### Thursday
 
@@ -270,7 +270,7 @@ https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2021Participants224/Shared%
 _Reminder:_
 
 - 0:30 Tea with North American Faculty
-- 13:00 Tea with African Faculty
+- 13:30 Tea with African Faculty
 
 ### Friday
 
@@ -313,7 +313,7 @@ _Reminder:_
 _Reminder:_
 
 - 0:30 Tea with North American Faculty
-- 13:00 Tea with African Faculty
+- 13:30 Tea with African Faculty
 
 ### Saturday
 
