@@ -25,7 +25,6 @@ alertmsg: >
 - 17:15-17:45 Data, models, and science ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
 - 17:45-18:00 Working with the DAIDD technical tools ([Tom Hladish]({{site.subdomainurl}}/team/hladish/), [Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
-	* 
 	* ICI3D R package
     - _Make sure your slides are uploaded for the next session!_
 - 18:00-18:30 Ice breakers ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/))
@@ -48,8 +47,7 @@ _**Please complete the following between the end of Sunday's interactive session
 _Reminder:_
 
 - 00:30 Tea with North American Faculty
-- 11:00 Tea with African Faculty
-    - 10:30 (optional)
+- 13:30 Tea with African Faculty
 
 ### Monday
 
@@ -59,11 +57,8 @@ _Reminder:_
 
 
 - 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ([Giulio De Leo]({{site.subdomainurl}}/team/deleo/))
-	* 
 - 16:50-17:00 [Overview of research plan development and structure](https://www.dropbox.com/s/6lhot2cfi0qwo8z/DAIDD2020guide.pdf?dl=1) ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
 - 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ((li) and all faculty) 
-	* 
-	* 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
@@ -179,7 +174,6 @@ _Reminder:_
 - 19:30-19:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 19:45-20:30 Tutorial: Heterogeneity in disease emergence ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/), (li), [Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
-	 * 
 
 <div class="row">
 <div class="col-lg-1">
@@ -215,12 +209,12 @@ ICI3D::heterogeneityTutorial()
 _Reminder:_
 
 - 00:30 Tea with North American Faculty
-- 13:00 Tea with African Faculty
+- 13:30 Tea with African Faculty
 
 ### Thursday
 
 
-#### Interactive session 5a [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+#### Interactive session 5a ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 
 
 - 16:30-16:50 Regroup after feedback ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
@@ -268,7 +262,7 @@ https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2021Participants224/Shared%
 _Reminder:_
 
 - 00:30 Tea with North American Faculty
-- 13:00 Tea with African Faculty
+- 13:30 Tea with African Faculty
 
 ### Friday
 
@@ -277,9 +271,9 @@ _Reminder:_
 
 - 16:30-16:45 Daily recap (__Lauren Brown__) 
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 17:00-18:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)((__tbd__)) 
+- 17:00-18:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)((__tbd__))
 
-#### Interactive session 6b ((not_hladish))
+#### Interactive session 6b 
 
 
 - 19:30-20:00 Live lecture: Model-based inference and the bigger picture ((__tbd__)) 
@@ -294,7 +288,6 @@ _Reminder:_
 **_Please complete the following between the end of Friday's interactive session and the beginning of Saturday's interactive session._**
 
 - Video lecture: [Faculty Research Lecture](https://www.youtube.com/watch?v=tBra5iS9PVk) ((__tbd__))
-	* 
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 - Submit your [**final research plan**](../Materials/researchPlans) via Teams
 - Submit your **final slide** via teams
@@ -302,25 +295,23 @@ _Reminder:_
 - Video lecture (optional): [Use of models in public health decision-making II: COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) (Faculty research presentation) ((__tbd__))
 		* Current link is apparently to Becky et al. (MIDAS)
 
-**_Special session (NA)_ 22:00-23:30**
+**_Special session_ (North America) 22:00-23:30**
 
 - One-on-one mentoring sessions
-	* 
-   * 
+	* Schedule to be posted
 
 _Reminder:_
 
 - 00:30 Tea with North American Faculty
-- 13:00 Tea with African Faculty
+- 13:30 Tea with African Faculty
 
 ### Saturday
 
 #### Individual session 7
 
-**_Special session (Africa)_ 12:00-13:30**
+**_Special session_ (Africa) 12:00-13:30**
 
 - One-on-one mentoring sessions 
-    - 
 
 #### Interactive session 7a
 
