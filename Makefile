@@ -5,6 +5,7 @@
 ## http://localhost:4167/schedule/
 ## http://localhost:4167/schedule/shadow
 ## http://localhost:4167/schedule/test
+## http://localhost:4167/schedule/test
 
 ## https://github.com/ICI3D/DAIDD/tree/gh-pages
 
