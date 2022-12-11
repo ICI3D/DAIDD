@@ -108,6 +108,12 @@ Sources += roadmap/index.md $(wilcard roadmap/*.png)
 
 ######################################################################
 
+Sources += logistics/*.md
+
+## logistics/montfleur.md has the most recent copy of in-person logistics
+
+######################################################################
+
 ### Makestuff
 
 Sources += Makefile
