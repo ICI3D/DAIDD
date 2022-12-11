@@ -23,7 +23,6 @@ alertmsg: >
 - 16:30-16:45 Welcome and some logistics ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 16:45-17:10 What are we doing here? ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
 - 17:15-17:45 Data, models, and science ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
-	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
 - 17:45-18:00 Working with the DAIDD technical tools ([Tom Hladish]({{site.subdomainurl}}/team/hladish/), [Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
 	* ICI3D R package
     - _Make sure your slides are uploaded for the next session!_
