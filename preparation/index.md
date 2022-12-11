@@ -26,11 +26,7 @@ You should complete the following steps in preparation for the clinic before the
 
 ### 2. Pre-assigned reading
 
-All of the pre-assigned readings are available in the DAIDD Participant Team under General [channel/files/pre-reading](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2022Participants/Shared%20Documents/General/Pre-readings?csf=1&web=1&e=hAdsRj) (participants only)
-
-https://teams.microsoft.com/_#/FileBrowserTabApp/General?threadId=19:VjGoP284AUV0KfezBy1WRPx8CREQ5xRwndz9_sOLBV81@thread.tacv2&ctx=channel
-
-https://teams.microsoft.com/_#/FileBrowserTabApp/General?threadId=19:VjGoP284AUV0KfezBy1WRPx8CREQ5xRwndz9_sOLBV81@thread.tacv2&ctx=channel
+All of the pre-assigned readings are available in the DAIDD Participant Team under [General channel/files/pre-reading](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2022Participants/Shared%20Documents/General/Pre-readings?csf=1&web=1&e=hAdsRj) (participants only)
 
 #### Required reading
 
