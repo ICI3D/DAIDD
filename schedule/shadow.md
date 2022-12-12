@@ -72,11 +72,10 @@ NOTE Do we need a Monday recap? Historically no.
 - 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((deleo))
 	* SHADOW CHECK
 - 16:50-17:00 [Overview of research plan development and structure](https://www.dropbox.com/s/5lojjt5yqjsw668/DAIDD2022guide.pdf?dl=1) ((pulliam)) NOTE (10 mins?) - [Overview of research plan development and structure](planOverview)
-- 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ((li) and all faculty) HIDE - [Slide folder](https://tinyurl.com/daidd-2019) NOTE (40 + 10 group + 40)
-* SHADOW Need a plan for how we're going to interact with students; breakout rooms? SAST
-	* SHADOW Leader needs to control time in both directions; groups should know what should be discussed in each portion SAST
-	* SHADOW Li will work with dushoff and pulliam to plan SAST
-    - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+- 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ((li) and all faculty)
+	* SHADOW Leader needs to control time in both directions; groups should know what should be discussed in each portion
+	* SHADOW Let's make sure to discuss the first set of questions before getting into the second set of simulations
+	- To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
 <div class="col-lg-1">
@@ -110,13 +109,12 @@ ICI3D::dynamicalFever()
 	* [Intro (from live workshop)](https://youtu.be/wpxnkyKDAyA)
 	* [Discussion](https://youtu.be/WI1iYRprM2Y)
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.draft.pdf)
-- Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication ((reiner))
-	* SHADOW LINK needed (probably not recorded yet?)
+- Video lecture: Modeling in practice: [The life cycle of a modeling project, from conception to publication](https://www.youtube.com/watch?v=ErSFZ9daiFA) ((reiner))
+- Video lecture: Faculty research presentation ((deleo))
+	* Available soon
 - Video lecture (optional): [Omicron Modelling Session at Epidemics8 conference, December 2021](https://elsevier.zoom.us/rec/share/emEIoOyR7o6lV9jhpxU667fGwIdwhvSzISotBfn1UTny_srWCpiJ49fZv4ka5fx-.FY2d9dWOtDd3-6UK)
     - Enter passcode: 9JKhQ&=Y
 	 * ((pulliam), (pearson), Sheetal Silal)
-- Video lecture: Faculty research presentation ((deleo))
-	* SHADOW LINK needed (should already exist)
 
 _Reminder:_
 

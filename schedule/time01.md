@@ -57,8 +57,8 @@ _Reminder:_
 
 - 07:30-07:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ([Giulio De Leo]({{site.subdomainurl}}/team/deleo/))
 - 07:50-08:00 [Overview of research plan development and structure](https://www.dropbox.com/s/5lojjt5yqjsw668/DAIDD2022guide.pdf?dl=1) ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
-- 08:00-09:30 Tutorial: Dynamical Fever - computer exercise and discussion ([Michael Li]({{site.subdomainurl}}/team/li/) and all faculty) 
-    - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+- 08:00-09:30 Tutorial: Dynamical Fever - computer exercise and discussion ([Michael Li]({{site.subdomainurl}}/team/li/) and all faculty)
+	- To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
 <div class="col-lg-1">
@@ -89,11 +89,12 @@ ICI3D::dynamicalFever()
 	* [Intro (from live workshop)](https://youtu.be/wpxnkyKDAyA)
 	* [Discussion](https://youtu.be/WI1iYRprM2Y)
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.draft.pdf)
-- Video lecture: Modeling in practice: The life cycle of a modeling project, from conception to publication ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
+- Video lecture: Modeling in practice: [The life cycle of a modeling project, from conception to publication](https://www.youtube.com/watch?v=ErSFZ9daiFA) ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
+- Video lecture: Faculty research presentation ([Giulio De Leo]({{site.subdomainurl}}/team/deleo/))
+	* Available soon
 - Video lecture (optional): [Omicron Modelling Session at Epidemics8 conference, December 2021](https://elsevier.zoom.us/rec/share/emEIoOyR7o6lV9jhpxU667fGwIdwhvSzISotBfn1UTny_srWCpiJ49fZv4ka5fx-.FY2d9dWOtDd3-6UK)
     - Enter passcode: 9JKhQ&=Y
 	 * ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), [Carl Pearson]({{site.subdomainurl}}/team/pearson/), Sheetal Silal)
-- Video lecture: Faculty research presentation ([Giulio De Leo]({{site.subdomainurl}}/team/deleo/))
 
 _Reminder:_
 
