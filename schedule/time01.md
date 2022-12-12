@@ -56,7 +56,7 @@ _Reminder:_
 
 
 - 07:30-07:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ([Giulio De Leo]({{site.subdomainurl}}/team/deleo/))
-- 07:50-08:00 [Overview of research plan development and structure](https://www.dropbox.com/s/6lhot2cfi0qwo8z/DAIDD2020guide.pdf?dl=1) ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 07:50-08:00 [Overview of research plan development and structure](https://www.dropbox.com/s/5lojjt5yqjsw668/DAIDD2022guide.pdf?dl=1) ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
 - 08:00-09:30 Tutorial: Dynamical Fever - computer exercise and discussion ([Michael Li]({{site.subdomainurl}}/team/li/) and all faculty) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 

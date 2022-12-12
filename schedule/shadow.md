@@ -71,7 +71,7 @@ NOTE Do we need a Monday recap? Historically no.
 
 - 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((deleo))
 	* SHADOW CHECK
-- 16:50-17:00 [Overview of research plan development and structure](https://www.dropbox.com/s/6lhot2cfi0qwo8z/DAIDD2020guide.pdf?dl=1) ((pulliam)) NOTE (10 mins?) - [Overview of research plan development and structure](planOverview)
+- 16:50-17:00 [Overview of research plan development and structure](https://www.dropbox.com/s/5lojjt5yqjsw668/DAIDD2022guide.pdf?dl=1) ((pulliam)) NOTE (10 mins?) - [Overview of research plan development and structure](planOverview)
 - 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ((li) and all faculty) HIDE - [Slide folder](https://tinyurl.com/daidd-2019) NOTE (40 + 10 group + 40)
 * SHADOW Need a plan for how we're going to interact with students; breakout rooms? SAST
 	* SHADOW Leader needs to control time in both directions; groups should know what should be discussed in each portion SAST
