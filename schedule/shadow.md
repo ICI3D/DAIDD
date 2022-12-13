@@ -132,9 +132,9 @@ SHADOW Emcee: Mike
 - 16:30-16:45 Daily recap ((mthombothi)) NOTE (15 mins)
     - SHADOW [DAIDD roadmap slideset](https://www.dropbox.com/s/f37p9hgizwx360t/DAIDDroadmap.pptx?dl=1) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
 - 16:45- 17:00 Summary and discussion: The SIR model family ((dushoff))
-	* [2021 live spreadsheet](https://docs.google.com/spreadsheets/d/1dWyq1Tv7_8ID4vlPVQy_Ep9uWXYRfQl-opoe67j4UjM) (copy or save to work on it)
-	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
 - 17:00-17:30 Exercise: Building an SIR model from scratch ((dushoff)) NOTE (30 mins?) NOTE + 5 min stretch break
+	* [2022 live spreadsheet](https://docs.google.com/spreadsheets/d/1xTqEuBhwgMOF2KVoJREGARF7LprLlnpCkZm2USM2OHk/edit) (copy or save to work on it)
+	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
 - 17:30-17:45 Summary and discussion: The life cycle of a modeling project ((reiner))
 - 17:45-18:30 Live lecture: The simplest model ((hladish)) HIDE - [Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)
     - SHADOW [Google sheet](https://tinyurl.com/DAIDD-SIRboth-2019) NOTE Formerly: Simple individual-based models

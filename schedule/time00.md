@@ -109,9 +109,9 @@ _Reminder:_
 
 - 06:30-06:45 Daily recap ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 - 06:45- 07:00 Summary and discussion: The SIR model family ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-	* [2021 live spreadsheet](https://docs.google.com/spreadsheets/d/1dWyq1Tv7_8ID4vlPVQy_Ep9uWXYRfQl-opoe67j4UjM) (copy or save to work on it)
-	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
 - 07:00-07:30 Exercise: Building an SIR model from scratch ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+	* [2022 live spreadsheet](https://docs.google.com/spreadsheets/d/1xTqEuBhwgMOF2KVoJREGARF7LprLlnpCkZm2USM2OHk/edit) (copy or save to work on it)
+	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
 - 07:30-07:45 Summary and discussion: The life cycle of a modeling project ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
 - 07:45-08:30 Live lecture: The simplest model ([Tom Hladish]({{site.subdomainurl}}/team/hladish/)) 
 
