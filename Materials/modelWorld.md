@@ -40,7 +40,7 @@ Reconcile your process and characteristic lists by identifying how the most impo
 - Construct a diagram that represents all of the individual characteristics and processes of interest.
     - For your own purposes, you can use whatever graphical conventions work best for how you think about the system.
 
-### Step 6
+### Step 7
 
 -   Create a clean, clearly labeled version of your model diagram and upload it before Wednesday’s interactive session (4a). Upload location: DAIDD Participants > General > Files > 04_modelDiagram > 04.1_InitialDiagrams.
     - Use solid **labeled arrows** to represent the transitions into / out of / between states. Label all arrows into or out of a state with the rate for the process. If the arrow represents leaving a state (whether or not another state is entered), label the arrow with the per capita rate.
