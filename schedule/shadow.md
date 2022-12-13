@@ -123,9 +123,7 @@ _Reminder:_
 
 ### Tuesday
 
-SHADOW Emcee: Mike
-
-#### Interactive session 3a
+#### Interactive session 3a ((li))
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -140,8 +138,6 @@ SHADOW Emcee: Mike
     - SHADOW [Google sheet](https://tinyurl.com/DAIDD-SIRboth-2019) NOTE Formerly: Simple individual-based models
 
 #### Interactive session 3b ((reiner))
-
-SHADOW Emcee: Thumbi
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
