@@ -141,8 +141,9 @@ _Reminder:_
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- 19:30-20:00 Exercise: Simple individual-based models ((hladish)) NOTE (30 mins)
+- 19:30-20:15 Exercise: Simple individual-based models ((hladish)) NOTE (30 mins)
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+	 * SHADOW lengthened by 15 minutes for logistical reasons 2022
 
 <div class="row">
 <div class="col-lg-1">
@@ -158,7 +159,8 @@ ICI3D::reedFrost()
 </div>
 </div>
 
-- 20:00-21:30 Exercise: Creating a model world to address a research question ((vs)) NOTE (90 mins)
+- 20:15-21:30 Exercise: Creating a model world to address a research question ((vs)) NOTE (90 mins)
+	 * SHADOW shortened by 15 minutes for logistical reasons 2022
 - SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 3

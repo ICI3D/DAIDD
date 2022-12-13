@@ -117,7 +117,7 @@ _Reminder:_
 #### Interactive session 3b ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
 
 
-- 01:30-02:00 Exercise: Simple individual-based models ([Tom Hladish]({{site.subdomainurl}}/team/hladish/)) 
+- 01:30-02:15 Exercise: Simple individual-based models ([Tom Hladish]({{site.subdomainurl}}/team/hladish/)) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
@@ -134,7 +134,7 @@ ICI3D::reedFrost()
 </div>
 </div>
 
-- 02:00-03:30 Exercise: Creating a model world to address a research question ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
+- 02:15-03:30 Exercise: Creating a model world to address a research question ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
 
 #### Individual session 3
 
