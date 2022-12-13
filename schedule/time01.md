@@ -102,8 +102,7 @@ _Reminder:_
 
 ### Tuesday
 
-
-#### Interactive session 3a
+#### Interactive session 3a ([Michael Li]({{site.subdomainurl}}/team/li/))
 
 
 - 07:30-07:45 Daily recap ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
@@ -115,7 +114,6 @@ _Reminder:_
 - 08:45-09:30 Live lecture: The simplest model ([Tom Hladish]({{site.subdomainurl}}/team/hladish/)) 
 
 #### Interactive session 3b ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
-
 
 
 - 10:30-11:00 Exercise: Simple individual-based models ([Tom Hladish]({{site.subdomainurl}}/team/hladish/)) 

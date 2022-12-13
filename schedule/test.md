@@ -104,8 +104,7 @@ _Reminder:_
 
 ### Tuesday
 
-
-#### Interactive session 3a
+#### Interactive session 3a ([Michael Li]({{site.subdomainurl}}/team/li/))
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -118,7 +117,6 @@ _Reminder:_
 - 17:45-18:30 Live lecture: The simplest model ([Tom Hladish]({{site.subdomainurl}}/team/hladish/)) 
 
 #### Interactive session 3b ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
-
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
