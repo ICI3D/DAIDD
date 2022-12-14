@@ -169,14 +169,14 @@ _Reminder:_
 
 - 16:30-16:45 Daily recap (__Lauren Brown__) 
 - 16:45-17:00 Summary and discussion: Stochastic simulation models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 17:00-18:30 Small-group session: matching models to questions (All faculty) 
+- 17:00-18:30 Small-group session: matching model worlds to questions (All faculty) 
 
 #### Interactive session 4b ([Giulio De Leo]({{site.subdomainurl}}/team/deleo/))
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- 19:30-19:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 19:45-20:30 Tutorial: Heterogeneity in disease emergence ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/), [Michael Li]({{site.subdomainurl}}/team/li/), [Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 19:30-19:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Tom Hladish]({{site.subdomainurl}}/team/hladish/)) 
+- 19:45-20:30 Tutorial: Heterogeneity in disease emergence ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/), [Michael Li]({{site.subdomainurl}}/team/li/), [Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">

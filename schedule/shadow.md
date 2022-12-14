@@ -194,14 +194,14 @@ _Reminder:_
 
 - 16:30-16:45 Daily recap ((brown)) NOTE (15 mins)
 - 16:45-17:00 Summary and discussion: Stochastic simulation models ((dushoff)) NOTE (15 mins)
-- 17:00-18:30 Small-group session: matching models to questions (All faculty) NOTE (90 minutes)
+- 17:00-18:30 Small-group session: matching model worlds to questions (All faculty) NOTE (90 minutes)
 
 #### Interactive session 4b ((deleo))
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- 19:30-19:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) NOTE (15 mins)
-- 19:45-20:30 Tutorial: Heterogeneity in disease emergence ((reiner), (li), (pulliam)) NOTE (45 mins)
+- 19:30-19:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ((hladish)) NOTE (15 mins)
+- 19:45-20:30 Tutorial: Heterogeneity in disease emergence ((reiner), (li), (pulliam), (dushoff)) NOTE (45 mins)
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	 * SHADOW TODO make this a link!
 
