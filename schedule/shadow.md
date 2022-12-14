@@ -233,7 +233,10 @@ SHADOW - Mid-session post-mortem: ~ 21:30 NOTE STOPPED HERE
     - [Part 2](https://youtu.be/ApxGWFyFUsU)
     - [Part 3](https://youtu.be/iUEf8rhAScQ)
     - [Part 4](https://youtu.be/On98jk6Wq4I)
-- Video lecture: [Faculty research presentation](https://www.dropbox.com/t/TbGqhL99lcWlJHjQ) ((deleo))
+- Video lecture: Seasonality and Infectious Diseases ((deleo))
+    - [Part 1](https://youtu.be/BIftKrPjdFA)
+    - [Part 2](https://youtu.be/3HdVhy5DIUA)
+    - [Part 3](https://youtu.be/NPg8m9hofYI)
 - Video lecture (optional): [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) ((dushoff))
 SHADOW - Video lecture (optional): [Faculty research presentation](https://youtu.be/L1qalfZfwEo)
 - Catch-up on earlier materials, as needed
