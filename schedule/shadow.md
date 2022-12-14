@@ -235,7 +235,8 @@ SHADOW - Mid-session post-mortem: ~ 21:30 NOTE STOPPED HERE
     - [Part 4](https://youtu.be/On98jk6Wq4I)
 - Video lecture: [Faculty research presentation](https://www.dropbox.com/t/TbGqhL99lcWlJHjQ) ((deleo))
 - Video lecture (optional): [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) ((dushoff))
-SHADOW - Video lecture (optional): [Faculty research presentation](https://youtu.be/L1qalfZfwEo)
+* - Video lecture (optional): [Faculty research presentation](https://www.youtube.com/watch?v=xVutQlqk_eQ) ((vs))
+* SHADOW - Video lecture (optional): [Faculty research presentation](https://youtu.be/L1qalfZfwEo)
 - Catch-up on earlier materials, as needed
 
 _Reminder:_
