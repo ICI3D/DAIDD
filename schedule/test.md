@@ -261,7 +261,7 @@ ICI3D::hivTutorial()
 - Exercise: Finalize your model diagram and description and post to Teams 
     - Place them both as a single file in DAIDD Participants > General > Files > 05_modelDescription
     - Now would also be a good time to review the [research plan instructions](../Materials/researchPlans)
-- Exercise: Work through the [document for planning your approach](https://stellenbosch.sharepoint.com/:w:/s/DAIDD2021Participants224/EWN8Qcp-rnNFle-Qj5Ykk88ByJt6piDwOKJXBfrq-eOtEA?e=yQkciq) (available in DAIDD Participants > General > Files > Assignments)
+- Exercise: Work through the [document for planning your approach](https://www.dropbox.com/s/w5nwkp5d30fmf0e/planningYourApproach.docx?dl=1) (available in DAIDD Participants > General > Files > Assignments)
 - Video lecture: [Model evaluation and comparison](https://www.youtube.com/watch?v=0c5P1Lv33hM)
 	* Handouts and slides are in [Teams slide folder](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2021Participants224/Shared%20Documents/General/Slides?csf=1&web=1&e=c6mcKs)
 https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2021Participants224/Shared%20Documents/General/Slides?csf=1&web=1&e=c6mcKs
