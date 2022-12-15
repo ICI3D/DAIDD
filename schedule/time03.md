@@ -162,7 +162,7 @@ _Reminder:_
 #### Interactive session 4a ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 
 
-- 09:30-09:45 Daily recap (__Lauren Brown__) 
+- 09:30-09:45 Daily recap ([Lauren Brown]({{site.subdomainurl}}/team/brown/)) 
 - 09:45-10:00 Summary and discussion: Stochastic simulation models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 10:00-11:30 Small-group session: matching models to questions (All faculty) 
 
@@ -220,7 +220,7 @@ _Reminder:_
 
 
 - 09:30-09:50 Regroup after feedback ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
-- 09:50-10:05 Daily recap (__Elisha Are__) 
+- 09:50-10:05 Daily recap ([Elisha Are]({{site.subdomainurl}}/team/are/)) 
 - 10:05-10:20 Summary and discussion: Models and data: introduction to model fitting ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 10:20-11:30 Writing exercise: description of proposed model and assumptions ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 
@@ -268,9 +268,11 @@ _Reminder:_
 #### Interactive session 6a ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 
 
-- 09:30-09:45 Daily recap (__Lauren Brown__) 
+- 09:30-09:45 Daily recap ([Lauren Brown]({{site.subdomainurl}}/team/brown/)) 
 - 09:45-10:00 Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 10:00-11:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)((__tbd__))
+- 10:00-11:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)
+	*  Modelling to inform policy: case of onchocerciasis ([Mutono Nyamai]({{site.subdomainurl}}/team/nyamai/)
+
 
 #### Interactive session 6b 
 
@@ -314,7 +316,7 @@ _Reminder:_
 
 #### Interactive session 7a
 
-- 09:30-09:45 Daily recap (__Elisha Are__) 
+- 09:30-09:45 Daily recap ([Elisha Are]({{site.subdomainurl}}/team/are/)) 
 - 09:45-11:30 Discussion of research plans/proposals (Moderator: [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 
 #### Interactive session 7b

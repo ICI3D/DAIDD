@@ -1,3 +1,7 @@
+## Use tabs to separate
+## tag [for schedule]	Full name	<filename>
+## filename should match a file on ICI3D.github.io in _data/team]
+## If filename (and second tab) are missing the name is displayed nicely without a link
 paradza	Masimba Paradza	paradza
 bruce	Faikah Bruce	bruce
 hargrove	John Hargrove	hargrove
@@ -15,5 +19,6 @@ hladish	Tom Hladish	hladish
 reiner	Bobby Reiner	reiner
 deleo	Giulio De Leo	deleo
 li	Michael Li	li
-brown	Lauren Brown
-are	Elisha Are
+brown	Lauren Brown	brown
+are	Elisha Are	are
+nyamai	Mutono Nyamai	nyamai

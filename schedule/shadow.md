@@ -313,7 +313,9 @@ _Reminder:_
 
 - 16:30-16:45 Daily recap ((brown)) NOTE (15 mins)
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ((dushoff)) NOTE (20 mins?)
-- 17:00-18:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)((__tbd__))
+- 17:00-18:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)
+	*  Modelling to inform policy: case of onchocerciasis ((nyamai)
+
 	* SHADOW pulliam/mthombothi polio?
 	* SHADOW Possibly Mutono's preferred slot
 	* SHADOW Maybe split?
