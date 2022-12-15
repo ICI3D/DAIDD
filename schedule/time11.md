@@ -270,15 +270,16 @@ _Reminder:_
 
 - 17:30-17:45 Daily recap ([Lauren Brown]({{site.subdomainurl}}/team/brown/)) 
 - 17:45-18:00 Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 18:00-19:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)
-	*  Modelling to inform policy: case of onchocerciasis ([Mutono Nyamai]({{site.subdomainurl}}/team/nyamai/)
-
+- 18:00-19:30 Live lecture: Modelling to inform policy:
+	* Onchocerciasis ([Mutono Nyamai]({{site.subdomainurl}}/team/nyamai/))
+	* Polio ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), [Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
 
 #### Interactive session 6b 
 
 
 - 20:30-21:00 Live lecture: Model-based inference and the bigger picture ((__tbd__)) 
-	* WAS dushoff
+	* [Slides (by Bellan)](https://github.com/dushoff/statistics_talks/blob/master/outputs/inference2021.pdf)
+	* [Kucharski et al. Ebola paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4655521/)
 	* [Camacho Ebola paper](https://pubmed.ncbi.nlm.nih.gov/25737806/)
 	* [Bellan HIV paper](https://pubmed.ncbi.nlm.nih.gov/23391466/)
 - 21:00-21:30 Review and Discussion (Moderator: (__tbd__)) 

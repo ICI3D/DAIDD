@@ -313,21 +313,19 @@ _Reminder:_
 
 - 16:30-16:45 Daily recap ((brown)) NOTE (15 mins)
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ((dushoff)) NOTE (20 mins?)
-- 17:00-18:30 Live lecture: Use of models in public health decision-making (Faculty research presentation)
-	*  Modelling to inform policy: case of onchocerciasis ((nyamai)
+- 17:00-18:30 Live lecture: Modelling to inform policy:
+	* Onchocerciasis ((nyamai))
+	* Polio ((pulliam), (mthombothi))
+	* SHADOW OLD: [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
 
-	* SHADOW pulliam/mthombothi polio?
-	* SHADOW Possibly Mutono's preferred slot
-	* SHADOW Maybe split?
-	* SHADOW OLD: - Now with more COVID! HIDE - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
-
-#### Interactive session 6b HIDE ((not_hladish))
+#### Interactive session 6b HIDE ((mthombothi))
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - 19:30-20:00 Live lecture: Model-based inference and the bigger picture ((__tbd__)) NOTE (30 mins)
-	* WAS dushoff
-	* SHADOW OLD: [Slides (by Bellan)](https://github.com/dushoff/statistics_talks/blob/master/outputs/inference2021.pdf)
+	* SHADOW Need to update this lecture!
+	* [Slides (by Bellan)](https://github.com/dushoff/statistics_talks/blob/master/outputs/inference2021.pdf)
+	* [Kucharski et al. Ebola paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4655521/)
 	* [Camacho Ebola paper](https://pubmed.ncbi.nlm.nih.gov/25737806/)
 	* [Bellan HIV paper](https://pubmed.ncbi.nlm.nih.gov/23391466/)
 - 20:00-20:30 Review and Discussion (Moderator: (__tbd__)) NOTE (30 mins free form discussion / Q&A on topics raised by participants)
