@@ -164,13 +164,13 @@ _Reminder:_
 
 - 09:30-09:45 Daily recap (__Lauren Brown__) 
 - 09:45-10:00 Summary and discussion: Stochastic simulation models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 10:00-11:30 Small-group session: matching models to questions (All faculty) 
+- 10:00-11:30 Small-group session: matching model worlds to questions (All faculty) 
 
 #### Interactive session 4b ([Giulio De Leo]({{site.subdomainurl}}/team/deleo/))
 
 
-- 12:30-12:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 12:45-13:30 Tutorial: Heterogeneity in disease emergence ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/), [Michael Li]({{site.subdomainurl}}/team/li/), [Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
+- 12:30-12:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ([Tom Hladish]({{site.subdomainurl}}/team/hladish/)) 
+- 12:45-13:30 Tutorial: Heterogeneity in disease emergence ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/), [Michael Li]({{site.subdomainurl}}/team/li/), [Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
 <div class="row">
@@ -205,6 +205,7 @@ ICI3D::heterogeneityTutorial()
     - [Part 2](https://youtu.be/3HdVhy5DIUA)
     - [Part 3](https://youtu.be/NPg8m9hofYI)
 - Video lecture (optional): [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+* - Video lecture (optional): [Faculty research presentation](https://www.youtube.com/watch?v=xVutQlqk_eQ) ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 - Catch-up on earlier materials, as needed
 
 _Reminder:_
