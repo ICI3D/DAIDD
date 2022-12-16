@@ -314,8 +314,9 @@ _Reminder:_
 - 16:30-16:45 Daily recap ((brown)) NOTE (15 mins)
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ((dushoff)) NOTE (20 mins?)
 - 17:00-18:30 Live lecture: Modelling to inform policy:
-	* Onchocerciasis ((nyamai))
 	* Polio ((pulliam), (mthombothi))
+	* SHADOW Onchocerciasis ((nyamai)) what is up with this link??
+	* Onchocerciasis ([Mutono Nyamai](http://www.ici3d.org/MMED/team/nyamai/))
 	* SHADOW OLD: [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
 
 #### Interactive session 6b ((mthombothi))

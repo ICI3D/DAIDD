@@ -281,8 +281,8 @@ _Reminder:_
 - 16:30-16:45 Daily recap ([Lauren Brown]({{site.subdomainurl}}/team/brown/)) 
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 17:00-18:30 Live lecture: Modelling to inform policy:
-	* Onchocerciasis ([Mutono Nyamai]({{site.subdomainurl}}/team/nyamai/))
 	* Polio ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), [Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
+	* Onchocerciasis ([Mutono Nyamai](http://www.ici3d.org/MMED/team/nyamai/))
 
 #### Interactive session 6b ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
 
