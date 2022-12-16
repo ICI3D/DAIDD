@@ -15,8 +15,6 @@ alertmsg: >
 
 * [Shadow rules](http://www.ici3d.org/DAIDD/shadow_rules)
 
-* [Your local (jekyll) copy of this page](http://localhost:4000/schedule/shadow)
-
 /HEAD
 
 [Daily overview](overview)
@@ -296,6 +294,8 @@ ICI3D::hivTutorial()
     - Now would also be a good time to review the [research plan instructions](../Materials/researchPlans)
 - Exercise: Work through the [document for planning your approach](https://www.dropbox.com/s/w5nwkp5d30fmf0e/planningYourApproach.docx?dl=1) (available in DAIDD Participants > General > Files > Assignments)
 - Video lecture: [Model evaluation and comparison](https://www.youtube.com/watch?v=0c5P1Lv33hM)
+	* SHADOW: This video needs to be re-edited! Why did nobody tell me‽
+		* Look around minute 24!
 	* Handouts and slides are in [Teams slide folder](https://stellenbosch.sharepoint.com/:b:/r/sites/DAIDD2022Participants/Shared%20Documents/General/Lecture%20Slides/Individual_5/Model_assessment_Dushoff.pdf?csf=1&web=1&e=XkOWKB)
 
 SHADOW Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; JP will source games
@@ -318,7 +318,7 @@ _Reminder:_
 	* Polio ((pulliam), (mthombothi))
 	* SHADOW OLD: [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
 
-#### Interactive session 6b HIDE ((mthombothi))
+#### Interactive session 6b ((mthombothi))
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
@@ -328,7 +328,7 @@ _Reminder:_
 	* [Kucharski et al. Ebola paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4655521/)
 	* [Camacho Ebola paper](https://pubmed.ncbi.nlm.nih.gov/25737806/)
 	* [Bellan HIV paper](https://pubmed.ncbi.nlm.nih.gov/23391466/)
-- 20:00-20:30 Review and Discussion (Moderator: (__tbd__)) NOTE (30 mins free form discussion / Q&A on topics raised by participants)
+- 20:00-20:30 Review and Discussion (Moderator: (li)) NOTE (30 mins free form discussion / Q&A on topics raised by participants)
 - 20:30-21:30 Small group session: planning your approach (All faculty) NOTE (60 mins)
 - SHADOW 21:30-22:00 Faculty meeting
 

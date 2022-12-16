@@ -255,6 +255,7 @@ ICI3D::hivTutorial()
     - Now would also be a good time to review the [research plan instructions](../Materials/researchPlans)
 - Exercise: Work through the [document for planning your approach](https://www.dropbox.com/s/w5nwkp5d30fmf0e/planningYourApproach.docx?dl=1) (available in DAIDD Participants > General > Files > Assignments)
 - Video lecture: [Model evaluation and comparison](https://www.youtube.com/watch?v=0c5P1Lv33hM)
+		* Look around minute 24!
 	* Handouts and slides are in [Teams slide folder](https://stellenbosch.sharepoint.com/:b:/r/sites/DAIDD2022Participants/Shared%20Documents/General/Lecture%20Slides/Individual_5/Model_assessment_Dushoff.pdf?csf=1&web=1&e=XkOWKB)
 
 
@@ -274,7 +275,7 @@ _Reminder:_
 	* Onchocerciasis ([Mutono Nyamai]({{site.subdomainurl}}/team/nyamai/))
 	* Polio ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), [Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
 
-#### Interactive session 6b 
+#### Interactive session 6b ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
 
 
 - 18:30-19:00 Live lecture: Model-based inference and the bigger picture ((__tbd__)) 
@@ -282,7 +283,7 @@ _Reminder:_
 	* [Kucharski et al. Ebola paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4655521/)
 	* [Camacho Ebola paper](https://pubmed.ncbi.nlm.nih.gov/25737806/)
 	* [Bellan HIV paper](https://pubmed.ncbi.nlm.nih.gov/23391466/)
-- 19:00-19:30 Review and Discussion (Moderator: (__tbd__)) 
+- 19:00-19:30 Review and Discussion (Moderator: [Michael Li]({{site.subdomainurl}}/team/li/)) 
 - 19:30-20:30 Small group session: planning your approach (All faculty) 
 
 #### Individual session 6
