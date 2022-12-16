@@ -278,7 +278,7 @@ _Reminder:_
 #### Interactive session 6b ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
 
 
-- 11:30-12:00 Live lecture: Model-based inference and the bigger picture ((__tbd__)) 
+- 11:30-12:00 Live lecture: Model-based inference and the bigger picture ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 	* [Slides (by Bellan)](https://github.com/dushoff/statistics_talks/blob/master/outputs/inference2021.pdf)
 	* [Kucharski et al. Ebola paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4655521/)
 	* [Camacho Ebola paper](https://pubmed.ncbi.nlm.nih.gov/25737806/)
@@ -290,7 +290,6 @@ _Reminder:_
 
 **_Please complete the following between the end of Friday's interactive session and the beginning of Saturday's interactive session._**
 
-- Video lecture: [Faculty Research Lecture](https://www.youtube.com/watch?v=tBra5iS9PVk) ((__tbd__))
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 - Submit your [**final research plan**](../Materials/researchPlans) via Teams
 - Submit your **final slide** via teams
