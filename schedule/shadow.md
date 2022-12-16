@@ -364,7 +364,7 @@ _Reminder:_
 
 #### Individual session 7
 
-**_Special session_ (Africa) 12:00-13:30**
+**_Special session_ (Africa) 15:00-16:30**
 
 - One-on-one mentoring sessions NOTE with Bolton, Mwangi, Pearson, and Pulliam NOTE Schedule to be posted
     - SHADOW [Schedule]() NOTE update link!

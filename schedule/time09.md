@@ -312,7 +312,7 @@ _Reminder:_
 
 #### Individual session 7
 
-**_Special session_ (Africa) 11:00-12:30**
+**_Special session_ (Africa) 14:00-15:30**
 
 - One-on-one mentoring sessions 
 
