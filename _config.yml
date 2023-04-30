@@ -8,9 +8,7 @@ summary: The eleventh annual DAIDD clinic  ~  December 11–17, 2022  ~  Virtual
 year: 2022
 markdown: kramdown
 highlighter: rouge
-includes_dir: ICI3D.github.io/_includes
-layouts_dir: ICI3D.github.io/_layouts
-data_dir: ICI3D.github.io/_data
+theme: jekyll-theme-ici3d
 collections:
   team:
     output: true

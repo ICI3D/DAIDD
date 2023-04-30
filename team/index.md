@@ -15,7 +15,7 @@ subtitle: DAIDD 2022 Instructional Team
 {% assign member = site.data.team[key] %}
 {% if member.type == "director" %}
   <div class="team-member media" style="font-size:18px">
-    <img src="{{site.url}}{{site.path}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
+    <img src="{{site.url}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
     <div class="media-body">
       <h3 class="media-heading team-name">{{ member.name }}</h3>
       <strong>{{ member.role }}</strong>
@@ -33,7 +33,7 @@ subtitle: DAIDD 2022 Instructional Team
 {% assign member = site.data.team[key] %}
 {% if member.type == "core" %}
   <div class="team-member media" style="font-size:18px">
-    <img src="{{site.url}}{{site.path}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
+    <img src="{{site.url}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
     <div class="media-body">
       <h3 class="media-heading team-name">{{ member.name }}</h3>
       <strong>{{ member.role }}</strong>
@@ -51,7 +51,7 @@ subtitle: DAIDD 2022 Instructional Team
 {% assign member = site.data.team[key] %}
 {% if member.type == "mentor" %}
   <div class="team-member media" style="font-size:18px">
-    <img src="{{site.url}}{{site.path}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
+    <img src="{{site.url}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
     <div class="media-body">
       <h3 class="media-heading team-name">{{ member.name }}</h3>
       <strong>{{ member.role }}</strong>
@@ -75,7 +75,7 @@ subtitle: DAIDD 2022 Instructional Team
 <!-- Reset role for Workshop Faculty and Mentors. -->
 {% assign userole = profile.role %}
   <div class="team-member media" style="font-size:18px">
-    <img src="{{site.url}}{{site.path}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
+    <img src="{{site.url}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
     <div class="media-body">
       <h3 class="media-heading team-name">{{ member.name }}</h3>
       <strong>{{ userole }}</strong>
@@ -101,7 +101,7 @@ subtitle: DAIDD 2022 Instructional Team
 <!-- Reset role for Workshop Faculty and Mentors. -->
 {% assign userole = profile.role %}
   <div class="team-member media" style="font-size:18px">
-    <img src="{{site.url}}{{site.path}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
+    <img src="{{site.url}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
     <div class="media-body">
       <h3 class="media-heading team-name">{{ member.name }}</h3>
       <strong>{{ userole }}</strong>
