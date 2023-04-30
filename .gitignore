@@ -3,3 +3,4 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 schedule/test.md
+Gemfile.lock
