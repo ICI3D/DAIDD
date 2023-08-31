@@ -2,10 +2,10 @@ absoluteurl: http://www.ici3d.org
 subdomainurl: http://www.ici3d.org/DAIDD
 baseurl: /DAIDD
 url: http://www.ici3d.org
-title: DAIDD 2022
+title: DAIDD 2023
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
-summary: The eleventh annual DAIDD clinic  ~  December 11–17, 2022  ~  Virtual Edition
-year: 2022
+summary: The eleventh annual DAIDD clinic  ~  December 10–16, 2023  ~  Virtual Edition
+year: 2023
 markdown: kramdown
 highlighter: rouge
 includes_dir: ICI3D.github.io/_includes

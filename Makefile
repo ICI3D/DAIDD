@@ -33,13 +33,14 @@ ICI3D.github.io/_config.yml:
 cerve: ICI3D.github.io/_config.yml
 	./run.sh > jekyll.log 2>&1 &
 
-Sources += _config.yml _localconfig.yml Gemfile.jd
+Sources += _config.yml _localconfig.yml Gemfile.jd notes.md
 Ignore += Gemfile Gemfile.lock
 
+## When is sudo needed here???
 ## jd.gm:
 %.gm: Gemfile.%
 	$(LNF) $< Gemfile
-	bundle install
+	sudo bundle install
 
 Sources += $(wildcard */shadow.md)
 
