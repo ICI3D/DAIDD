@@ -54,8 +54,6 @@ _Reminder:_
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-
-
 - 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ([Giulio De Leo]({{site.subdomainurl}}/team/deleo/))
 - 16:50-17:00 [Overview of research plan development and structure](https://www.dropbox.com/s/5lojjt5yqjsw668/DAIDD2022guide.pdf?dl=1) ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)) 
 - 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ([Michael Li]({{site.subdomainurl}}/team/li/) and all faculty)
