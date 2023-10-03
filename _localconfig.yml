@@ -1,6 +1,6 @@
 port: 4167
-absoluteurl: http://0.0.0.0:4167
-subdomainurl: http://0.0.0.0:4167
+absoluteurl: //0.0.0.0:4167
+subdomainurl: //0.0.0.0:4167
 baseurl: ''
-url: http://0.0.0.0:4167
+url: //0.0.0.0:4167
 path: /ICI3D.github.io
