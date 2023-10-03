@@ -1,11 +1,10 @@
 ---
 layout: clinic
 redirect: http://www.ici3d.org/DAIDD/schedule
-thispage: http://www.ici3d.org/DAIDD/schedule/shadow
 title: Shadow
 tab: Schedule
 subtitle: Faculty Schedule
-alerttype: danger
+alerttype: shadow
 alertmsg: >
   <ul>
     <li>Please update all your presentations to <b>use the ICI3D slide template</b>.</li>
