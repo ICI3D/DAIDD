@@ -15,7 +15,7 @@ alertmsg: >
 
 ### Sunday
 
-#### Interactive session 1a ((vs))
+#### Interactive session 1a ((bruce))
 
 - _Please join the session by 16:25. We will begin promptly at 16:30._
 - 16:30-16:45 Welcome and some logistics ((dushoff))
