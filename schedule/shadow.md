@@ -15,14 +15,15 @@ alertmsg: >
 
 ### Sunday
 
-#### Interactive session 1a ((bruce))
+#### Interactive session 1a ((dushoff))
 
 - _Please join the session by 16:25. We will begin promptly at 16:30._
-- 16:30-16:45 Welcome and some logistics ((dushoff))
-- 16:45-17:10 What are we doing here? ((pulliam)) _UPDATE linking system [Slide folder](https://tinyurl.com/daidd-2019)_{: .shadow}
+- 16:30-16:55 Welcome and some logistics ((bolton))
+	- {:. shadow} Faculty introductions
+- 16:55-17:10 What are we doing here? ((vs)) _UPDATE linking system [Slide folder](https://tinyurl.com/daidd-2019)_{: .shadow}
 - 17:15-17:45 Data, models, and science ((reiner))
 	- {: .shadow} [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
-- 17:45-18:00 Working with the DAIDD technical tools ((hladish), (bruce)) _(15 mins)_{: .shadow}
+- 17:45-18:00 Working with the DAIDD technical tools ((li), (bruce)) _(15 mins)_{: .shadow}
 	- {: .shadow} Release form?
 	- ICI3D R package
     - _Make sure your slides are uploaded for the next session!_
