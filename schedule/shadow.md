@@ -19,7 +19,7 @@ alertmsg: >
 
 - _Please join the session by 16:25. We will begin promptly at 16:30._
 - 16:30-16:55 Welcome and some logistics ((bolton))
-	- {:. shadow} Faculty introductions
+	- {:. shadow} Faculty introductions; introduce DAIDD glossary
 - 16:55-17:10 What are we doing here? ((vs)) _UPDATE linking system [Slide folder](https://tinyurl.com/daidd-2019)_{: .shadow}
 - 17:15-17:45 Data, models, and science ((reiner))
 	- {: .shadow} [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
@@ -34,6 +34,7 @@ alertmsg: >
 
 - 19:30-21:30 Research pitches
     - {: .shadow} [Order of introductions](./introductions)
+    - {: .shadow} Allow for 15 minute break
 - {: .shadow} 21:30-22:00 Faculty meeting
 
 #### Individual session 1
@@ -55,15 +56,15 @@ _Reminder:_
 
 ### Monday
 
-#### Interactive session 2a ((hladish))
+#### Interactive session 2a ((botlon))
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 _Do we need a Monday recap? Historically no._{: .shadow}
 
-- 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((deleo))
-	* {: .shadow} CHECK
-- 16:50-17:00 [Overview of research plan development and structure](https://www.dropbox.com/s/5lojjt5yqjsw668/DAIDD2022guide.pdf?dl=1) ((pulliam)) _(10 mins?) - [Overview of research plan development and structure](planOverview)_{: .shadow}
+- 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((are))
+	* {: .shadow} Summary should be about individual session 1 videos
+- 16:50-17:00 [Overview of research plan development and structure](https://www.dropbox.com/s/5lojjt5yqjsw668/DAIDD2022guide.pdf?dl=1) ((thumbi)) _(10 mins?) - [Overview of research plan development and structure](planOverview)_{: .shadow}
 - 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ((li) and all faculty)
 	* {: .shadow} Leader needs to control time in both directions; groups should know what should be discussed in each portion
 	* {: .shadow} Let's make sure to discuss the first set of questions before getting into the second set of simulations
@@ -83,7 +84,7 @@ ICI3D::dynamicalFever()
 </div>
 </div>
 
-#### Interactive session 2b ((pulliam))
+#### Interactive session 2b ((thumbi))
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
@@ -103,6 +104,7 @@ ICI3D::dynamicalFever()
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.draft.pdf)
 - Video lecture: Modeling in practice: [The life cycle of a modeling project, from conception to publication](https://www.youtube.com/watch?v=ErSFZ9daiFA) ((reiner))
 - Video lecture: Integration of Data and Models for schistosomiasis control ((deleo))
+- {: .shadow} Discuss at faculty meeting
 	* [Part 1](https://www.youtube.com/watch?v=l63MSk34SuI&ab_channel=ICI3D); [Part 2](https://www.youtube.com/watch?v=Dc5Gx1OOH24&ab_channel=ICI3D); [Part 3](https://www.youtube.com/watch?v=tGeKt8GEXHw&ab_channel=ICI3D)
 - Video lecture (optional): [Omicron Modelling Session at Epidemics8 conference, December 2021](https://elsevier.zoom.us/rec/share/emEIoOyR7o6lV9jhpxU667fGwIdwhvSzISotBfn1UTny_srWCpiJ49fZv4ka5fx-.FY2d9dWOtDd3-6UK)
     - Enter passcode: 9JKhQ&=Y
