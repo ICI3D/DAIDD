@@ -56,7 +56,7 @@ _Reminder:_
 
 ### Monday
 
-#### Interactive session 2a ((botlon))
+#### Interactive session 2a ((vs))
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -65,7 +65,7 @@ _Do we need a Monday recap? Historically no._{: .shadow}
 - 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((are))
 	* {: .shadow} Summary should be about individual session 1 videos
 - 16:50-17:00 [Overview of research plan development and structure](https://www.dropbox.com/s/5lojjt5yqjsw668/DAIDD2022guide.pdf?dl=1) ((thumbi)) _(10 mins?) - [Overview of research plan development and structure](planOverview)_{: .shadow}
-- 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ((li) and all faculty)
+- 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ((bolton) and all faculty)
 	* {: .shadow} Leader needs to control time in both directions; groups should know what should be discussed in each portion
 	* {: .shadow} Let's make sure to discuss the first set of questions before getting into the second set of simulations
 	- To get started, run the following command at the R Studio command line (after installing the ICI3D package):
@@ -104,7 +104,7 @@ ICI3D::dynamicalFever()
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.draft.pdf)
 - Video lecture: Modeling in practice: [The life cycle of a modeling project, from conception to publication](https://www.youtube.com/watch?v=ErSFZ9daiFA) ((reiner))
 - Video lecture: Integration of Data and Models for schistosomiasis control ((deleo))
-- {: .shadow} Discuss at faculty meeting
+- {: .shadow} Discuss at faculty meeting (remain or replace?)
 	* [Part 1](https://www.youtube.com/watch?v=l63MSk34SuI&ab_channel=ICI3D); [Part 2](https://www.youtube.com/watch?v=Dc5Gx1OOH24&ab_channel=ICI3D); [Part 3](https://www.youtube.com/watch?v=tGeKt8GEXHw&ab_channel=ICI3D)
 - Video lecture (optional): [Omicron Modelling Session at Epidemics8 conference, December 2021](https://elsevier.zoom.us/rec/share/emEIoOyR7o6lV9jhpxU667fGwIdwhvSzISotBfn1UTny_srWCpiJ49fZv4ka5fx-.FY2d9dWOtDd3-6UK)
     - Enter passcode: 9JKhQ&=Y
@@ -117,7 +117,7 @@ _Reminder:_
 
 ### Tuesday
 
-#### Interactive session 3a ((li))
+#### Interactive session 3a ((bolton))
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -128,14 +128,14 @@ _Reminder:_
 	* [2022 live spreadsheet](https://docs.google.com/spreadsheets/d/1xTqEuBhwgMOF2KVoJREGARF7LprLlnpCkZm2USM2OHk/edit) (copy or save to work on it)
 	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
 - 17:30-17:45 Summary and discussion: The life cycle of a modeling project ((reiner))
-- 17:45-18:30 Live lecture: The simplest model ((hladish)) _[Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)_{: .shadow}
+- 17:45-18:30 Live lecture: The simplest model ((li)) _[Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)_{: .shadow}
     - {: .shadow} [Google sheet](https://tinyurl.com/DAIDD-SIRboth-2019) NOTE Formerly: Simple individual-based models
 
 #### Interactive session 3b ((reiner))
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- 19:30-20:15 Exercise: Simple individual-based models ((hladish)) _(30 mins)_{: .shadow}
+- 19:30-20:15 Exercise: Simple individual-based models ((li)) _(30 mins)_{: .shadow}
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	 * {: .shadow} lengthened by 15 minutes for logistical reasons 2022
 
@@ -153,7 +153,7 @@ ICI3D::reedFrost()
 </div>
 </div>
 
-- 20:15-21:30 Exercise: Creating a model world to address a research question ((vs)) _(90 mins)_{: .shadow}
+- 20:15-21:30 Exercise: Creating a model world to address a research question ((vs/thumbi)) _(90 mins)_{: .shadow}
 	 * {: .shadow} shortened by 15 minutes for logistical reasons 2022
 - {: .shadow} 21:30-22:00 Faculty meeting
 
@@ -182,20 +182,20 @@ _Reminder:_
 
 ### Wednesday
 
-#### Interactive session 4a ((pulliam))
+#### Interactive session 4a ((are))
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- 16:30-16:45 Daily recap ((brown)) _(15 mins)_{: .shadow}
-- 16:45-17:00 Summary and discussion: Stochastic simulation models ((dushoff)) _(15 mins)_{: .shadow}
+- 16:30-16:45 Daily recap ((kubjane)) _(15 mins)_{: .shadow}
+- 16:45-17:00 Summary and discussion: Stochastic simulation models ((mthombothi)) _(15 mins)_{: .shadow}
 - 17:00-18:30 Small-group session: matching models to questions (All faculty) _(90 minutes)_{: .shadow}
 
-#### Interactive session 4b ((deleo))
+#### Interactive session 4b ((li))
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - 19:30-19:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff)) _(15 mins)_{: .shadow}
-- 19:45-20:30 Tutorial: Heterogeneity in disease emergence ((reiner), (li), (pulliam)) _(45 mins)_{: .shadow}
+- 19:45-20:30 Tutorial: Heterogeneity in disease emergence ((reiner), (bolton), (are)) _(45 mins)_{: .shadow}
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	 * {: .shadow} TODO make this a link!
 
@@ -250,8 +250,8 @@ _CP not available Thursday AM; shouldn't be a problem_{: .shadow}
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - 16:30-16:50 Regroup after feedback ((vs)) _(20 mins)_{: .shadow}
-- 16:50-17:05 Daily recap ((are)) _(15 mins)_{: .shadow}
-- 17:05-17:20 Summary and discussion: Models and data: introduction to model fitting ((dushoff)) _(15 mins)_{: .shadow}
+- 16:50-17:05 Daily recap ((Mhlanga)) _(15 mins)_{: .shadow}
+- 17:05-17:20 Summary and discussion: Models and data: introduction to model fitting ((thumbi)) _(15 mins)_{: .shadow}
 - 17:20-18:30 Writing exercise: description of proposed model and assumptions ((mthombothi)) _(65 mins?) Model telephone_{: .shadow}
     - {: .shadow} [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
     - {: .shadow} [instructions for in-person version](https://docs.google.com/document/d/1d_noXARmkB3yqg8_kUW7AqCTurWy5u84JQWsGoTVCj8)
@@ -260,7 +260,7 @@ _CP not available Thursday AM; shouldn't be a problem_{: .shadow}
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- 19:30-21:00 Tutorial: Model fitting ((li)) _(90 mins?) - [Tutorial notes](../Materials/hivTutorial)_{: .shadow}
+- 19:30-21:00 Tutorial: Model fitting ((are)) _(90 mins?) - [Tutorial notes](../Materials/hivTutorial)_{: .shadow}
   - {: .shadow} (Tutorial wrapup by (dushoff)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
   - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
@@ -278,7 +278,7 @@ ICI3D::hivTutorial()
 </div>
 </div>
 
-- 21:00-21:30 Review: model taxonomy ((pulliam)) _Set up 'planning your approach exercise'_{: .shadow}
+- 21:00-21:30 Review: model taxonomy ((bolton)) _Set up 'planning your approach exercise'_{: .shadow}
     - {: .shadow} [Planning document](https://docs.google.com/document/d/131l0PnkzeURcDt9sC0_5Qk-VAet3w64v3mhCzeY_MoQ/edit?usp=sharing)
 - {: .shadow} 21:30-22:00 Faculty meeting
 
@@ -290,8 +290,8 @@ ICI3D::hivTutorial()
     - Place them both as a single file in DAIDD Participants > General > Files > 05_modelDescription
     - Now would also be a good time to review the [research plan instructions](../Materials/researchPlans)
 - Exercise: Work through the [document for planning your approach](https://www.dropbox.com/s/w5nwkp5d30fmf0e/planningYourApproach.docx?dl=1) (available in DAIDD Participants > General > Files > Assignments)
-- Video lecture: [Model evaluation and comparison](https://www.youtube.com/watch?v=0c5P1Lv33hM)
-	* {: .shadow} This video needs to be re-edited! Why did nobody tell me‽
+- Video lecture: [Model evaluation and comparison](https://www.youtube.com/watch?v=0c5P1Lv33hM) ((dushoff))
+	* {: .shadow} This video needs to be re-edited! Why did nobody tell me‽ 
 		* Look around minute 24!
 	* Handouts and slides are in [Teams slide folder](https://stellenbosch.sharepoint.com/:b:/r/sites/DAIDD2022Participants/Shared%20Documents/General/Lecture%20Slides/Individual_5/Model_assessment_Dushoff.pdf?csf=1&web=1&e=XkOWKB)
 
@@ -308,12 +308,13 @@ _Reminder:_
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- 16:30-16:45 Daily recap ((brown)) _(15 mins)_{: .shadow}
+- 16:30-16:45 Daily recap ((Kubjane)) _(15 mins)_{: .shadow}
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ((dushoff)) _(20 mins?)_{: .shadow}
 - 17:00-18:30 Live lecture: Modelling to inform policy:
-	* Polio ((pulliam), (mthombothi))
+	* {: .shadow} Polio ((mthombothi))
+ 	* {: .shadow} Invite Mmamapudi to give lecture on TB - 	((Kubjane)) 	
 	* {: .shadow} Onchocerciasis ((nyamai)) what is up with this link??
-	* Onchocerciasis ([Mutono Nyamai](http://www.ici3d.org/MMED/team/nyamai/))
+	* {: .shadow} Onchocerciasis ([Mutono Nyamai](http://www.ici3d.org/MMED/team/nyamai/))
 	* {: .shadow} OLD: [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
 
 #### Interactive session 6b ((mthombothi))
