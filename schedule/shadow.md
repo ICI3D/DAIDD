@@ -308,7 +308,7 @@ _Reminder:_
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- 16:30-16:45 Daily recap ((Kubjane)) _(15 mins)_{: .shadow}
+- 16:30-16:45 Daily recap ((Mhlanga)) _(15 mins)_{: .shadow}
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ((dushoff)) _(20 mins?)_{: .shadow}
 - 17:00-18:30 Live lecture: Modelling to inform policy:
 	* {: .shadow} Polio ((mthombothi))
@@ -317,24 +317,24 @@ _Reminder:_
 	* {: .shadow} Onchocerciasis ([Mutono Nyamai](http://www.ici3d.org/MMED/team/nyamai/))
 	* {: .shadow} OLD: [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
 
-#### Interactive session 6b ((mthombothi))
+#### Interactive session 6b ((mwangi))
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- 19:30-20:00 Live lecture: Model-based inference and the bigger picture ((dushoff)) _(30 mins)_{: .shadow}
+- 19:30-20:00 Live lecture: Model-based inference and the bigger picture ((reiner)) _(30 mins)_{: .shadow}
 	* {: .shadow} Need to update this lecture!
 	* [Slides (by Bellan)](https://github.com/dushoff/statistics_talks/blob/master/outputs/inference2021.pdf)
 	* [Kucharski et al. Ebola paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4655521/)
 	* [Camacho Ebola paper](https://pubmed.ncbi.nlm.nih.gov/25737806/)
 	* [Bellan HIV paper](https://pubmed.ncbi.nlm.nih.gov/23391466/)
-- 20:00-20:30 Review and Discussion (Moderator: (li)) _(30 mins free form discussion / Q&A on topics raised by participants)_{: .shadow}
+- 20:00-20:30 Review and Discussion (Moderator: ((mwangi)) _(30 mins free form discussion / Q&A on topics raised by participants)_{: .shadow}
 - 20:30-21:30 Small group session: planning your approach (All faculty) _(60 mins)_{: .shadow}
 - {: .shadow} 21:30-22:00 Faculty meeting
 
 #### Individual session 6
 
 **_Please complete the following between the end of Friday's interactive session and the beginning of Saturday's interactive session._**
-
+- {: .shadow} Discuss faculty reserch lectures
 - {: .shadow} Video lecture: [Faculty Research Lecture](https://www.youtube.com/watch?v=tBra5iS9PVk) ((__tbd__))
 	* {: .shadow} Was Larisse
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
@@ -367,15 +367,15 @@ _Reminder:_
 - One-on-one mentoring sessions _with Bolton, Mwangi, Pearson, and Pulliam NOTE Schedule to be posted_{: .shadow}
     - {: .shadow} [Schedule]() NOTE update link!
 
-#### Interactive session 7a
+#### Interactive session 7a ((are))
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- 16:30-16:45 Daily recap ((are)) _(15 mins)_{: .shadow}
-- 16:45-18:30 Discussion of research plans/proposals (Moderator: (vs))
+- 16:30-16:45 Daily recap ((li)) _(15 mins)_{: .shadow}
+- 16:45-18:30 Discussion of research plans/proposals (Moderator: (are))
 	* {: .shadow} [Proposal order](../participants/order)
 
 #### Interactive session 7b
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - 19:30-21:00 Final feedback session ((bruce)) _(60-90 mins)_{: .shadow}
-- 21:00-21:15 Closing session ((dushoff)) _(15 mins)_{: .shadow}
+- 21:00-21:15 Closing session ((vs)) _(15 mins)_{: .shadow}
