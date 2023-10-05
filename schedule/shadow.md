@@ -215,7 +215,7 @@ ICI3D::heterogeneityTutorial()
 
 - 20:30-21:30 Mid-session feedback ((bruce)) _(60 mins)_{: .shadow}
 
-_Mid-session post-mortem: ~ 21:30 NOTE CvS and JP will not have power from 20:00 - 22:30 but will join by phone_{: .shadow}
+_Mid-session post-mortem: _{: .shadow}
 
 #### Individual session 4
 
