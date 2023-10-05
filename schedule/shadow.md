@@ -116,7 +116,7 @@ _Reminder:_
 - 13:30 Tea with African Faculty
 
 ### Tuesday
-
+_Thumbi is not availabe on Tuesday_{: .shadow}
 #### Interactive session 3a ((bolton))
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
@@ -241,9 +241,6 @@ _Reminder:_
 - 13:30 Tea with African Faculty
 
 ### Thursday
-
-_JP giving a seminar; need to sort out timing; will otherwise be available_{: .shadow}
-_CP not available Thursday AM; shouldn't be a problem_{: .shadow}
 
 #### Interactive session 5a ((dushoff))
 
