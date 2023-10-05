@@ -361,7 +361,7 @@ _Reminder:_
 
 **_Special session_ (Africa) 15:00-16:30**
 
-- One-on-one mentoring sessions _with Bolton, Mwangi, Pearson, and Pulliam NOTE Schedule to be posted_{: .shadow}
+- One-on-one mentoring sessions _with Bolton, Mwangi, Cari, and Zinhle NOTE Schedule to be posted_{: .shadow}
     - {: .shadow} [Schedule]() NOTE update link!
 
 #### Interactive session 7a ((are))
