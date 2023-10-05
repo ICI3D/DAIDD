@@ -247,7 +247,7 @@ _Reminder:_
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - 16:30-16:50 Regroup after feedback ((vs)) _(20 mins)_{: .shadow}
-- 16:50-17:05 Daily recap ((Mhlanga)) _(15 mins)_{: .shadow}
+- 16:50-17:05 Daily recap ((mhlanga)) _(15 mins)_{: .shadow}
 - 17:05-17:20 Summary and discussion: Models and data: introduction to model fitting ((thumbi)) _(15 mins)_{: .shadow}
 - 17:20-18:30 Writing exercise: description of proposed model and assumptions ((mthombothi)) _(65 mins?) Model telephone_{: .shadow}
     - {: .shadow} [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
@@ -305,11 +305,11 @@ _Reminder:_
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- 16:30-16:45 Daily recap ((Mhlanga)) _(15 mins)_{: .shadow}
+- 16:30-16:45 Daily recap ((mhlanga)) _(15 mins)_{: .shadow}
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ((dushoff)) _(20 mins?)_{: .shadow}
 - 17:00-18:30 Live lecture: Modelling to inform policy:
 	* {: .shadow} Polio ((mthombothi))
- 	* {: .shadow} Invite Mmamapudi to give lecture on TB - 	((Kubjane)) 	
+ 	* {: .shadow} Invite Mmamapudi to give lecture on TB - 	((kubjane)) 	
 	* {: .shadow} Onchocerciasis ((nyamai)) what is up with this link??
 	* {: .shadow} Onchocerciasis ([Mutono Nyamai](http://www.ici3d.org/MMED/team/nyamai/))
 	* {: .shadow} OLD: [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
