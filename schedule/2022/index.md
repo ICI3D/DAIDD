@@ -1,7 +1,7 @@
 ---
 layout: clinic
-redirect: //www.ici3d.org/DAIDD/schedule
-title: Schedule
+title: Clinic Schedule
+subtitle: Clinic Schedule
 tab: Schedule
 alerttype: shadow
 alertmsg: >
@@ -11,7 +11,7 @@ alertmsg: >
   </ul>
 ---
 
-[Daily overview](overview)
+> This is an archived version of the schedule from the DAIDD 2022 clinic.
 
 ### Sunday
 
