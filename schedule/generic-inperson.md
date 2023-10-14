@@ -3,7 +3,7 @@ layout: clinic
 redirect: http://www.ici3d.org/DAIDD/schedule
 title: Generic DAIDD Schedule
 subtitle: Clinic Schedule
-tab: Programs
+tab: DAIDD
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
 ---

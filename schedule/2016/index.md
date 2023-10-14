@@ -1,16 +1,16 @@
 ---
-layout: redirect
+layout: clinic
+tab: Schedule
 redirect: http://www.ici3d.org/DAIDD2016/schedule
 title: DAIDD 2016
-tab: Schedule
 subtitle: Clinic Schedule
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
-summary: The fifth annual DAIDD clinic  ~  December 4-10, 2016  ~  Jacksonville and Yulee, Florida
+xsummary: The fifth annual DAIDD clinic  ~  December 4-10, 2016  ~  Jacksonville and Yulee, Florida
 alerttype: warning
 alertmsg: Unless otherwise noted, all materials made available through this website are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International Lincense</a>. <a rel="license" href="../license.html">Click here for license details</a>.
 ---
 
-> Note that the schedule below is preliminary and subject to change. Materials linked from this page are also subject to change and should not be considered final until the conclusion of the relevant session.
+> This is an archived verison of the DAIDD 2016 scehdule (December 4-10, 2016 in Jacksonville and Yulee, Florida). Some links may not work at this time.
 
 ### Saturday, 3 Dec
 - 15:00 Hotel check-in available for faculty and international participants

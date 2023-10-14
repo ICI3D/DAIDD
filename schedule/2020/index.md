@@ -13,7 +13,7 @@ alertmsg: >
   </ul>
 ---
 
-> This is an archived version of the schedule from the DAIDD 2020 clinic.
+> This is an archived version of the schedule from the DAIDD 2020 clinic. Some links may not work at this time.
 
 [Daily DAIDD overview](overview)
 

@@ -11,7 +11,7 @@ alertmsg: >
   </ul>
 ---
 
-> This is an archived version of the schedule from the DAIDD 2022 clinic.
+> This is an archived version of the schedule from the DAIDD 2022 clinic. Some links may not work at this time.
 
 ### Sunday
 

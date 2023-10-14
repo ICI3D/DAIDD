@@ -8,7 +8,7 @@ alerttype: warning
 alertmsg: Unless otherwise noted, all materials made available through this website and the DAIDD Dropbox are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>. <a rel="license" href="../license.html">Click here for license details</a>.
 ---
 
-> This is an archived version of the schedule from the DAIDD 2019 clinic.
+> This is an archived version of the schedule from the DAIDD 2019 clinic. Some links may not work at this time.
 
 * Slides are being made available via the DAIDD Dropbox Folder. They will also be added to the [ICI3D Figshare Collection](https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data).
 

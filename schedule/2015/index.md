@@ -1,15 +1,16 @@
 ---
-layout: redirect
+layout: clinic
+tab: Schedule
 redirect: http://daidd2015.ici3d.org/schedule
 title: DAIDD 2015
-subtitle: Schedule
+subtitle: Clinic Schedule
 welcome: Fourth annual Clinic on Dynamical Approaches to Infectious Disease Data
-summary: December 13-19, 2015
-alerttype: primary
+xsummary: December 13-19, 2015
+alerttype: warning
 alertmsg: Unless otherwise noted, all materials made available through this website are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International Lincense</a>. <a rel="license" href="../license.html">Click here for license details</a>.
 ---
 
-> Note that the schedule below is preliminary and subject to change. Some links may not work at this time.
+> This is an archived version of the DAIDD 2015 schedule (December 13-19, 2015). Some links may not work at this time.
 
 ### Saturday, 12 Dec
 - 15:00 Hotel check-in available for faculty and international participants

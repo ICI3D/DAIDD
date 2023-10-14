@@ -8,7 +8,7 @@ alerttype: warning
 alertmsg: Unless otherwise noted, all materials made available through this website and the DAIDD Dropbox are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>. <a rel="license" href="../license.html">Click here for license details</a>.
 ---
 
-> This is an archived version of the schedule from the DAIDD 2018 clinic.
+> This is an archived version of the schedule from the DAIDD 2018 clinic. Some links may not work at this time.
 
 <div class="alert alert-warning" role="alert">
   <div class="container padding-left=0px padding-right=0px">

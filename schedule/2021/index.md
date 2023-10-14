@@ -13,6 +13,8 @@ alertmsg: >
   </ul>
 ---
 
+> Links provided here are the archived versions of the 2021 schedule. Some links may not work at this time.
+
 [Daily DAIDD overview](overview)
 
 __Click here for schedule in your time zone__
