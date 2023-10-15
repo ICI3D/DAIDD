@@ -1,16 +1,14 @@
 ---
 layout: clinic
 tab: Schedule
-redirect: http://daidd2014.ici3d.org/schedule.html
 title: DAIDD 2014
 subtitle: Clinic Schedule
 welcome: Third annual Clinic on Dynamical Approaches to Infectious Disease Data
-xsummary: December 15-19, 2014, UF Emerging Pathogens Institute, Gainesville, FL, USA
+summary: December 15-19, 2014, UF Emerging Pathogens Institute, Gainesville, FL, USA
 alerttype: warning
 alertmsg: Unless otherwise noted, all materials made available through this website and the DAIDD Dropbox are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>. <a rel="license" href="../license.html">Click here for license details</a>.
+archive: true
 ---
-
-> This is an archived version of the DAIDD 2014 schedule (December 15-19, 2014, UF Emerging Pathogens Institute, Gainesville, FL, USA). Some links may not work at this time.
 
 **Note:** All sessions that are 1 hour and 45 minutes long include a 45 minute lecture on the topic, a 45 minute practicum, and a 15 minute discussion of the practicum in relation to the lecture material and the session's learning objectives.
 

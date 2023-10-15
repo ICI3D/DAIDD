@@ -3,12 +3,11 @@ layout: clinic
 tab: Schedule
 title: DAIDD 2017
 subtitle: Clinic Schedule
-redirect: http://www.ici3d.org/DAIDD2017/schedule
+summary: December 10-16, 2017, Jacksonville and Yulee, FL, USA
 alerttype: warning
 alertmsg: Unless otherwise noted, all materials made available through this website are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International Lincense</a>. <a rel="license" href="../license.html">Click here for license details</a>.
+archive: true
 ---
-
-> This is an archived version of the DAIDD 2017 schedule (December 10-16, 2017). Some links may not work at this time.
 
 ### Saturday, 9 Dec
 - 15:00 Hotel check-in available for faculty and international participants
