@@ -5,12 +5,15 @@ alertmsg: >
   <ul style="font-size:16px">
     <li>Welcome to the Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)!</li>
     <li>Information about DAIDD 2023 will be added to this site as it becomes available.</li>
+    <li>An overview is available via the <a href="./info"><b>Info</b></a> tab above, and you can <a href="./apply"><b>apply here</b></a> until 20 October.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available via the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b> and the <b><a href="https://www.youtube.com/channel/UCtzFZwz48_JG4Owf6gQ-rUA">ICI3D YouTube Channel</a></b>.</li>
   </ul>
 ---
 
 <center>
-<p>DAIDD 2023 is supported by the South African Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)<br>and the MIDAS Coordination Center, with funding from grant GM-U24GM132013.</p>
+  <p>
+    DAIDD 2023 is supported by the South African Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)<br>and the MIDAS Coordination Center, with funding from grant GM-U24GM132013.
+  </p>
 </center>
 
 <div class="col-lg-2">

@@ -1,15 +1,15 @@
 ---
 layout: clinic
 title: Application Information
+subtitle: Request for Applications
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
-tab: DAIDD
+tab: Info
 alerttype: success
 alertmsg: The twelfth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held 10-16 December 2023 on Microsoft Teams. The deadline for receipt of applications is <strong>20 October</strong>.
-applink: ../../apply
 ---
 
 {%if false%}
-   Note to people updating this page: to update the application link, you can edit the applink (above) or change the redirect on the ./apply page (strongly preferred). In future we will autogenerate the applink from the config file.
+   Note to people updating this page: to update the application link, you should edit the applink variable in the config file. DO NOT EDIT THE LINKING BELOW.
 {%endif%}
 
 The International Clinics on Infectious Disease Dynamics and Data
@@ -52,10 +52,8 @@ The application process for the Clinic is competitive. **The deadline
 for receipt of applications is 20 October 2023 at 23:59 SAST.**
 Incomplete applications will not be considered.
 
-**Detailed application instructions are available via [the application form]({{page.applink}}).**
+**Detailed application instructions are available via [the application form](../../apply).**
 
-<br>
-{%if page.alerttype == "success"%}
-[Apply now »]({{page.applink}} "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
-{%endif%}
-
+{% if site.takingapps == true %}
+[Apply now »](../../apply "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
+{% endif %}
