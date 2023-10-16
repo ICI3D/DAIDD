@@ -4,8 +4,10 @@ baseurl: /DAIDD
 url: //www.ici3d.org
 title: DAIDD 2023
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
-summary: The eleventh annual DAIDD clinic  ~  December 10–16, 2023  ~  Virtual Edition
+summary: The twelfth annual DAIDD clinic  ~  December 10–16, 2023  ~  Virtual Edition
 year: 2023
+takingapps: true
+applink: https://forms.gle/WkpwG3MjrTC7YpQo7
 markdown: kramdown
 highlighter: rouge
 includes_dir: ICI3D.github.io/_includes

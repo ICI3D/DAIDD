@@ -1,9 +1,9 @@
 ---
 layout: clinic
-redirect: ../development
 tab: Schedule
-title: Schedule
+title: DAIDD 2020
 subtitle: Clinic Schedule
+summary: December 2020, Microsoft Teams
 alerttype: warning
 alertmsg: >
   <ul>
@@ -11,9 +11,8 @@ alertmsg: >
     <li><b>The schedule below is preliminary and subject to change.</b> Materials linked from this page are also subject to change and should not be considered final until the conclusion of the relevant session.</li>
     <li>Most tutorials and exercises are available through the ICI3D R package. Additional materials are linked from the <a href='../resources'>Resources</a> page.</li>
   </ul>
+archive: true
 ---
-
-> This is an archived version of the schedule from the DAIDD 2020 clinic.
 
 [Daily DAIDD overview](overview)
 

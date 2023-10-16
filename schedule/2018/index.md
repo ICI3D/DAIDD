@@ -1,20 +1,19 @@
 ---
 layout: clinic
-redirect: ../development
 tab: Schedule
-title: Schedule
+title: DAIDD 2018
+summary: 16-22 December 2018, Stellenbosch, South Africa
 subtitle: Clinic Schedule
 alerttype: warning
 alertmsg: Unless otherwise noted, all materials made available through this website and the DAIDD Dropbox are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>. <a rel="license" href="../license.html">Click here for license details</a>.
+archive: true
 ---
-
-> This is an archived version of the schedule from the DAIDD 2018 clinic.
 
 <div class="alert alert-warning" role="alert">
   <div class="container padding-left=0px padding-right=0px">
     <ul style="font-size:16px; margin:0px;">
-      <li>Slides are being made available via the DAIDD Dropbox Folder. The will also be added to the [ICI3D Figshare Collection](https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224).</li>
-      <li>Most tutorials and exercises are available through the ICI3D R package. Additional materials are linked from the [Resources](../resources) page.</li>
+      <li>Slides are being made available via the DAIDD Dropbox Folder. The will also be added to the <a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a>.</li>
+      <li>Most tutorials and exercises are available through the ICI3D R package. Additional materials are linked from the <a href="../resources">Resources</a> page.</li>
     </ul>
   </div>
 </div>
