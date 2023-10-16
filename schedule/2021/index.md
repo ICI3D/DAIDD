@@ -1,7 +1,7 @@
 ---
 layout: clinic
 tab: Schedule
-title: Schedule
+title: DAIDD 2021
 subtitle: Clinic Schedule
 summary: December 2021, Microsoft Teams
 alerttype: warning
