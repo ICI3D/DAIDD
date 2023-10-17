@@ -129,7 +129,7 @@ _Thumbi is not availabe on Tuesday_{: .shadow}
 	* [2022 live spreadsheet](https://docs.google.com/spreadsheets/d/1xTqEuBhwgMOF2KVoJREGARF7LprLlnpCkZm2USM2OHk/edit) (copy or save to work on it)
 	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
 - 17:30-17:45 Summary and discussion: The life cycle of a modeling project ((reiner))
-- 17:45-18:30 Live lecture: The simplest model ((li)) _[Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)_{: .shadow}
+- 17:45-18:30 Live lecture: The simplest model ((pearson)) _[Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)_{: .shadow}
     - {: .shadow} [Google sheet](https://tinyurl.com/DAIDD-SIRboth-2019) NOTE Formerly: Simple individual-based models
 
 #### Interactive session 3b ((reiner))
