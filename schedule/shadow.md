@@ -65,7 +65,7 @@ _Do we need a Monday recap? Historically no._{: .shadow}
 
 - 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ((are))
 	* {: .shadow} Summary should be about individual session 1 videos
-- 16:50-17:00 [Overview of research plan development and structure](https://www.dropbox.com/s/5lojjt5yqjsw668/DAIDD2022guide.pdf?dl=1) ((thumbi)) _(10 mins?) - [Overview of research plan development and structure](planOverview)_{: .shadow}
+- 16:50-17:00 [Overview of research plan development and structure](https://www.dropbox.com/s/5lojjt5yqjsw668/DAIDD2022guide.pdf?dl=1) ((mwangi)) _(10 mins?) - [Overview of research plan development and structure](planOverview)_{: .shadow}
 - 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ((bolton) and all faculty)
 	* {: .shadow} Leader needs to control time in both directions; groups should know what should be discussed in each portion
 	* {: .shadow} Let's make sure to discuss the first set of questions before getting into the second set of simulations
@@ -85,7 +85,7 @@ ICI3D::dynamicalFever()
 </div>
 </div>
 
-#### Interactive session 2b ((thumbi))
+#### Interactive session 2b ((mwangi))
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
@@ -154,7 +154,7 @@ ICI3D::reedFrost()
 </div>
 </div>
 
-- 20:15-21:30 Exercise: Creating a model world to address a research question ((vs/thumbi)) _(90 mins)_{: .shadow}
+- 20:15-21:30 Exercise: Creating a model world to address a research question ((vs/mwangi)) _(90 mins)_{: .shadow}
 	 * {: .shadow} shortened by 15 minutes for logistical reasons 2022
 - {: .shadow} 21:30-22:00 Faculty meeting
 
@@ -249,7 +249,7 @@ _Reminder:_
 
 - 16:30-16:50 Regroup after feedback ((vs)) _(20 mins)_{: .shadow}
 - 16:50-17:05 Daily recap ((mhlanga)) _(15 mins)_{: .shadow}
-- 17:05-17:20 Summary and discussion: Models and data: introduction to model fitting ((thumbi)) _(15 mins)_{: .shadow}
+- 17:05-17:20 Summary and discussion: Models and data: introduction to model fitting ((mwangi)) _(15 mins)_{: .shadow}
 - 17:20-18:30 Writing exercise: description of proposed model and assumptions ((mthombothi)) _(65 mins?) Model telephone_{: .shadow}
     - {: .shadow} [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
     - {: .shadow} [instructions for in-person version](https://docs.google.com/document/d/1d_noXARmkB3yqg8_kUW7AqCTurWy5u84JQWsGoTVCj8)
