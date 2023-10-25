@@ -1,14 +1,13 @@
 ---
 layout: clinic
 tab: Schedule
-title: Schedule
+title: DAIDD 2021
 subtitle: Clinic Schedule
 summary: December 2021, Microsoft Teams
 alerttype: warning
 alertmsg: >
   <ul>
     <li><b>Unless otherwise noted, all DAIDD materials are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>.</b> <a rel="license" href="../license.html">Click here for license details</a>.</li>
-    <li><b>The schedule below is preliminary and subject to change.</b> Materials linked from this page are also subject to change and should not be considered final until the conclusion of the relevant session.</li>
     <li>Most tutorials and exercises are available through the ICI3D R package. Additional materials are linked from the <a href='../resources'>Resources</a> page.</li>
   </ul>
 archive: true
