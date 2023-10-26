@@ -44,7 +44,7 @@ _**Please complete the following between the end of Sunday's interactive session
 
 - Video lecture: [Introduction to Infectious Disease Modelling](https://youtu.be/EV5FLlrRwiQ) _(bellan)_{: .shadow}
     - {: .shadow} Plan forward links: dynamics PICO acronym, more time for SIR foundation
-    - {: .shadow} RELOOK AT THE VIDEO AND DECIDE IF OMPORTANT ENOUGH TO CHANGE
+    - {: .shadow} Consider updating the video/create new video
 - Video lecture: [Introduction to model worlds](https://youtu.be/ev8jMgv-DEg) _(pulliam)_{: .shadow}
     - Reference: [Bellan _et al_. 2015](https://doi.org/10.1016/S1473-3099(15)70139-8)
     - Reference: [Kucharski _et al_. 2015](https://www.pnas.org/content/112/46/14366)
