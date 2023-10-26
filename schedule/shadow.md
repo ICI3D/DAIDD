@@ -44,11 +44,13 @@ _**Please complete the following between the end of Sunday's interactive session
 
 - Video lecture: [Introduction to Infectious Disease Modelling](https://youtu.be/EV5FLlrRwiQ) _(bellan)_{: .shadow}
     - {: .shadow} Plan forward links: dynamics PICO acronym, more time for SIR foundation
+    - {: .shadow} RELOOK AT THE VIDEO AND DECIDE IF OMPORTANT ENOUGH TO CHANGE
 - Video lecture: [Introduction to model worlds](https://youtu.be/ev8jMgv-DEg) _(pulliam)_{: .shadow}
     - Reference: [Bellan _et al_. 2015](https://doi.org/10.1016/S1473-3099(15)70139-8)
     - Reference: [Kucharski _et al_. 2015](https://www.pnas.org/content/112/46/14366)
 - Exercise: [Formulating research questions for modeling projects](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1) _Also available in the Assignments folder in the General Channel of the DAIDD Participants Team_{: .shadow}
 - Recommended reading: If you have not already read the [compiled pre-assigned readings](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2022Participants/Shared%20Documents/General/Pre-readings?csf=1&web=1&e=hAdsRj), please do so now. These and other optional readings are available through the Pre-readings Folder in the DAIDD Participants Team.
+- - {: .shadow}  UPDATE THE LINK
 
 _Reminder:_
 
@@ -89,7 +91,7 @@ ICI3D::dynamicalFever()
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
-- 19:30-20:00 Discussion: Dynamical Fever ((vs)) _[model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)_{: .shadow}
+- 19:30-20:00 Discussion: Dynamical Fever ((bolton)) _[model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)_{: .shadow}
 - 20:00-21:30 Small group session: research questions for modeling projects (All faculty) NOTE (90 mins)
     - {: .shadow} [Step-by-step guide](../Materials/researchQuestions)
 - {: .shadow} 21:30-22:00 Faculty meeting
@@ -99,13 +101,14 @@ ICI3D::dynamicalFever()
 **_Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session._**
 
 - Exercise: Finalize your research question and post to the [Research Questions](https://teams.microsoft.com/l/channel/19%3a960a76ee49714c8091dd4ec13e6b1500%40thread.tacv2/Research%2520Question?groupId=8c30f611-4c28-448e-9cfb-48fcefaff244&tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348) channel.
-- Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations _Dushoff_{: .shadow}
+- Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations
+- _Dushoff double check and decide whether to change it_{: .shadow}
 	* [Intro (from live workshop)](https://youtu.be/wpxnkyKDAyA)
 	* [Discussion](https://youtu.be/WI1iYRprM2Y)
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.draft.pdf)
 - Video lecture: Modeling in practice: [The life cycle of a modeling project, from conception to publication](https://www.youtube.com/watch?v=ErSFZ9daiFA) ((reiner))
 - Video lecture: Integration of Data and Models for schistosomiasis control ((deleo))
-- {: .shadow} Discuss at faculty meeting (remain or replace?)
+- {: .shadow} Discuss at faculty meeting (remain or replace? - decide if optional)
 	* [Part 1](https://www.youtube.com/watch?v=l63MSk34SuI&ab_channel=ICI3D); [Part 2](https://www.youtube.com/watch?v=Dc5Gx1OOH24&ab_channel=ICI3D); [Part 3](https://www.youtube.com/watch?v=tGeKt8GEXHw&ab_channel=ICI3D)
 - Video lecture (optional): [Omicron Modelling Session at Epidemics8 conference, December 2021](https://elsevier.zoom.us/rec/share/emEIoOyR7o6lV9jhpxU667fGwIdwhvSzISotBfn1UTny_srWCpiJ49fZv4ka5fx-.FY2d9dWOtDd3-6UK)
     - Enter passcode: 9JKhQ&=Y
@@ -122,7 +125,7 @@ _Thumbi is not availabe on Tuesday_{: .shadow}
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- 16:30-16:45 Daily recap ((mthombothi)) _(15 mins)_{: .shadow}
+- 16:30-16:45 Daily recap ((mthombothi)) _(15 mins)For Interactive Session 2a/b_{: .shadow}
     - {: .shadow} [DAIDD roadmap slideset](https://www.dropbox.com/s/f37p9hgizwx360t/DAIDDroadmap.pptx?dl=1) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
 - 16:45- 17:00 Summary and discussion: The SIR model family ((dushoff))
 - 17:00-17:30 Exercise: Building an SIR model from scratch ((dushoff)) _(30 mins?) NOTE + 5 min stretch break_{: .shadow}
@@ -167,6 +170,7 @@ ICI3D::reedFrost()
     -  Upload your initial model diagram before Wednesday's interactive session (DAIDD Participants > General > Files > 04_modelDiagram > 04.1_InitialDiagrams).
 - Video (optional): [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example _Pulliam_{: .shadow}
     - Research question: What level of vaccination is necessary to eliminate domestic dog rabies in Tanzania?
+    - {: .shadow} Check with Thumbi if we can upload last year's video
 - Video lecture: Stochastic simulation models _(borchering)_{: .shadow}
     - [Introduction](https://youtu.be/VcyhoQcAt00)
     - [Part 1](https://youtu.be/MuXYbph_f0Y)
