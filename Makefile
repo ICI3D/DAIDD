@@ -33,7 +33,7 @@ ICI3D.github.io/_config.yml:
 cerve: ICI3D.github.io/_config.yml
 	./run.sh > jekyll.log 2>&1 &
 
-Sources += _config.yml _localconfig.yml Gemfile.jd notes.md
+Sources += _config.yml _localconfig.yml notes.md
 Ignore += Gemfile Gemfile.lock
 
 ## When is sudo needed here???
