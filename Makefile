@@ -37,6 +37,7 @@ Sources += _config.yml _localconfig.yml notes.md
 Ignore += Gemfile Gemfile.lock
 
 ## When is sudo needed here???
+## Almost always, I think, though auto-advice does not seem to agree.
 ## jd.gm:
 %.gm: Gemfile.%
 	$(LNF) $< Gemfile
