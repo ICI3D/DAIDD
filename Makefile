@@ -116,6 +116,9 @@ Sources += logistics/*.md
 
 ######################################################################
 
+pullup:
+	$(modupdate)
+
 ### Makestuff
 
 Sources += Makefile
