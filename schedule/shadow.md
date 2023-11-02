@@ -121,6 +121,8 @@ _Reminder:_
 
 ### Tuesday
 _Thumbi is not availabe on Tuesday_{: .shadow}
+_Zi is not available 17h30-19h30 SAST_{: .shadow}
+
 #### Interactive session 3a ((bolton))
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
@@ -244,6 +246,7 @@ _Reminder:_
 
 - 0:30 Tea with North American Faculty
 - 13:30 Tea with African Faculty
+- {: .shadow} Zi not available for Tea
 
 ### Thursday
 
@@ -359,7 +362,8 @@ _Reminder:_
 
 - 0:30 Tea with North American Faculty
 - 13:30 Tea with African Faculty
-
+- {: .shadow} Zi not available for Tea
+  
 ### Saturday
 
 #### Individual session 7
