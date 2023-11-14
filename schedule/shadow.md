@@ -319,10 +319,9 @@ _Reminder:_
 	* ({% include instructors people="kubjane" %})
 
  	* {: .shadow} Polio ({% include instructors people="mthombothi" %})
- 	* {: .shadow} Invite Mmamapudi to give lecture on TB - 	({% include instructors people="kubjane" %}) 	
-	* {: .shadow} Onchocerciasis ({% include instructors people="nyamai" %}) what is up with this link??
-	* {: .shadow} Onchocerciasis ([Mutono Nyamai](http://www.ici3d.org/MMED/team/nyamai/))
-	* {: .shadow} OLD: [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
+ 		* {: .shadow} Onchocerciasis ({% include instructors people="nyamai" %}) what is up with this link??
+		* {: .shadow} Onchocerciasis ([Mutono Nyamai](http://www.ici3d.org/MMED/team/nyamai/))
+		* {: .shadow} OLD: [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
 
 #### Interactive session 6b ({% include instructors people="mwangi" %})
 
