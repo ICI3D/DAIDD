@@ -317,6 +317,7 @@ _Reminder:_
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ({% include instructors people="dushoff" %}) _(20 mins?)_{: .shadow}
 - 17:00-18:30 Live lecture: Modelling to inform policy:
 	* ({% include instructors people="kubjane" %})
+
  	* {: .shadow} Polio ({% include instructors people="mthombothi" %})
  	* {: .shadow} Invite Mmamapudi to give lecture on TB - 	({% include instructors people="kubjane" %}) 	
 	* {: .shadow} Onchocerciasis ({% include instructors people="nyamai" %}) what is up with this link??
