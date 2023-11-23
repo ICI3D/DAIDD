@@ -107,8 +107,7 @@ ICI3D::dynamicalFever{% include instructors people="" %}
 	* [Discussion](https://youtu.be/WI1iYRprM2Y)
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/family.draft.pdf)
 - Video lecture: Modeling in practice: [The life cycle of a modeling project, from conception to publication](https://www.youtube.com/watch?v=ErSFZ9daiFA) ({% include instructors people="reiner" %})
-- Video lecture: Integration of Data and Models for schistosomiasis control ({% include instructors people="deleo" %})
-- {: .shadow} Discuss at faculty meeting (remain or replace? - decide if optional)
+- Video lecture: {% include instructors people="optional" %} Integration of Data and Models for schistosomiasis control ({% include instructors people="deleo" %})
 	* [Part 1](https://www.youtube.com/watch?v=l63MSk34SuI&ab_channel=ICI3D); [Part 2](https://www.youtube.com/watch?v=Dc5Gx1OOH24&ab_channel=ICI3D); [Part 3](https://www.youtube.com/watch?v=tGeKt8GEXHw&ab_channel=ICI3D)
 - Video lecture {% include instructors people="optional" %}: [Omicron Modelling Session at Epidemics8 conference, December 2021](https://elsevier.zoom.us/rec/share/emEIoOyR7o6lV9jhpxU667fGwIdwhvSzISotBfn1UTny_srWCpiJ49fZv4ka5fx-.FY2d9dWOtDd3-6UK)
     - Enter passcode: 9JKhQ&=Y
@@ -234,7 +233,7 @@ _Mid-session post-mortem: _{: .shadow}
     - [Part 2](https://youtu.be/ApxGWFyFUsU)
     - [Part 3](https://youtu.be/iUEf8rhAScQ)
     - [Part 4](https://youtu.be/On98jk6Wq4I)
-- Video lecture: Seasonality and Infectious Diseases ({% include instructors people="deleo" %})
+- Video lecture: {% include instructors people="optional" %} Seasonality and Infectious Diseases ({% include instructors people="deleo" %})
     - [Part 1](https://youtu.be/BIftKrPjdFA)
     - [Part 2](https://youtu.be/3HdVhy5DIUA)
     - [Part 3](https://youtu.be/NPg8m9hofYI)
