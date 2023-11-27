@@ -1,4 +1,4 @@
 ---
 tab: Team
-role: Program Evaluator
+type: evaluator
 ---
