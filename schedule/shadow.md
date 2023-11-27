@@ -315,8 +315,7 @@ _Reminder:_
 - 16:30-16:45 Daily recap ({% include instructors people="mhlanga" %}) _(15 mins)_{: .shadow}
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ({% include instructors people="dushoff" %}) _(20 mins?)_{: .shadow}
 - 17:00-18:30 Live lecture: Modelling to inform policy:
-	- ({% include instructors people="kubjane" %})
-
+	* ({% include instructors people="kubjane" %})
  	* {: .shadow} Polio ({% include instructors people="mthombothi" %})
  	* {: .shadow} Onchocerciasis ({% include instructors people="nyamai" %}) what is up with this link??
 	* {: .shadow} Onchocerciasis ([Mutono Nyamai](http://www.ici3d.org/MMED/team/nyamai/))
