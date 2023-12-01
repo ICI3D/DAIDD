@@ -21,7 +21,7 @@ archive: false
 - _Please join the session by 16:25. We will begin promptly at 16:30._
 - 16:30-16:55 Welcome and some logistics ({% include instructors people="bolton" %})
 	- {:. shadow} Faculty introductions; introduce DAIDD glossary
-- 16:55-17:10 What are we doing here? ({% include instructors people="vs" %}) _UPDATE linking system [Slide folder](https://tinyurl.com/daidd-2019)_{: .shadow}
+- 16:55-17:10 What are we doing here? ({% include instructors people="vanschalkwyk" %}) _UPDATE linking system [Slide folder](https://tinyurl.com/daidd-2019)_{: .shadow}
 - 17:15-17:45 Data, models, and science ({% include instructors people="reiner" %})
 	- {: .shadow} [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
 - 17:45-18:00 Working with the DAIDD technical tools ({% include instructors people="li" %}, {% include instructors people="bruce" %}) _(15 mins)_{: .shadow}
@@ -59,7 +59,7 @@ _Reminder:_
 
 ### Monday
 
-#### Interactive session 2a ({% include instructors people="vs" %})
+#### Interactive session 2a ({% include instructors people="vanschalkwyk" %})
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -158,7 +158,7 @@ ICI3D::reedFrost{% include instructors people="" %}
 </div>
 </div>
 
-- 20:15-21:30 Exercise: Creating a model world to address a research question ((vs/mwangi)) _(90 mins)_{: .shadow}
+- 20:15-21:30 Exercise: Creating a model world to address a research question ((vanschalkwyk/mwangi)) _(90 mins)_{: .shadow}
 	 * {: .shadow} shortened by 15 minutes for logistical reasons 2022
 - {: .shadow} 21:30-22:00 Faculty meeting
 
@@ -238,7 +238,7 @@ _Mid-session post-mortem: _{: .shadow}
     - [Part 2](https://youtu.be/3HdVhy5DIUA)
     - [Part 3](https://youtu.be/NPg8m9hofYI)
 - Video lecture {% include instructors people="optional" %}: [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) ({% include instructors people="dushoff" %})
-- Video lecture {% include instructors people="optional" %}: [Faculty research presentation](https://www.youtube.com/watch?v=xVutQlqk_eQ): The potential for cervical cancer elimination in South Africa ({% include instructors people="vs" %})
+- Video lecture {% include instructors people="optional" %}: [Faculty research presentation](https://www.youtube.com/watch?v=xVutQlqk_eQ): The potential for cervical cancer elimination in South Africa ({% include instructors people="vanschalkwyk" %})
 - Catch-up on earlier materials, as needed
 
 _Reminder:_
@@ -253,7 +253,7 @@ _Reminder:_
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
-- 16:30-16:50 Regroup after feedback ({% include instructors people="vs" %}) _(20 mins)_{: .shadow}
+- 16:30-16:50 Regroup after feedback ({% include instructors people="vanschalkwyk" %}) _(20 mins)_{: .shadow}
 - 16:50-17:05 Daily recap ({% include instructors people="mhlanga" %}) _(15 mins)_{: .shadow}
 - 17:05-17:20 Summary and discussion: Models and data: introduction to model fitting ({% include instructors people="mwangi" %}) _(15 mins)_{: .shadow}
 - 17:20-18:30 Writing exercise: description of proposed model and assumptions ({% include instructors people="mthombothi" %}) _(65 mins?) Model telephone_{: .shadow}
@@ -308,7 +308,7 @@ _Reminder:_
 
 ### Friday
 
-#### Interactive session 6a ({% include instructors people="vs" %})
+#### Interactive session 6a ({% include instructors people="vanschalkwyk" %})
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -383,4 +383,4 @@ _Reminder:_
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - 19:30-21:00 Final feedback session ({% include instructors people="bruce" %}) _(60-90 mins)_{: .shadow}
-- 21:00-21:15 Closing session ({% include instructors people="vs" %}) _(15 mins)_{: .shadow}
+- 21:00-21:15 Closing session ({% include instructors people="vanschalkwyk" %}) _(15 mins)_{: .shadow}
