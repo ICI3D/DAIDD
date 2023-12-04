@@ -339,6 +339,7 @@ _Reminder:_
 #### Individual session 6
 
 **_Please complete the following between the end of Friday's interactive session and the beginning of Saturday's interactive session._**
+- Video lecture {% include instructors people="optional" %}: Modelling to inform policy:  Polio ({% include instructors people="mthombothi" %})
 - {: .shadow} Discuss faculty reserch lectures
 - {: .shadow} Video lecture: [Faculty Research Lecture](https://www.youtube.com/watch?v=tBra5iS9PVk) ((__tbd__))
 	* {: .shadow} Was Larisse
