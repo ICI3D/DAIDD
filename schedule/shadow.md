@@ -229,12 +229,12 @@ ICI3D::heterogeneityTutorial{% include instructors people="" %}
 **_Please complete the following between the end of Wednesday's interactive session and the beginning of Thursday's interactive session._**
 
 - Exercise: Update your model diagram and post to Teams before Thursday's interactive session (DAIDD Participants > General > Files > 04_modelDiagram > 04.2_UpdatedDiagrams).
-- Video lecture: Models and data: introduction to model fitting _({% include instructors people="scott" %})_{: .shadow}
+- Video lecture: Models and data: introduction to model fitting ({% include instructors people="scott" %})
     - [Part 1](https://youtu.be/VMHLBrTpoS0)
     - [Part 2](https://youtu.be/ApxGWFyFUsU)
     - [Part 3](https://youtu.be/iUEf8rhAScQ)
     - [Part 4](https://youtu.be/On98jk6Wq4I)
-- Video lecture: {% include instructors people="optional" %} Seasonality and Infectious Diseases ({% include instructors people="deleo" %})
+- Video lecture {% include instructors people="optional" %}: Seasonality and Infectious Diseases ({% include instructors people="deleo" %})
     - [Part 1](https://youtu.be/BIftKrPjdFA)
     - [Part 2](https://youtu.be/3HdVhy5DIUA)
     - [Part 3](https://youtu.be/NPg8m9hofYI)
