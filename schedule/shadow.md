@@ -315,9 +315,7 @@ _Reminder:_
 
 - 16:30-16:45 Daily recap ({% include instructors people="mhlanga" %}) _(15 mins)_{: .shadow}
 - 16:45-17:00 Summary and discussion: Model evaluation and comparison ({% include instructors people="dushoff" %}) _(20 mins?)_{: .shadow}
-- 17:00-18:30 Live lecture: Modelling to inform policy:
-	* ({% include instructors people="kubjane" %})
-	* {: .shadow} Polio ({% include instructors people="mthombothi" %})
+- 17:00-18:30 Live lecture: Modelling to inform policy ({% include instructors people="kubjane" %})
 	* {: .shadow} Onchocerciasis ({% include instructors people="nyamai" %}) what is up with this link??
 	* {: .shadow} Onchocerciasis ([Mutono Nyamai](http://www.ici3d.org/MMED/team/nyamai/))
 	* {: .shadow} OLD: [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
@@ -339,8 +337,9 @@ _Reminder:_
 #### Individual session 6
 
 **_Please complete the following between the end of Friday's interactive session and the beginning of Saturday's interactive session._**
-- Video lecture {% include instructors people="optional" %}: Modelling to inform policy:  Polio ({% include instructors people="mthombothi" %})
-- {: .shadow} Discuss faculty reserch lectures
+- Video lecture {% include instructors people="optional" %}: Modelling to inform policy: Polio ({% include instructors people="mthombothi" %})
+- Video lecture {% include instructors people="optional" %}: Modelling to inform policy: Onchocerciasis ([nyamai](http://www.ici3d.org/MMED/team/nyamai/))
+- {: .shadow} Discuss faculty research lectures
 - {: .shadow} Video lecture: [Faculty Research Lecture](https://www.youtube.com/watch?v=tBra5iS9PVk) ((__tbd__))
 	* {: .shadow} Was Larisse
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
