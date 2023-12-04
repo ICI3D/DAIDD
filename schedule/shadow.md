@@ -67,7 +67,7 @@ _Do we need a Monday recap? Historically no._{: .shadow}
 
 - 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ({% include instructors people="are" %})
 	* {: .shadow} Summary should be about individual session 1 videos
-- 16:50-17:00 [Overview of research plan development and structure](https://stellenbosch.sharepoint.com/:b:/r/sites/DAIDD2023Participants/Shared%20Documents/General/Resources/DAIDD2023guide.pdf?csf=1&web=1&e=pzEjN3) ({% include instructors people="mwangi" %}) _(10 mins?) - [Overview of research plan development and structure](planOverview)_{: .shadow}
+- 16:50-17:00 [Overview of research plan development and structure](https://stellenbosch.sharepoint.com/:b:/r/sites/DAIDD2023Participants/Shared%20Documents/General/Resources/DAIDD2023guide.pdf?csf=1&web=1&e=pzEjN3) ({% include instructors people="vanschalkwyk" %}) _(10 mins?) - [Overview of research plan development and structure](planOverview)_{: .shadow}
 - {: .shadow} https://www.dropbox.com/s/5lojjt5yqjsw668/DAIDD2022guide.pdf?dl=1 NB this is the 2022 link.
 - 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ({% include instructors people="bolton" %} and [all faculty](https://www.ici3d.org/DAIDD/team/))
 	* {: .shadow} Leader needs to control time in both directions; groups should know what should be discussed in each portion
@@ -256,7 +256,7 @@ _Reminder:_
 
 - 16:30-16:50 Regroup after feedback ({% include instructors people="vanschalkwyk" %}) _(20 mins)_{: .shadow}
 - 16:50-17:05 Daily recap ({% include instructors people="mhlanga" %}) _(15 mins)_{: .shadow}
-- 17:05-17:20 Summary and discussion: Models and data: introduction to model fitting ({% include instructors people="mwangi" %}) _(15 mins)_{: .shadow}
+- 17:05-17:20 Summary and discussion: Models and data: introduction to model fitting ({% include instructors people="vanschalkwyk" %}) _(15 mins)_{: .shadow}
 - 17:20-18:30 Writing exercise: description of proposed model and assumptions ({% include instructors people="mthombothi" %}) _(65 mins?) Model telephone_{: .shadow}
     - {: .shadow} [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
     - {: .shadow} [instructions for in-person version](https://docs.google.com/document/d/1d_noXARmkB3yqg8_kUW7AqCTurWy5u84JQWsGoTVCj8)
@@ -322,7 +322,7 @@ _Reminder:_
 	* {: .shadow} Onchocerciasis ([Mutono Nyamai](http://www.ici3d.org/MMED/team/nyamai/))
 	* {: .shadow} OLD: [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000), Related papers: [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661) NOTE (85 mins?)
 
-#### Interactive session 6b ({% include instructors people="mwangi" %})
+#### Interactive session 6b ({% include instructors people="vanschalkwyk" %})
 
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
@@ -332,7 +332,7 @@ _Reminder:_
 	* [Kucharski et al. Ebola paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4655521/)
 	* [Camacho Ebola paper](https://pubmed.ncbi.nlm.nih.gov/25737806/)
 	* [Bellan HIV paper](https://pubmed.ncbi.nlm.nih.gov/23391466/)
-- 20:00-20:30 Review and Discussion (Moderator: ({% include instructors people="mwangi" %}) _(30 mins free form discussion / Q&A on topics raised by participants)_{: .shadow}
+- 20:00-20:30 Review and Discussion (Moderator: ({% include instructors people="vanschalkwyk" %}) _(30 mins free form discussion / Q&A on topics raised by participants)_{: .shadow}
 - 20:30-21:30 Small group session: planning your approach ([all faculty](https://www.ici3d.org/DAIDD/team/)) _(60 mins)_{: .shadow}
 - {: .shadow} 21:30-22:00 Faculty meeting
 
