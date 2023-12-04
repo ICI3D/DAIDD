@@ -298,7 +298,8 @@ ICI3D::hivTutorial{% include instructors people="" %}
 - Video lecture: [Model evaluation and comparison](https://www.youtube.com/watch?v=0c5P1Lv33hM) ({% include instructors people="dushoff" %})
 	* {: .shadow} This video needs to be re-edited! Why did nobody tell me‽ 
 		* Look around minute 24!
-	* Handouts and slides are in [Teams slide folder](https://stellenbosch.sharepoint.com/:b:/r/sites/DAIDD2022Participants/Shared%20Documents/General/Lecture%20Slides/Individual_5/Model_assessment_Dushoff.pdf?csf=1&web=1&e=XkOWKB)
+	* Handouts and slides are in [Teams slide folder](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2023Participants/Shared%20Documents/General/Lecture%20Slides?csf=1&web=1&e=GRwvQK)
+ 	* {: .shadow} [2022 link](https://stellenbosch.sharepoint.com/:b:/r/sites/DAIDD2022Participants/Shared%20Documents/General/Lecture%20Slides/Individual_5/Model_assessment_Dushoff.pdf?csf=1&web=1&e=XkOWKB)
 
 _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; JP will source games_{: .shadow}
 
