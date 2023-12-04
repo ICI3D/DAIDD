@@ -69,7 +69,7 @@ _Do we need a Monday recap? Historically no._{: .shadow}
 	* {: .shadow} Summary should be about individual session 1 videos
 - 16:50-17:00 [Overview of research plan development and structure](https://stellenbosch.sharepoint.com/:b:/r/sites/DAIDD2023Participants/Shared%20Documents/General/Resources/DAIDD2023guide.pdf?csf=1&web=1&e=pzEjN3) ({% include instructors people="mwangi" %}) _(10 mins?) - [Overview of research plan development and structure](planOverview)_{: .shadow}
 - {: .shadow} https://www.dropbox.com/s/5lojjt5yqjsw668/DAIDD2022guide.pdf?dl=1 NB this is the 2022 link.
-- 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ({% include instructors people="bolton" %} and all faculty)
+- 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ({% include instructors people="bolton" %} and [all faculty](https://www.ici3d.org/DAIDD/team/))
 	* {: .shadow} Leader needs to control time in both directions; groups should know what should be discussed in each portion
 	* {: .shadow} Let's make sure to discuss the first set of questions before getting into the second set of simulations
 	- To get started, run the following command at the R Studio command line (after installing the ICI3D package):
@@ -93,7 +93,7 @@ ICI3D::dynamicalFever{% include instructors people="" %}
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - 19:30-20:00 Discussion: Dynamical Fever ({% include instructors people="bolton" %}) _[model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)_{: .shadow}
-- 20:00-21:30 Small group session: research questions for modeling projects (All faculty) NOTE (90 mins)
+- 20:00-21:30 Small group session: research questions for modeling projects ([all faculty](https://www.ici3d.org/DAIDD/team/)) NOTE (90 mins)
     - {: .shadow} [Step-by-step guide](../Materials/researchQuestions)
 - {: .shadow} 21:30-22:00 Faculty meeting
 
@@ -196,7 +196,7 @@ _Reminder:_
 
 - 16:30-16:45 Daily recap ({% include instructors people="kubjane" %}) _(15 mins)_{: .shadow}
 - 16:45-17:00 Summary and discussion: Stochastic simulation models ({% include instructors people="mthombothi" %}) _(15 mins)_{: .shadow}
-- 17:00-18:30 Small-group session: matching models to questions (All faculty) _(90 minutes)_{: .shadow}
+- 17:00-18:30 Small-group session: matching models to questions ([all faculty](https://www.ici3d.org/DAIDD/team/)) _(90 minutes)_{: .shadow}
 
 #### Interactive session 4b ({% include instructors people="li" %})
 
@@ -334,7 +334,7 @@ _Reminder:_
 	* [Camacho Ebola paper](https://pubmed.ncbi.nlm.nih.gov/25737806/)
 	* [Bellan HIV paper](https://pubmed.ncbi.nlm.nih.gov/23391466/)
 - 20:00-20:30 Review and Discussion (Moderator: ({% include instructors people="mwangi" %}) _(30 mins free form discussion / Q&A on topics raised by participants)_{: .shadow}
-- 20:30-21:30 Small group session: planning your approach (All faculty) _(60 mins)_{: .shadow}
+- 20:30-21:30 Small group session: planning your approach ([all faculty](https://www.ici3d.org/DAIDD/team/)) _(60 mins)_{: .shadow}
 - {: .shadow} 21:30-22:00 Faculty meeting
 
 #### Individual session 6
