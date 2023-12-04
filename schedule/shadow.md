@@ -222,8 +222,7 @@ ICI3D::heterogeneityTutorial{% include instructors people="" %}
 </div>
 
 - 20:30-21:30 Mid-session feedback ({% include instructors people="bruce" %}) _(60 mins)_{: .shadow}
-
-_Mid-session post-mortem: _{: .shadow}
+- {: .shadow} Mid-session post-mortem: 
 
 #### Individual session 4
 
