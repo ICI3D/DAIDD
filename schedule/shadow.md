@@ -101,7 +101,7 @@ ICI3D::dynamicalFever{% include instructors people="" %}
 
 **_Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session._**
 
-- Exercise: Finalize your research question and post to the [Research Questions](https://teams.microsoft.com/l/channel/19%3a960a76ee49714c8091dd4ec13e6b1500%40thread.tacv2/Research%2520Question?groupId=8c30f611-4c28-448e-9cfb-48fcefaff244&tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348) channel.
+- Exercise: Finalize your research question and post to the [Research Questions](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2023Participants/Shared%20Documents/General/03_researchQuestion?csf=1&web=1&e=FfaCf5) channel.
 - Video lecture: The SIR model family - conceptual framework and introduction to difference and differential equations
 - _Dushoff double check and decide whether to change it_{: .shadow}
 	* [Intro (from live workshop)](https://youtu.be/wpxnkyKDAyA)
