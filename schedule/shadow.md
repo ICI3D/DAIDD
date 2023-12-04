@@ -129,7 +129,7 @@ _Zi is not available 17h30-19h30 SAST_{: .shadow}
 
 - 16:30-16:45 Daily recap ({% include instructors people="mthombothi" %}) _(15 mins)For Interactive Session 2a/b_{: .shadow}
     - {: .shadow} [DAIDD roadmap slideset](https://www.dropbox.com/s/f37p9hgizwx360t/DAIDDroadmap.pptx?dl=1) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
-- 16:45- 17:00 Summary and discussion: The SIR model family ({% include instructors people="dushoff" %})
+- 16:45-17:00 Summary and discussion: The SIR model family ({% include instructors people="dushoff" %})
 - 17:00-17:30 Exercise: Building an SIR model from scratch ({% include instructors people="dushoff" %}) _(30 mins?) NOTE + 5 min stretch break_{: .shadow}
 	* [2022 live spreadsheet](https://docs.google.com/spreadsheets/d/1xTqEuBhwgMOF2KVoJREGARF7LprLlnpCkZm2USM2OHk/edit) (copy or save to work on it)
 	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
