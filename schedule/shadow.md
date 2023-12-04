@@ -337,11 +337,6 @@ _Reminder:_
 #### Individual session 6
 
 **_Please complete the following between the end of Friday's interactive session and the beginning of Saturday's interactive session._**
-- Video lecture {% include instructors people="optional" %}: Modelling to inform policy: Polio ({% include instructors people="mthombothi" %})
-- Video lecture {% include instructors people="optional" %}: Modelling to inform policy: Onchocerciasis ([nyamai](http://www.ici3d.org/MMED/team/nyamai/))
-- {: .shadow} Discuss faculty research lectures
-- {: .shadow} Video lecture: [Faculty Research Lecture](https://www.youtube.com/watch?v=tBra5iS9PVk) ((__tbd__))
-	* {: .shadow} Was Larisse
 - Writing exercise: revise based on feedback and plan for moving forward (including identified resources and potential collaborators)
 - Submit your [**final research plan**](../Materials/researchPlans) via Teams
 - Submit your **final slide** via teams
@@ -351,7 +346,11 @@ _Reminder:_
 		* Current link is apparently to Becky et al. (MIDAS)
     - {: .shadow} [Slides]{% include instructors people="" %} NOTE update link!
     - {: .shadow} [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
-
+- Video lecture {% include instructors people="optional" %}: Modelling to inform policy: Polio ({% include instructors people="mthombothi" %})
+- Video lecture {% include instructors people="optional" %}: Modelling to inform policy: Onchocerciasis ([nyamai](http://www.ici3d.org/MMED/team/nyamai/))
+- {: .shadow} Discuss faculty research lectures
+- {: .shadow} Video lecture: [Faculty Research Lecture](https://www.youtube.com/watch?v=tBra5iS9PVk) ((__tbd__))
+	* {: .shadow} Was Larisse
 **_Special session_ (North America) 22:00-23:30**
 
 - One-on-one mentoring sessions
