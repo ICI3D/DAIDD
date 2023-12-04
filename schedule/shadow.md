@@ -240,7 +240,7 @@ ICI3D::heterogeneityTutorial{% include instructors people="" %}
     - [Part 3](https://youtu.be/NPg8m9hofYI)
 - Video lecture {% include instructors people="optional" %}: [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) ({% include instructors people="dushoff" %})
 - Video lecture {% include instructors people="optional" %}: [Faculty research presentation](https://www.youtube.com/watch?v=xVutQlqk_eQ): The potential for cervical cancer elimination in South Africa ({% include instructors people="vanschalkwyk" %})
-- Catch-up on earlier materials, as needed
+**_Catch-up on earlier materials, as needed_**
 
 _Reminder:_
 
