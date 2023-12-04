@@ -160,7 +160,7 @@ ICI3D::reedFrost{% include instructors people="" %}
 </div>
 
 - 20:15-21:30 Exercise: Creating a model world to address a research question ({% include instructors people="mwangi" %})
-- ((vanschalkwyk/mwangi)) _(90 mins)_{: .shadow}
+- {: .shadow} ((vanschalkwyk/mwangi)) (90 mins)
 	 * {: .shadow} shortened by 15 minutes for logistical reasons 2022
 - {: .shadow} 21:30-22:00 Faculty meeting
 
@@ -174,7 +174,7 @@ ICI3D::reedFrost{% include instructors people="" %}
 - Video {% include instructors people="optional" %}: [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example _Pulliam_{: .shadow}
     - Research question: What level of vaccination is necessary to eliminate domestic dog rabies in Tanzania?
     - {: .shadow} Check with Thumbi if we can upload last year's video
-- Video lecture: Stochastic simulation models _{% include instructors people="borchering" %}_{: .shadow}
+- Video lecture: Stochastic simulation models ({% include instructors people="borchering" %}) _{% include instructors people="borchering" %}_{: .shadow}
     - [Introduction](https://youtu.be/VcyhoQcAt00)
     - [Part 1](https://youtu.be/MuXYbph_f0Y)
     - [Part 2](https://youtu.be/Ht1YA0SFF80)
