@@ -159,7 +159,8 @@ ICI3D::reedFrost{% include instructors people="" %}
 </div>
 </div>
 
-- 20:15-21:30 Exercise: Creating a model world to address a research question ((vanschalkwyk/mwangi)) _(90 mins)_{: .shadow}
+- 20:15-21:30 Exercise: Creating a model world to address a research question ({% include instructors people="mwangi" %})
+- ((vanschalkwyk/mwangi)) _(90 mins)_{: .shadow}
 	 * {: .shadow} shortened by 15 minutes for logistical reasons 2022
 - {: .shadow} 21:30-22:00 Faculty meeting
 
