@@ -67,7 +67,7 @@ _Do we need a Monday recap? Historically no._{: .shadow}
 
 - 16:30-16:50 Summary and questions: Intuitive aspects of dynamics and introduction to model worlds ({% include instructors people="are" %})
 	* {: .shadow} Summary should be about individual session 1 videos
-- 16:50-17:00 [Overview of research plan development and structure](https://stellenbosch.sharepoint.com/:b:/r/sites/DAIDD2023Participants/Shared%20Documents/General/Resources/DAIDD2023guide.pdf?csf=1&web=1&e=pzEjN3)({% include instructors people="mwangi" %}) _(10 mins?) - [Overview of research plan development and structure](planOverview)_{: .shadow}
+- 16:50-17:00 [Overview of research plan development and structure](https://stellenbosch.sharepoint.com/:b:/r/sites/DAIDD2023Participants/Shared%20Documents/General/Resources/DAIDD2023guide.pdf?csf=1&web=1&e=pzEjN3) ({% include instructors people="mwangi" %}) _(10 mins?) - [Overview of research plan development and structure](planOverview)_{: .shadow}
 - {: .shadow} https://www.dropbox.com/s/5lojjt5yqjsw668/DAIDD2022guide.pdf?dl=1 NB this is the 2022 link.
 - 17:00-18:30 Tutorial: Dynamical Fever - computer exercise and discussion ({% include instructors people="bolton" %} and all faculty)
 	* {: .shadow} Leader needs to control time in both directions; groups should know what should be discussed in each portion
