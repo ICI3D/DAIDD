@@ -9,8 +9,6 @@ alertmsg: >
     <li>Please update all your presentations to <b>use the ICI3D slide template</b>.</li>
     <li>Note that links on this page do not (necessarily) work!</li>
   </ul>
-archive: false
----
 alerttype: warning
 alertmsg: >
   <ul>
