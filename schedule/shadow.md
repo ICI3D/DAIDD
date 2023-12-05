@@ -345,7 +345,6 @@ _Reminder:_
 - {: .shadow} Video lecture {% include instructors people="optional" %}: [Use of models in public health decision-making II: COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) (Faculty research presentation) (borchering)
 - {: .shadow} Does this need to be updated?
 - {: .shadow} Current link is apparently to Becky et al. (MIDAS)
-- Video lecture {% include instructors people="optional" %}: Title (Youttube link) (Faculty research presentation) ({% include instructors people="are" %})
     - {: .shadow} [Slides]{% include instructors people="" %} NOTE update link!
     - {: .shadow} [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
 - Video lecture {% include instructors people="optional" %}: Modelling to inform policy: Polio ({% include instructors people="mthombothi" %})
