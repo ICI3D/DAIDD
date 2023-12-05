@@ -341,6 +341,7 @@ _Reminder:_
 - Submit your [**final research plan**](../Materials/researchPlans) via Teams
 - Submit your **final slide** via teams
     - Include your research question and model diagram on a single page in a PDF document
+- Video lecture {% include instructors people="optional" %}: [COVID-19: from pandemic to endemic? Vaccination, reopening & evolution in highly vaccinated settings](https://www.youtube.com/watch?v=09tkdNNAbr0&t=1986s) (Faculty research presentation) ({% include instructors people="are" %})
 - {: .shadow} Video lecture {% include instructors people="optional" %}: [Use of models in public health decision-making II: COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) (Faculty research presentation) (borchering)
 - {: .shadow} Does this need to be updated?
 - {: .shadow} Current link is apparently to Becky et al. (MIDAS)
