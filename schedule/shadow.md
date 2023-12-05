@@ -348,7 +348,7 @@ _Reminder:_
     - {: .shadow} [Slides]{% include instructors people="" %} NOTE update link!
     - {: .shadow} [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
 - Video lecture {% include instructors people="optional" %}: Modelling to inform policy: Polio ({% include instructors people="mthombothi" %})
-- Video lecture {% include instructors people="optional" %}: Modelling to inform policy: Onchocerciasis ([nyamai](http://www.ici3d.org/MMED/team/nyamai/))
+- Video lecture {% include instructors people="optional" %}: [Modelling to inform policy: Elimination of transmission of onchocerciasis with Ivermectin mass drug administraton with or without vector control in sub-Saharan Africa](https://youtu.be/5A7CXbH3THo) ([nyamai](http://www.ici3d.org/MMED/team/nyamai/))
 - {: .shadow} Discuss faculty research lectures - Add Elisha are
 - {: .shadow} Video lecture: [Faculty Research Lecture](https://www.youtube.com/watch?v=tBra5iS9PVk) ((__tbd__))
 	* {: .shadow} Was Larisse
