@@ -203,7 +203,7 @@ _Reminder:_
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - 19:30-19:45 Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ({% include instructors people="dushoff" %}) _(15 mins)_{: .shadow}
-- 19:45-20:30 Tutorial: Heterogeneity in disease emergence ({% include instructors people="reiner" %}, {% include instructors people="bolton" %}, {% include instructors people="are" %}) _(45 mins)_{: .shadow}
+- 19:45-20:30 Tutorial: Heterogeneity in disease emergence ({% include instructors people="reiner" %}, {% include instructors people="are" %}) _(45 mins)_{: .shadow}
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	 * {: .shadow} TODO make this a link!
 
