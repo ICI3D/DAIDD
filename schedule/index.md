@@ -26,7 +26,7 @@ archive: false
 
 - _Please join the session by 16:25. We will begin promptly at 16:30._
 - 16:30-16:55 Welcome and some logistics ({% include instructors people="bolton" %})
-	- {:. shadow} Faculty introductions; introduce DAIDD glossary
+	- {: .shadow} Faculty introductions; introduce DAIDD glossary
 - 16:55-17:10 What are we doing here? ({% include instructors people="vanschalkwyk" %}) _UPDATE linking system [Slide folder](https://tinyurl.com/daidd-2019)_{: .shadow}
 - 17:15-17:45 Data, models, and science ({% include instructors people="reiner" %})
 	- {: .shadow} [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
