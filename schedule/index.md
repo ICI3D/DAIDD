@@ -129,7 +129,7 @@ _Reminder:_
 _Thumbi is not availabe on Tuesday_{: .shadow}
 _Zi is not available 17h30-19h30 SAST_{: .shadow}
 
-#### Interactive session 3a ({% include instructors people="bolton" %})
+#### Interactive session 3a ({% include instructors people="li" %})
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
