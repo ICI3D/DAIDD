@@ -79,11 +79,9 @@ _**Please complete the following between the end of Sunday's interactive session
     - Reference: [Kucharski _et al_. 2015](https://www.pnas.org/content/112/46/14366)
 - Exercise: [Formulating research questions for modeling projects](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1) _Also available in the Assignments folder in the General Channel of the DAIDD Participants Team_{: .shadow}
 - Recommended reading: If you have not already read the [compiled pre-assigned readings](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2023Participants/Shared%20Documents/General/Pre-readings?csf=1&web=1&e=TywfXS), please do so now. These and other optional readings are available through the Pre-readings Folder in the DAIDD Participants Team.
-- - {: .shadow}  FB updated link to DAIDD 2023
+- {: .shadow}  FB updated link to DAIDD 2023
 
-_Reminder:_
-
-- {: .tz data-start="030"} Tea with North American Faculty
+- {: .tz data-start="0030"} Tea with North American Faculty
 - {: .tz data-start="1330"} Tea with African Faculty
 
 ### Monday

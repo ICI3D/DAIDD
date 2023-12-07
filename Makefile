@@ -1,8 +1,9 @@
 ## This is daiddweb (pages branch of DAIDD)
 
 ## cerve: jekyll.log ## takes care of local config (don't use serve)
+## http://localhost:4167/schedule/new
+## http://www.ici3d.org/DAIDD/schedule/new
 ## http://localhost:4167/
-## http://localhost:4167/schedule/
 ## http://localhost:4167/schedule/shadow?shadow
 ## http://localhost:4167/schedule/test
 
@@ -10,7 +11,6 @@
 
 ## http://www.ici3d.org/
 ## http://www.ici3d.org/DAIDD/
-## http://www.ici3d.org/DAIDD/schedule/
 ## http://www.ici3d.org/DAIDD/schedule/time03
 ## http://www.ici3d.org/DAIDD/schedule/2019.html
 ## http://www.ici3d.org/DAIDD/schedule/2018.html
