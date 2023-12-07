@@ -22,23 +22,23 @@ archive: false
 
 Select your timezone: <select name="TZ" id="TZ">
 <option value="0">Cape Town</option>
-<option value="-1">London</option>
+<option value="-2">London</option>
+<option value="-12">Waikiki</option>
+<option value="9">Melbourne</option>
 </select>
 
 <style>
+li.tz.plus::before {
+  content: attr(data-start) ' - ' attr(data-end) ' (+1d): ';
+  font-weight: bold;
+}
+li.tz.minus::before {
+  content: attr(data-start) ' - ' attr(data-end) ' (-1d): ';
+  font-weight: bold;
+}
 li.tz::before {
   content: attr(data-start) ' - ' attr(data-end) ': ';
   font-weight: bold;
-}
-li[data-who]::after {
-  content: ' (' attr(data-who) ')';
-}
-.shadow {
-  display: none;
-}
-.shadow-show {
-  color: #fff;
-  background-color: #000;
 }
 </style>
 
@@ -49,7 +49,7 @@ li[data-who]::after {
 
 - _Please join the session five minutes in advance. We will begin promptly._
 - {: .tz data-start="1630" data-end="1700"} Welcome and some logistics ({% include instructors people="bolton" %})
-	- {:. shadow} Faculty introductions; introduce DAIDD glossary
+	- {: .shadow} Faculty introductions; introduce DAIDD glossary
 - {: .tz data-start="1655" data-end="1710"} What are we doing here? ({% include instructors people="vanschalkwyk" %}) _UPDATE linking system [Slide folder](https://tinyurl.com/daidd-2019)_{: .shadow}
 - {: .tz data-start="1715" data-end="1745"} Data, models, and science ({% include instructors people="reiner" %})
 	- {: .shadow} [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
@@ -415,8 +415,6 @@ _Reminder:_
 <script src="{{ site.url }}{{ site.path }}/assets/js/jquery-2.1.1.min.js"></script>
 
 <script>
-hasShadow = (new URLSearchParams(window.location.search)).has("shadow");
-if (hasShadow) { $(".shadow").removeClass("shadow").addClass("shadow-show"); }
 
 timestarts = $('[data-start]');
 timestarts.each(function() { $(this).attr("data-os", $(this).data("start")); });
@@ -424,11 +422,28 @@ timeends = $('[data-end]');
 timeends.each(function() { $(this).attr("data-oe", $(this).data("end")); });
 $('select[name="TZ"]').on('change', function() {
   offset = parseInt($(this).val());
+  $(this).removeClass("plus minus");
   timestarts.each(function() {
-    $(this).attr("data-start", parseInt($(this).data("os")) + 100*offset);
+    checktime = parseInt($(this).data("os")) + 100*offset;
+    if (checktime > 2400) {
+      checktime = checktime - 2400;
+      $(this).addClass("plus");
+    } else if (checktime < 0) {
+      checktime = checktime + 2400;
+      $(this).addClass("minus");
+    }
+    $(this).attr("data-start", checktime);
   });
   timeends.each(function() {
-    $(this).attr("data-end", parseInt($(this).data("oe")) + 100*offset);
+    checktime = parseInt($(this).data("oe")) + 100*offset;
+    if (checktime > 2400) {
+      checktime = checktime - 2400;
+      $(this).addClass("plus");
+    } else if (checktime < 0) {
+      checktime = checktime + 2400;
+      $(this).addClass("minus");
+    }
+    $(this).attr("data-end", checktime);
   });
 });
 </script>
