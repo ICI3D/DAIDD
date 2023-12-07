@@ -106,6 +106,17 @@ Sources += $(wildcard participants/*.md)
 
 ######################################################################
 
+## Add time codes
+
+# schedule/new.md.timecodes: schedule/new.md
+%.timecodes: %
+	perl -i -wf timecodes.pl $<
+
+new.timecodes.md: schedule/new.md timecodes.pl
+	$(PUSH)
+
+######################################################################
+
 Sources += roadmap/index.md $(wilcard roadmap/*.png)
 
 ######################################################################
