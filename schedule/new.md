@@ -81,10 +81,10 @@ _**Please complete the following between the end of Sunday's interactive session
 - Recommended reading: If you have not already read the [compiled pre-assigned readings](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2023Participants/Shared%20Documents/General/Pre-readings?csf=1&web=1&e=TywfXS), please do so now. These and other optional readings are available through the Pre-readings Folder in the DAIDD Participants Team.
 - {: .shadow}  FB updated link to DAIDD 2023
 
+### Monday
+
 - {: .tz data-start="0030"} Tea with North American Faculty
 - {: .tz data-start="1330"} Tea with African Faculty
-
-### Monday
 
 #### Interactive session 2a ({% include instructors people="vanschalkwyk" %})
 
@@ -141,16 +141,16 @@ ICI3D::dynamicalFever{% include instructors people="" %}
     - Enter passcode: 9JKhQ&=Y
 	 * ({% include instructors people="pulliam" %}, {% include instructors people="pearson" %}, Sheetal Silal)
 
-_Reminder:_
 
-- {: .tz data-start="030"} Tea with North American Faculty
-- {: .tz data-start="1330"} Tea with African Faculty
 
 ### Tuesday
-_Thumbi is not availabe on Tuesday_{: .shadow}
+_Thumbi is not available on Tuesday_{: .shadow}
 _Zi is not available 17h30-19h30 SAST_{: .shadow}
 
-#### Interactive session 3a ({% include instructors people="bolton" %})
+- {: .tz data-start="0030"} Tea with North American Faculty
+- {: .tz data-start="1330"} Tea with African Faculty
+
+#### Interactive session 3a ({% include instructors people="li" %})
 
 **16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
@@ -210,12 +210,10 @@ ICI3D::reedFrost{% include instructors people="" %}
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.draft.pdf)
     - {: .shadow} [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 
-_Reminder:_
-
-- {: .tz data-start="030"} Tea with North American Faculty
-- {: .tz data-start="1330"} Tea with African Faculty
-
 ### Wednesday
+
+- {: .tz data-start="0030"} Tea with North American Faculty
+- {: .tz data-start="1330"} Tea with African Faculty
 
 #### Interactive session 4a ({% include instructors people="are" %})
 
@@ -230,7 +228,7 @@ _Reminder:_
 **19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - {: .tz data-start="1930" data-end="1945"} Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ({% include instructors people="dushoff" %}) _(15 mins)_{: .shadow}
-- {: .tz data-start="1945" data-end="2030"} Tutorial: Heterogeneity in disease emergence ({% include instructors people="reiner" %}, {% include instructors people="bolton" %}, {% include instructors people="are" %}) _(45 mins)_{: .shadow}
+- {: .tz data-start="1945" data-end="2030"} Tutorial: Heterogeneity in disease emergence ({% include instructors people="reiner" %}, {% include instructors people="are" %}) _(45 mins)_{: .shadow}
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	 * {: .shadow} TODO make this a link!
 
@@ -269,13 +267,11 @@ ICI3D::heterogeneityTutorial{% include instructors people="" %}
 - Video lecture {% include instructors people="optional" %}: [Faculty research presentation](https://www.youtube.com/watch?v=xVutQlqk_eQ): The potential for cervical cancer elimination in South Africa ({% include instructors people="vanschalkwyk" %})
 **_Catch-up on earlier materials, as needed_**
 
-_Reminder:_
+### Thursday
 
-- {: .tz data-start="030"} Tea with North American Faculty
+- {: .tz data-start="0030"} Tea with North American Faculty
 - {: .tz data-start="1330"} Tea with African Faculty
 - {: .shadow} Zi not available for Tea
-
-### Thursday
 
 #### Interactive session 5a ({% include instructors people="dushoff" %})
 
@@ -329,12 +325,10 @@ ICI3D::hivTutorial{% include instructors people="" %}
 - {: .shadow} [2022 link](https://stellenbosch.sharepoint.com/:b:/r/sites/DAIDD2022Participants/Shared%20Documents/General/Lecture%20Slides/Individual_5/Model_assessment_Dushoff.pdf?csf=1&web=1&e=XkOWKB)
 _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; JP will source games_{: .shadow}
 
-_Reminder:_
-
-- {: .tz data-start="030"} Tea with North American Faculty
-- {: .tz data-start="1330"} Tea with African Faculty
-
 ### Friday
+
+- {: .tz data-start="0030"} Tea with North American Faculty
+- {: .tz data-start="1330"} Tea with African Faculty
 
 #### Interactive session 6a ({% include instructors people="vanschalkwyk" %})
 
@@ -382,15 +376,13 @@ _Reminder:_
 	* Schedule to be posted
   * {: .shadow} [Schedule]{% include instructors people="" %} NOTE update link!
 
-_Reminder:_
+#### Individual session 7
 
-- {: .tz data-start="030"} Tea with North American Faculty
+- {: .tz data-start="0030"} Tea with North American Faculty
 - {: .tz data-start="1330"} Tea with African Faculty
 - {: .shadow} Zi not available for Tea
   
 ### Saturday
-
-#### Individual session 7
 
 **_Special session_ (Africa) 15:00-16:30**
 
