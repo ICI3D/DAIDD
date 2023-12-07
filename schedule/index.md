@@ -406,34 +406,30 @@ _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; J
 
 <script>
 
+function tzupdater(offset, target, attr) { return function() {
+    $t = $(this);
+    $t.removeClass("plus minus");
+    checktime = parseInt($t.data(target)) + offset;
+    if (checktime > 2400) {
+        checktime = checktime - 2400;
+        $t.addClass("plus");
+    } else if (checktime < 0) {
+        checktime = checktime + 2400;
+        $t.addClass("minus");
+    }
+    $t.attr("data-" + attr, String(checktime).padStart(4, '0'));
+} }
+
 timestarts = $('[data-start]');
 timestarts.each(function() { $(this).attr("data-os", $(this).data("start")); });
+timestarts.each(tzupdater(0, "os", "start"));
 timeends = $('[data-end]');
 timeends.each(function() { $(this).attr("data-oe", $(this).data("end")); });
+timeends.each(tzupdater(0, "oe", "end"));
+
 $('select[name="TZ"]').on('change', function() {
-  offset = parseInt($(this).val());
-  $(this).removeClass("plus minus");
-  timestarts.each(function() {
-    checktime = parseInt($(this).data("os")) + 100*offset;
-    if (checktime > 2400) {
-      checktime = checktime - 2400;
-      $(this).addClass("plus");
-    } else if (checktime < 0) {
-      checktime = checktime + 2400;
-      $(this).addClass("minus");
-    }
-    $(this).attr("data-start", checktime);
-  });
-  timeends.each(function() {
-    checktime = parseInt($(this).data("oe")) + 100*offset;
-    if (checktime > 2400) {
-      checktime = checktime - 2400;
-      $(this).addClass("plus");
-    } else if (checktime < 0) {
-      checktime = checktime + 2400;
-      $(this).addClass("minus");
-    }
-    $(this).attr("data-end", checktime);
-  });
+  offset = 100*parseInt($(this).val());
+  timestarts.each(tzupdater(offset, "os", "start"));
+  timeends.each(tzupdater(offset, "oe", "end"));
 });
 </script>
