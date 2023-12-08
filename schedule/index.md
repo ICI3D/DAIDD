@@ -20,11 +20,29 @@ alertmsg: >
 archive: false
 ---
 
-Select your timezone: <select name="TZ" id="TZ">
-<option value="0">Cape Town</option>
-<option value="-2">London</option>
-<option value="-12">Waikiki</option>
-<option value="9">Melbourne</option>
+__Select your timezone:__ <select name="TZ" id="TZ">
+<option value="0">Cape Town (our spiritual home)</option>
+<option value="-7">Gainesville (our original home)</option>
+<option value="-12">Honolulu</option>
+<option value="-11">Anchorage</option>
+<option value="-10">Los Angeles</option>
+<option value="-9">Denver</option>
+<option value="-8">Chicago</option>
+<option value="-7">New York City</option>
+<option value="-6">Halifax</option>
+<option value="-5">Buenos Aires</option>
+<option value="-2">Abidjan</option>
+<option value="-1">Kinshasa</option>
+<option value="0">Johannesburg</option>
+<option value="1">Dar es Salaam</option>
+<option value="2">Dubai</option>
+<option value="3">Karachi</option>
+<option value="4">Dhaka</option>
+<option value="5">Jakarta</option>
+<option value="6">Singapore</option>
+<option value="7">Tokyo</option>
+<option value="8">Sydney</option>
+<option value="10">Auckland</option>
 </select>
 
 <style>
@@ -81,14 +99,16 @@ _**Please complete the following between the end of Sunday's interactive session
 - Recommended reading: If you have not already read the [compiled pre-assigned readings](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2023Participants/Shared%20Documents/General/Pre-readings?csf=1&web=1&e=TywfXS), please do so now. These and other optional readings are available through the Pre-readings Folder in the DAIDD Participants Team.
 - {: .shadow}  FB updated link to DAIDD 2023
 
+
+----------------------------------------------------------------------
+
+- {: .tz data-start="2430"} Tea with North American Faculty
+
 ### Monday
 
-- {: .tz data-start="0030"} Tea with North American Faculty
 - {: .tz data-start="1330"} Tea with African Faculty
 
 #### Interactive session 2a ({% include instructors people="vanschalkwyk" %})
-
-**16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 _Do we need a Monday recap? Historically no._{: .shadow}
 
@@ -117,7 +137,6 @@ ICI3D::dynamicalFever{% include instructors people="" %}
 
 #### Interactive session 2b ({% include instructors people="mwangi" %})
 
-**19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - {: .tz data-start="1930" data-end="2000"} Discussion: Dynamical Fever ({% include instructors people="bolton" %}) _[model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)_{: .shadow}
 - {: .tz data-start="2000" data-end="2130"} Small group session: research questions for modeling projects ([all faculty](https://www.ici3d.org/DAIDD/team/)) NOTE (90 mins)
@@ -143,16 +162,18 @@ ICI3D::dynamicalFever{% include instructors people="" %}
 
 
 
+----------------------------------------------------------------------
+
+- {: .tz data-start="2430"} Tea with North American Faculty
+
 ### Tuesday
 _Thumbi is not available on Tuesday_{: .shadow}
 _Zi is not available 17h30-19h30 SAST_{: .shadow}
 
-- {: .tz data-start="0030"} Tea with North American Faculty
 - {: .tz data-start="1330"} Tea with African Faculty
 
 #### Interactive session 3a ({% include instructors people="li" %})
 
-**16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - {: .tz data-start="1630" data-end="1645"} Daily recap ({% include instructors people="mthombothi" %}) _(15 mins)For Interactive Session 2a/b_{: .shadow}
     - {: .shadow} [DAIDD roadmap slideset](https://www.dropbox.com/s/f37p9hgizwx360t/DAIDDroadmap.pptx?dl=1) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
@@ -166,7 +187,6 @@ _Zi is not available 17h30-19h30 SAST_{: .shadow}
 
 #### Interactive session 3b ({% include instructors people="reiner" %})
 
-**19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - {: .tz data-start="1930" data-end="2015"} Exercise: Simple individual-based models ({% include instructors people="li" %}) _(30 mins)_{: .shadow}
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
@@ -210,14 +230,16 @@ ICI3D::reedFrost{% include instructors people="" %}
 	* [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.draft.pdf)
     - {: .shadow} [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 
+----------------------------------------------------------------------
+
+- {: .tz data-start="2430"} Tea with North American Faculty
+
 ### Wednesday
 
-- {: .tz data-start="0030"} Tea with North American Faculty
 - {: .tz data-start="1330"} Tea with African Faculty
 
 #### Interactive session 4a ({% include instructors people="are" %})
 
-**16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - {: .tz data-start="1630" data-end="1645"} Daily recap ({% include instructors people="kubjane" %}) _(15 mins)_{: .shadow}
 - {: .tz data-start="1645" data-end="1700"} Summary and discussion: Stochastic simulation models ({% include instructors people="mthombothi" %}) _(15 mins)_{: .shadow}
@@ -225,7 +247,6 @@ ICI3D::reedFrost{% include instructors people="" %}
 
 #### Interactive session 4b ({% include instructors people="li" %})
 
-**19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - {: .tz data-start="1930" data-end="1945"} Summary and discussion: Impact of contact patterns, consequences of heterogeneity, and modeling options ({% include instructors people="dushoff" %}) _(15 mins)_{: .shadow}
 - {: .tz data-start="1945" data-end="2030"} Tutorial: Heterogeneity in disease emergence ({% include instructors people="reiner" %}, {% include instructors people="are" %}) _(45 mins)_{: .shadow}
@@ -267,15 +288,17 @@ ICI3D::heterogeneityTutorial{% include instructors people="" %}
 - Video lecture {% include instructors people="optional" %}: [Faculty research presentation](https://www.youtube.com/watch?v=xVutQlqk_eQ): The potential for cervical cancer elimination in South Africa ({% include instructors people="vanschalkwyk" %})
 **_Catch-up on earlier materials, as needed_**
 
+----------------------------------------------------------------------
+
+- {: .tz data-start="2430"} Tea with North American Faculty
+
 ### Thursday
 
-- {: .tz data-start="0030"} Tea with North American Faculty
 - {: .tz data-start="1330"} Tea with African Faculty
 - {: .shadow} Zi not available for Tea
 
 #### Interactive session 5a ({% include instructors people="dushoff" %})
 
-**16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - {: .tz data-start="1630" data-end="1650"} Regroup after feedback ({% include instructors people="vanschalkwyk" %}) _(20 mins)_{: .shadow}
 - {: .tz data-start="1650" data-end="1705"} Daily recap ({% include instructors people="mhlanga" %}) _(15 mins)_{: .shadow}
@@ -286,7 +309,6 @@ ICI3D::heterogeneityTutorial{% include instructors people="" %}
 
 #### Interactive session 5b ({% include instructors people="mthombothi" %})
 
-**19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - {: .tz data-start="1930" data-end="2100"} Tutorial: Model fitting ({% include instructors people="are" %}) _(90 mins?) - [Tutorial notes](../Materials/hivTutorial)_{: .shadow}
   - {: .shadow} (Tutorial wrapup by {% include instructors people="dushoff" %}) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
@@ -325,14 +347,16 @@ ICI3D::hivTutorial{% include instructors people="" %}
 - {: .shadow} [2022 link](https://stellenbosch.sharepoint.com/:b:/r/sites/DAIDD2022Participants/Shared%20Documents/General/Lecture%20Slides/Individual_5/Model_assessment_Dushoff.pdf?csf=1&web=1&e=XkOWKB)
 _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; JP will source games_{: .shadow}
 
+----------------------------------------------------------------------
+
+- {: .tz data-start="2430"} Tea with North American Faculty
+
 ### Friday
 
-- {: .tz data-start="0030"} Tea with North American Faculty
 - {: .tz data-start="1330"} Tea with African Faculty
 
 #### Interactive session 6a ({% include instructors people="vanschalkwyk" %})
 
-**16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - {: .tz data-start="1630" data-end="1645"} Daily recap ({% include instructors people="mhlanga" %}) _(15 mins)_{: .shadow}
 - {: .tz data-start="1645" data-end="1700"} Summary and discussion: Model evaluation and comparison ({% include instructors people="dushoff" %}) _(20 mins?)_{: .shadow}
@@ -343,7 +367,6 @@ _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; J
 
 #### Interactive session 6b ({% include instructors people="vanschalkwyk" %})
 
-**19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - {: .tz data-start="1930" data-end="2000"} Live lecture: Model-based inference and the bigger picture ({% include instructors people="reiner" %}) _(30 mins)_{: .shadow}
 	* {: .shadow} Need to update this lecture!
@@ -378,11 +401,15 @@ _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; J
 
 #### Individual session 7
 
-- {: .tz data-start="0030"} Tea with North American Faculty
-- {: .tz data-start="1330"} Tea with African Faculty
-- {: .shadow} Zi not available for Tea
+
+----------------------------------------------------------------------
+
+- {: .tz data-start="2430"} Tea with North American Faculty
   
 ### Saturday
+
+- {: .tz data-start="1330"} Tea with African Faculty
+- {: .shadow} Zi not available for Tea
 
 **_Special session_ (Africa) 15:00-16:30**
 
@@ -390,14 +417,12 @@ _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; J
     - {: .shadow} [Schedule]{% include instructors people="" %} NOTE update link!
 
 #### Interactive session 7a ({% include instructors people="are" %})
-**16:30-18:30 SAST / 14:30-16:30 BST / 9:30-11:30 EST / 6:30-8:30 PST**
 
 - {: .tz data-start="1630" data-end="1645"} Daily recap ({% include instructors people="li" %}) _(15 mins)_{: .shadow}
 - {: .tz data-start="1645" data-end="1830"} Discussion of research plans/proposals (Moderator: {% include instructors people="are" %})
 	* {: .shadow} [Proposal order](../participants/order)
 
 #### Interactive session 7b
-**19:30-21:30 SAST / 17:30-19:30 BST / 12:30-14:30 EST / 9:30-11:30 PST**
 
 - {: .tz data-start="1930" data-end="2100"} Final feedback session ({% include instructors people="bruce" %}) _(60-90 mins)_{: .shadow}
 - {: .tz data-start="2100" data-end="2115"} Closing session ({% include instructors people="vanschalkwyk" %}) _(15 mins)_{: .shadow}
