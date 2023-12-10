@@ -127,7 +127,7 @@ _Do we need a Monday recap? Historically no._{: .shadow}
 <div class="col-lg-10">
 {% highlight r %}
 
-ICI3D::dynamicalFever{% include instructors people="" %}
+ICI3D::dynamicalFever()
 
 {% endhighlight %}
 </div>
@@ -198,7 +198,7 @@ _Zi is not available 17h30-19h30 SAST_{: .shadow}
 <div class="col-lg-10">
 {% highlight r %}
 
-ICI3D::reedFrost{% include instructors people="" %}
+ICI3D::reedFrost()
 
 {% endhighlight %}
 </div>
@@ -259,7 +259,7 @@ ICI3D::reedFrost{% include instructors people="" %}
 <div class="col-lg-10">
 {% highlight r %}
 
-ICI3D::heterogeneityTutorial{% include instructors people="" %}
+ICI3D::heterogeneityTutorial()
 
 {% endhighlight %}
 </div>
@@ -320,7 +320,7 @@ ICI3D::heterogeneityTutorial{% include instructors people="" %}
 <div class="col-lg-10">
 {% highlight r %}
 
-ICI3D::hivTutorial{% include instructors people="" %}
+ICI3D::hivTutorial()
 
 {% endhighlight %}
 </div>
