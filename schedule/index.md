@@ -83,7 +83,7 @@ li.tz::before {
 - {: .tz data-start="1930" data-end="2130"} Research pitches
     - {: .shadow} [Order of introductions](./introductions)
     - {: .shadow} Allow for 15 minute break
-- {: .shadow} 21:30-22:00 Faculty meeting
+- {: .shadow} {: .tz data-start="2015" data-end="2130"} 21:30-22:00 Faculty meeting
 
 #### Individual session 1
 
