@@ -1,7 +1,7 @@
 ## This is daiddweb (pages branch of DAIDD)
 
 ## cerve: jekyll.log ## takes care of local config (don't use serve)
-## http://localhost:4167/schedule/
+## http://localhost:4167/schedule/?shadow
 ## http://www.ici3d.org/DAIDD/schedule/
 ## http://localhost:4167/
 ## http://localhost:4167/schedule/shadow?shadow
@@ -25,7 +25,7 @@ current: target
 # Content
 
 vim_session:
-	bash -cl "vmt schedule/index.md schedule/shadow.md timeshadow.pl"
+	bash -cl "vmt schedule/index.md"
 
 ## alldirs += ICI3D.github.io
 ICI3D.github.io/_config.yml:

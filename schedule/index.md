@@ -69,7 +69,6 @@ li.tz::before {
 - {: .tz data-start="1630" data-end="1700"} Welcome and some logistics ({% include instructors people="bolton" %})
 	- {: .shadow} Faculty introductions; introduce DAIDD glossary
 - {: .tz data-start="1655" data-end="1710"} What are we doing here? ({% include instructors people="vanschalkwyk" %}) _UPDATE linking system [Slide folder](https://tinyurl.com/daidd-2019)_{: .shadow}
-- {: .shadow} Move the "Working with DAIDD technical tools" before "Data, models, and Science lecture".
 - {: .tz data-start="1715" data-end="1745"} Data, models, and science ({% include instructors people="reiner" %})
 	- {: .shadow} [Lecture handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.handouts.pdf); [Draft slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
 - {: .tz data-start="1745" data-end="1800"} Working with the DAIDD technical tools ({% include instructors people="li" %}, {% include instructors people="bruce" %}) _(15 mins)_{: .shadow}
@@ -84,7 +83,7 @@ li.tz::before {
 - {: .tz data-start="1930" data-end="2130"} Research pitches
     - {: .shadow} [Order of introductions](./introductions)
     - {: .shadow} Allow for 15 minute break
-- {: .shadow} {: .tz data-start="2015" data-end="2130"} 21:30-22:00 Faculty meeting
+- {: .shadow} 21:30-22:00 Faculty meeting
 
 #### Individual session 1
 
