@@ -2,6 +2,7 @@
 
 ## cerve: jekyll.log ## takes care of local config (don't use serve)
 ## http://localhost:4167/schedule/?shadow
+## http://localhost:4167/schedule/
 ## http://www.ici3d.org/DAIDD/schedule/
 ## http://localhost:4167/
 ## http://localhost:4167/schedule/shadow?shadow

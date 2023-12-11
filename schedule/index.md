@@ -83,7 +83,7 @@ li.tz::before {
 - {: .tz data-start="1930" data-end="2130"} Research pitches
     - {: .shadow} [Order of introductions](./introductions)
     - {: .shadow} Allow for 15 minute break
-- {: .shadow} 21:30-22:00 Faculty meeting
+- {: .tz .shadow data-start="2130" data-end="2200"} Faculty meeting
 
 #### Individual session 1
 
@@ -141,7 +141,8 @@ ICI3D::dynamicalFever()
 - {: .tz data-start="1930" data-end="2000"} Discussion: Dynamical Fever ({% include instructors people="bolton" %}) _[model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)_{: .shadow}
 - {: .tz data-start="2000" data-end="2130"} Small group session: research questions for modeling projects ([all faculty](https://www.ici3d.org/DAIDD/team/)) NOTE (90 mins)
     - {: .shadow} [Step-by-step guide from in-person version – is this still useful?](../Materials/researchQuestions)
-- {: .shadow} 21:30-22:00 Faculty meeting
+    - {: .shadow} [Step-by-step guide from in-person version – is this still useful?](../Materials/researchQuestions)
+- {: .tz .shadow data-start="2130" data-end="2200"} Faculty meeting
 
 #### Individual session 2
 
@@ -209,7 +210,7 @@ ICI3D::reedFrost()
 - {: .tz data-start="2015" data-end="2130"} Exercise: Creating a model world to address a research question ({% include instructors people="mwangi" %})
 - {: .shadow} ((vanschalkwyk/mwangi)) (90 mins)
 	 * {: .shadow} shortened by 15 minutes for logistical reasons 2022
-- {: .shadow} 21:30-22:00 Faculty meeting
+- {: .tz .shadow data-start="2130" data-end="2200"} Faculty meeting
 
 #### Individual session 3
 
@@ -330,7 +331,7 @@ ICI3D::hivTutorial()
 
 - {: .tz data-start="2100" data-end="2130"} Review: model taxonomy ({% include instructors people="bolton" %}) _Set up 'planning your approach exercise'_{: .shadow}
     - {: .shadow} [Planning document](https://docs.google.com/document/d/131l0PnkzeURcDt9sC0_5Qk-VAet3w64v3mhCzeY_MoQ/edit?usp=sharing)
-- {: .shadow} 21:30-22:00 Faculty meeting
+- {: .tz .shadow data-start="2130" data-end="2200"} Faculty meeting
 
 #### Individual session 5
 
@@ -376,7 +377,7 @@ _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; J
 	* [Bellan HIV paper](https://pubmed.ncbi.nlm.nih.gov/23391466/)
 - {: .tz data-start="2000" data-end="2030"} Review and Discussion (Moderator: {% include instructors people="vanschalkwyk" %}) _(30 mins free form discussion / Q&A on topics raised by participants)_{: .shadow}
 - {: .tz data-start="2030" data-end="2130"} Small group session: planning your approach ([all faculty](https://www.ici3d.org/DAIDD/team/)) _(60 mins)_{: .shadow}
-- {: .shadow} 21:30-22:00 Faculty meeting
+- {: .tz .shadow data-start="2130" data-end="2200"} Faculty meeting
 
 #### Individual session 6
 
