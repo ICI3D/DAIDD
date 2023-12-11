@@ -140,7 +140,7 @@ ICI3D::dynamicalFever()
 
 - {: .tz data-start="1930" data-end="2000"} Discussion: Dynamical Fever ({% include instructors people="bolton" %}) _[model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)_{: .shadow}
 - {: .tz data-start="2000" data-end="2130"} Small group session: research questions for modeling projects ([all faculty](https://www.ici3d.org/DAIDD/team/)) NOTE (90 mins)
-    - {: .shadow} [Step-by-step guide](../Materials/researchQuestions)
+    - {: .shadow} [Step-by-step guide from in-person version – is this still useful?](../Materials/researchQuestions)
 - {: .shadow} 21:30-22:00 Faculty meeting
 
 #### Individual session 2
