@@ -180,7 +180,7 @@ _Zi is not available 17h30-19h30 SAST_{: .shadow}
     - {: .shadow} [DAIDD roadmap slideset](https://www.dropbox.com/s/f37p9hgizwx360t/DAIDDroadmap.pptx?dl=1) - [recap folder](https://tinyurl.com/daidd-2019-recaps)
 - {: .tz data-start="1645" data-end="1700"} Summary and discussion: The SIR model family ({% include instructors people="dushoff" %})
 - {: .tz data-start="1700" data-end="1730"} Exercise: Building an SIR model from scratch ({% include instructors people="dushoff" %}) _(30 mins?) NOTE + 5 min stretch break_{: .shadow}
-	* [2022 live spreadsheet](https://docs.google.com/spreadsheets/d/1xTqEuBhwgMOF2KVoJREGARF7LprLlnpCkZm2USM2OHk/edit) (copy or save to work on it)
+	* [2023 live spreadsheet](https://docs.google.com/spreadsheets/d/1S8WKHVjt8cFExWwnjI5W3Ock8Nk_G0jgb5_yIUtwv8E/) (copy or save to work on it)
 	* [Spreadsheet with stochastic code](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
 - {: .tz data-start="1730" data-end="1745"} Summary and discussion: The life cycle of a modeling project ({% include instructors people="reiner" %})
 - {: .tz data-start="1745" data-end="1830"} Live lecture: The simplest model ({% include instructors people="pearson" %}) _[Slide folder](https://tinyurl.com/daidd-2019), [Source for slides](https://github.com/dushoff/disease_model_talks) NOTE (45 mins)_{: .shadow}
