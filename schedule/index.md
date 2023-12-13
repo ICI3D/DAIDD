@@ -238,6 +238,7 @@ ICI3D::reedFrost()
 ### Wednesday
 
 - {: .tz data-start="1330"} Tea with African Faculty
+- {: .shadow} Zi not available for Tea
 
 #### Interactive session 4a ({% include instructors people="are" %})
 
@@ -355,7 +356,7 @@ _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; J
 ### Friday
 
 - {: .tz data-start="1330"} Tea with African Faculty
-
+- {: .shadow} Zi not available for Tea
 #### Interactive session 6a ({% include instructors people="vanschalkwyk" %})
 
 
