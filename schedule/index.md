@@ -95,7 +95,7 @@ _**Please complete the following between the end of Sunday's interactive session
 - Video lecture: [Introduction to model worlds](https://youtu.be/ev8jMgv-DEg) _{% include instructors people="pulliam" %}_{: .shadow}
     - Reference: [Bellan _et al_. 2015](https://doi.org/10.1016/S1473-3099(15)70139-8)
     - Reference: [Kucharski _et al_. 2015](https://www.pnas.org/content/112/46/14366)
-- Exercise: [Formulating research questions for modeling projects](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1) _Also available in the Assignments folder in the General Channel of the DAIDD Participants Team_{: .shadow}
+- Exercise: [Formulating research questions for modeling projects](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1) See **Research Questions - PICO**__ on the [Resources page](https://www.ici3d.org/DAIDD/resources/) for some examples. _Also available in the Assignments folder in the General Channel of the DAIDD Participants Team_{: .shadow}
 - Recommended reading: If you have not already read the [compiled pre-assigned readings](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2023Participants/Shared%20Documents/General/Pre-readings?csf=1&web=1&e=TywfXS), please do so now. These and other optional readings are available through the Pre-readings Folder in the DAIDD Participants Team.
 - {: .shadow}  FB updated link to DAIDD 2023
 
