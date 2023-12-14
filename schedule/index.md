@@ -304,6 +304,8 @@ ICI3D::heterogeneityTutorial()
 
 
 - {: .tz data-start="1630" data-end="1650"} Regroup after feedback ({% include instructors people="vanschalkwyk" %}) _(20 mins)_{: .shadow}
+- {: .shadow} Alert all participants to the deadline to upload. They will be alllocated in groups accordingly - based on whether they submitted.
+- {: shadow} FB to allocate based on those who have submitted - update! update! update!
 - {: .tz data-start="1650" data-end="1705"} Daily recap ({% include instructors people="mhlanga" %}) _(15 mins)_{: .shadow}
 - {: .tz data-start="1705" data-end="1720"} Summary and discussion: Models and data: introduction to model fitting ({% include instructors people="vanschalkwyk" %}) _(15 mins)_{: .shadow}
 - {: .tz data-start="1720" data-end="1830"} Writing exercise: description of proposed model and assumptions ({% include instructors people="mthombothi" %}) _(65 mins?) Model telephone_{: .shadow}
