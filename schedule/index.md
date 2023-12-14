@@ -218,6 +218,7 @@ ICI3D::reedFrost()
 
 - Exercise: Creating a model world assignment.
     - [Step-by-step guide](../Materials/modelWorld)
+    - See **Notation notes**__ on the [Resources page](https://www.ici3d.org/DAIDD/resources/)
     -  Upload your initial model diagram before Wednesday's interactive session (DAIDD Participants > General > Files > 04_modelDiagram > 04.1_InitialDiagrams).
 - Video {% include instructors people="optional" %}: [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example _Pulliam_{: .shadow}
     - Research question: What level of vaccination is necessary to eliminate domestic dog rabies in Tanzania?
@@ -340,6 +341,7 @@ ICI3D::hivTutorial()
 
 - Exercise: Finalize your model diagram and description and post to Teams _{% include instructors people="bruce" %} to make folders for assignments_{: .shadow} 
     - Place them both as a single file in DAIDD Participants > General > Files > 05_modelDescription
+    - See **Notation notes**__ on the [Resources page](https://www.ici3d.org/DAIDD/resources/)
     - Now would also be a good time to review the [research plan instructions](../Materials/researchPlans)
 - Exercise: Work through the [document for planning your approach](https://www.dropbox.com/s/w5nwkp5d30fmf0e/planningYourApproach.docx?dl=1) (available in DAIDD Participants > General > Files > Assignments)
 - Video lecture: [Model evaluation and comparison](https://www.youtube.com/watch?v=0c5P1Lv33hM) ({% include instructors people="dushoff" %})
