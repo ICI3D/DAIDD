@@ -10,6 +10,7 @@ subtitle: Resources for during and after the Clinic
     - [DAIDD Glossary](./DAIDD_Glossary.pdf)
     - [Modelling concepts](./modellingConcepts)
     - [Notation notes](https://www.dropbox.com/s/d67czzn1f3qkcet/notationNotes.pdf?dl=1) from DAIDD 2020
+    - [Research Questions - PICO](https://drive.google.com/file/d/1e6bEVx1A3lz-Go_Q2fblOuRQdBEaSc3m/view?usp=sharing)
 - Learning R
     - [ICI3D tutorials](http://www.ici3d.org/MMED/tutorials/)
     - [Repository template for student modelling projects](https://github.com/SACEMA/repo_template)

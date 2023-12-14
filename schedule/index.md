@@ -95,7 +95,7 @@ _**Please complete the following between the end of Sunday's interactive session
 - Video lecture: [Introduction to model worlds](https://youtu.be/ev8jMgv-DEg) _{% include instructors people="pulliam" %}_{: .shadow}
     - Reference: [Bellan _et al_. 2015](https://doi.org/10.1016/S1473-3099(15)70139-8)
     - Reference: [Kucharski _et al_. 2015](https://www.pnas.org/content/112/46/14366)
-- Exercise: [Formulating research questions for modeling projects](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1) _Also available in the Assignments folder in the General Channel of the DAIDD Participants Team_{: .shadow}
+- Exercise: [Formulating research questions for modeling projects](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1) See **Research Questions - PICO**__ on the [Resources page](https://www.ici3d.org/DAIDD/resources/) for some examples. _Also available in the Assignments folder in the General Channel of the DAIDD Participants Team_{: .shadow}
 - Recommended reading: If you have not already read the [compiled pre-assigned readings](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2023Participants/Shared%20Documents/General/Pre-readings?csf=1&web=1&e=TywfXS), please do so now. These and other optional readings are available through the Pre-readings Folder in the DAIDD Participants Team.
 - {: .shadow}  FB updated link to DAIDD 2023
 
@@ -217,6 +217,7 @@ ICI3D::reedFrost()
 
 - Exercise: Creating a model world assignment.
     - [Step-by-step guide](../Materials/modelWorld)
+    - See **Notation notes**__ on the [Resources page](https://www.ici3d.org/DAIDD/resources/)
     -  Upload your initial model diagram before Wednesday's interactive session (DAIDD Participants > General > Files > 04_modelDiagram > 04.1_InitialDiagrams).
 - Video {% include instructors people="optional" %}: [Creating a model world](https://youtu.be/7e18CBtoAcY) - another example _Pulliam_{: .shadow}
     - Research question: What level of vaccination is necessary to eliminate domestic dog rabies in Tanzania?
@@ -237,6 +238,7 @@ ICI3D::reedFrost()
 ### Wednesday
 
 - {: .tz data-start="1330"} Tea with African Faculty
+- {: .shadow} Zi not available for Tea
 
 #### Interactive session 4a ({% include instructors people="are" %})
 
@@ -301,6 +303,8 @@ ICI3D::heterogeneityTutorial()
 
 
 - {: .tz data-start="1630" data-end="1650"} Regroup after feedback ({% include instructors people="vanschalkwyk" %}) _(20 mins)_{: .shadow}
+- {: .shadow} Alert all participants to the deadline to upload. They will be alllocated in groups accordingly - based on whether they submitted.
+- {: .shadow} FB to allocate based on those who have submitted - update! update! update!
 - {: .tz data-start="1650" data-end="1705"} Daily recap ({% include instructors people="mhlanga" %}) _(15 mins)_{: .shadow}
 - {: .tz data-start="1705" data-end="1720"} Summary and discussion: Models and data: introduction to model fitting ({% include instructors people="vanschalkwyk" %}) _(15 mins)_{: .shadow}
 - {: .tz data-start="1720" data-end="1830"} Writing exercise: description of proposed model and assumptions ({% include instructors people="mthombothi" %}) _(65 mins?) Model telephone_{: .shadow}
@@ -338,6 +342,7 @@ ICI3D::hivTutorial()
 
 - Exercise: Finalize your model diagram and description and post to Teams _{% include instructors people="bruce" %} to make folders for assignments_{: .shadow} 
     - Place them both as a single file in DAIDD Participants > General > Files > 05_modelDescription
+    - See **Notation notes**__ on the [Resources page](https://www.ici3d.org/DAIDD/resources/)
     - Now would also be a good time to review the [research plan instructions](../Materials/researchPlans)
 - Exercise: Work through the [document for planning your approach](https://www.dropbox.com/s/w5nwkp5d30fmf0e/planningYourApproach.docx?dl=1) (available in DAIDD Participants > General > Files > Assignments)
 - Video lecture: [Model evaluation and comparison](https://www.youtube.com/watch?v=0c5P1Lv33hM) ({% include instructors people="dushoff" %})
@@ -354,7 +359,7 @@ _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; J
 ### Friday
 
 - {: .tz data-start="1330"} Tea with African Faculty
-
+- {: .shadow} Zi not available for Tea
 #### Interactive session 6a ({% include instructors people="vanschalkwyk" %})
 
 
