@@ -360,8 +360,8 @@ _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; J
 
 - {: .tz data-start="1330"} Tea with African Faculty
 - {: .shadow} Zi not available for Tea
-#### Interactive session 6a ({% include instructors people="vanschalkwyk" %})
 
+#### Interactive session 6a ({% include instructors people="vanschalkwyk" %})
 
 - {: .tz data-start="1630" data-end="1645"} Daily recap ({% include instructors people="mhlanga" %}) _(15 mins)_{: .shadow}
 - {: .tz data-start="1645" data-end="1700"} Summary and discussion: Model evaluation and comparison ({% include instructors people="dushoff" %}) _(20 mins?)_{: .shadow}
