@@ -410,11 +410,11 @@ _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; J
 
 ----------------------------------------------------------------------
 
-- {: .tz data-start="2430"} Tea with North American Faculty
+- {: .tz data-start="2430"} There will not be a tea session today
   
 ### Saturday
 
-- {: .tz data-start="1330"} Tea with African Faculty
+- {: .tz data-start="1330"} There will not be a tea session today
 - {: .shadow} Zi not available for Tea
 
 **_Special session_ (Africa) 15:00-16:30**
