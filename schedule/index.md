@@ -396,7 +396,7 @@ _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; J
 - {: .shadow} Current link is apparently to Becky et al. (MIDAS)
     - {: .shadow} [Slides]{% include instructors people="" %} NOTE update link!
     - {: .shadow} [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
-- Video lecture {% include instructors people="optional" %}: Modelling to inform policy: Polio ({% include instructors people="mthombothi" %})
+- Video lecture {% include instructors people="optional" %}: [Modelling to inform policy: Describing immunity gaps and polio transmission potential for poliovirus in SA](https://www.youtube.com/watch?v=TuWAaql89x0) ({% include instructors people="mthombothi" %})
 - Video lecture {% include instructors people="optional" %}: [Modelling to inform policy: Elimination of transmission of onchocerciasis with Ivermectin mass drug administraton with or without vector control in sub-Saharan Africa](https://youtu.be/5A7CXbH3THo) ([nyamai](http://www.ici3d.org/MMED/team/nyamai/))
 **_Special session_ (North America) 22:00-23:30**
 
