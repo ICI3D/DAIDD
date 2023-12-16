@@ -402,7 +402,7 @@ _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; J
 **_Special session_ (North America) 22:00-23:30**
 
 - One-on-one mentoring sessions
-	* Schedule to posted on [Teams](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2023Participants/Shared%20Documents/General/One_on_One%20Meeting%20Schedule?csf=1&web=1&e=dyYX1a)
+	* Schedule posted on [Teams](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2023Participants/Shared%20Documents/General/One_on_One%20Meeting%20Schedule?csf=1&web=1&e=dyYX1a)
   * {: .shadow} [Schedule]{% include instructors people="" %} NOTE update link!
 
 #### Individual session 7
@@ -420,6 +420,7 @@ _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; J
 **_Special session_ (Africa) 15:00-16:30**
 
 - One-on-one mentoring sessions _with Bolton, Mwangi, Cari, and Zinhle NOTE Schedule to be posted_{: .shadow}
+	* Schedule posted on [Teams](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2023Participants/Shared%20Documents/General/One_on_One%20Meeting%20Schedule?csf=1&web=1&e=dyYX1a)
     - {: .shadow} [Schedule]{% include instructors people="" %} NOTE update link!
 
 #### Interactive session 7a ({% include instructors people="are" %})
