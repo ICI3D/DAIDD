@@ -396,12 +396,13 @@ _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; J
 - {: .shadow} Current link is apparently to Becky et al. (MIDAS)
     - {: .shadow} [Slides]{% include instructors people="" %} NOTE update link!
     - {: .shadow} [Slides](../Materials/Bellan-ModelsInStudyDesign-Ebola.pdf), Reference: [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf), [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
-- Video lecture {% include instructors people="optional" %}: Modelling to inform policy: Polio ({% include instructors people="mthombothi" %})
+- Video lecture {% include instructors people="optional" %}: [Modelling to inform policy: Describing immunity gaps and polio transmission potential for poliovirus in SA](https://www.youtube.com/watch?v=TuWAaql89x0) (Faculty research presentation) ({% include instructors people="mthombothi" %})
 - Video lecture {% include instructors people="optional" %}: [Modelling to inform policy: Elimination of transmission of onchocerciasis with Ivermectin mass drug administraton with or without vector control in sub-Saharan Africa](https://youtu.be/5A7CXbH3THo) ([nyamai](http://www.ici3d.org/MMED/team/nyamai/))
+
 **_Special session_ (North America) 22:00-23:30**
 
 - One-on-one mentoring sessions
-	* Schedule to be posted
+	* Schedule posted on [Teams](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2023Participants/Shared%20Documents/General/One_on_One%20Meeting%20Schedule?csf=1&web=1&e=dyYX1a)
   * {: .shadow} [Schedule]{% include instructors people="" %} NOTE update link!
 
 #### Individual session 7
@@ -409,16 +410,17 @@ _Possible social activity (Game night) - eg, from c. 21:30 JD will bring beer; J
 
 ----------------------------------------------------------------------
 
-- {: .tz data-start="2430"} Tea with North American Faculty
+- {: .tz data-start="2430"} There will not be a tea session today
   
 ### Saturday
 
-- {: .tz data-start="1330"} Tea with African Faculty
+- {: .tz data-start="1330"} There will not be a tea session today
 - {: .shadow} Zi not available for Tea
 
 **_Special session_ (Africa) 15:00-16:30**
 
 - One-on-one mentoring sessions _with Bolton, Mwangi, Cari, and Zinhle NOTE Schedule to be posted_{: .shadow}
+	* Schedule posted on [Teams](https://stellenbosch.sharepoint.com/:f:/r/sites/DAIDD2023Participants/Shared%20Documents/General/One_on_One%20Meeting%20Schedule?csf=1&web=1&e=dyYX1a)
     - {: .shadow} [Schedule]{% include instructors people="" %} NOTE update link!
 
 #### Interactive session 7a ({% include instructors people="are" %})
