@@ -5,7 +5,7 @@ subtitle: Request for Applications
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 tab: Info
 alerttype: success
-alertmsg: The twelfth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held at AIMS-SA, Muizenberg, on 07-13 December 2023 on Microsoft Teams. The deadline for receipt of applications is <strong>01 October</strong>.
+alertmsg: The thirteenth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held at AIMS-SA, Muizenberg, on 07-13 December 2025. The deadline for receipt of applications is <strong>01 October</strong>.
 ---
 
 {%if false%}
