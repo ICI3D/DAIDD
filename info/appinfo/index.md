@@ -13,7 +13,7 @@ alertmsg: The thirteenth annual <strong>Clinic on Dynamical Approaches to Infect
 {%endif%}
 
 The International Clinics on Infectious Disease Dynamics and Data
-(ICI3D) Program invites applications to the twelfth annual Clinic on
+(ICI3D) Program invites applications to the thirteenth annual Clinic on
 Dynamical Approaches to Infectious Disease Data (DAIDD). This 1-week
 intensive modeling clinic will provide an introduction to dynamical
 models used in the study of infectious disease dynamics. The Clinic will
@@ -41,18 +41,13 @@ grounding in statistics and experience with data collection will be
 preferred. This workshop is not intended for those with substantial
 prior experience in dynamical modeling.
 
-The course registration fee is ZAR 3500. A small number of
-scholarships are available. Although the Clinic is virtual, applicants
-are expected to give a full-time commitment for the week (\~8 hours per
-day, plus four hours per day on the opening Sunday and closing
-Saturday). All participants *must* have access to high-speed internet
-for the duration of the Clinic.
+The course registration fee is ZAR 28000, which includes meals and accommodation.
 
 The application process for the Clinic is competitive. **The deadline
-for receipt of applications is 20 October 2023 at 23:59 SAST.**
+for receipt of applications is 01 October 2025 at 23:59 SAST.**
 Incomplete applications will not be considered.
 
-**Detailed application instructions are available via [the application form](../../apply).**
+**Detailed application instructions are available via [the application form](https://forms.gle/fzQpVSxkeC4e63Rz9).**
 
 {% if site.takingapps == true %}
 [Apply now »](../../apply "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
