@@ -23,7 +23,7 @@ subtitle: Logistical Information
 - {: .shadow } Please note that the shuttle will only operate at the specified times. You may choose to take a private shuttle/taxi from the airport, but you will not be reimbursed for this expense.
 - {: .shadow } If you have any trouble meeting up with the group (eg, due to a delayed flight), please call AIMS -- from within South Africa, dial 021 787 9262 (calling from abroad, you will need to dial the international dialing code + 27 21 787 9262). This number is for the AIMS office, which is open on Sunday afternoon (12:00-18:00) and during business hours on Monday through Friday (8:30-16:30). If you can’t get through on this number, you can try one of the mobile numbers provided in Weekly Message \#4 to report flight delays or arrival problems. You can also email <arrival@ici3d.org> at any time to communicate about your arrival details.
 - Please note that the shuttle will only operate at the specified times. You may choose to take a private shuttle/taxi from the airport, but you will not be reimbursed for this expense.
-- If you have any trouble meeting up with the group (eg, due to a delayed flight), please contact Faikah Bruce (+27 83 360 3257). You can also email <arrival@ici3d.org> at any time to communicate about your arrival details.
+- If you have any trouble meeting up with the group (eg, due to a delayed flight), please contact **Faikah Bruce** (+27 83 360 3257). You can also email <arrival@ici3d.org> at any time to communicate about your arrival details.
 
 #### For those arriving by ground
 
