@@ -9,7 +9,19 @@ subtitle: Instructions for preparation
 You should complete the following steps in preparation for the clinic before the first day of the Clinic.
 
 ### 1. Research Pitch
+- Prepare a short oral presentation summarizing your research (2 minutes max, 1 slide in PDF format)
+    - You may summarize recent, completed research that forms the basis for ongoing work, or you may give an overview of ongoing work or of a new project that's in development.
+    - We recommend selecting 1-2 visual aids (eg, figures or diagrams) that  will help you explain key aspects of the research. Please keep the text on your slide to a minimum.
+    - Do not attempt to explain all of the details of your project - stick to the essentials and keep it simple. You will be kept to time.
 
+- Prepare a more detailed description of your research
+    - We recommend using an existing description of your research, rather than creating something from scratch. For example, you could use a poster you have presented elsewhere, a project proposal you have written, or even compile abstracts from 2-3 projects you've published or presented at meetings.
+    - The intent here is not for you to spend hours preparing something new to share, rather to provide an easy way for others who are interested to learn more about your research and interests.
+    - Please do keep it brief (1-3 pages would be best).
+
+- Bring PDF versions of your slide and more detailed description with you on Sunday afternoon. We will have a session on Sunday evening where you are instructed on how to add these files to the DAIDD Participants Dropbox folder.
+
+<!-- THIS IS VIRTUAL INFORMAITON
 - Prepare a short oral presentation summarizing your research (2 minutes max, 1 slide in PDF format)
     - You may summarize recent, completed research that forms the basis for ongoing work, or you may give an overview of ongoing work or of a new project that's in development.
     - We recommend selecting 1-2 visual aids (eg, figures or diagrams) that  will help you explain key aspects of the research. Please keep the text on your slide to a minimum.
@@ -22,7 +34,7 @@ You should complete the following steps in preparation for the clinic before the
 
 - Upload the PDF version of your 1-slide research pitch to the **_01_pitchSlides_** folder on the DAIDD Participants Team on Microsoft Teams. Use the file naming convention **01_SurnameFirstname_pitch.pdf**.
 - Upload the PDF version of your more detailed description of your research to the **_02_reserachInfo_** folder on the DAIDD Participants Team, using the file naming convention **02_SurnameFirstname_info.pdf**.
-- Please contact Faikah if you have any trouble accessing the DAIDD Participants Team or uploading your material.
+- Please contact Faikah if you have any trouble accessing the DAIDD Participants Team or uploading your material.-->
 
 ### 2. Pre-assigned reading
 
