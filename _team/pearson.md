@@ -1,4 +1,4 @@
 ---
 tab: Team
-type: workshop
+type: core
 ---
