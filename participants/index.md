@@ -5,6 +5,6 @@ tab: Participants
 title: Participants
 subtitle: DAIDD 2025 Participants
 ---
-{: .shadow }The link needs to be updated 
+{: .shadow} The link needs to be updated 
 
 Download the participants list [here](./participantList). Note that you must have access to the DAIDD Participants Team in Microsoft Teams to access this link.
