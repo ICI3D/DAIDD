@@ -42,8 +42,7 @@ DAIDD 2025 will be held at AIMS-SA, Muizenberg, South Africa.
 
 ## Schedule
 
-
-Specific session times will vary by day. The general daily structure will be as follows:
+<!-- Specific session times will vary by day. The general daily structure will be as follows:
 
 In _South African Standard Time_:
 
@@ -87,7 +86,7 @@ In _Pacific Standard Time_:
 
 _Participants from other time zones are welcome, as long as they can participate fully in the scheduled interactive sessions and reserve approximately 4 hours a day for independent work._
 
-There will be a mid-session evaluation on Wednesday. 
+There will be a mid-session evaluation on Wednesday. -->
 **The full schedule for DAIDD {{page.year}} will follow similar structure to previous in-person DAIDD Clinics (e.g., [DAIDD 2019](../schedule/2019 "DAIDD 2019 schedule")). The schedule will be available via the Clinic website approximately 1 month before the Clinic.**
 
 Schedules from previous years:
