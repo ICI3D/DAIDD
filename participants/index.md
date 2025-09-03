@@ -6,4 +6,4 @@ title: Participants
 subtitle: DAIDD 2025 Participants
 ---
 
-The participant list will be made available at the start of the Clinic,
+The participant list will be made available at the start of the Clinic.
