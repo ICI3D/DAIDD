@@ -19,7 +19,7 @@ You should complete the following steps in preparation for the clinic before the
     - The intent here is not for you to spend hours preparing something new to share, rather to provide an easy way for others who are interested to learn more about your research and interests.
     - Please do keep it brief (1-3 pages would be best).
 
-- Bring PDF versions of your slide and more detailed description with you on Sunday afternoon. We will have a session on Sunday evening where you are instructed on how to add these files to the DAIDD Participants Dropbox folder.
+- Bring PDF versions of your slide and more detailed description with you on Sunday afternoon. We will have a session on Sunday evening where you are instructed on how to add these files to the DAIDD Participants Google Drive folder.
 
 <!-- THIS IS VIRTUAL INFORMAITON
 - Prepare a short oral presentation summarizing your research (2 minutes max, 1 slide in PDF format)
@@ -38,7 +38,7 @@ You should complete the following steps in preparation for the clinic before the
 
 ### 2. Pre-assigned reading
 
-All of the pre-assigned readings are available in the DAIDD Participant Team under [General channel/files/pre-reading](https://stellenbosch.sharepoint.com/:f:/s/DAIDD2023Participants/EppneM5KfXxKmWbQe2nEUwYB-b-_olCVVWDkSo26giArQA?e=U37QAk) (participants only)
+All of the pre-assigned readings are available in the DAIDD Participant Team under [DAIDD 2025 Participants/Pre-assigned Readings](https://drive.google.com/drive/folders/1PMAE9gfkx0Es3EtIeFsKtopSNG9MsjT6?usp=drive_link) (participants only)
 
 #### Required reading
 
@@ -73,7 +73,6 @@ Please install the following programs on the computer you will use during the Cl
 - R - a statistical programming language (download links for [Windows](http://cran.r-project.org/bin/windows/base/), [Linux](http://cran.r-project.org/bin/linux/), and [MacOS](http://cran.r-project.org/bin/macosx/))
 	* If you already have R, please check that you have a recent version, or else update. Versions starting with 3.5 or 3.6 should be OK.
 - R Studio - a user interface for R that will be needed for computer exercises ([download link](http://www.rstudio.com/products/rstudio/download/))
-- [Microsoft Teams](https://www.microsoft.com/en-za/microsoft-365/microsoft-teams/download-app) - used for file sharing, chat, and virtual sessions
 - ICI3D R package - a package containing interactive tutorials for use at the Clinic; to install, run the following lines of code from the R or Rstudio command line:
 
 <div class="row">
