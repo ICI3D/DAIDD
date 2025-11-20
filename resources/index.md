@@ -8,7 +8,7 @@ subtitle: Resources for during and after the Clinic
 
 - Learning terminology
     - [DAIDD Glossary](./DAIDD_Glossary.pdf)
-    - [Modelling concepts](./modellingConcepts)
+    - [Modelling concepts](https://www.ici3d.org/MMED/resources/modellingConcepts)
     - [Notation notes](https://www.dropbox.com/s/d67czzn1f3qkcet/notationNotes.pdf?dl=1) from DAIDD 2020
     - [Research Questions - PICO](https://drive.google.com/file/d/1e6bEVx1A3lz-Go_Q2fblOuRQdBEaSc3m/view?usp=sharing)
 - Learning R
