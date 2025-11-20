@@ -64,7 +64,7 @@ All of the pre-assigned readings are available in the DAIDD Participant Team und
         - _Elimination and eradication_
         - _Computational statistics, model fitting, and big data_
 
-- **A Welte**, **C van Schalkwyk**. [Mathematical models of transmission and control of infectious agents](https://www.researchgate.net/publication/340922578_Mathematical_Models_of_Transmission_and_Control_of_Infectious_Agents), CChapter 5.16 in Oxford Textbook of Global Public Health (Seventh Edition, Eds. R Detels, QA Karim, F Baum, L Li, and AH Leyland). Oxford University Press (2021). Print ISBN-13: 9780198816805
+- **A Welte**, **C van Schalkwyk**. [Mathematical models of transmission and control of infectious agents](https://www.researchgate.net/publication/340922578_Mathematical_Models_of_Transmission_and_Control_of_Infectious_Agents), Chapter 5.16 in Oxford Textbook of Global Public Health (Seventh Edition, Eds. R Detels, QA Karim, F Baum, L Li, and AH Leyland). Oxford University Press (2021). Print ISBN-13: 9780198816805
 
 ### 3. Software installation
 
