@@ -41,7 +41,7 @@ archive: true
 - 15:45-16:15 **Tea**
 - 16:15-16.30 [Overview of research plan development and structure](planOverview) [Cari]({{site.subdomainurl}}/team/vanschalkwyk/))  #RP - [Slide folder]()
 - 16.30-18:00 Writing exercise: Formulating research questions for modeling projects (All faculty)
-- 18:00 Dinner
+- 18:00-18:30 **Dinner**
 	* Evening Draft research questions [Task 3p]
 
 ### Tuesday
@@ -59,7 +59,7 @@ archive: true
   	* Before 16:30 Post revised research questions [Task 3]
 - 16:30-17:00 Stochastic simulation models ([Juliet]({{site.subdomainurl}}/team/pulliam/))- [Slide folder](), [Code folder]()
 - 17:00-18:00 Exercise: Creating a model world to address a research question [Larisse]({{site.subdomainurl}}/bolton/) #RP -  [Slide folder]()
-- 18:00 **Dinner**
+- 18:00-18:30 **Dinner**
 - 20:00-21:00 Working session
 
 ### Wednesday
@@ -74,7 +74,7 @@ archive: true
 - 15:30-16:00 **Tea**
 - 16:00-16:30 Work session #RP - [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
 - 16:30-18:00 Writing exercise - description of proposed model and assumptions ([??]({{site.subdomainurl}}/team/??/)) #RP -  [Group assignments](../participants/groups)
-- 18:00 Dinner
+- 18:00-18:30 **Dinner**
 
 - 20:00-21:00 Mid-session feedback ([Faikah]({{site.subdomainurl}}/team/bruce/))
 
@@ -92,7 +92,7 @@ archive: true
 - 15:30-16:00 **Tea**
 - 16:00-17:00 Exercise: Planning your approach #RP ([Juliet]({{site.subdomainurl}}/team/pulliam/)) - [Planning document](https://docs.google.com/document/d/131l0PnkzeURcDt9sC0_5Qk-VAet3w64v3mhCzeY_MoQ/edit?usp=sharing)
 - 17:00-18:00 Writing exercise & mentored working session (All faculty) #RP
-- 18:00 **Dinner**
+- 18:00-18:30 **Dinner**
 - 20:00-21:00 Social activity (Game night)
 
 ### Friday
@@ -109,7 +109,7 @@ archive: true
 - 15:00-15:30 Model-based inference and the bigger picture ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) -  [Slide folder]()
 - 15:30-16:00 **Tea**
 - 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP - [instructions](../Materials/researchPlans)
-
+- 18:00-18:30 **Dinner**
 	* Evening __Post__ final research plan [Task 7]
 
 ### Saturday
