@@ -1,4 +1,4 @@
-<img width="468" height="56" alt="image" src="https://github.com/user-attachments/assets/7ab6c3e5-6481-4962-8b87-adddf29c9fbe" />---
+---
 layout: clinic
 redirect: ../development
 tab: Preparation
