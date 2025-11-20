@@ -96,6 +96,6 @@ Please let us know if you have trouble installing any of the above software!
 
 ### 4. Introductory tutorials
 
-- When you have successfully installed both R and R Studio, please work through the [R Studio Introductory Tutorial]() to familiarize yourself with the user interface prior to the Clinic.
+- When you have successfully installed both R and R Studio, please work through the [R Studio Introductory Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_0.R) to familiarize yourself with the user interface prior to the Clinic.
 - If you are unfamiliar with or rusty on your understanding of the [Binomial Distribution](http://en.wikipedia.org/wiki/Binomial_distribution), you may also want to work through the [introductory Binomial Distribution tutorial](https://github.com/ICI3D/RTutorials/blob/master/binomialDistribution.R?raw=true). You will be glad you did!
 - **Note:** You do not need to be a proficient R programmer in order to get the most out of DAIDD. Completing the above introductory materials should be sufficient. If you would like to learn more about programming in R, we have included some helpful resources on [this page](../resources), but we recommend you wait until after the Clinic to develop these skills further.
