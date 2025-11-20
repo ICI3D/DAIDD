@@ -83,7 +83,7 @@ archive: true
 - 08:30-08:50 Regroup after feedback (([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 08:50-09:00 Wednesday recap ([Mmamapudi]({{site.subdomainurl}}/team/kubjane/))  - [recap folder]()
 - 09:00-10:30 Use of models in public health decision-making ([Juliet]({{site.subdomainurl}}/team/pulliam/))  - [Slides]()
-##	- Related papers: 
+	* Related papers: 
 - 10:30-11:00 **Coffee**
 - 11:00-12:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 12:30-14:00 **Lunch**
