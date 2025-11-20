@@ -46,13 +46,13 @@ All of the pre-assigned readings are available in the DAIDD Participant Team und
 
 #### Recommended reading
 
-- We have put together an introductory overview, which includes excerpts from the below papers:
+- We have put together [an introductory overview](https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/ICI3Dintro.pdf), which includes excerpts from the below papers:
     - **Bellan, SE**, **JRC Pulliam**, **JC Scott**, **J Dushoff** and the MMED Organizing Committee. How to make epidemiological training infectious. _PLoS Biology_ 2012; 10: e1001295.
     - Susser, M and E Susser. Choosing a future for epidemiology: I. Eras and paradigms. _Am J Public Health_ 1996; 86: 668–73.
     - Koopman, JS and JW Lynch. Individual causal models and population system models in epidemiology. _Am J Public Health_ 1999; 89: 1170–4.
     - Brauer, F. Mathematical epidemiology is not an oxymoron. _BMC Public Health_ 2009; 9: S2.
 
-- Heesterbeek, JAP, RM Anderson, V Andreasen, S Bansal, D De Angelis, C Dye, KTD Eames, WJ Edmunds, SDW Frost, S Funk, TD Hollingsworth, T House, V Isham, P Klepac, J Lessler, JO Lloyd-Smith, CJE Metcalf, D Mollison, L Pellis, **JRC Pulliam**, MG Roberts, C Viboud, and the Isaac Newton Institute IDD Collaboration. (2017) Modeling infectious disease dynamics in the complex landscape of global health. _Science_ 347(6227): aaa4339. doi:10.1126/science.aaa4339
+- Heesterbeek, JAP, RM Anderson, V Andreasen, S Bansal, D De Angelis, C Dye, KTD Eames, WJ Edmunds, SDW Frost, S Funk, TD Hollingsworth, T House, V Isham, P Klepac, J Lessler, JO Lloyd-Smith, CJE Metcalf, D Mollison, L Pellis, **JRC Pulliam**, MG Roberts, C Viboud, and the Isaac Newton Institute IDD Collaboration. (2017) [Modeling infectious disease dynamics in the complex landscape of global health](https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/Heesterbeek2015.pdf). _Science_ 347(6227): aaa4339. doi:10.1126/science.aaa4339
     - Note that this paper is long and may be best read in multiple sittings.
     - You may find Box 1 and Box 4 particularly useful.
     - Please read the full paper, with the exception of the following subsections, which you may skim (depending on your areas of interest):
@@ -64,7 +64,7 @@ All of the pre-assigned readings are available in the DAIDD Participant Team und
         - _Elimination and eradication_
         - _Computational statistics, model fitting, and big data_
 
-- **Welte, A**, **B Williams**, and **G Hitchcock**. Mathematical models of transmission and control of infectious agents, Chapter 5.18 in _Oxford Textbook of Global Public Health_ (Sixth Edition, Eds. R Detels, M Gulliford, QA Karim, and CC Tan). Oxford University Press  (February 2017). Print ISBN-13: 9780199661756
+- **A Welte**, **C van Schalkwyk**. [Mathematical models of transmission and control of infectious agents](https://www.researchgate.net/publication/340922578_Mathematical_Models_of_Transmission_and_Control_of_Infectious_Agents), CChapter 5.16 in Oxford Textbook of Global Public Health (Seventh Edition, Eds. R Detels, QA Karim, F Baum, L Li, and AH Leyland). Oxford University Press (2021). Print ISBN-13: 9780198816805
 
 ### 3. Software installation
 
