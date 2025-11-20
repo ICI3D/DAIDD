@@ -73,7 +73,7 @@ archive: true
 - 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Carl]({{site.subdomainurl}}/team/pearson/)) - [Slide folder]()
 - 15:30-16:00 **Tea**
 - 16:00-16:30 Work session #RP - [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
-- 16:30-18:00 Writing exercise - description of proposed model and assumptions ([Larisse]({{site.subdomainurl}}/team/bolton/)) #RP -  [Group assignments](../participants/groups)
+- 16:30-18:00 Writing exercise - description of proposed model and assumptions ([??]({{site.subdomainurl}}/team/??/)) #RP -  [Group assignments](../participants/groups)
 - 18:00 Dinner
 
 - 20:00-21:00 Mid-session feedback ([Faikah]({{site.subdomainurl}}/team/bruce/))
