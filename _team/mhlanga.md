@@ -1,4 +1,4 @@
 ---
 tab: Team
-type: mentors
+type: pause
 ---
