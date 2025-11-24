@@ -41,9 +41,9 @@ subtitle: DAIDD 2025 Instructional Team
 
 {% include centerTable.html %}
 
-## Other Workshop Faculty
+## Faculty Observers
 
-{% assign workfaculty = site.team | where: "type", "workshop" %}
+{% assign workfaculty = site.team | where: "type", "observer" %}
 {% for profile in workfaculty %}
 {% assign key = profile.relative_path | split: '/' | last | split: '.' | first %}
 {% assign person = site.data.team[key] %}{% assign role = profile.role %}
