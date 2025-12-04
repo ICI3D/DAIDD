@@ -56,7 +56,7 @@ archive: true
 - 16:15-16:30 **Tea**
   	* Before 16:30 Post revised research questions [Task 3]
 - 16:30-17:00 Stochastic simulation models ([Juliet]({{site.subdomainurl}}/team/pulliam/))- [Slide folder](), [Code folder]()
-- 17:00-18:00 Exercise: Creating a model world to address a research question ([??]({{site.subdomainurl}}/team/??/))  #RP -  [Slide folder]()
+- 17:00-18:00 Exercise: Creating a model world to address a research question ([Juliet]({{site.subdomainurl}}/team/pulliam/))  #RP -  [Slide folder]()
 - 18:00-18:30 **Dinner**
 - 20:00-21:00 Working session
 
