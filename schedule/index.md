@@ -27,8 +27,6 @@ archive: true
 - 17:30-17:45 Working with the DAIDD Google Drive and RStudio ([Lauren]({{site.subdomainurl}}/team/brown/))
     - _Make sure your slides are uploaded for tomorrow's morning session!_
 - 17:45-18:30 **Dinner**
-- 18:30-19:30 Ice breakers ([Faikah]({{site.subdomainurl}}/team/bruce/))
-    - **Prep for round-robin introductions.**
 
 ### Monday
 - 07:45-08:15 **Breakfast**
