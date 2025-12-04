@@ -79,7 +79,7 @@ archive: true
 ### Thursday
 - 07:45-08:15 **Breakfast**
 - 08:30-08:50 Regroup after feedback (([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
-- 08:50-09:00 Wednesday recap ([Mmamapudi]({{site.subdomainurl}}/team/kubjane/))  - [recap folder]()
+- 08:50-09:00 Wednesday recap ([Lauren]({{site.subdomainurl}}/team/brown/))  - [recap folder]()
 - 09:00-10:30 Use of models in public health decision-making ([Juliet]({{site.subdomainurl}}/team/pulliam/))  - [Slides]()
 	* Related papers: 
 - 10:30-11:00 **Coffee**
@@ -100,7 +100,7 @@ archive: true
     -  **Group Photo**;
 - By 11 _Post_ model description [Task 5]; _Revise_ model diagram [Task 4f] if desired in time for working session
 	* [See instructions](../Materials/researchPlans)
-- 11:00-11:20 Thursday recap ([Lauren]({{site.subdomainurl}}/team/brown/))
+- 11:00-11:20 Thursday recap ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 11:20-12:30 Mentored working session (All faculty) #RP  [Group assignments](../participants/groups)
 - 12:30-14:00 **Lunch** 
 - 14:00-15:00 Model evaluation and comparison ([Juliet]({{site.subdomainurl}}/team/pulliam/)) -  [Slide folder]()
@@ -114,7 +114,7 @@ archive: true
 - _Be sure to submit your [**final research plan**](../Materials/researchPlans) before Breakfast_
 - 08:00-08:50 **Breakfast**
 - _Be sure to check out by 8:45_
-- 08:50-09:00 Friday recap ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
+- 08:50-09:00 Friday recap ([Mmamapudi]({{site.subdomainurl}}/team/kubjane/))
 - 09:00-10:00 Discussion of research plans/proposals (Moderator: [Lauren]({{site.subdomainurl}}/team/brown/)) #RP
 	* [Proposal order](../participants/order)
 - 10:00-10:15 **Coffee**
