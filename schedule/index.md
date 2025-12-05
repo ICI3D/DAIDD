@@ -26,8 +26,8 @@ archive: true
 - 17:00-17:30 Data, models and science ([Larisse]({{site.subdomainurl}}/team/bolton/))
 - 17:30-17:45 Working with the DAIDD Google Drive and RStudio ([Lauren]({{site.subdomainurl}}/team/brown/))
     - _Make sure your slides are uploaded for tomorrow's morning session - [01_pitchSlides](https://drive.google.com/drive/folders/1C8bZGWvLdfsJmQxDv46FA_ijJzZr2VZO?usp=drive_link)!_
-    - _Please upload your 1-2 page research proposal - [02_researchInfo](https://drive.google.com/drive/folders/1o5os7F8I0QZGeGa3cYeaZzCWW38O-zlW?usp=drive_link)_
-    	* _This is the same document you submitted with your application or an updated version_
+    - _Please upload your 1-2 page research proposal to [02_researchInfo](https://drive.google.com/drive/folders/1o5os7F8I0QZGeGa3cYeaZzCWW38O-zlW?usp=drive_link)._
+    	- _This is the same document you submitted with your application or an updated version._
 - 17:45-18:30 **Dinner**
 
 ### Monday
@@ -41,7 +41,7 @@ archive: true
 - 16:15-16:30 Overview of research plan development and structure (Cari]({{site.subdomainurl}}/team/vanschalkwyk/))  #RP - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 16.30-18:00 Writing exercise: Formulating research questions for modeling projects (All faculty)
 - 18:00-18:30 **Dinner**
-	* _Evening: Draft research questions. Upload to [03_researchQuestion](https://drive.google.com/drive/folders/1PQGUJqTjO8UvXNDBvqsoFdFQp-f_Jpvx?usp=drive_link) before 10:45 tomorrow_
+	* _Evening: Draft research questions. Upload to [03_researchQuestion](https://drive.google.com/drive/folders/1PQGUJqTjO8UvXNDBvqsoFdFQp-f_Jpvx?usp=drive_link) before 10:45 tomorrow._
 
 ### Tuesday
 - 07:45-08:15 **Breakfast**
@@ -59,7 +59,7 @@ archive: true
 - 16:00-16:45 Stochastic simulation models ([Juliet]({{site.subdomainurl}}/team/pulliam/))- [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link), [Code folder]()
 - 16:45-18:00 Exercise: Creating a model world to address a research question ([Juliet]({{site.subdomainurl}}/team/pulliam/))  #RP -  [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 18:00-18:30 **Dinner**
-	* _Evening: Draft model diagram to address your research question - [Instructions](../Materials/modelWorld). Upload to [04_modelDiagram](https://drive.google.com/drive/folders/1FrPthVKyzpa0CQFFHB1GUrRdyLce3J9x?usp=drive) before 08:30 tomorrow_
+	* _Evening: Draft model diagram to address your research question - [Instructions](../Materials/modelWorld). Upload to [04_modelDiagram](https://drive.google.com/drive/folders/1FrPthVKyzpa0CQFFHB1GUrRdyLce3J9x?usp=drive) before 08:30 tomorrow._
 
 ### Wednesday
 - 07:45-08:15 **Breakfast**
@@ -76,7 +76,7 @@ archive: true
 - 18:00-18:30 **Dinner**
 
 - 18:45-19:30 Mid-session feedback ([Faikah]({{site.subdomainurl}}/team/bruce/))
-	* _Evening: Upload model description to [05_modelDescription](https://drive.google.com/drive/folders/11S7jmzn4N5YRBXxWf25YiQ4OP0kVjcKl?usp=drive_link) before 16:00 tomorrow_
+	* _Evening: Upload model description to [05_modelDescription](https://drive.google.com/drive/folders/11S7jmzn4N5YRBXxWf25YiQ4OP0kVjcKl?usp=drive_link) before 16:00 tomorrow._
 
 ### Thursday
 - 07:45-08:15 **Breakfast**
@@ -93,7 +93,7 @@ archive: true
 - 16:00-17:00 Exercise: Planning your approach #RP ([Juliet]({{site.subdomainurl}}/team/pulliam/)) - [Planning document]()
 - 17:00-18:00 Writing exercise & mentored working session (All faculty) #RP
 - 18:00-18:30 **Dinner**
-* _Evening: Upload research plan to [06_researchPlan](https://drive.google.com/drive/folders/1RjXvmS1-LUws526W7BJDtC5mShYRtk7S?usp=drive_link) before 16:00 tomorrow_
+	* _Evening: Upload research plan to [06_researchPlan](https://drive.google.com/drive/folders/1RjXvmS1-LUws526W7BJDtC5mShYRtk7S?usp=drive_link) before 16:00 tomorrow._
 
 ### Friday
 - 07:45-08:15 **Breakfast**
@@ -108,7 +108,7 @@ archive: true
 - 15:30-16:00 **Tea**
 - 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP
 - 18:00-18:30 **Dinner**
-	* _Evening: Upload final research plan ([06_researchPlan](https://drive.google.com/drive/folders/1RjXvmS1-LUws526W7BJDtC5mShYRtk7S?usp=drive_link)) and final slide to [07_finalSlide](https://drive.google.com/drive/folders/1dsoWhPYbhMzfH-h63prEEzkRla6jJLM-?usp=drive_link) before 08:00 tomorrow_
+	* _Evening: Upload final research plan to [06_researchPlan](https://drive.google.com/drive/folders/1RjXvmS1-LUws526W7BJDtC5mShYRtk7S?usp=drive_link) and final slide to [07_finalSlide](https://drive.google.com/drive/folders/1dsoWhPYbhMzfH-h63prEEzkRla6jJLM-?usp=drive_link) before 08:00 tomorrow._
 
 
 ### Saturday
@@ -122,4 +122,4 @@ archive: true
 - 11:30-12:40 Final feedback session ([Faikah]({{site.subdomainurl}}/team/bruce/))
 - 12:40-13:00 Closing session ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 13:00-14:00 **Lunch** 
-- 14:00 Departure from AIMS-SA
+	- _14:00 Departure from AIMS-SA_
