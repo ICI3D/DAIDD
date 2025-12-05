@@ -5,14 +5,14 @@ title: DAIDD 2025
 subtitle: Clinic Schedule
 summary: December 2025, Muizenberg, South Africa
 alerttype: warning
-alertmsg: Unless otherwise noted, all materials made available through this website and the [DAIDD Google Drive folder](https://drive.google.com/drive/folders/1L7ns9vhccXZGVX6ey7KLON7mqZNfKSjR?usp=drive_link) are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>. <a rel="license" href="../license.html">Click here for license details</a>.
+alertmsg: Unless otherwise noted, all materials made available through this website and the DAIDD Google Drive folder are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>. <a rel="license" href="../license.html">Click here for license details</a>.
 archive: true
 ---
 
 <div class="alert alert-warning" role="alert">
   <div class="container padding-left=0px padding-right=0px">
     <ul style="font-size:16px; margin:0px;">
-      <li>Slides are being made available via the [DAIDD Google Drive Shared Folder](https://drive.google.com/drive/folders/1L7ns9vhccXZGVX6ey7KLON7mqZNfKSjR?usp=drive_link). </li>
+      <li>Slides are being made available via the DAIDD Google Drive Shared Folder. </li>
       <li>Most tutorials and exercises are available through the ICI3D R package. Additional materials are linked from the <a href="../resources">Resources</a> page.</li>
     </ul>
   </div>
