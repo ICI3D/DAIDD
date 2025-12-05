@@ -17,5 +17,4 @@ The idea is NOT to rush through the various models as quickly as possible: the i
 
 ```
 ICI3D::hivTutorial()
-hivTutorial()
 ```
