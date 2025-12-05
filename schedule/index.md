@@ -26,6 +26,8 @@ archive: true
 - 17:00-17:30 Data, models and science ([Larisse]({{site.subdomainurl}}/team/bolton/))
 - 17:30-17:45 Working with the DAIDD Google Drive and RStudio ([Lauren]({{site.subdomainurl}}/team/brown/))
     - _Make sure your slides are uploaded for tomorrow's morning session - [01_pitchSlides](https://drive.google.com/drive/folders/1C8bZGWvLdfsJmQxDv46FA_ijJzZr2VZO?usp=drive_link)!_
+    - _Please upload your 1-2 page research proposal - [02_researchInfo](https://drive.google.com/drive/folders/1o5os7F8I0QZGeGa3cYeaZzCWW38O-zlW?usp=drive_link)_
+    	* _This is the same document you submitted with your application or an updated version_
 - 17:45-18:30 **Dinner**
 
 ### Monday
