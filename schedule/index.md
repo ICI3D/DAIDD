@@ -44,18 +44,18 @@ archive: true
 
 ### Tuesday
 - 07:45-08:15 **Breakfast**
-- 08:45-09:00 Monday recap ([Mmamapudi]({{site.subdomainurl}}/team/kubjane/)) - [DAIDD roadmap]() - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
-- 09:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Lauren]({{site.subdomainurl}}/team/brown/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link), [Exercise](../Materials/SIRmodelFamily)
+- 08:30-08:45 Monday recap ([Mmamapudi]({{site.subdomainurl}}/team/kubjane/)) - [DAIDD roadmap]() - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
+- 08:45-10:15 The SIR model family - conceptual framework and introduction to difference and differential equations ([Lauren]({{site.subdomainurl}}/team/brown/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link), [Exercise](../Materials/SIRmodelFamily)
 	* Excel spreadsheet in [Code folder]()
-- 10:30-11:00 **Coffee**
-- 11:00-11:45 Small group session: research questions for modeling projects (All faculty) #RP - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
-- 11:45-12:30 Dynamical Fever - computer exercise and discussion ([Lauren]({{site.subdomainurl}}/team/brown/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
+- 10:15-10:45 **Coffee**
+- 10:45-11:30 Small group session: research questions for modeling projects (All faculty) #RP - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
+- 11:30-12:30 Dynamical Fever - computer exercise and discussion ([Lauren]({{site.subdomainurl}}/team/brown/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 12:30-14:00 **Lunch** 
-- 14:00-15:00 Dynamical Fever - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary]() ([Lauren]({{site.subdomainurl}}/team/brown/)) - [Download the taxonomy](../Materials/modelTaxonomy)
-- 15:00-16:15 Stochastic simulation models ([Juliet]({{site.subdomainurl}}/team/pulliam/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
-- 16:15-16:30 **Tea**
-  	* Before 16:30 Post revised research questions [Task 3]
-- 16:30-17:00 Stochastic simulation models ([Juliet]({{site.subdomainurl}}/team/pulliam/))- [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link), [Code folder]()
+- 14:00-14:45 Dynamical Fever - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary]() ([Lauren]({{site.subdomainurl}}/team/brown/)) - [Download the taxonomy](../Materials/modelTaxonomy)
+- 15:45-16:00 Stochastic simulation models ([Juliet]({{site.subdomainurl}}/team/pulliam/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
+- 16:00-16:15 **Tea**
+  	* Before 16:15 Post revised research questions [Task 3]
+- 16:15-17:00 Stochastic simulation models ([Juliet]({{site.subdomainurl}}/team/pulliam/))- [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link), [Code folder]()
 - 17:00-18:00 Exercise: Creating a model world to address a research question ([Juliet]({{site.subdomainurl}}/team/pulliam/))  #RP -  [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 18:00-18:30 **Dinner**
 - 20:00-21:00 Working session
