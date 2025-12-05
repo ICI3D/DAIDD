@@ -22,7 +22,7 @@ archive: true
 
 - 14:00 Check-in available for all participants
 - 16:00-16:30 Welcome and registration ☺
-- 16:30-17:00 What are we doing here? ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Slide folder]()
+- 16:30-17:00 What are we doing here? ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 17:00-17:30 Data, models and science ([Larisse]({{site.subdomainurl}}/team/bolton/))
 - 17:30-17:45 Working with the DAIDD Google Drive and RStudio ([Lauren]({{site.subdomainurl}}/team/brown/))
     - _Make sure your slides are uploaded for tomorrow's morning session!_
@@ -33,42 +33,42 @@ archive: true
 - 08:30-10:30 Research pitches (Moderator [Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) 
     - [Order of introductions]()
 - 10:30-11:00 **Coffee**
-- 11:00 - 12:30 Simplest model + Reed Frost ([Carl]({{site.subdomainurl}}/team/pearson/)) -  [Slide folder]()
+- 11:00 - 12:30 Simplest model + Reed Frost ([Carl]({{site.subdomainurl}}/team/pearson/)) -  [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 12:30-14:00 **Lunch** 
 - 14:15-15:45 Intuitive aspects of dynamics and introduction to model worlds ([Larisse]({{site.subdomainurl}}/team/bolton/))
 - 15:45-16:15 **Tea**
-- 16:15-16.30 [Overview of research plan development and structure](planOverview) [Cari]({{site.subdomainurl}}/team/vanschalkwyk/))  #RP - [Slide folder]()
+- 16:15-16.30 [Overview of research plan development and structure](planOverview) [Cari]({{site.subdomainurl}}/team/vanschalkwyk/))  #RP - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 16.30-18:00 Writing exercise: Formulating research questions for modeling projects (All faculty)
 - 18:00-18:30 **Dinner**
 	* Evening Draft research questions [Task 3p]
 
 ### Tuesday
 - 07:45-08:15 **Breakfast**
-- 08:45-09:00 Monday recap ([Mmamapudi]({{site.subdomainurl}}/team/kubjane/)) - [DAIDD roadmap]() - [recap folder]()
-- 09:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Lauren]({{site.subdomainurl}}/team/brown/)) - [Slide folder](), [Exercise](../Materials/SIRmodelFamily)
+- 08:45-09:00 Monday recap ([Mmamapudi]({{site.subdomainurl}}/team/kubjane/)) - [DAIDD roadmap]() - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
+- 09:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Lauren]({{site.subdomainurl}}/team/brown/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link), [Exercise](../Materials/SIRmodelFamily)
 	* Excel spreadsheet in [Code folder]()
 - 10:30-11:00 **Coffee**
-- 11:00-11:45 Small group session: research questions for modeling projects (All faculty) #RP - [Slide folder]()
-- 11:45-12:30 Dynamical Fever - computer exercise and discussion ([Lauren]({{site.subdomainurl}}/team/brown/)) - [Slide folder]()
+- 11:00-11:45 Small group session: research questions for modeling projects (All faculty) #RP - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
+- 11:45-12:30 Dynamical Fever - computer exercise and discussion ([Lauren]({{site.subdomainurl}}/team/brown/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 12:30-14:00 **Lunch** 
 - 14:00-15:00 Dynamical Fever - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary]() ([Lauren]({{site.subdomainurl}}/team/brown/)) - [Download the taxonomy](../Materials/modelTaxonomy)
-- 15:00-16:15 Stochastic simulation models ([Juliet]({{site.subdomainurl}}/team/pulliam/)) - [Slide folder](), [Source for slides](https://github.com/dushoff/disease_model_talks)
+- 15:00-16:15 Stochastic simulation models ([Juliet]({{site.subdomainurl}}/team/pulliam/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 16:15-16:30 **Tea**
   	* Before 16:30 Post revised research questions [Task 3]
-- 16:30-17:00 Stochastic simulation models ([Juliet]({{site.subdomainurl}}/team/pulliam/))- [Slide folder](), [Code folder]()
-- 17:00-18:00 Exercise: Creating a model world to address a research question ([Juliet]({{site.subdomainurl}}/team/pulliam/))  #RP -  [Slide folder]()
+- 16:30-17:00 Stochastic simulation models ([Juliet]({{site.subdomainurl}}/team/pulliam/))- [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link), [Code folder]()
+- 17:00-18:00 Exercise: Creating a model world to address a research question ([Juliet]({{site.subdomainurl}}/team/pulliam/))  #RP -  [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 18:00-18:30 **Dinner**
 - 20:00-21:00 Working session
 
 ### Wednesday
 - 07:45-08:15 **Breakfast**
-- 08:30-08:40 Tuesday recap ([Lauren]({{site.subdomainurl}}/team/brown/)) - [recap folder]()
+- 08:30-08:40 Tuesday recap ([Lauren]({{site.subdomainurl}}/team/brown/)) - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
 - 08:40-09:30 Faculty research presentations ([James]({{site.subdomainurl}}/team/azam/)) - [Research talks folder]()
-- 09:30-10:30 Modeling in practice: The life cycle of a modeling project, from conception to publication ([??]({{site.subdomainurl}}/team/??/)) - [Slide folder]()
+- 09:30-10:30 Modeling in practice: The life cycle of a modeling project, from conception to publication ([??]({{site.subdomainurl}}/team/??/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 10:30-11:00 **Coffee**
 - 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](../participants/groups)
 - 12:30-14:00 **Lunch** 
-- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Carl]({{site.subdomainurl}}/team/pearson/)) - [Slide folder]()
+- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Carl]({{site.subdomainurl}}/team/pearson/)) - [Slide folder]()https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link
 - 15:30-16:00 **Tea**
 - 16:00-16:30 Work session #RP - [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
 - 16:30-18:00 Writing exercise - description of proposed model and assumptions [Larisse]({{site.subdomainurl}}/bolton/) #RP -  [Group assignments](../participants/groups)
@@ -79,8 +79,8 @@ archive: true
 ### Thursday
 - 07:45-08:15 **Breakfast**
 - 08:30-08:50 Regroup after feedback (([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
-- 08:50-09:00 Wednesday recap ([Lauren]({{site.subdomainurl}}/team/brown/))  - [recap folder]()
-- 09:00-10:30 Use of models in public health decision-making ([Juliet]({{site.subdomainurl}}/team/pulliam/))  - [Slides]()
+- 08:50-09:00 Wednesday recap ([Lauren]({{site.subdomainurl}}/team/brown/))  - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
+- 09:00-10:30 Use of models in public health decision-making ([Juliet]({{site.subdomainurl}}/team/pulliam/))  - [Slides](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 	* Related papers: 
 - 10:30-11:00 **Coffee**
 - 11:00-12:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
@@ -100,11 +100,11 @@ archive: true
     -  **Group Photo**;
 - By 11 _Post_ model description [Task 5]; _Revise_ model diagram [Task 4f] if desired in time for working session
 	* [See instructions](../Materials/researchPlans)
-- 11:00-11:20 Thursday recap ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
+- 11:00-11:20 Thursday recap ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
 - 11:20-12:30 Mentored working session (All faculty) #RP  [Group assignments](../participants/groups)
 - 12:30-14:00 **Lunch** 
-- 14:00-15:00 Model evaluation and comparison ([Juliet]({{site.subdomainurl}}/team/pulliam/)) -  [Slide folder]()
-- 15:00-15:30 Model-based inference and the bigger picture ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) -  [Slide folder]()
+- 14:00-15:00 Model evaluation and comparison ([Juliet]({{site.subdomainurl}}/team/pulliam/)) -  [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
+- 15:00-15:30 Model-based inference and the bigger picture ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) -  [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 15:30-16:00 **Tea**
 - 16:00-18:00 Writing exercise - revise based on feedback and plan for moving forward (including identified resources and potential collaborators) #RP - [instructions](../Materials/researchPlans)
 - 18:00-18:30 **Dinner**
@@ -114,7 +114,7 @@ archive: true
 - _Be sure to submit your [**final research plan**](../Materials/researchPlans) before Breakfast_
 - 08:00-08:50 **Breakfast**
 - _Be sure to check out by 8:45_
-- 08:50-09:00 Friday recap ([Mmamapudi]({{site.subdomainurl}}/team/kubjane/))
+- 08:50-09:00 Friday recap ([Mmamapudi]({{site.subdomainurl}}/team/kubjane/)) - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
 - 09:00-10:00 Discussion of research plans/proposals (Moderator: [Lauren]({{site.subdomainurl}}/team/brown/)) #RP
 	* [Proposal order](../participants/order)
 - 10:00-10:15 **Coffee**
