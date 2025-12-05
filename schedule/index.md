@@ -64,11 +64,11 @@ archive: true
 - 07:45-08:15 **Breakfast**
 - 08:30-08:40 Tuesday recap ([Lauren]({{site.subdomainurl}}/team/brown/)) - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
 - 08:40-09:30 Faculty research presentations ([James]({{site.subdomainurl}}/team/azam/)) - [Research talks folder]()
-- 09:30-10:30 Modeling in practice: The life cycle of a modeling project, from conception to publication ([??]({{site.subdomainurl}}/team/??/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
+- 09:30-10:30 Modeling in practice: The life cycle of a modeling project, from conception to publication ([Zinhle]({{site.subdomainurl}}/team/mthombothi/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 10:30-11:00 **Coffee**
 - 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](../participants/groups)
 - 12:30-14:00 **Lunch** 
-- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Carl]({{site.subdomainurl}}/team/pearson/)) - [Slide folder]()https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link
+- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Carl]({{site.subdomainurl}}/team/pearson/)) - [Slide folder]()(https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 15:30-16:00 **Tea**
 - 16:00-16:30 Work session #RP - [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
 - 16:30-18:00 Writing exercise - description of proposed model and assumptions [Larisse]({{site.subdomainurl}}/bolton/) #RP -  [Group assignments](../participants/groups)
@@ -78,15 +78,15 @@ archive: true
 
 ### Thursday
 - 07:45-08:15 **Breakfast**
-- 08:30-08:50 Regroup after feedback (([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
+- 08:30-08:50 Regroup after feedback ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 08:50-09:00 Wednesday recap ([Lauren]({{site.subdomainurl}}/team/brown/))  - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
 - 09:00-10:30 Use of models in public health decision-making ([Juliet]({{site.subdomainurl}}/team/pulliam/))  - [Slides](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 	* Related papers: 
 - 10:30-11:00 **Coffee**
-- 11:00-12:30 Models and data: introduction to model fitting  ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
+- 11:00-12:30 Models and data: introduction to model fitting  ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 12:30-14:00 **Lunch**
-- 14:00-15:30 Model fitting tutorial: hivTutorial() ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Tutorial notes](../Materials/hivTutorial)
-	* (Tutorial wrapup by [Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
+- 14:00-15:30 Model fitting tutorial: hivTutorial() ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Tutorial notes](../Materials/hivTutorial)
+	* (Tutorial wrapup by [Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
 - 15:30-16:00 **Tea**
 - 16:00-17:00 Exercise: Planning your approach #RP ([Juliet]({{site.subdomainurl}}/team/pulliam/)) - [Planning document](https://docs.google.com/document/d/131l0PnkzeURcDt9sC0_5Qk-VAet3w64v3mhCzeY_MoQ/edit?usp=sharing)
 - 17:00-18:00 Writing exercise & mentored working session (All faculty) #RP
@@ -111,7 +111,7 @@ archive: true
 	* Evening __Post__ final research plan [Task 7]
 
 ### Saturday
-- _Be sure to submit your [**final research plan**](../Materials/researchPlans) before Breakfast_
+- _Be sure to submit your [**final research plan**](../Materials/researchPlans) before Breakfast at [07_finalSLide](https://drive.google.com/drive/folders/1dsoWhPYbhMzfH-h63prEEzkRla6jJLM-?usp=drive_link)_
 - 08:00-08:50 **Breakfast**
 - _Be sure to check out by 8:45_
 - 08:50-09:00 Friday recap ([Mmamapudi]({{site.subdomainurl}}/team/kubjane/)) - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
