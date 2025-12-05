@@ -12,7 +12,7 @@ archive: true
 <div class="alert alert-warning" role="alert">
   <div class="container padding-left=0px padding-right=0px">
     <ul style="font-size:16px; margin:0px;">
-      <li>Slides are being made available via the DAIDD Google Drive Shared Folder. The will also be added to the <a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a>.</li>
+      <li>Slides are being made available via the [DAIDD Google Drive Shared Folder](https://drive.google.com/drive/folders/1L7ns9vhccXZGVX6ey7KLON7mqZNfKSjR?usp=drive_link). The will also be added to the <a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a>.</li>
       <li>Most tutorials and exercises are available through the ICI3D R package. Additional materials are linked from the <a href="../resources">Resources</a> page.</li>
     </ul>
   </div>
@@ -25,7 +25,7 @@ archive: true
 - 16:30-17:00 What are we doing here? ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 17:00-17:30 Data, models and science ([Larisse]({{site.subdomainurl}}/team/bolton/))
 - 17:30-17:45 Working with the DAIDD Google Drive and RStudio ([Lauren]({{site.subdomainurl}}/team/brown/))
-    - _Make sure your slides are uploaded for tomorrow's morning session!_
+    - _Make sure your slides are uploaded for tomorrow's morning session - [01_pitchSlides](https://drive.google.com/drive/folders/1C8bZGWvLdfsJmQxDv46FA_ijJzZr2VZO?usp=drive_link)!_
 - 17:45-18:30 **Dinner**
 
 ### Monday
@@ -74,7 +74,7 @@ archive: true
 - 16:30-18:00 Writing exercise - description of proposed model and assumptions [Larisse]({{site.subdomainurl}}/bolton/) #RP -  [Group assignments](../participants/groups)
 - 18:00-18:30 **Dinner**
 
-- 20:00-21:00 Mid-session feedback ([Faikah]({{site.subdomainurl}}/team/bruce/))
+- 19:00-20:00 Mid-session feedback ([Faikah]({{site.subdomainurl}}/team/bruce/))
 
 ### Thursday
 - 07:45-08:15 **Breakfast**
