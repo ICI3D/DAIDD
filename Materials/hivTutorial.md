@@ -16,6 +16,6 @@ The idea is NOT to rush through the various models as quickly as possible: the i
 ## To get started
 
 ```
-library(ICI3D)
+ICI3D::hivTutorial()
 hivTutorial()
 ```
