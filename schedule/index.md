@@ -68,7 +68,7 @@ archive: true
 - 10:30-11:00 **Coffee**
 - 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP - [Group assignments](../participants/groups)
 - 12:30-14:00 **Lunch** 
-- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Carl]({{site.subdomainurl}}/team/pearson/)) - [Slide folder]()(https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
+- 14:00-15:30 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Carl]({{site.subdomainurl}}/team/pearson/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 15:30-16:00 **Tea**
 - 16:00-16:30 Work session #RP - [practice diagram](../Materials/practice.Diagram.pdf), [description](../Materials/modelDescription)
 - 16:30-18:00 Writing exercise - description of proposed model and assumptions [Larisse]({{site.subdomainurl}}/bolton/) #RP -  [Group assignments](../participants/groups)
