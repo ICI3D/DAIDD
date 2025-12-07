@@ -6,7 +6,6 @@ subtitle: Clinic Schedule
 summary: December 2025, Muizenberg, South Africa
 alerttype: warning
 alertmsg: Unless otherwise noted, all materials made available through this website and the DAIDD Google Drive folder are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>. <a rel="license" href="../license.html">Click here for license details</a>.
-archive: true
 ---
 
 <div class="alert alert-warning" role="alert">
@@ -38,7 +37,7 @@ archive: true
 - 12:30-14:00 **Lunch** 
 - 14:15-15:45 Intuitive aspects of dynamics and introduction to model worlds ([Larisse]({{site.subdomainurl}}/team/bolton/))
 - 15:45-16:15 **Tea**
-- 16:15-16:30 Overview of research plan development and structure (Cari]({{site.subdomainurl}}/team/vanschalkwyk/))  #RP - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
+- 16:15-16:30 Overview of research plan development and structure [Cari)]({{site.subdomainurl}}/team/vanschalkwyk/)  #RP - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 16.30-18:00 Writing exercise: Formulating research questions for modeling projects (All faculty)
 - 18:00-18:30 **Dinner**
 	* _Evening: Draft research questions. Upload to [03_researchQuestion](https://drive.google.com/drive/folders/1PQGUJqTjO8UvXNDBvqsoFdFQp-f_Jpvx?usp=drive_link) before 10:45 tomorrow._
