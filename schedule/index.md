@@ -24,7 +24,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 16:30-17:00 What are we doing here? ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 17:00-17:30 Data, models and science ([Larisse]({{site.subdomainurl}}/team/bolton/)) - [Slide folder]
 - 17:30-17:45 Working with the DAIDD Google Drive and RStudio ([Lauren]({{site.subdomainurl}}/team/brown/))
-    - _Make sure your slides are uploaded for tomorrow's morning session - [01_pitchSlides](https://drive.google.com/drive/folders/1C8bZGWvLdfsJmQxDv46FA_ijJzZr2VZO?usp=drive_link)!_
+    - _Make sure your slides are uploaded for tomorrow's morning session ([Instructions](https://www.ici3d.org/DAIDD/preparation/)) - [01_pitchSlides](https://drive.google.com/drive/folders/1C8bZGWvLdfsJmQxDv46FA_ijJzZr2VZO?usp=drive_link)!_
     - _Please upload your 1-2 page research proposal to [02_researchInfo](https://drive.google.com/drive/folders/1o5os7F8I0QZGeGa3cYeaZzCWW38O-zlW?usp=drive_link)._
     	- _This is the same document you submitted with your application or an updated version._
 - 17:45-18:30 **Dinner**
