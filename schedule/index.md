@@ -11,7 +11,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 <div class="alert alert-warning" role="alert">
   <div class="container padding-left=0px padding-right=0px">
     <ul style="font-size:16px; margin:0px;">
-      <li>Slides are being made available via the DAIDD Google Drive Shared Folder. </li>
+      <li>Slides are being made available via the [DAIDD Google Drive Shared Folder](https://drive.google.com/drive/folders/1L7ns9vhccXZGVX6ey7KLON7mqZNfKSjR?usp=drive_link). </li>
       <li>Most tutorials and exercises are available through the ICI3D R package. Additional materials are linked from the <a href="../resources">Resources</a> page.</li>
     </ul>
   </div>
@@ -22,7 +22,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 14:00 Check-in available for all participants
 - 16:00-16:30 Welcome and registration ☺
 - 16:30-17:00 What are we doing here? ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
-- 17:00-17:30 Data, models and science ([Larisse]({{site.subdomainurl}}/team/bolton/))
+- 17:00-17:30 Data, models and science ([Larisse]({{site.subdomainurl}}/team/bolton/)) - [Slide folder]
 - 17:30-17:45 Working with the DAIDD Google Drive and RStudio ([Lauren]({{site.subdomainurl}}/team/brown/))
     - _Make sure your slides are uploaded for tomorrow's morning session - [01_pitchSlides](https://drive.google.com/drive/folders/1C8bZGWvLdfsJmQxDv46FA_ijJzZr2VZO?usp=drive_link)!_
     - _Please upload your 1-2 page research proposal to [02_researchInfo](https://drive.google.com/drive/folders/1o5os7F8I0QZGeGa3cYeaZzCWW38O-zlW?usp=drive_link)._
@@ -33,7 +33,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 07:45-08:15 **Breakfast**
 - 08:30-10:30 Research pitches (Moderator [Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) 
 - 10:30-11:00 **Coffee**
-- 11:00 - 12:30 Simplest model + Reed Frost ([Carl]({{site.subdomainurl}}/team/pearson/)) -  [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
+- 11:00 - 12:30 Simplest model + Reed Frost ([Carl]({{site.subdomainurl}}/team/pearson/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 12:30-14:00 **Lunch** 
 - 14:15-15:45 Intuitive aspects of dynamics and introduction to model worlds ([Larisse]({{site.subdomainurl}}/team/bolton/))
 - 15:45-16:15 **Tea**
@@ -75,8 +75,8 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 18:00-18:30 **Dinner**
 
 - 18:45-19:30 Mid-session feedback ([Faikah]({{site.subdomainurl}}/team/bruce/))
-	* _Evening: Upload model description to [05_modelDescription](https://drive.google.com/drive/folders/11S7jmzn4N5YRBXxWf25YiQ4OP0kVjcKl?usp=drive_link) before 16:00 tomorrow._
-
+	* _Evening: Upload updated model diagram to [04_modelDiagram](https://drive.google.com/drive/folders/1FrPthVKyzpa0CQFFHB1GUrRdyLce3J9x?usp=drive_link) and model description to [05_modelDescription](https://drive.google.com/drive/folders/11S7jmzn4N5YRBXxWf25YiQ4OP0kVjcKl?usp=drive_link) before 16:00 tomorrow._
+ 
 ### Thursday
 - 07:45-08:15 **Breakfast**
 - 08:30-08:50 Regroup after feedback ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
