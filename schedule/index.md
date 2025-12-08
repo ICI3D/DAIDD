@@ -35,7 +35,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 10:30-11:00 **Coffee**
 - 11:00 - 12:30 Simplest model + Reed Frost ([Carl]({{site.subdomainurl}}/team/pearson/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 12:30-14:00 **Lunch** 
-- 14:15-15:45 Intuitive aspects of dynamics and introduction to model worlds ([Larisse]({{site.subdomainurl}}/team/bolton/))
+- 14:00-15:45 Intuitive aspects of dynamics and introduction to model worlds ([Larisse]({{site.subdomainurl}}/team/bolton/))
 - 15:45-16:15 **Tea**
 - 16:15-16:30 Overview of research plan development and structure ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))  #RP - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 16.30-18:00 Writing exercise: Formulating research questions for modeling projects (All faculty)
