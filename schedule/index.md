@@ -63,7 +63,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 ### Wednesday
 - 07:45-08:15 **Breakfast**
 - 08:30-08:40 Tuesday recap ([Lauren]({{site.subdomainurl}}/team/brown/)) - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
-- 08:40-09:30 Faculty research presentations ([Mmamapudi]({{site.subdomainurl}}/team/kubjane/)) - [Research talks folder]()
+- 08:40-09:30 Faculty research presentation ([Mmamapudi]({{site.subdomainurl}}/team/kubjane/)) - [Research talks folder]()
 - 09:30-10:30 Modeling in practice: The life cycle of a modeling project, from conception to publication ([Zinhle]({{site.subdomainurl}}/team/mthombothi/)) - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 - 10:30-11:00 **Coffee**
 - 11:00-12:30 Small-group session: matching models to questions (All faculty) #RP
