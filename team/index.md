@@ -41,13 +41,13 @@ subtitle: DAIDD 2025 Instructional Team
 
 {% include centerTable.html %}
 
-## Faculty Observers
+## Guest Faculty
 
-{% assign workfaculty = site.team | where: "type", "observer" %}
+{% assign workfaculty = site.team | where: "type", "guest" %}
 {% for profile in workfaculty %}
 {% assign key = profile.relative_path | split: '/' | last | split: '.' | first %}
 {% assign person = site.data.team[key] %}{% assign role = profile.role %}
-{% if profile.role %}{% assign role = profile.role %}{% else %}{% assign role = "Contributing Faculty" %}{% endif %}
+{% if profile.role %}{% assign role = profile.role %}{% else %}{% assign role = "Guest Faculty" %}{% endif %}
 {% include workshopprofile.html person=person role=role %}
 {% endfor %}
 
