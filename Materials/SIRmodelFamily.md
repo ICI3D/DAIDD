@@ -5,7 +5,7 @@ tab: Schedule
 subtitle: SIR Model Family Exercise
 ---
 
-- Download a version of the spreadsheet [using this link](http://tinyurl.com/SIR-DAIDD-2018)
+- Download a version of the spreadsheet [using this link](https://docs.google.com/spreadsheets/d/1zpsjGjnMQnQuX9T-WGz2EjrCIMgC1Tv1/edit?usp=sharing&ouid=100182965499351750784&rtpof=true&sd=true)
     - Save a copy (so you have your own version)
     - Experiment with parameters
     - What happens when R0<1 and there are several initial infections? Is this equivalent to having an R0>1? Why or why not?
