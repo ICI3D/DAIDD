@@ -74,7 +74,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 16:30-18:00 Writing exercise - description of proposed model and assumptions [Larisse]({{site.subdomainurl}}/bolton/) #RP
 - 18:00-18:30 **Dinner**
 
-- 18:45-19:30 Mid-session feedback ([Faikah]({{site.subdomainurl}}/team/bruce/))
+- 18:30-19:15 Mid-session feedback ([Faikah]({{site.subdomainurl}}/team/bruce/))
 	* _Evening: Upload updated model diagram to [04_modelDiagram](https://drive.google.com/drive/folders/1FrPthVKyzpa0CQFFHB1GUrRdyLce3J9x?usp=drive_link) and model description to [05_modelDescription](https://drive.google.com/drive/folders/11S7jmzn4N5YRBXxWf25YiQ4OP0kVjcKl?usp=drive_link) before 16:00 tomorrow._
  
 ### Thursday
@@ -86,8 +86,8 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 10:30-11:00 **Coffee**
 - 11:00-12:30 Models and data: introduction to model fitting  ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 12:30-14:00 **Lunch**
-- 14:00-15:30 Model fitting tutorial: hivTutorial() ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Tutorial notes](../Materials/hivTutorial)
-	* (Tutorial wrapup by [Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
+- 14:00-15:30 Model fitting tutorial: hivTutorial() ([Reshma]({{site.subdomainurl}}/team/kassanjee/)) - [Tutorial notes](../Materials/hivTutorial)
+	* (Tutorial wrapup by [Reshma]({{site.subdomainurl}}/team/kassanjee/))
 - 15:30-16:00 **Tea**
 - 16:00-17:00 Exercise: Planning your approach #RP ([Juliet]({{site.subdomainurl}}/team/pulliam/)) - [Planning document]()
 - 17:00-18:00 Writing exercise & mentored working session (All faculty) #RP
