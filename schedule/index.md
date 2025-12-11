@@ -30,7 +30,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 17:45-18:30 **Dinner**
 - {: .shadow} test shadow schedule 1
 
-{: .shadow} test shadow schedule new line
+_test shadow schedule new line_{: .shadow}
 
 ### Monday
 - 07:45-08:15 **Breakfast**
