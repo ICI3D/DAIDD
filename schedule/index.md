@@ -82,7 +82,12 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 08:30-08:50 Regroup after feedback ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 08:50-09:00 Wednesday recap ([Lauren]({{site.subdomainurl}}/team/brown/))  - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
 - 09:00-10:30 Use of models in public health decision-making ([Juliet]({{site.subdomainurl}}/team/pulliam/))  - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
-	* Related papers: 
+	* Related papers:
+	      - [Projected early spread of COVID-19 in Africa through 1 June 2020](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.18.2000543)
+		  - [The role of modelling and analytics in South African COVID-19 planning and budgeting](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001063)
+		  - [The National COVID-19 Epi Model (NCEM): Estimating cases, admissions and deaths for the first wave of COVID-19 in South Africa](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001070)
+		  - [Increased risk of SARS-CoV-2 reinfection associated with emergence of Omicron in South Africa](https://www.science.org/doi/full/10.1126/science.abn4947)
+   		  - [Statistical power and validity of Ebola vaccine trials in Sierra Leone: a simulation study of trial design and analysis](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(15)70139-8/fulltext)
 - 10:30-11:00 **Coffee**
 - 11:00-12:30 Models and data: introduction to model fitting  ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 12:30-14:00 **Lunch**
@@ -98,7 +103,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 07:45-08:15 **Breakfast**
 - 08:30-10:00 Group hike
 - 10:30-11:00 **Coffee**
-    -  **Group Photo**;
+    -  **Group Photo**
 - 11:00-11:20 Thursday recap ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
 - 11:20-12:30 Mentored working session (All faculty) #RP
 - 12:30-14:00 **Lunch** 
