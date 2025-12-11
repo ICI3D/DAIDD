@@ -81,7 +81,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 07:45-08:15 **Breakfast**
 - 08:30-08:50 Regroup after feedback ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 08:50-09:00 Wednesday recap ([Lauren]({{site.subdomainurl}}/team/brown/))  - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
-- 09:00-10:30 Use of models in public health decision-making ([Juliet]({{site.subdomainurl}}/team/pulliam/))  - [Slides](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
+- 09:00-10:30 Use of models in public health decision-making ([Juliet]({{site.subdomainurl}}/team/pulliam/))  - [Slide folder](https://drive.google.com/drive/folders/1m1ZQuVhtaGX5Y7j54MiE1SPM3oFwGdcI?usp=drive_link)
 	* Related papers: 
 - 10:30-11:00 **Coffee**
 - 11:00-12:30 Models and data: introduction to model fitting  ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
