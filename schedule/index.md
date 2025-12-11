@@ -104,7 +104,7 @@ _test shadow schedule new line_{: .shadow}
 
 ### Friday
 - 07:45-08:15 **Breakfast**
-- 08:30-10:00 Group hike
+- 08:15-10:00 Group hike
 - 10:30-11:00 **Coffee**
     -  **Group Photo**
 - 11:00-11:20 Thursday recap ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
