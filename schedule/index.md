@@ -89,7 +89,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 14:00-15:30 Model fitting tutorial: hivTutorial() ([Reshma]({{site.subdomainurl}}/team/kassanjee/)) - [Tutorial notes](../Materials/hivTutorial)
 	* (Tutorial wrapup by [Reshma]({{site.subdomainurl}}/team/kassanjee/))
 - 15:30-16:00 **Tea**
-- 16:00-17:00 Exercise: Planning your approach #RP ([Juliet]({{site.subdomainurl}}/team/pulliam/)) - [Planning document]()
+- 16:00-17:00 Exercise: Planning your approach #RP ([Juliet]({{site.subdomainurl}}/team/pulliam/)) - [Planning document](https://drive.google.com/file/d/1B8auOUMNAaoJ4IQ1Qf4J-NsScVANKx-7/view?usp=drive_link)
 - 17:00-18:00 Writing exercise & mentored working session (All faculty) #RP
 - 18:00-18:30 **Dinner**
 	* _Evening: Upload research plan to [06_researchPlan](https://drive.google.com/drive/folders/1RjXvmS1-LUws526W7BJDtC5mShYRtk7S?usp=drive_link) before 16:00 tomorrow._
