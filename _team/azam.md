@@ -1,4 +1,4 @@
 ---
 tab: Team
-type: faculty
+type: core
 ---
