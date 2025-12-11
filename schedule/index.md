@@ -28,7 +28,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
     - _Please upload your 1-2 page research proposal to [02_researchInfo](https://drive.google.com/drive/folders/1o5os7F8I0QZGeGa3cYeaZzCWW38O-zlW?usp=drive_link)._
     	- _This is the same document you submitted with your application or an updated version._
 - 17:45-18:30 **Dinner**
-{ .shadow} test shadow schedule
+{: .shadow} test shadow schedule
 
 ### Monday
 - 07:45-08:15 **Breakfast**
