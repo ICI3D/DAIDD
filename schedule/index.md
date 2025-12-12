@@ -119,14 +119,15 @@ _test shadow schedule new line_{: .shadow}
 
 
 ### Saturday
-- 08:00-08:50 **Breakfast**	
+- 08:00-08:40 **Breakfast**	
 	- _Be sure to check out by 08:45_
+- 08:40-08:50  **Group Photo** in front of AIMS building
 - 08:50-09:00 Friday recap ([Mmamapudi]({{site.subdomainurl}}/team/kubjane/)) - [recap folder](https://drive.google.com/drive/folders/11zgOY-L6ZfkT0gQaXaYl9Gj-CBwmUN3h?usp=drive_link)
 - 09:00-10:00 Discussion of research plans/proposals (Moderator: [Lauren]({{site.subdomainurl}}/team/brown/)) #RP
 - 10:00-10:15 **Coffee**
 - 10:15-11:15 Discussion of research plans/proposals (Moderator: [Lauren]({{site.subdomainurl}}/team/brown/)) #RP
 - 11:15-11:30 **Short break**
-- 11:30-12:40 Final feedback session ([Faikah]({{site.subdomainurl}}/team/bruce/))
-- 12:40-13:00 Closing session ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
+- 11:30-12:20 Final feedback session ([Faikah]({{site.subdomainurl}}/team/bruce/))
+- 12:20-12:30 Closing session ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/))
 - 13:00-14:00 **Lunch** 
 	- _14:00 Departure from AIMS-SA_
