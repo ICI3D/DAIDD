@@ -1,12 +1,12 @@
 ---
 layout: clinic
 title: Info
-year: 2025
+year: 2026
 tab: Info
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
 alerttype: success
-alertmsg: The thirteenth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held at AIMS-SA, Muizenberg, on 07-13 December 2025. The deadline for receipt of applications is <strong>01 October</strong>.
+alertmsg: The fourteenth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held in Nairobi, Kenya, on 28 November - 05 December 2026. The deadline for receipt of applications is <strong>22 September</strong>.
 ---
 
 {% if site.takingapps == true %}
@@ -34,11 +34,11 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is ZAR 28000, which includes meals and accommodation.
+The course registration fee is to be confirmed, which includes meals and accommodation.
 
 ## Venue
 
-DAIDD 2025 will be held at AIMS-SA, Muizenberg, South Africa. 
+DAIDD 2026 will be held in Kenya, Nairobi.
 
 ## Schedule
 
@@ -87,10 +87,12 @@ In _Pacific Standard Time_:
 _Participants from other time zones are welcome, as long as they can participate fully in the scheduled interactive sessions and reserve approximately 4 hours a day for independent work._
 
 There will be a mid-session evaluation on Wednesday. -->
-**The full schedule for DAIDD {{page.year}} will follow similar structure to previous in-person DAIDD Clinics (e.g., [DAIDD 2019](../schedule/2019 "DAIDD 2019 schedule")). The schedule will be available via the Clinic website approximately 1 month before the Clinic.**
+**The full schedule for DAIDD {{page.year}} will follow similar structure to previous in-person DAIDD Clinics (e.g., [DAIDD 2015](../schedule/2025 "DAIDD 2025 schedule")). The schedule will be available via the Clinic website approximately 1 month before the Clinic.**
 
 Schedules from previous years:
 
+- [DAIDD 2025](../schedule/2025 "DAIDD 2025 schedule")
+- [DAIDD 2023](../schedule/2023 "DAIDD 2023 schedule")
 - [DAIDD 2022](../schedule/2022 "DAIDD 2022 schedule")
 - [DAIDD 2021](../schedule/2021 "DAIDD 2021 schedule")
 - [DAIDD 2020](../schedule/2020 "DAIDD 2020 schedule")
