@@ -10,7 +10,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 <div class="alert alert-warning" role="alert">
   <div class="container padding-left=0px padding-right=0px">
     <ul style="font-size:16px; margin:0px;">
-      <li>The schedule below is for 2025. A updated schedule will be available one month before the Clinic. </li>
+      <li>The schedule below is for 2025. An updated schedule will be available one month before the Clinic. </li>
       <li>Most tutorials and exercises are available through the ICI3D R package. Additional materials are linked from the <a href="../resources">Resources</a> page.</li>
     </ul>
   </div>
