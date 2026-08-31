@@ -4,15 +4,15 @@ alerttype: success
 alertmsg: >
   <ul style="font-size:16px">
     <li>Welcome to the Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)!</li>
-    <li>Information about DAIDD 2025 will be added to this site as it becomes available.</li>
-    <li>An overview is available via the <a href="./info"><b>Info</b></a> tab above, and you can <a href="./apply"><b>apply here</b></a> until 01 October 2025.</li>
+    <li>Information about DAIDD 2026 will be added to this site as it becomes available.</li>
+    <li>An overview is available via the <a href="./info"><b>Info</b></a> tab above, and you can <a href="./apply"><b>apply here</b></a> until 22 September 2026.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available via the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b> and the <b><a href="https://www.youtube.com/channel/UCtzFZwz48_JG4Owf6gQ-rUA">ICI3D YouTube Channel</a></b>.</li>
   </ul>
 ---
 
 <center>
   <p>
-    DAIDD {{ site.year }} is supported by the South African Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA).
+    DAIDD {{ site.year }} is supported by the European Union under the Global Health EDCTP3 Joint Undertaking (Grant Agreement no. 101249130).
   </p>
 </center>
 
