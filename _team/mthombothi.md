@@ -1,4 +1,4 @@
 ---
 tab: Team
-type: guest
+type: pause
 ---
