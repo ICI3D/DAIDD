@@ -1,9 +1,9 @@
 ---
 layout: clinic
 tab: Schedule
-title: DAIDD 2025
+title: DAIDD 2026
 subtitle: Clinic Schedule
-summary: December 2025, Muizenberg, South Africa
+summary: December 2026, Nairobi, Kenya
 alerttype: warning
 alertmsg: Unless otherwise noted, all materials made available through this website and the DAIDD Google Drive folder are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>. <a rel="license" href="../license.html">Click here for license details</a>.
 ---
@@ -11,7 +11,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 <div class="alert alert-warning" role="alert">
   <div class="container padding-left=0px padding-right=0px">
     <ul style="font-size:16px; margin:0px;">
-      <li>Slides are being made available via the <a href="https://drive.google.com/drive/folders/1L7ns9vhccXZGVX6ey7KLON7mqZNfKSjR?usp=drive_link">DAIDD Google Drive Shared Folder</a>. </li>
+      <li>The schedule below is for 2025. A updated schedule will be available one month before the Clinic. </li>
       <li>Most tutorials and exercises are available through the ICI3D R package. Additional materials are linked from the <a href="../resources">Resources</a> page.</li>
     </ul>
   </div>
