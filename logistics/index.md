@@ -4,9 +4,11 @@ redirect: ../development
 tab: Logistics
 title: Logistics
 subtitle: Logistical Information
+alerttype: success
+alertmsg: Logistic information for 2026 will be updated shortly.
 ---
 
-<!-- Final details for logistics will be updated in November 2025. For previous year's guidance -- which will likely be similar but not the same as this years -- see below.-->
+<!-- Final details for logistics will be updated in November 2025. For previous year's guidance -- which will likely be similar but not the same as this years -- see below.
 
 ## Arrival
 
@@ -68,3 +70,4 @@ subtitle: Logistical Information
 
 - If you are coming from abroad and bringing any electronics with you, you will need appropriate **electrical converters and plug adapters**. Phones and computers (and some digital cameras) usually come with a converter. Plug adapters can be purchased at local shops. If you would like to purchase adapters before you arrive, you can use any of the plug types described on for example [this page](http://www.power-plugs-sockets.com/south-africa/) at AIMS. We recommend purchasing grounded adapters if you have the option.
 - **SIM cards** for mobile phones (GSM only) can be purchased at the airport or local shops. South Africa has strict regulations for registration of SIM cards so you'll need to bring proof of identity (passport) and proof of address (the AIMS address and any printed letter of invitation to the workshop should suffice).
+-->
