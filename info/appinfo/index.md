@@ -5,7 +5,7 @@ subtitle: Request for Applications
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 tab: Info
 alerttype: success
-alertmsg: The thirteenth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held at AIMS-SA, Muizenberg, on 07-13 December 2025. The deadline for receipt of applications is <strong>01 October</strong>.
+alertmsg: The fourteenth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held in Nairobi, Kenya, on 28 November - 05 December 2026. The deadline for receipt of applications is <strong>22 September</strong>.
 ---
 
 {%if false%}
@@ -41,13 +41,13 @@ grounding in statistics and experience with data collection will be
 preferred. This workshop is not intended for those with substantial
 prior experience in dynamical modeling.
 
-The course registration fee is ZAR 28000, which includes meals and accommodation.
+The course registration fee is TBC, which includes meals and accommodation.
 
 The application process for the Clinic is competitive. **The deadline
-for receipt of applications is 01 October 2025 at 23:59 SAST.**
+for receipt of applications is 22 September at 23:59 SAST.**
 Incomplete applications will not be considered.
 
-**Detailed application instructions are available via [the application form](https://forms.gle/fzQpVSxkeC4e63Rz9).**
+**Detailed application instructions are available via [the application form](https://forms.gle/MzqGxCCS49uJ7G188).**
 
 {% if site.takingapps == true %}
 [Apply now »](../../apply "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
