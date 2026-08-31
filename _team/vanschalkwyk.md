@@ -1,5 +1,5 @@
 ---
 tab: Team
-role: DAIDD 2025 Director
+role: DAIDD 2026 Director
 type: director
 ---
