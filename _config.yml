@@ -2,12 +2,12 @@ absoluteurl: //www.ici3d.org
 subdomainurl: //www.ici3d.org/DAIDD
 baseurl: /DAIDD
 url: //www.ici3d.org
-title: DAIDD 2025
+title: DAIDD 2026
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
-summary: The thirteenth annual DAIDD clinic  ~  December 07–13, 2025
-year: 2025
+summary: The fourteenth annual DAIDD clinic  ~  28 November - 05 December 2026
+year: 2026
 takingapps: true
-applink: https://forms.gle/96aRa1yvL4ajqZGt5
+applink: https://forms.gle/FE8ss43oiwPdhmdw8
 markdown: kramdown
 highlighter: rouge
 includes_dir: ICI3D.github.io/_includes
