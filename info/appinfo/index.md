@@ -13,7 +13,7 @@ alertmsg: The fourteenth annual <strong>Clinic on Dynamical Approaches to Infect
 {%endif%}
 
 The International Clinics on Infectious Disease Dynamics and Data
-(ICI3D) Program invites applications to the thirteenth annual Clinic on
+(ICI3D) Program invites applications to the fourteenth annual Clinic on
 Dynamical Approaches to Infectious Disease Data (DAIDD). This 1-week
 intensive modeling clinic will provide an introduction to dynamical
 models used in the study of infectious disease dynamics. The Clinic will
@@ -41,7 +41,7 @@ grounding in statistics and experience with data collection will be
 preferred. This workshop is not intended for those with substantial
 prior experience in dynamical modeling.
 
-The course registration fee is TBC, which includes meals and accommodation.
+The course registration fee is to be confirmed, which includes meals and accommodation.
 
 The application process for the Clinic is competitive. **The deadline
 for receipt of applications is 22 September at 23:59 SAST.**
