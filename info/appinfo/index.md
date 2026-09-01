@@ -5,7 +5,7 @@ subtitle: Request for Applications
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 tab: Info
 alerttype: success
-alertmsg: The fourteenth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held in Nairobi, Kenya, on 28 November - 05 December 2026. The deadline for receipt of applications is <strong>22 September</strong>.
+alertmsg: The fourteenth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held in Nairobi, Kenya, on 29 November - 05 December 2026. The deadline for receipt of applications is <strong>22 September</strong>.
 ---
 
 {%if false%}
