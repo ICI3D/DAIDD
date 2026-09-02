@@ -41,7 +41,7 @@ grounding in statistics and experience with data collection will be
 preferred. This workshop is not intended for those with substantial
 prior experience in dynamical modeling.
 
-The course registration fee is to be confirmed, which includes meals and accommodation.
+The course registration fee is US$ 1100. The registration fee includes room and board for the duration of the Clinic, as well as course activities and materials. A small number of full and partial scholarships are available to cover the course fee. Participants are responsible for covering their own travel expenses (and visa fees, where applicable).
 
 The application process for the Clinic is competitive. **The deadline
 for receipt of applications is 22 September at 23:59 SAST.**
