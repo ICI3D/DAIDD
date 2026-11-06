@@ -9,12 +9,12 @@ subtitle: Instructions for preparation
 You should complete the following steps in preparation for the clinic before the first day of the Clinic.
 
 ### 1. Research Pitch
-- Prepare a short oral presentation summarizing your research (2 minutes max, 1 slide in PDF format)
+- Prepare a short oral presentation summarizing your research (2 minutes max, 1 slide in PDF format).
     - You may summarize recent, completed research that forms the basis for ongoing work, or you may give an overview of ongoing work or of a new project that's in development.
     - We recommend selecting 1-2 visual aids (eg, figures or diagrams) that  will help you explain key aspects of the research. Please keep the text on your slide to a minimum.
     - Do not attempt to explain all of the details of your project - stick to the essentials and keep it simple. You will be kept to time.
 
-- Prepare a more detailed description of your research
+- Prepare a more detailed description of your research.
     - We recommend using an existing description of your research, rather than creating something from scratch. For example, you could use a poster you have presented elsewhere, a project proposal you have written, or even compile abstracts from 2-3 projects you've published or presented at meetings.
     - The intent here is not for you to spend hours preparing something new to share, rather to provide an easy way for others who are interested to learn more about your research and interests.
     - Please do keep it brief (1-3 pages would be best).
@@ -22,7 +22,7 @@ You should complete the following steps in preparation for the clinic before the
 - Bring PDF versions of your slide and more detailed description with you on Sunday afternoon. We will have a session on Sunday evening where you are instructed on how to add these files to the DAIDD Participants Google Drive folder.
 
 <!-- THIS IS VIRTUAL INFORMAITON
-- Prepare a short oral presentation summarizing your research (2 minutes max, 1 slide in PDF format)
+- Prepare a short oral presentation summarizing your research (2 minutes max, 1 slide in PDF format).
     - You may summarize recent, completed research that forms the basis for ongoing work, or you may give an overview of ongoing work or of a new project that's in development.
     - We recommend selecting 1-2 visual aids (eg, figures or diagrams) that  will help you explain key aspects of the research. Please keep the text on your slide to a minimum.
     - Do not attempt to explain all of the details of your project - stick to the essentials and keep it simple. You will be kept to time.
@@ -38,7 +38,7 @@ You should complete the following steps in preparation for the clinic before the
 
 ### 2. Pre-assigned reading
 
-All of the pre-assigned readings are available in the DAIDD Participant Team under [DAIDD 2025 Participants/Pre-assigned Readings](https://drive.google.com/drive/folders/1PMAE9gfkx0Es3EtIeFsKtopSNG9MsjT6?usp=drive_link) (participants only)
+All of the pre-assigned readings are available in the DAIDD Participant Team under [DAIDD 2026 Participants/Pre-assigned Readings](https://drive.google.com/drive/folders/12wHIxWzmx3G6mPC9pYfHAe_WmVL1Yikq?usp=drive_link) (participants only).
 
 #### Required reading
 
@@ -96,6 +96,6 @@ Please let us know if you have trouble installing any of the above software!
 
 ### 4. Introductory tutorials
 
-- When you have successfully installed both R and R Studio, please work through the [R Studio Introductory Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_0.R) to familiarize yourself with the user interface prior to the Clinic.
+- When you have successfully installed both R and R Studio, please work through the [R Studio Introductory Tutorial]({{site.url}}/RTutorials/ICI3D_RTutorial_0.R){:download="ICI3D_RTutorial_0.R"} to familiarize yourself with the user interface prior to the Clinic.
 - If you are unfamiliar with or rusty on your understanding of the [Binomial Distribution](http://en.wikipedia.org/wiki/Binomial_distribution), you may also want to work through the [introductory Binomial Distribution tutorial](https://github.com/ICI3D/RTutorials/blob/master/binomialDistribution.R?raw=true). You will be glad you did!
 - **Note:** You do not need to be a proficient R programmer in order to get the most out of DAIDD. Completing the above introductory materials should be sufficient. If you would like to learn more about programming in R, we have included some helpful resources on [this page](../resources), but we recommend you wait until after the Clinic to develop these skills further.
