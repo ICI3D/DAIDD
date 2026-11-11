@@ -59,7 +59,7 @@ subtitle: DAIDD 2026 Instructional Team
 {% for profile in evaluators %}
 {% assign key = profile.relative_path | split: '/' | last | split: '.' | first %}
 {% assign person = site.data.team[key] %}{% assign role = profile.role %}
-{% if profile.role %}{% assign role = profile.role %}{% else %}{% assign role = "Evaluator" %}{% endif %}
+{% if profile.role %}{% assign role = profile.role %}{% else %}{% assign role = "Program Manager and Evaluator" %}{% endif %}
 {% include workshopprofile.html person=person role=role %}
 {% endfor %}
 
