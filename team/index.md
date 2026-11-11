@@ -41,7 +41,7 @@ subtitle: DAIDD 2026 Instructional Team
 
 {% include centerTable.html %}
 
-## Guest Faculty
+<!--## Guest Faculty
 
 {% assign workfaculty = site.team | where: "type", "guest" %}
 {% for profile in workfaculty %}
@@ -51,7 +51,7 @@ subtitle: DAIDD 2026 Instructional Team
 {% include workshopprofile.html person=person role=role %}
 {% endfor %}
 
-{% include centerTable.html %}
+{% include centerTable.html %}-->
 
 ## Evaluator
 
