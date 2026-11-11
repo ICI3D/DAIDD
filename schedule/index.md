@@ -19,7 +19,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 14:00 Check-in available for all participants
 - 16:00-16:30 Welcome and registration ☺ (at the hotel venue seminar room - location TBD)
 - 16:30-17:00 What are we doing here? ([Cari]({{site.subdomainurl}}/team/vanschalkwyk/)) - [Shared folder](https://drive.google.com/drive/folders/18JSV88F-HMlBS93hGQo1U0BdNDxwBWAu?usp=drive_link)
-- 17:00-17:30 Data, models and science ([Carl]({{site.subdomainurl}}/team/pearson/))
+- 17:00-17:30 Data, models and science ([Carl]({{site.subdomainurl}}/team/pearson/)) - [Shared folder](https://drive.google.com/drive/folders/18JSV88F-HMlBS93hGQo1U0BdNDxwBWAu?usp=drive_link)
 - 17:30-17:45 Working with the DAIDD Google Drive and RStudio ([Carl]({{site.subdomainurl}}/team/pearson/))
     - _Make sure your slides are uploaded for tomorrow's morning session ([Instructions](https://www.ici3d.org/DAIDD/preparation/)) - [01_pitchSlides](https://drive.google.com/drive/folders/1hOp51zoPqLz0gA39bo_3AuLZSMPpbuRG?usp=drive_link)!_
     - _Please upload your 1-2 page research proposal to [02_researchInfo](https://drive.google.com/drive/folders/1JW4MA3jOX4_ItpfX7QUatxUc2UARygqX?usp=drive_link)._
