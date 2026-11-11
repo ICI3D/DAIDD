@@ -10,7 +10,6 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 <div class="alert alert-warning" role="alert">
   <div class="container padding-left=0px padding-right=0px">
     <ul style="font-size:16px; margin:0px;">
-      <li>The schedule below is for 2025. An updated schedule will be available one month before the Clinic. </li>
       <li>Most tutorials and exercises are available through the ICI3D R package. Additional materials are linked from the <a href="../resources">Resources</a> page.</li>
     </ul>
   </div>
@@ -43,7 +42,7 @@ _test shadow schedule new line_{: .shadow}
 	* _Evening: Draft research questions. Upload to [03_researchQuestion](https://drive.google.com/drive/folders/1fvlzGK4GdO2go3AtkYKGYEgs-Olbqshi?usp=drive_link) before 10:45 tomorrow._
 
 ### Tuesday
-- 08:30-08:45 Monday recap ([Njoki]({{site.subdomainurl}}/team/kimani/)) - [recap folder](https://drive.google.com/drive/folders/1YnSBq3WSecNDq-v4Bgf_MAYGGzgMDteW?usp=drive_link)
+- 08:30-08:45 Monday recap ([Carl]({{site.subdomainurl}}/team/pearson/)) - [recap folder](https://drive.google.com/drive/folders/1YnSBq3WSecNDq-v4Bgf_MAYGGzgMDteW?usp=drive_link)
 - 08:45-10:15 The SIR model family - conceptual framework and introduction to difference and differential equations ([Mutono]({{site.subdomainurl}}/team/nyamai/)) - [Shared folder](https://drive.google.com/drive/folders/18JSV88F-HMlBS93hGQo1U0BdNDxwBWAu?usp=drive_link), [Exercise](../Materials/SIRmodelFamily)
 	* Excel spreadsheet in [Code folder]()
 - 10:15-10:45 **Coffee**
