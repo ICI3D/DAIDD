@@ -39,18 +39,6 @@ subtitle: DAIDD 2026 Instructional Team
 {% endif %}
 {% endfor %}
 
-<!-- {% include centerTable.html %}
-
-## Guest Faculty
-
-{% assign workfaculty = site.team | where: "type", "guest" %}
-{% for profile in workfaculty %}
-{% assign key = profile.relative_path | split: '/' | last | split: '.' | first %}
-{% assign person = site.data.team[key] %}{% assign role = profile.role %}
-{% if profile.role %}{% assign role = profile.role %}{% else %}{% assign role = "Guest Faculty" %}{% endif %}
-{% include workshopprofile.html person=person role=role %}
-{% endfor %} -->
-
 {% include centerTable.html %}
 
 ## Evaluator
