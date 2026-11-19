@@ -5,69 +5,66 @@ tab: Logistics
 title: Logistics
 subtitle: Logistical Information
 alerttype: success
-alertmsg: Logistic information for 2026 will be updated shortly.
+alertmsg: Logistic information for DAIDD 2026 has been updated.
 ---
 
 <!-- Final details for logistics will be updated in November 2025. For previous year's guidance -- which will likely be similar but not the same as this years -- see below.
-
+-->
 ## Arrival
 
 ### For everyone
-- {: .shadow} Please review this [important information for visitors to AIMS and South Africa](./ImportantInfoAIMS.pdf) prior to arrival.
-- External participants will be staying in the Empire Building, across the street from AIMS.
-- Check back here for final accommodation guidelines. **Please review the [accommodation guidelines](./accommodationGuidelines) prior to arrival.**{: .shadow}
+- {: .shadow} Please review this [important information for visitors to Nairobi, Kenya](./ImportantInfoKenya.pdf) prior to arrival.
+- All participants will be staying in the [Nairobi Safari Club Hotel](https://maps.app.goo.gl/BFbVnRu8BNTvWi7c7).
 - {: .shadow} Please complete the [Emergency Contact](./emergencyContact) and [Photo Release](./photoRelease) forms and send completed copies to <forms@ici3d.org> by the end of the day on Monday.
 
 #### For those arriving by air
 
-- We will be providing more details about final ground transport schedule, meeting points, and contact information in the event of mishaps 
-- {: .shadow } Due to the number of arrivals, we have arranged an airport shuttle schedule, and participants arriving at times close to each other will have been put into groups for collection. **If you are arriving on a domestic flight (eg, from Johannesburg), please make your way to the waiting area outside of ABSA Bank, Central Terminal. If you are arriving on an international flight, please wait within the International arrivals terminal. In both cases, you will be met by an AIMS representative, who will be carrying an AIMS sign. Please check the [arrivals and shuttle schedule](./airportTransfers) to find out your shuttle time.**
-- {: .shadow } Please note that the shuttle will only operate at the specified times. You may choose to take a private shuttle/taxi from the airport, but you will not be reimbursed for this expense.
-- {: .shadow } If you have any trouble meeting up with the group (eg, due to a delayed flight), please call AIMS -- from within South Africa, dial 021 787 9262 (calling from abroad, you will need to dial the international dialing code + 27 21 787 9262). This number is for the AIMS office, which is open on Sunday afternoon (12:00-18:00) and during business hours on Monday through Friday (8:30-16:30). If you can’t get through on this number, you can try one of the mobile numbers provided in Weekly Message \#4 to report flight delays or arrival problems. You can also email <arrival@ici3d.org> at any time to communicate about your arrival details.
+- The organising team has arranged airport transfers for all participants, both upon arrival in Nairobi and for your return journey. Upon arrival: A driver will be waiting for you at the airport terminal, holding a placard bearing your name for easy identification. Participants arriving at similar times may be grouped together for the 
+transfer to the hotel. 
+- Upon departure: Your driver will be at the hotel approximately 3.5 hours before your scheduled flight departure. Participants with flights departing at similar times may be grouped together for the airport transfer. 
+- We will be providing more details about final ground transport schedule, meeting points, and contact information in the event of mishaps. 
 - Please note that the shuttle will only operate at the specified times. You may choose to take a private shuttle/taxi from the airport, but you will not be reimbursed for this expense.
-- If you have any trouble meeting up with the group (eg, due to a delayed flight), please contact **Faikah Bruce** (+27 83 360 3257). You can also email <arrival@ici3d.org> at any time to communicate about your arrival details.
+- If you have any trouble meeting up with the group (eg, due to a delayed flight), please contact **Purity Wambui** (+254713154710/ purity.wambui@cema.africa) or **Waithera Mwangi** (+254710669684/ waithera.mwangi@cema.africa).
 
 #### For those arriving by ground
 
-- **All participants without a scheduled airport transfer should plan to arrive between 12:00 and 15:00 (South African local time) on Sunday (07 December), if possible**.
-- When you arrive, please proceed to the AIMS lobby. You will be able to park it in the lot at the Empire Building after checking in.
+- **All participants without a scheduled airport transfer should plan to arrive between 12:00 and 15:00 (Kenyan local time) on Sunday (29 November), if possible**.
+- When you arrive, please proceed to the [hotel](https://maps.app.goo.gl/BFbVnRu8BNTvWi7c7) lobby. You will be able to park it in the lot at the hotel after checking in.
 
 
 ## Welcome and Registration
 
-- If you arrive between 12:00 and 15:00 on Sunday, you are welcome to come by the AIMS lobby to meet some of the MMED mentors and AIMS students and staff. One or more volunteers will be available in the lobby to answer any questions you may have during this time.
+- If you arrive between 12:00 and 15:00 on Sunday, you are welcome to come by the lobby to meet some of the DAIDD mentors and CEMA staff. One or more volunteers will be available in the lobby to answer any questions you may have during this time.
 - You must register to receive your welcome packet and name tag.
-- **Registration**: Please come to the AIMS lobby for registration _between 16:00 and 16:30 on Sunday (07 December)_.
-- The first session of the Clinic will start promptly at 16:30 on Sunday in the Fritz Hahn lecture room (see [schedule](../schedule)).
+- **Registration**: Please come to the hotel lobby for registration _between 16:00 and 16:30 on Sunday (29 November)_.
+- The first session of the Clinic will start promptly at 16:30 on Sunday at the hotel (see [schedule](../schedule)).
 
 ## Ground rules
 
 - All DAIDD participants are expected to engage fully in the DAIDD program. This includes attending all DAIDD sessions (other than those designated as optional).
 - You will be frequently using your laptops, but we will typically ask you to close them for certain activities: including most all seminar and discussion activities. This will help you and the other participants focus on the material at hand. This rule also applies to other electronic devices, such as phones. We allow note taking on tablets, provided you are not abusing that allowance to pursue other activities.
 - Please be aware that participants come from a wide variety of backgrounds and cultures. This diversity adds greatly to the DAIDD experience, and all participants should strive to create a welcoming, respectful learning environment.
-- All DAIDD participants should follow the [AIMS house rules](./AIMS_house_rules.pdf). Because all DAIDD participants are guests of AIMS and their behavior reflects on the institution, these rules apply both at AIMS and around Muizenberg.
 
-## Muizenberg
+## Nairobi, Kenya
 
-- The DAIDD Clinic is hosted by the African Institute for Mathematical Sciences ([AIMS](http://www.aims.ac.za/)), which is located in the lovely beach town of Muizenberg, near Cape Town. The street address is
-
-        6 Melrose Road
-        Muizenberg 7945
-        South Africa
-- [Weather](http://www.accuweather.com/en-us/za/western-cape/muizenberg/quick-look.aspx)
-- [Map][map]
+- The DAIDD Clinic is hosted by the Center for Epidemiological Modelling and Analysis ([CEMA](https://cema-africa.uonbi.ac.ke/)) at the University of Nairobi. 
 
 ## Facilities
+- We are delighted to host you at the Nairobi Safari Club Hotel, which will serve as your accommodation. Your stay will be on a full-board basis, with lunch and refreshments provided during the workshop sessions.
+- Training will take place at the [University of Nairobi Towers Building](https://share.google/k05KgWe2mZNeuWeRE), located within the University of Nairobi's Main Campus.
+- The venue is conveniently situated, approximately a 5-minute walk from the Nairobi Safari Club Hotel.
 
-- **Meals** are provided in the AIMS dining hall.
-    * *Breakfast* is served from 07h45-08h15 (08h00-09h00 on weekends).
-    * *Lunch* is served from 13h00-13h30.  
-    * *Dinner* is served from 18h00-18h30.
 
-- **Wireless internet access** is available throughout the main AIMS facility. To connect to the network with your personal computer, you will need to register your computer on the AIMS network. Instructions are available [here](./AIMS_IT.pdf). Wi-fi will also be available in the Empire Building.
+- [**Weather**](https://www.accuweather.com/en/ke/nairobi/224758/weather-forecast/224758)
+- Late November to early December falls within Nairobi’s short rains season. The weather is generally mild, with daytime temperatures typically ranging from 24–26°C and cooler mornings and evenings around 14–16°C. Rain showers are possible, particularly in the afternoons and evenings, although conditions can vary from day to day. We recommend packing light clothing, a warm layer for cooler mornings and evenings, comfortable walking shoes and a small umbrella or light rain jacket. You may also wish to check the weather forecast closer to your departure date.
+
+- **Wireless internet access** is available at the airport, hotel, the training venue and most restaurants. However, for broader connectivity and access to M-PESA
+(mobile money services), we recommend purchasing a local SIM card. [Safaricom](https://www.safaricom.co.ke/customer-service/retail-shops) is recommended for its extensive network coverage and access to M-PESA (mobile money services).
 
 ## Things to bring or buy
 
-- If you are coming from abroad and bringing any electronics with you, you will need appropriate **electrical converters and plug adapters**. Phones and computers (and some digital cameras) usually come with a converter. Plug adapters can be purchased at local shops. If you would like to purchase adapters before you arrive, you can use any of the plug types described on for example [this page](http://www.power-plugs-sockets.com/south-africa/) at AIMS. We recommend purchasing grounded adapters if you have the option.
-- **SIM cards** for mobile phones (GSM only) can be purchased at the airport or local shops. South Africa has strict regulations for registration of SIM cards so you'll need to bring proof of identity (passport) and proof of address (the AIMS address and any printed letter of invitation to the workshop should suffice).
--->
+- If you are coming from abroad and bringing any electronics with you, you will need appropriate **electrical converters and plug adapters**. Phones and computers (and some digital cameras) usually come with a converter.
+- You are advised to bring an adapter or plan to purchase one while here, for device compatibility. It is a 3 pin plugs (type G).
+
+- **SIM cards** can be purchased at the airport upon arrival or at authorised [Safaricom](https://www.safaricom.co.ke/customer-service/retail-shops) outlets in the Nairobi CBD, including I&M Tower, Moi Avenue and Kimathi Street. Please carry a copy of your passport for SIM card registration. Afterwards, we recommend keeping a digital copy of your passport for other transactions or identification purposes and storing your original passport safely.
+
