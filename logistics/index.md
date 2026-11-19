@@ -13,7 +13,7 @@ alertmsg: Logistic information for DAIDD 2026 has been updated.
 ## Arrival
 
 ### For everyone
-- {: .shadow} Please review this [important information for visitors to Nairobi, Kenya](./ImportantInfoKenya.pdf) prior to arrival.
+- Please review this [important information for visitors to Nairobi, Kenya](./ImportantInfoKenya.pdf) prior to arrival.
 - All participants will be staying in the [Nairobi Safari Club Hotel](https://maps.app.goo.gl/BFbVnRu8BNTvWi7c7).
 - {: .shadow} Please complete the [Emergency Contact](./emergencyContact) and [Photo Release](./photoRelease) forms and send completed copies to <forms@ici3d.org> by the end of the day on Monday.
 
@@ -49,22 +49,25 @@ transfer to the hotel.
 
 - The DAIDD Clinic is hosted by the Center for Epidemiological Modelling and Analysis ([CEMA](https://cema-africa.uonbi.ac.ke/)) at the University of Nairobi. 
 
-## Facilities
+### Facilities
 - We are delighted to host you at the Nairobi Safari Club Hotel, which will serve as your accommodation. Your stay will be on a full-board basis, with lunch and refreshments provided during the workshop sessions.
 - Training will take place at the [University of Nairobi Towers Building](https://share.google/k05KgWe2mZNeuWeRE), located within the University of Nairobi's Main Campus.
 - The venue is conveniently situated, approximately a 5-minute walk from the Nairobi Safari Club Hotel.
 
 
-- [**Weather**](https://www.accuweather.com/en/ke/nairobi/224758/weather-forecast/224758)
+### [Weather](https://www.accuweather.com/en/ke/nairobi/224758/weather-forecast/224758)
 - Late November to early December falls within Nairobi’s short rains season. The weather is generally mild, with daytime temperatures typically ranging from 24–26°C and cooler mornings and evenings around 14–16°C. Rain showers are possible, particularly in the afternoons and evenings, although conditions can vary from day to day. We recommend packing light clothing, a warm layer for cooler mornings and evenings, comfortable walking shoes and a small umbrella or light rain jacket. You may also wish to check the weather forecast closer to your departure date.
 
-- **Wireless internet access** is available at the airport, hotel, the training venue and most restaurants. However, for broader connectivity and access to M-PESA
-(mobile money services), we recommend purchasing a local SIM card. [Safaricom](https://www.safaricom.co.ke/customer-service/retail-shops) is recommended for its extensive network coverage and access to M-PESA (mobile money services).
+### Wireless internet acces
+- Wireless internet is available at the airport, hotel, the training venue and most restaurants. However, for broader connectivity and access to M-PESA (mobile money services), we recommend purchasing a local SIM card.
+- [Safaricom](https://www.safaricom.co.ke/customer-service/retail-shops) is recommended for its extensive network coverage and access to M-PESA (mobile money services).
 
 ## Things to bring or buy
 
-- If you are coming from abroad and bringing any electronics with you, you will need appropriate **electrical converters and plug adapters**. Phones and computers (and some digital cameras) usually come with a converter.
+### Electrical converters and plug adapters
+- If you are coming from abroad and bringing any electronics with you, you will need appropriate electrical converters and plug adapters. Phones and computers (and some digital cameras) usually come with a converter.
 - You are advised to bring an adapter or plan to purchase one while here, for device compatibility. It is a 3 pin plugs (type G).
 
-- **SIM cards** can be purchased at the airport upon arrival or at authorised [Safaricom](https://www.safaricom.co.ke/customer-service/retail-shops) outlets in the Nairobi CBD, including I&M Tower, Moi Avenue and Kimathi Street. Please carry a copy of your passport for SIM card registration. Afterwards, we recommend keeping a digital copy of your passport for other transactions or identification purposes and storing your original passport safely.
+### SIM cards
+- SIM cards can be purchased at the airport upon arrival or at authorised [Safaricom](https://www.safaricom.co.ke/customer-service/retail-shops) outlets in the Nairobi CBD, including I&M Tower, Moi Avenue and Kimathi Street. Please carry a copy of your passport for SIM card registration. Afterwards, we recommend keeping a digital copy of your passport for other transactions or identification purposes and storing your original passport safely.
 
