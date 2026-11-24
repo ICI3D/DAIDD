@@ -37,7 +37,7 @@ _test shadow schedule new line_{: .shadow}
 - 14:00-15:45 Intuitive aspects of dynamics and introduction to model worlds ([Reshma]({{site.subdomainurl}}/team/kassanjee/)) - [Shared folder](https://drive.google.com/drive/folders/18JSV88F-HMlBS93hGQo1U0BdNDxwBWAu?usp=drive_link)
 - 15:45-16:15 **Tea**
 - 16:15-16:30 Overview of research plan development and structure ([Thumbi]({{site.subdomainurl}}/team/mwangi/))  #RP - [Shared folder](https://drive.google.com/drive/folders/18JSV88F-HMlBS93hGQo1U0BdNDxwBWAu?usp=drive_link)
-- 16.30-18:00 Writing exercise: Formulating research questions for modeling projects #RP (([Thumbi]({{site.subdomainurl}}/team/mwangi/)), All faculty)
+- 16.30-18:00 Writing exercise: Formulating research questions for modeling projects #RP ([Thumbi]({{site.subdomainurl}}/team/mwangi/), All faculty)
 - 18:00 **Dinner**
 	* _Evening: Draft research questions. Upload to [03_researchQuestion](https://drive.google.com/drive/folders/1fvlzGK4GdO2go3AtkYKGYEgs-Olbqshi?usp=drive_link) before 10:45 tomorrow._
 
