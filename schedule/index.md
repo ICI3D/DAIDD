@@ -86,7 +86,7 @@ _test shadow schedule new line_{: .shadow}
 - 14:00-15:30 Model fitting tutorial: hivTutorial() ([Reshma]({{site.subdomainurl}}/team/kassanjee/)) - [Tutorial notes](../Materials/hivTutorial)
 	* (Tutorial wrapup by [Reshma]({{site.subdomainurl}}/team/kassanjee/))
 - 15:30-16:00 **Tea**
-- 16:00-17:00 Exercise: Planning your approach #RP ([Thumbi]({{site.subdomainurl}}/team/mwangi/)) - [Planning document]()
+- 16:00-17:00 Exercise: Planning your approach #RP ([Mutono]({{site.subdomainurl}}/team/nyamai/)) - [Planning document]()
 - 17:00-18:00 Writing exercise & mentored working session (All faculty) #RP
 - 18:00-18:30 **Dinner**
 	* _Evening: Upload research plan to [06_researchPlan](https://drive.google.com/drive/folders/1LmNHIB-wkaxuMEHTO1GGX6InLO9a7pEp?usp=drive_link) before 11:00 tomorrow._
